@@ -1,0 +1,688 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 129,
+                        "y1": 1997,
+                        "x2": 1440,
+                        "y2": 2121
+                    },
+                    "text": "201 Report by Ludovica Gambaro, Annica Gehlen, C. Katharina SpieB,\nKatharina Wrohlich, and Elena Ziege"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 139,
+                        "y1": 2113,
+                        "x2": 1527,
+                        "y2": 2325
+                    },
+                    "text": "Division of paid and care work between parents:\nReality often differs greatly from"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 185,
+                        "y1": 2333,
+                        "x2": 1505,
+                        "y2": 2757
+                    },
+                    "text": "Attitudes toward the ideal division of paid work between parents\nmore egalitarian than in reality\n\nReasons for this discrepancy are the tax system, insufficient\nchildcare infrastructure, and the gender pay gap\n\nIncentives for a more equal division of paid and care work are\nneeded",
+                    "summarized_text": "Incentives such as tax breaks for equal sharing of parental leave, increased funding for childcare services, and closing the gender pay gap are necessary to encourage a more equal division of paid work between parents. These measures can help create a more balanced and fair distribution of work and caregiving responsibilities within families."
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "blocks": []
+        },
+        {
+            "page_number": 3,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 156,
+                        "y1": 527,
+                        "x2": 2247,
+                        "y2": 893
+                    },
+                    "text": "Division of paid and care work between parents:\nReality often differs greatly from the ideals\n\nBy Ludovica Gambaro, Annica Gehlen, C. Katharina SpieB, Katharina Wrohlich, and Elena Ziege"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 216,
+                        "y1": 905,
+                        "x2": 2341,
+                        "y2": 1640
+                    },
+                    "text": "Mothers and fathers in Germany still have a very unequal division of paid and care work\n\nAnalysis of FReDA data shows that attitudes toward the ideal division of paid work between\ncouples with children under 12 are more egalitarian than couples’ actual behaviors\n\nOne reason for this discrepancy is the German tax and transfer system, in particular the interplay\nof Ehegattensplitting and mini-jobs\n\nInsufficient childcare infrastructure and a high gender pay gap also create incentives for the one-\nand-a-half-earner model and the male breadwinner model\n\nTo make an equal division of paid and care work more attractive for couples, the tax and transfer\nsystem needs to be modernized and daycare offers expanded",
+                    "summarized_text": "In Germany, mothers and fathers still have a very unequal division of paid and care work, influenced by factors such as the tax system and lack of childcare infrastructure. To promote more equality, modernizing the tax and transfer system and expanding daycare offerings are necessary steps."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 185,
+                        "y1": 1876,
+                        "x2": 1732,
+                        "y2": 1964
+                    },
+                    "text": "The division of paid and care work: a large gap between ideals and actual behavior"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 209,
+                        "y1": 1980,
+                        "x2": 967,
+                        "y2": 2549
+                    },
+                    "data": {
+                        "Actual employment combination": {
+                            "West": {
+                                "One-and-a-half-earner model": "63%",
+                                "Dual earner/dual carer model": "3%"
+                            },
+                            "East": {
+                                "One-and-a-half-earner model": "38%",
+                                "Dual earner/dual carer model": "3%"
+                            }
+                        }
+                    }
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 1522,
+                        "y1": 1972,
+                        "x2": 2338,
+                        "y2": 2615
+                    },
+                    "data": {
+                        "Ideal employment combination": {
+                            "West": {
+                                "One-and-a-half-earner model": "42%",
+                                "Dual earner/dual carer model": "18%"
+                            },
+                            "East": {
+                                "One-and-a-half-earner model": "21%",
+                                "Dual earner/dual carer model": "15%"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 142,
+                        "y1": 560,
+                        "x2": 2280,
+                        "y2": 1025
+                    },
+                    "text": "Division of paid and care work between\nparents: Reality often differs greatly from\nthe ideals"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 153,
+                        "y1": 1204,
+                        "x2": 448,
+                        "y2": 1320
+                    },
+                    "text": "ABSTRACT"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 153,
+                        "y1": 1337,
+                        "x2": 1279,
+                        "y2": 2454
+                    },
+                    "text": "On average, mothers and fathers in Germany divide paid work\nand care work very unequally. Mothers often only work part\ntime, which results in further gender inequalities in the labor\nmarket. A current analysis of data from the German Family\nDemography Panel Study (FReDA) shows that the popula-\ntion's attitudes toward the ideal division of work between\ncouples with children under 12 are considerably more egalitar-\nian than the actual behavior of couples with young children of\ndifferent ages. This discrepancy is due in part to the financial\nincentives of the German tax and transfer system for married\ncouples, which arise from the interplay between income split-\nting (Ehegattensplitting) and the tax treatment of mini-jobs. In\naddition, childcare infrastructure is insufficient and a very high\ngender pay gap persists in Germany. If policymakers want to\ndismantle inequalities in the labor market, the tax and transfer\nsystem must be modernized and childcare options expanded\nto make a more equal division of paid work and care work\n\nbetween parents more appealing.",
+                    "summarized_text": "Mothers and fathers in Germany have unequal divisions of paid work and care work, leading to gender inequalities in the labor market. Despite more egalitarian attitudes, financial incentives, insufficient childcare infrastructure, and a high gender pay gap hinder a more equal distribution of work between parents, requiring policy changes for modernization."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1339,
+                        "y1": 1187,
+                        "x2": 2342,
+                        "y2": 2611
+                    },
+                    "text": "In recent years, labor market gender inequalities have increas-\ningly become the focus of public attention and thus also of\npolicy discussions. At the same time, there are few meas-\nurable advances in tackling these inequalities in Germany.\nFor example, the gender pay gap has remained at 18 per-\ncent' for many years and is very high in a European compari-\nson.’ Empirical labor market research shows that parenthood\nexacerbates labor market gender inequalities considerably.\nCountless studies on what is known as the “child penalty”\nhave shown that the gender differences in gross hourly wages\nand hours worked— and thus gross yearly wages— increase\nconsiderably following the birth of a couple’s first child and\nremain relatively constant at an older age.’\n\nA major reason for the increase in labor market gender ine-\nqualities is due to paid work and care work: Following the\nbirth of a couple’s first child, the couple divides paid and care\nwork less equally. For example, there are major differences\nbetween mothers and fathers when it comes to parental leave.\nAlthough the share of fathers taking parental leave has risen\nconsiderably over the past 15 years, not least in thanks to the\nintroduction of parental benefits (Elterngeld) in 2007, the major-\nity still do not take parental leave. Fathers who do take paren-\ntal leave take it for significantly shorter periods than mothers.*\nFollowing parental leave, mothers primarily work part time\nwhen they reenter the labor market, even if they had worked\nfull time previously. This is almost never the case for fathers.’",
+                    "summarized_text": "Gender pay gap in Germany has remained at 18%, with parenthood exacerbating labor market gender inequalities. Mothers primarily work part time after reentering the labor market, while fathers still do not take parental leave or take it for shorter periods."
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 151,
+                        "y1": 365,
+                        "x2": 1134,
+                        "y2": 585
+                    },
+                    "text": "Majority of couples with children in western\nGermany live according to the one-and-a-half-\nearner model"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 163,
+                        "y1": 606,
+                        "x2": 1145,
+                        "y2": 2433
+                    },
+                    "text": "In western Germany, the one-and-a-half-earner model, in\nwhich the father is employed full time and the mother is\nemployed part time or marginally, is the most common\npattern of labor market behavior of couples with children.\nMore than 60 percent of all western German couples whose\nyoungest child is of preschool (three to five years old) or\nprimary-school age (six to ten years old) divide paid work\naccording to this model (Figure 1), as do nearly fifty per-\ncent of couples whose youngest child is younger than three.\nHowever, among couples with children in this age group,\nover 20 percent follow the male breadwinner model, in\nwhich the father is employed full time and the mother\ndoes not work at all. In contrast, couples with older chil-\ndren are significantly less likely to opt for the male bread-\nwinner model at around only ten percent. These figures\nare based on data from the German Family Demography\nPanel Study (FReDA), which is representative of the pop-\nulation in Germany aged 18 to 50 (Box 1).\n\nAround 12 to 16 percent of all western German couples with\nchildren are, depending on the age of the youngest child,\nboth employed full time. Parents choose the adult worker\nmodel, in which both parents work full time, considerably\nmore often than the dual earner/dual carer model, in which\nboth parents work part time with around 30 hours a week\neach: Only three to five percent of all couples in western\nGermany follow this model.\n\nIn eastern Germany the dual earner/dual carer model is\nalso not very widespread. There, both parents work full time\nmuch more frequently than in the west: More than 40 per-\ncent of couples whose youngest child is three or older fol-\nlow the adult worker model, more than twice the number of\ncouples in western Germany. However, for couples whose\nyoungest child is youngest than three, the one-and-a-half\nearner model is most widespread in both the east and west.",
+                    "summarized_text": "In western Germany, the one-and-a-half-earner model is the most common pattern of labor market behavior for couples with children, with over 60 percent following this model. In contrast, in eastern Germany, the adult worker model, where both parents work full time, is more prevalent."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 166,
+                        "y1": 2437,
+                        "x2": 1150,
+                        "y2": 2591
+                    },
+                    "text": "Population attitudes toward the division of paid\nand care work are more egalitarian than reality"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 161,
+                        "y1": 2620,
+                        "x2": 1155,
+                        "y2": 3184
+                    },
+                    "text": "Current surveys indicate that the one-and-a-half-earner\nmodel and the associated unequal division of paid work and\ncare work between mothers and fathers is not viewed as ideal\nby a significant share of young families. For example, the\nGerman Federal Government’s 2023 Report on Fathers cites\nsurvey results according to which around half of all fathers\nstate that fathers and mothers should ideally each take on\nhalf of childcare duties. However, this is only actually the\ncase in 21 percent of families. The same survey determined\nthat more than 40 percent of the fathers surveyed would like\nto take on a larger share of childcare than they actually do.°",
+                    "summarized_text": "Current surveys show that many young families do not view the unequal division of paid work and care work between mothers and fathers as ideal. Around half of fathers believe childcare duties should be shared equally, but in reality, only 21 percent of families do so. Additionally, over 40 percent of fathers express a desire to take on more childcare responsibilities than they currently do."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1170,
+                        "y1": 2329,
+                        "x2": 2167,
+                        "y2": 3176
+                    },
+                    "text": "Using the FReDA data, we can analyze in more detail how\nmany hours of parental employment, depending on the age\nof the youngest child, the population theoretically believes is\nideal. All FReDA participants are asked, regardless of whether\nor not they have children, about their attitude toward this topic.\nParticipants are surveyed about a hypothetical couple whose\nyoungest child in the household is two, four, or eight years old.’\nThese attitudes reflect the average social norms that parents\nface when deciding on the division of paid work and care work.\n\nAnalyzing data from 2021 reveals that the one-and-a-half-\nearner model is most frequently viewed as the ideal division\nof labor between parents. More than 40 percent of respond-\nents in western Germany think that the one-and-a-half-earner\nmodel is the ideal division of paid work for couples with",
+                    "summarized_text": "Using data from the FReDA survey, it is evident that the one-and-a-half-earner model is the preferred division of labor for parents in western Germany, with over 40% of respondents viewing it as ideal. This reflects social norms and attitudes towards balancing paid work and care responsibilities based on the age of the youngest child in the household."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1189,
+                        "y1": 407,
+                        "x2": 2381,
+                        "y2": 639
+                    },
+                    "text": "Figure 1\n\nActual employment arrangements of parents with children in\nGermany\nIn percent"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 1199,
+                        "y1": 648,
+                        "x2": 2389,
+                        "y2": 1843
+                    },
+                    "data": {
+                        "Western Germany": {
+                            "Male breadwinner model": {
+                                "Toddler (1 to 2 years old)": 0,
+                                "Preschool age (3 to 5 years old)": 10,
+                                "Primary school age (6 to 10 years old)": 20
+                            },
+                            "One-and-a-half-earner model": {
+                                "Toddler (1 to 2 years old)": 50,
+                                "Preschool age (3 to 5 years old)": 60,
+                                "Primary school age (6 to 10 years old)": 70
+                            },
+                            "Adult worker model": {
+                                "Toddler (1 to 2 years old)": 10,
+                                "Preschool age (3 to 5 years old)": 20,
+                                "Primary school age (6 to 10 years old)": 30
+                            },
+                            "Dual earner/dual carer model": {
+                                "Toddler (1 to 2 years old)": 30,
+                                "Preschool age (3 to 5 years old)": 40,
+                                "Primary school age (6 to 10 years old)": 60
+                            },
+                            "Other": {
+                                "Toddler (1 to 2 years old)": 0,
+                                "Preschool age (3 to 5 years old)": 0,
+                                "Primary school age (6 to 10 years old)": 10
+                            }
+                        },
+                        "Eastern Germany": {
+                            "Male breadwinner model": {
+                                "Toddler (1 to 2 years old)": 10,
+                                "Preschool age (3 to 5 years old)": 30,
+                                "Primary school age (6 to 10 years old)": 60
+                            },
+                            "One-and-a-half-earner model": {
+                                "Toddler (1 to 2 years old)": 50,
+                                "Preschool age (3 to 5 years old)": 70,
+                                "Primary school age (6 to 10 years old)": 80
+                            },
+                            "Adult worker model": {
+                                "Toddler (1 to 2 years old)": 10,
+                                "Preschool age (3 to 5 years old)": 30,
+                                "Primary school age (6 to 10 years old)": 50
+                            },
+                            "Dual earner/dual carer model": {
+                                "Toddler (1 to 2 years old)": 0,
+                                "Preschool age (3 to 5 years old)": 50,
+                                "Primary school age (6 to 10 years old)": 70
+                            },
+                            "Other": {
+                                "Toddler (1 to 2 years old)": 0,
+                                "Preschool age (3 to 5 years old)": 0,
+                                "Primary school age (6 to 10 years old)": 10
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 345,
+                        "y1": 465,
+                        "x2": 1313,
+                        "y2": 573
+                    },
+                    "text": "FReDA: German Family Demography Panel Study"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 345,
+                        "y1": 590,
+                        "x2": 1305,
+                        "y2": 2043
+                    },
+                    "text": "The analyses in this Weekly Report use data from the first wave of\nFReDA, the German Family Demography Panel Study' FReDA is\n\na new panel survey that began in 2021. It is a representative sur-\nvey of people living in Germany aged 18 to 50 years old and thus\nfocuses on young and middle-aged adults. As part of FReDA, data\non partnerships and family life is collected twice a year. An “anchor\nperson\" in the household as well as their partner are surveyed.\nOverall, more than 30,000 interviews were conducted in fall 2023.\nFReDA includes questions on numerous demographic, psycholog-\nical, economic, and sociological aspects of life. Special attention\n\nis paid to family planning and forms of cohabitation. Depending\n\non the respondents’ family situation, parent-child relationships or\nintergenerational relationships are also addressed. The FReDA\nsurvey makes it possible to make international comparisons with\nnumerous other countries in Europe and worldwide, as every three\nyears the questionnaire corresponds to that of the Generations\nand Gender Survey (GGS)},? In 2022, the German Family Panel\n(pairfam) study was integrated into FReDA and continues on in this\nform. So far, data from the first two waves, conducted from 2021 to\n2023, are available.\n\nThe analyses are based on statements of the anchor person on\ntheir own employment, the employment of their partner, and their\nown attitudes toward the employment of parents from the first\nwave in 2021. The question about their own employment was \"To\nwhat extent are you employed? Are you...2\" Answer options are:\nEmployed full time\nEmployed part time",
+                    "summarized_text": "The analyses in this Weekly Report are based on data from the first wave of the FReDA survey, a new panel survey in Germany focusing on adults aged 18 to 50. More than 30,000 interviews were conducted in fall 2023, with a focus on partnerships, family life, and various demographic and sociological aspects. The survey also includes questions on family planning, forms of cohabitation, and parent-child or intergenerational relationships. International comparisons can be made as the questionnaire corresponds to that of the Generations and Gender Survey every three years. Additionally, data from the German Family Panel (pairfam) study, integrated into FReDA, is also used in the analyses."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1342,
+                        "y1": 585,
+                        "x2": 2376,
+                        "y2": 2184
+                    },
+                    "text": "Marginally employed, in a mini-job, or a one-euro job\n\nThe question about the partner's employment is: “Has your partner\nperformed paid work in the past weeks?\" with the following answer\noptions:\n\nYes, paid work\n\nYes, paid work, but they are on vacation, parental leave, or\n\nsimilar\n\nNo, no paid work, but looking for work\n\nNo, no paid work and not looking for work\n\n| don’t know\n\nThe question “How many hours does your partner normally work\nper week in this job or in this company, including overtime?\" is\nused for people in paid employment to differentiate between full-\ntime and part-time employment. Full-time employment is defined\nas working 35 hours or more per week.\n\nTo find out attitudes toward parental employment, the following\nquestion was asked: “Consider a family with a mother, father, and\ntwo children where the youngest child is two years old. Should the\nmother work full time, part time, or not work at all?”\n\nThe question is repeated for the father and in two other scenarios\nin which the youngest child is four or eight years old. FReDA is\n\na joint project of the Federal Institute for Population Research\n(Bundesinstitut fir Bevolkerungsforschung, BiB), GESIS — Leibniz-\nInstitut fr Sozialwissenschaften, and the University of Cologne. BiB\nis responsible for the overall project coordination.",
+                    "summarized_text": "The survey asks about partners' current employment status and hours worked, as well as attitudes towards parental employment in different family scenarios. The survey is part of the FReDA project by BiB, GESIS, and the University of Cologne."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 335,
+                        "y1": 2375,
+                        "x2": 1324,
+                        "y2": 3255
+                    },
+                    "text": "children aged two, four, or eight. These figures are lower\nin the east, where only around one third of the respondents\nthink that this arrangement is ideal for couples with a two-\nyear-old child. Only 20 percent of the respondents in the east\nbelieve this arrangement is ideal for couples with older chil-\ndren (four or eight) (Figure 2).\n\nHowever, in both eastern and western Germany, the share of\nfamilies actually following the one-and-a-half-earner model\nis considerably higher than the share of FReDA respond-\nents with and without children who think this model is\nideal. While, for example, 63 percent of couples in western\nGermany whose youngest child is between six and ten live\naccording to the one-and-a-half-earner model, only 42 percent\nof western German respondents think this division of work\nis ideal for couples with children in this age group. In east-\nern Germany, too, significantly more couples with children",
+                    "summarized_text": "In both eastern and western Germany, the majority of families follow the one-and-a-half-earner model, despite a lower percentage of respondents believing it is ideal for couples with children. In eastern Germany, around one third of respondents think this model is ideal for couples with a two-year-old child, while only 20 percent believe it is ideal for couples with older children (four or eight)."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1348,
+                        "y1": 2383,
+                        "x2": 2342,
+                        "y2": 3259
+                    },
+                    "text": "percent of couples whose youngest child is of primary school\nage follow this arrangement, but only 21 percent of eastern\nGerman respondents view it as ideal.\n\nRespondents in eastern Germany predominantly consider the\nadult worker model with two parents working full-time to be\nideal as long as the youngest child is older than three. Sixty-two\npercent of eastern German respondents believe that this divi-\nsion of work is ideal for couples with an eight-year-old child.\nThe share of western German respondents who consider it\nas ideal is much lower, at 38 percent. However, the share of\ncouples that put the adult worker model into practice is sig-\nnificantly smaller in both parts of the country: only 16 percent\nand 43 percent in western and eastern Germany, respectively.\n\nYet the largest discrepancy between general attitudes and\nactual behaviors can be observed in relation to the dual",
+                    "summarized_text": "The largest discrepancy between general attitudes and actual behaviors in Germany is seen in the preference for the adult worker model, with only 16% and 43% of couples in western and eastern Germany, respectively, actually following this arrangement. Despite the majority of eastern German respondents considering it ideal, only a minority put it into practice."
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "blocks": [
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 153,
+                        "y1": 361,
+                        "x2": 1147,
+                        "y2": 1586
+                    },
+                    "text": "to six percent of all couples in western and eastern Germany,\ndepending on the age of the child. However, it is viewed as\nideal by a significant share of respondents: Around 30 per-\ncent of respondents in eastern and western Germany think\nthat this is the ideal division of paid work for couples whose\nyoungest child is two years old. If the youngest child is four\nyears old, more than 20 percent still consider it best. In the\ncase of an eight-year-old child, 18 percent of respondents in\nwestern Germany and 15 percent of respondents in eastern\nGermany consider the dual earner/dual carer model as ideal.\n\nOverall, the analysis shows that the share of respondents who\nfind an egalitarian division of paid work (either in the adult\nworker model or the dual earner /dual carer model) to be ideal\nis considerably higher in eastern Germany, regardless of the\nage of the youngest child, compared to the share of respond-\nents who prefer an unequal division. It is somewhat differ-\nent in western Germany, where respondents think the male\nbreadwinner model or one-and-a-half-earner model are the\nideal arrangement for couples whose youngest child is either\ntwo or four years olds. However, if the youngest child is eight\nyears old or older, the majority of western German respondents\nalso think that an egalitarian division of paid work is ideal.®",
+                    "summarized_text": "Around 30% of respondents in eastern and western Germany view a dual earner/dual carer model as ideal for couples with a two-year-old child. In western Germany, the male breadwinner model is preferred for couples with younger children, but an egalitarian division of paid work becomes more favorable as the youngest child gets older. Eastern Germany shows a higher preference for egalitarian work division regardless of the child's age."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 168,
+                        "y1": 1602,
+                        "x2": 1150,
+                        "y2": 1735
+                    },
+                    "text": "Tax and transfer system make the one-and-a-half\nearner model in particular financially attractive"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 163,
+                        "y1": 1752,
+                        "x2": 1154,
+                        "y2": 2848
+                    },
+                    "text": "There are countless individual reasons why the actual divi-\nsion of paid and care work within couples deviates so much\nfrom the ideal. There may be working conditions that make it\nimpossible to work the desired number of hours or there may\nbe structural restrictions, such as a lack of childcare spots.\nIn addition, the financial incentives from the tax and trans-\nfer system in Germany and the different average wages of\nmen and women influence couples’ employment decisions.\nTo illustrate these financial incentives, we simulate the net\nhousehold income of five different employment combina-\ntions for married couples. We assumed average gross hourly\nwages for men (25.30 euros) and women (20.80 euros) ° for\nthe simulations (Box 2).\n\nThe simulated models are the male breadwinner model\n(father working full time, mother unemployed), two versions\nof the one-and-a-half-earner model (father working full time,\nmother working either 20 hours or only marginally with six\nhours), the adult worker model (both parents working full\ntime), and the dual earner/dual carer model (both parents\nworking 30 hours a week).",
+                    "summarized_text": "The division of paid and care work within couples can deviate from the ideal due to factors such as working conditions, structural restrictions like lack of childcare, financial incentives from the tax system, and different average wages of men and women. Simulated models show the impact of various employment combinations on net household income for married couples."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1194,
+                        "y1": 411,
+                        "x2": 2371,
+                        "y2": 648
+                    },
+                    "text": "Figure 2\n\nEmployment arrangements viewed as ideal for couples with\nchildren in Germany\nIn percent"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 1195,
+                        "y1": 652,
+                        "x2": 2389,
+                        "y2": 1827
+                    },
+                    "data": {
+                        "Western Germany": {
+                            "Male Breadwinner Model": {
+                                "Toddler": 70,
+                                "Preschool Age": 50,
+                                "Primary School Age": 5
+                            },
+                            "One-and-a-half-earner Model": {
+                                "Toddler": 50,
+                                "Preschool Age": 40,
+                                "Primary School Age": 15
+                            },
+                            "Adult Worker Model": {
+                                "Toddler": 20,
+                                "Preschool Age": 20,
+                                "Primary School Age": 30
+                            },
+                            "Dual Earner/Dual Carer Model": {
+                                "Toddler": 30,
+                                "Preschool Age": 40,
+                                "Primary School Age": 55
+                            },
+                            "Other": {
+                                "Toddler": 5,
+                                "Preschool Age": 10,
+                                "Primary School Age": 10
+                            }
+                        },
+                        "Eastern Germany": {
+                            "Male Breadwinner Model": {
+                                "Toddler": 20,
+                                "Preschool Age": 10,
+                                "Primary School Age": 5
+                            },
+                            "One-and-a-half-earner Model": {
+                                "Toddler": 40,
+                                "Preschool Age": 50,
+                                "Primary School Age": 15
+                            },
+                            "Adult Worker Model": {
+                                "Toddler": 50,
+                                "Preschool Age": 50,
+                                "Primary School Age": 55
+                            },
+                            "Dual Earner/Dual Carer Model": {
+                                "Toddler": 30,
+                                "Preschool Age": 15,
+                                "Primary School Age": 20
+                            },
+                            "Other": {
+                                "Toddler": 10,
+                                "Preschool Age": 5,
+                                "Primary School Age": 5
+                            }
+                        }
+                    }
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1173,
+                        "y1": 2462,
+                        "x2": 2136,
+                        "y2": 2595
+                    },
+                    "text": "Monthly net household income is highest when\nboth parents work full time"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1168,
+                        "y1": 2607,
+                        "x2": 2181,
+                        "y2": 3259
+                    },
+                    "text": "As expected, the net household income is highest (4,861 euros\nper month) in the case of the adult worker model in which\nboth parents work full time (Figure 3). The one-and-a-half\nearner model yields the second-highest monthly income\n(3,953 euros per month), slightly higher than the income\nfrom the dual earner/dual carer model (3,832 euros per\nmonth), despite the fact that the parents work the same\ntotal number of weekly hours in both. However, because the\nassumed gross hourly wage of men is 18 percent higher than\nthat of women (the current gender pay gap), the one-and-a-\nhalf-earner model yields a higher net income. If the mother\nis in employment only marginally for six hours a week, there\nis a significantly lower net income of 3,440 per month. As",
+                    "summarized_text": "The adult worker model with both parents working full time results in the highest household income of 4,861 euros per month. The one-and-a-half earner model follows closely behind with a monthly income of 3,953 euros, slightly higher than the dual earner/dual carer model at 3,832 euros."
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 87,
+                        "y1": 386,
+                        "x2": 1295,
+                        "y2": 614
+                    },
+                    "text": "Figure 3\n\nNet household income, taxes, social security contributions, and\ntransfers by employment combination"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 90,
+                        "y1": 619,
+                        "x2": 1295,
+                        "y2": 1461
+                    },
+                    "data": {
+                        "Adult worker model": {
+                            "Net household income": 4861,
+                            "Taxes": 1023,
+                            "Social security contributions": 1492,
+                            "Transfers": 250
+                        },
+                        "Dual earner/dual carer model": {
+                            "Net household income": 3832,
+                            "Taxes": 581,
+                            "Social security contributions": 1119,
+                            "Transfers": 250
+                        },
+                        "One-and-a-half-earner model (part time)": {
+                            "Net household income": 3952,
+                            "Taxes": 628,
+                            "Social security contributions": 1131,
+                            "Transfers": 250
+                        },
+                        "One-and-a-half-earner model (mini-job)": {
+                            "Net household income": 3440,
+                            "Taxes": 289,
+                            "Social security contributions": 819,
+                            "Transfers": 250
+                        },
+                        "Male breadwinner model": {
+                            "Net household income": 2941,
+                            "Taxes": 289,
+                            "Social security contributions": 819,
+                            "Transfers": 250
+                        }
+                    }
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 332,
+                        "y1": 1893,
+                        "x2": 1287,
+                        "y2": 2063
+                    },
+                    "text": "One-and-a-half-earner model most financially\nattractive per hour worked"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 342,
+                        "y1": 2072,
+                        "x2": 1313,
+                        "y2": 3263
+                    },
+                    "text": "However, the ranking is quite different when looking at\nmarried couples’ net income per hour worked rather than\nper month. If we divide the net household income by the\ntotal number of hours worked by both parents, the income\nfrom the one-and-a-half-earner model in which the mother\nis marginally employed (six hours a week) is the highest\nat 17.30 euros net per hour. This is closely followed by the\nmale breadwinner model at 17 euros per hour. In the one-\nand-a-half-earner model in which the mother is employed\npart time (20 hours per week) or in the dual earner/dual\ncarer model, in which both parents work 30 hours per week,\nthe net income per hour worked is significantly lower at\n15.20 euros and 14.70 euros per hour, respectively. It is the\nlowest, 14 euros per hour, when both parents are employed\nfull time (Figure 4).\n\nWhen using the adult worker model as a reference model and\ncomparing the total work hours of both parents and the net\nhousehold income with the other models, it becomes evident:\nThe one-and-a-half-earner model with the mother employed in\na mini-job (six hours a week) results in the household earning\n71 percent of the net income of the reference household, while\nonly having to work 57 percent of the total hours worked by the\nreference household. For the one-and-a-half-earner model with",
+                    "summarized_text": "The one-and-a-half-earner model with the mother marginally employed (six hours a week) and the male breadwinner model have the highest net income per hour worked. Other models, such as part-time employment or full-time dual earner/dual carer models, have significantly lower net income per hour worked."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1403,
+                        "y1": 469,
+                        "x2": 1713,
+                        "y2": 577
+                    },
+                    "text": "Methodology"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1406,
+                        "y1": 610,
+                        "x2": 2391,
+                        "y2": 1781
+                    },
+                    "text": "We calculated the net incomes of stylized households for\ndifferent employment combinations using the GETTSIM soft-\nware. GETTSIM (GErman Taxes and Transfers SiMulator) is a\nprogram that was jointly developed by researchers at several\nresearch institutes and universities in Germany, including DIW\nBerlin.’ The program is an open-source project and freely avail-\nable to the public?\n\nGETTSIM can be used for any household situation, employ-\nment situation, and income situation to simulate relevant pa-\nrameters of the German tax and transfer system. This includes,\nfor example, households’ tax burden, individual social security\ncontributions, and transfer payments such as unemployment,\nchild benefits, housing benefits, minimum income benefits\n(Burgergeld), and pension entitlements.\n\nIn this Weekly Report, we simulate the income situation of\n\nfive households consisting of a married couple with one child\neach with a different parental employment combination. Using\nGETTSIM, the social security contributions, tax burden, and\ntransfer payments such as child benefits are calculated for\nthese households for 2023 to determine the net disposable\nincome. The analyses did not include housing benefits.",
+                    "summarized_text": "The GETTSIM software was used to calculate the net incomes of stylized households in Germany based on different employment combinations. The program simulates various parameters of the German tax and transfer system, including tax burden, social security contributions, and transfer payments like unemployment benefits and child benefits. The analysis in this report focused on five households with different parental employment combinations to determine their net disposable income for 2023."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1348,
+                        "y1": 2146,
+                        "x2": 2336,
+                        "y2": 2649
+                    },
+                    "text": "the work time; for the dual earner/dual carer model (both par-\nents working 30 hours per week), the household earns 79 per-\ncent of the income, also with only 75 percent of the work time.\nFor the male breadwinner model, the household earns 61 per-\ncent of the reference household income from 50 percent of\nthe work hours. Thus, the relation between the parents’ com-\nbined number of hours worked and net income is most attrac-\ntive in the one-and-a-half-earner model with the mother in\nmarginal employment.",
+                    "summarized_text": "In the dual earner/dual carer model, both parents working 30 hours a week earn 79% of the household income with only 75% of the work time. In the male breadwinner model, the household earns 61% of the income from 50% of the work hours. The one-and-a-half-earner model with the mother in marginal employment shows the most attractive ratio between combined hours worked and net income."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1344,
+                        "y1": 2653,
+                        "x2": 2349,
+                        "y2": 2835
+                    },
+                    "text": "Conclusion: Tax and transfer system reforms\ncould increase appeal of a more equal division of\npaid and care work"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1344,
+                        "y1": 2848,
+                        "x2": 2347,
+                        "y2": 3192
+                    },
+                    "text": "General attitudes toward the division of paid and care work\nbetween couples with children deviate considerably from\nreality. In addition to personal reasons, there are also some\nstructural reasons that the one-and-a-half-earner model\nin particular, in which the father works full time and the\nmother part time or marginally, is so common.” Some of",
+                    "summarized_text": "General attitudes towards the division of paid and care work between couples with children do not reflect the reality. The one-and-a-half-earner model, where the father works full-time and the mother works part-time or marginally, is a common arrangement due to personal and structural reasons."
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "blocks": [
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 163,
+                        "y1": 382,
+                        "x2": 1158,
+                        "y2": 1644
+                    },
+                    "text": "these structural reasons are not analyzed in this Weekly\nReport and concern the childcare infrastructure, including\na lack of daycare spots for children below three, whole-day\nspots for preschool-aged children,\" and an underdeveloped\nsupply of whole-day spots for primary school-aged children.”\n\nIn addition, the German tax and transfer system is set up\nso that the one-and-a-half-earner model is the most finan-\ncially attractive option for married couples. This is due to the\ninterplay of Ehegattensplitting (joint taxation of married cou-\nples with full income splitting), the tax treatment of income\nfrom mini-jobs, and non-contributory dependents’ insur-\nance, where spouses can be insured for free on statutory\nhealth insurance. Moreover, the gross hourly wage of men,\nwhich is 18 percent higher on average, also makes an une-\nqual division of paid work more attractive in the short term.\n\nIf policymakers want to combat labor market gender inequal-\nities and the unequal division of unpaid care work, reforms\nto the tax and transfer system need to be initiated. Proposals\nfor reforms to Ehegattensplitting, for example in the form of\nde facto income splitting with a transfer amount, have been\non the table for some time.” Alternatives to non-contributory\ndependents’ insurance should also be discussed.” It would",
+                    "summarized_text": "Structural issues in childcare infrastructure and the tax system contribute to gender inequalities in labor market participation and caregiving. Reforms to Ehegattensplitting and dependents' insurance are proposed to address these issues and promote a more equal division of paid and unpaid work."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1170,
+                        "y1": 1910,
+                        "x2": 2170,
+                        "y2": 2615
+                    },
+                    "text": "also be important to abolish mini-jobs, at least for people\nof working age, while retaining them for students and pen-\nsioners. In light of growing labor shortages, subsidizing\nmarginal employment in the form of mini-jobs, and thus\npromoting a highly unequal division of paid and care work\namong couples, does not seem to be helpful. Instead, what\nis required is a needs-based childcare infrastructure for chil-\ndren aged one to 12 as well as a modernized tax and transfer\nsystem that makes paid work more attractive, in particular\nfor mothers. This could reduce the discrepancy between the\nideal division and actual division of paid and care work, and\nmake a larger volume of work available on the labor market,\nespecially by women.",
+                    "summarized_text": "Abolishing mini-jobs for working-age individuals, while retaining them for students and pensioners, could help address labor shortages and promote a more equal distribution of paid and care work within couples. Investing in childcare infrastructure and modernizing the tax system to make paid work more attractive for mothers may further reduce discrepancies and increase the availability of work for women."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1195,
+                        "y1": 407,
+                        "x2": 2325,
+                        "y2": 610
+                    },
+                    "text": "Figure 4\n\nNet income per hour worked by employment combination\nIn euros"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 1195,
+                        "y1": 627,
+                        "x2": 2392,
+                        "y2": 1416
+                    },
+                    "data": {
+                        "Adult worker model": 14.02,
+                        "Dual earner/dual carer model": 14.74,
+                        "One-and-a-half-earner model (part time)": 15.2,
+                        "One-and-a-half-earner model (mini-job)": 17.26,
+                        "Male breadwinner model": 16.96
+                    }
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1163,
+                        "y1": 2736,
+                        "x2": 2180,
+                        "y2": 3035
+                    },
+                    "text": "Katharina Wrohlich is Head of the Gender Economics Research Group at DIW\nBerlin and a Professor of Public Finance, Gender and Family Economics at the\nUniversity of Potsdam | kwrohlich@diw.de\n\nElena Ziege is a Research Associate in the Education and Human Potential\nResearch Group at the Federal Institute for Population Research (BiB) |\nelena.ziege@bib.bund.de",
+                    "summarized_text": "Katharina Wrohlich is the Head of the Gender Economics Research Group at DIW Berlin and a Professor at the University of Potsdam. Elena Ziege is a Research Associate in the Education and Human Potential Research Group at the Federal Institute for Population Research."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1131 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1069,
+            "y1": 369,
+            "x2": 1422,
+            "y2": 465
+          },
+          "text": "AT A GLANCE"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 170,
+            "y1": 509,
+            "x2": 2286,
+            "y2": 1555
+          },
+          "text": "Transitioning to net zero: Full potential of\nsustainable finance taxonomies not yet exhausted\n\nBy Catherine Marchewitz, Franziska Schiitze, and Fernanda Ballesteros\n\nTaxonomies should create transparency and provide guidance in shifting capital flows to\nsustainable, environmentally-friendly activities\n\nMore and more countries are developing taxonomies with different approaches\nHarmonizing taxonomies is important for companies and investors operating internationally\n\nTaxonomies should apply to all relevant market participants and include mandatory reporting\nrequirements\n\nSelection criteria for sustainable activities should be in accordance with international climate\ntargets",
+          "summarized_text": "Taxonomies should align with international climate targets and be harmonized globally for transparency and guidance in promoting sustainable finance."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 151,
+            "y1": 1703,
+            "x2": 2306,
+            "y2": 2817
+          },
+          "data": {
+            "taxonomy_development_status": {
+              "published_or_adopted": [
+                "Canada",
+                "European Union",
+                "United Kingdom",
+                "China",
+                "Japan",
+                "South Korea",
+                "Malaysia"
+              ],
+              "initiation_phase": [
+                "United States",
+                "Mexico",
+                "Brazil",
+                "India",
+                "Australia",
+                "New Zealand"
+              ],
+              "development_phase": [
+                "Russia",
+                "Saudi Arabia",
+                "South Africa"
+              ],
+              "paused": [
+                "Argentina"
+              ],
+              "no_taxonomy": [
+                "most of Africa",
+                "Central Asia",
+                "major parts of Southeast Asia",
+                "Greenland",
+                "Iceland"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 1326,
+            "y1": 1135,
+            "x2": 2322,
+            "y2": 3392
+          },
+          "text": "The EU aims to become climate neutral by 2050 as announced\nin the 2019 Green Deal.'A classification system for sustaina-\nble economic activities, known as the EU taxonomy for sus-\ntainable activities, plays a crucial role in this transition. The\ntaxonomy defines which activities are classified as sustaina-\nble for each economic sector.’ The EU Sustainable Finance\nAction Plan links the EU taxonomy to further disclosure\nrequirements. For example, large capital market-oriented\ncompanies’ in the EU have been required to disclose the\nshare of their activities that are aligned with the taxonomy\nsince the 2022 business year, and other companies will grad-\nually follow.* Banks must also disclose their share of activ-\nities aligned with the taxonomy, known as the green asset\nratio.’ Financial providers that advertise products with envi-\nronmental features must report their taxonomy alignment.®\n\nThis classification system is primarily an instrument for\nproviding information and should increase transparency\nfor private consumers as well as institutional financial mar-\nket actors so that they can invest their capital more sustaina-\nbly. This should also enable them to better assess the risk of\nstranded assets’ and take these findings into account when\nallocating their investments.\n\n1 In Europe alone, investments of up to 350 billion euros per year in low-carbon infrastructure,\nsuch as renewable energy plants or electricity grids and storage facilities, will be required by 2030.\nCf. Lena KlaaBen und Bjarne Steffen, “Meta-analysis on necessary investment shifts to reach net\nzero pathways in Europe,\" Nature Climate Change 13 (2023): 58-66 (available online; accessed on\nJuly 1, 2024. This applies to all other online sources in this report unless stated otherwise).\n\n2 Franziska Schiitze et al, \"EU taxonomy is increasing the transparency of sustainable invest-\nments,\" DIW Weekly Report no. 51 (2020) (available online).\n\n3 The first step will affect all companies that are already required to report under the Non-finan-\ncial Reporting Directive (NFRD). This includes capital market-oriented companies with more than\n500 employees.\n\n4 Asa part of the Corporate Sustainability Reporting Directive (CSRD EU Regulation 2022/2464\n(available online), the group of companies obligated to report will expand by non-capital mar-\nket-oriented companies with over 250 employees or sales revenue greater than 50 million euros or\na balance sheet total of over 24 million euros.\n\n5 In accordance with Article 8 of the EU Taxonomy Regulation, cf. European Union, Regulation\n(EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establish-\nment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088\n(2020) (available online).\n\n6 As part of the Sustainable Finance Disclosure Regulation (SFDR), see European Commission,\nSustainability-related disclosure in the financial services sector (2024) (available online).\n\n7 Stranded assets are investments or assets that can no longer be used and which thus become\nunprofitable. For example, investments in a coal-fired power plant that can no longer be operated\ndue to climate policy measures can massively lose value.",
+          "summarized_text": "The EU Sustainable Finance Action Plan requires large companies to disclose their alignment with the EU taxonomy for sustainable activities, with banks also disclosing their green asset ratio. This aims to increase transparency and help investors make more sustainable investment decisions, while also considering the risk of stranded assets in their portfolios."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 118,
+            "y1": 550,
+            "x2": 2300,
+            "y2": 1017
+          },
+          "text": "Transitioning to net zero: Full potential\nof sustainable finance taxonomies not yet\nexhausted"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 155,
+            "y1": 1176,
+            "x2": 521,
+            "y2": 1238
+          },
+          "text": "ABSTRACT"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 153,
+            "y1": 1279,
+            "x2": 1272,
+            "y2": 2618
+          },
+          "text": "Sustainable finance taxonomies such as the European Union\n(EU) taxonomy can support the transition to a climate-neutral\neconomy. As a classification system, these taxonomies serve\nto offer transparency and guidance as to how capital flows\ncan be shifted to sustainable and environmentally-friendly\nactivities. In this Weekly Report, we analyze 26 sustainable\ntaxonomies from countries and regions around the world\nusing five criteria. Our study shows that although many tax-\nonomies follow a holistic sustainability approach, mandatory\ncriteria have often yet to be developed. The share of a country\nor region's emissions that is covered by the taxonomy varies\nconsiderably, as the taxonomies follow different approaches\nfor determining the activities that are aligned with them. Tax-\nonomies often only apply to a limited group of market partici-\npants and are rarely linked to mandatory reporting obligations.\nThe results emphasize that better coordination between the\nexisting taxonomies worldwide is needed and that the criteria\nand thresholds for selecting activities in alignment with taxon-\nomies should be in accordance with the Paris Agreement. This\nway, taxonomies can develop their full potential in guiding the\ntransition.",
+          "summarized_text": "Sustainable finance taxonomies, like the EU taxonomy, can support the shift to a climate-neutral economy by providing transparency and guidance on capital flows. However, there is a need for better coordination between global taxonomies and the alignment of criteria with the Paris Agreement for maximum impact in guiding the transition."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 866,
+            "y1": 195,
+            "x2": 1692,
+            "y2": 288
+          },
+          "text": "SUSTAINABLE FINANCE TAXONOMIES"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 117,
+            "y1": 457,
+            "x2": 2251,
+            "y2": 1231
+          },
+          "text": "Taxonomy development and terminology\n\nA sustainable finance taxonomy’ (referred to here as a “taxonomy\")\nclassifies sustainable activities and investments. The emergence\nof such taxonomies in various countries, regions, and international\norganizations was driven in particular by the Paris Agreement and\nthe UN Sustainable Development Goals. However, the names of\nthe taxonomies vary, including the words “sustainable,” “green,”\n\"climate,\" “transition,” and “social” in their titles, indicating different\ntypes of taxonomies. Sustainable taxonomies are by definition the\nmost comprehensive, as the term “sustainable” has an ecological,\neconomic, and social dimension.’ Thus, a green taxonomy focuses\non pure green activities or those that positively contribute to the\n\nenvironmental goals covered by the taxonomy. However, the gran-\nularity, scope, criteria, and environmental objectives of the taxon-\nomies can differ broadly. Social taxonomies focus mainly on the\npositive contribution to social objectives, such as decent work and\nadequate living standards. In contrast, transition taxonomies take\namore dynamic approach, as they identify activities that are not\ncurrently in accordance with the Paris Agreement and have a lack\nof suitable “green” alternatives. If a taxonomy exclusively promotes\ngreen activities, it excludes important parts of the economy that\nstill need to be transformed. A green or sustainable taxonomy can\nalso contain elements of transition activities.",
+          "summarized_text": "A sustainable finance taxonomy classifies sustainable activities and investments, with variations in names such as \"sustainable,\" \"green,\" \"climate,\" and \"social.\" Different taxonomies focus on environmental, social, or transition objectives, with the goal of promoting a comprehensive approach to sustainability."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 64,
+            "y1": 1643,
+            "x2": 2430,
+            "y2": 3226
+          },
+          "data": {
+            "regions": {
+              "North America": {
+                "Canada": {
+                  "taxonomy_development": "Published or adopted",
+                  "climate_target": "By 2050"
+                },
+                "USA": {
+                  "taxonomy_development": "Published or adopted",
+                  "climate_target": "By 2050"
+                }
+              },
+              "Latin America and Caribbean": {
+                "Mexico": {
+                  "taxonomy_development": "Published or adopted",
+                  "climate_target": "By 2050"
+                },
+                "Brazil": {
+                  "taxonomy_development": "Initiation phase",
+                  "climate_target": "Between 2050 and 2060"
+                },
+                "Argentina": {
+                  "taxonomy_development": "Initiation phase",
+                  "climate_target": "By 2050"
+                }
+              },
+              "Europe": {
+                "EU": {
+                  "taxonomy_development": "Published or adopted",
+                  "climate_target": "By 2050"
+                },
+                "UK": {
+                  "taxonomy_development": "Published or adopted",
+                  "climate_target": "By 2050"
+                }
+              },
+              "Africa": {
+                "South Africa": {
+                  "taxonomy_development": "Development phase",
+                  "climate_target": "By 2050"
+                }
+              },
+              "Asia": {
+                "India": {
+                  "taxonomy_development": "Paused",
+                  "climate_target": "By 2050"
+                },
+                "China": {
+                  "taxonomy_development": "Initiation phase",
+                  "climate_target": "By 2060"
+                },
+                "ASEAN": {
+                  "taxonomy_development": "Published or adopted",
+                  "climate_target": "By 2050"
+                },
+                "Russia": {
+                  "taxonomy_development": "Development phase",
+                  "climate_target": "After 2060"
+                }
+              },
+              "Oceania": {
+                "Australia": {
+                  "taxonomy_development": "No taxonomy",
+                  "climate_target": "By 2050"
+                },
+                "New Zealand": {
+                  "taxonomy_development": "Published or adopted",
+                  "climate_target": "By 2050"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 893,
+            "y1": 189,
+            "x2": 1683,
+            "y2": 286
+          },
+          "text": "SUSTAINABLE FINANCE TAXONOMIES"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 271,
+            "y1": 2433,
+            "x2": 1324,
+            "y2": 3260
+          },
+          "text": "Rising number of taxonomies worldwide\n\nIn recent years, a large number of sustainable finance tax-\nonomies® have emerged to promote the provision of capital\nfor the transition to a climate-neutral economy. (Box 1). By\nthe end of 2023, 26 countries and regions had introduced\ntheir own taxonomies or begun developing them (Figure 1).\nA further 25 countries have initiated the development of a\ntaxonomy but have yet not published a draft.\n\nTo accelerate the transition to a climate-neutral economy,\nboth the introduction of technologies, such as green hydro-\ngen in emission-intensive sectors like steel or cement, as well\nas green projects and activities, such as expanding solar and",
+          "summarized_text": "An increasing number of countries are implementing sustainable finance taxonomies to support capital allocation for a climate-neutral economy. By the end of 2023, 26 countries and regions had introduced their own taxonomies, with an additional 25 countries in the process of developing them. This trend aims to accelerate the adoption of green technologies and projects for a more sustainable future."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1391,
+            "y1": 480,
+            "x2": 2337,
+            "y2": 620
+          },
+          "text": "Criteria for estimating the transition potential of\ntaxonomies"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1399,
+            "y1": 660,
+            "x2": 2309,
+            "y2": 1356
+          },
+          "text": "The transition to climate neutrality is different in every country\ndue to individual circumstances. A “transition score\" (TS) has\nbeen developed as an objective scoring system to enable a\ncomparable assessment of transformation potential. This score\nconsists of five criteria that summarize the data on the taxono-\nmies in a structured manner:' policy embeddedness, sectoral\ncoverage, screening approach, target group, and reporting\n\nand disclosure (Table 1).\n\nThere are four stages of fulfillment for each criterion with\nassigned scores, here indicated in brackets:* no contribution\n[1], little contribution [2]; moderate contribution [3]; or high\ncontribution [4].",
+          "summarized_text": "The transition to climate neutrality varies by country due to unique circumstances, with a \"transition score\" (TS) system developed to assess transformation potential objectively. The TS comprises five criteria: policy embeddedness, sectoral coverage, screening approach, target group, and reporting and disclosure. Each criterion has four stages of fulfillment with corresponding scores ranging from no contribution to high contribution."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1374,
+            "y1": 1469,
+            "x2": 2367,
+            "y2": 1594
+          },
+          "text": "Analysis criteria for measuring a taxonomy’s\npotential contribution to the economic transition"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1391,
+            "y1": 1610,
+            "x2": 2319,
+            "y2": 2404
+          },
+          "data": {
+            "criteria": [
+              {
+                "Criterion": "Policy embeddedness",
+                "Definition": "This criterion captures whether a taxonomy refers to the climate targets in international frameworks such as the Paris Agreement and the SDGs as well as national or regional climate targets. It also assesses whether it includes more comprehensive sustainability goals"
+              },
+              {
+                "Criterion": "Sectoral coverage",
+                "Definition": "This criterion refers to the share of emissions explicitly covered in a taxonomy, i.e., the sectors or technologies explicitly mentioned in the respective taxonomy framework."
+              },
+              {
+                "Criterion": "Screening approach",
+                "Definition": "This criterion captures whether taxonomies define (technical) selection criteria or thresholds for including economic activities and whether these follow a credible, science-based decarbonization pathway."
+              },
+              {
+                "Criterion": "Target group",
+                "Definition": "This criterion refers to which market players in the financial sector and the real economy and which financial instruments (e.g. bonds, loans, guarantees, funds) are affected by the taxonomy."
+              },
+              {
+                "Criterion": "Reporting and disclosure",
+                "Definition": "This criterion assesses whether a taxonomy is linked to reporting obligations for countries in the respective country."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 884,
+            "y1": 180,
+            "x2": 1670,
+            "y2": 294
+          },
+          "text": "SUSTAINABLE FINANCE TAXONOMIES"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 151,
+            "y1": 416,
+            "x2": 1145,
+            "y2": 742
+          },
+          "text": "wind energy, must be supported.° A taxonomy that supports\nboth can offer companies in these sectors better access to\nfinancing options. Building upon this classification system,\nthis Weekly Report investigates the potential of the taxono-\nmies developed worldwide to support the transition to a cli-\nmate-neutral economy.”",
+          "summarized_text": "A taxonomy supporting wind energy and other clean energy sectors can improve access to financing options. This report explores how classification systems can aid in the transition to a climate-neutral economy."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 111,
+            "y1": 758,
+            "x2": 1142,
+            "y2": 872
+          },
+          "text": "Many taxonomies are not suitable for supporting\nthe transition"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 108,
+            "y1": 903,
+            "x2": 1121,
+            "y2": 1584
+          },
+          "text": "We used five criteria to analyze official documents of the 26\ntaxonomies already published and built a transition score\n(TS). The higher the TS, the higher the transition potential.\nThe TS makes it possible to compare the taxonomies (Box 2),\nand the results of the comparison reveal a scattered picture\n(Figure 2).\" The TS ranges from 2.0 to 3.6 points with an aver-\nage score of 2.8. The taxonomies with the highest TS (three\nor more points, so a “moderate to high contribution’) are\nfrom the Association of Southeast Asian Nations (ASEAN),\nColumbia, EU, Georgia, Singapore, South Korea, and Sri\nLanka. The taxonomies with the lowest scores (between two\nand 2.4 points, “little contribution”) are from Israel, Malaysia,\nRussia, South Africa, and Uzbekistan.",
+          "summarized_text": "Five criteria were used to analyze 26 taxonomies, resulting in a transition score (TS) ranging from 2.0 to 3.6, with an average of 2.8. Taxonomies with the highest TS include ASEAN, Columbia, EU, Georgia, Singapore, South Korea, and Sri Lanka, while those with the lowest scores are from Israel, Malaysia, Russia, South Africa, and Uzbekistan."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 120,
+            "y1": 1614,
+            "x2": 1106,
+            "y2": 1746
+          },
+          "text": "Many taxonomies strive for a holistic sustainability\napproach"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 148,
+            "y1": 1776,
+            "x2": 1146,
+            "y2": 2841
+          },
+          "text": "in terms or policy embeddedness, 1.e., how the taxonomy\nrefers to the goals in international frameworks such as the\nParis Agreement, the analysis paints a predominantly posi-\ntive picture (Figure 3). Eighteen of the 26 taxonomies received\nall four points for this criterion, while seven received three\npoints and Uzbekistan’s taxonomy two points. Some taxon-\nomies also refer specifically to the nationally determined\ncontributions (NDCs).” In addition, the taxonomies fre-\nquently mention the Paris Agreement targets, the Sustainable\nDevelopment Goals (SDGs), and the respective country’s\nnational climate and energy policies. Several taxonomies aim\nto extend their scope to a broader range of environmental\nobjectives, such as biodiversity and the transition to a circu-\nlar economy. Thirteen taxonomies, including the Columbian,\nMongolian, Russian, South African, and Rwandan taxono-\nmies, include nature-related aspects or plan to do so. Others\nconsider specific regional aspects, such as the Islamic finan-\ncial system in Malaysia. Countries such as Georgia, Mongolia,\nand Mexico have already included social aspects, while coun-\ntries such as Brazil plan to include them. This indicates that\nmany taxonomies follow a holistic sustainability approach,",
+          "summarized_text": "The majority of taxonomies align with international frameworks such as the Paris Agreement and include goals such as NDCs, SDGs, and national climate and energy policies. Some taxonomies also address broader environmental objectives like biodiversity and circular economy, as well as social aspects, indicating a holistic sustainability approach."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1210,
+            "y1": 557,
+            "x2": 2397,
+            "y2": 1905
+          },
+          "data": {
+            "High Contribution": {
+              "description": "Includes broader sustainability targets (biodiversity, circular economy, resource efficiency, social targets)",
+              "countries": [
+                "ID",
+                "KZ",
+                "KR",
+                "MN",
+                "MX",
+                "LAC",
+                "MY",
+                "PH",
+                "TH",
+                "HK",
+                "AS",
+                "BD",
+                "BR",
+                "LK",
+                "SG",
+                "CO",
+                "EU",
+                "GE"
+              ]
+            },
+            "Moderate Contribution": {
+              "description": "Additional national/regional decarbonization strategies (NDCs, climate change laws)",
+              "countries": [
+                "RU",
+                "RW",
+                "ZA",
+                "CN",
+                "IL",
+                "JP",
+                "VN"
+              ]
+            },
+            "Little Contribution": {
+              "description": "Clearly defined environmental goals focusing on climate (e.g., SDGs, Paris Agreement, 1.5 degree target)",
+              "country": "UZ"
+            },
+            "No Contribution": {
+              "description": "No clear objective identifiable",
+              "countries": []
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1160,
+            "y1": 2239,
+            "x2": 2195,
+            "y2": 2941
+          },
+          "text": "even if the relationships between different environmental\nand social topics are not completely considered and the cor-\nresponding criteria have still not been developed.\n\nShare of emissions covered in taxonomies varies\nconsiderably\n\nThe share of emissions from the economic sectors explicitly\ncovered in the respective taxonomies” varied greatly in 2022\n(Figure 4). Explicitly covered means that criteria and thresh-\nold values have been developed for these economic activi-\nties. Six taxonomies cover less than 50 percent of emissions,\"\nwhile ten others cover more than 90 percent of emissions.”",
+          "summarized_text": "In 2022, the coverage of emissions in taxonomies varied significantly, with some covering less than 50% and others covering more than 90%. This indicates the inconsistency in criteria development for different economic sectors."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 874,
+            "y1": 198,
+            "x2": 1690,
+            "y2": 286
+          },
+          "text": "SUSTAINABLE FINANCE TAXONOMIES"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 75,
+            "y1": 594,
+            "x2": 1225,
+            "y2": 2200
+          },
+          "data": {
+            "ASEAN": 96,
+            "Bangladesh": 82,
+            "Brazil": 100,
+            "China": 100,
+            "EU": 99,
+            "Georgia": 76,
+            "Hong Kong": 83,
+            "Indonesia": 86,
+            "Israel": 25,
+            "Japan": 52,
+            "Kazakhstan": 57,
+            "Columbia": 98,
+            "LAC": 100,
+            "Malaysia": 54,
+            "Mexico": 91,
+            "Mongolia": 36,
+            "Philippines": 100,
+            "Rwanda": 78,
+            "Russia": 66,
+            "Singapore": 95,
+            "Sri Lanka": 40,
+            "South Africa": 43,
+            "South Korea": 100,
+            "Thailand": 72,
+            "Uzbekistan": 47,
+            "Vietnam": 41,
+            "table_0": [
+              [
+                "4 4 4",
+                null,
+                null,
+                "2",
+                "2"
+              ],
+              [
+                "4",
+                "3",
+                "2 2",
+                null,
+                "3"
+              ],
+              [
+                "4 4",
+                null,
+                "2 2",
+                null,
+                "2"
+              ],
+              [
+                "3",
+                "4",
+                "2 2",
+                null,
+                "3"
+              ],
+              [
+                "4 4 4",
+                null,
+                null,
+                "2",
+                "1"
+              ],
+              [
+                "4",
+                "4",
+                "3",
+                "4",
+                "3"
+              ],
+              [
+                "4",
+                "3 3",
+                null,
+                "2",
+                "3"
+              ],
+              [
+                "4",
+                "2",
+                "4",
+                "2 2",
+                null
+              ],
+              [
+                "4",
+                "3",
+                "2 2 2",
+                null,
+                null
+              ],
+              [
+                "3",
+                "3 3",
+                null,
+                "2",
+                "1"
+              ],
+              [
+                "3",
+                "3",
+                "4",
+                "2 2",
+                null
+              ],
+              [
+                "4",
+                "3",
+                "2",
+                "2 2",
+                null
+              ],
+              [
+                "4",
+                "4",
+                "1",
+                "2 2",
+                null
+              ],
+              [
+                "4",
+                "3",
+                "1",
+                "2 2",
+                null
+              ],
+              [
+                "4",
+                "3",
+                "3",
+                "2 2",
+                null
+              ],
+              [
+                "4 4",
+                null,
+                "2 2",
+                null,
+                "1"
+              ],
+              [
+                "4 4",
+                null,
+                "2 2 2",
+                null,
+                null
+              ],
+              [
+                "3 3",
+                null,
+                "2 2",
+                null,
+                "2"
+              ],
+              [
+                "3 3",
+                null,
+                "3",
+                "2",
+                "2"
+              ],
+              [
+                "4 4",
+                null,
+                "4",
+                "2 2",
+                null
+              ],
+              [
+                "3",
+                "2 2 2 2",
+                null,
+                null,
+                null
+              ],
+              [
+                "4",
+                "4",
+                "3",
+                "2 2",
+                null
+              ],
+              [
+                "4",
+                "3",
+                "4",
+                "2",
+                "2"
+              ],
+              [
+                "4",
+                "2",
+                "4",
+                "2 2",
+                null
+              ],
+              [
+                "2",
+                "2",
+                "2",
+                "3",
+                "1"
+              ],
+              [
+                "3",
+                "3",
+                "3",
+                "3",
+                "2"
+              ]
+            ],
+            "table_1": [
+              [
+                "Criterion",
+                "Definition"
+              ],
+              [
+                "Policy embeddedness",
+                "This criterion captures whether a taxonomy refers to the climate\ntargets in international frameworks such as the Paris Agreement\nand the SDGs as well as national or regional climate targets. It\nalso assesses whether it includes more comprehensive sustain-\nability goals"
+              ],
+              [
+                "Sectoral coverage",
+                "This criterion refers to the share of emissions explicitly ­covered\nin a taxonomy, i.e., the sectors or technologies explicitly men-\ntioned in the respective taxonomy framework.1"
+              ],
+              [
+                "Screening approach",
+                "This criterion captures whether taxonomies define (technical)\nselection criteria or thresholds for including economic activities\nand whether these follow a credible, science-based decarboni-\nzation pathway."
+              ],
+              [
+                "Target group",
+                "This criterion refers to which market players in the financial\nsector and the real economy and which financial instruments\n(e. g. bonds, loans, guarantees, funds) are affected by the\n­taxonomy."
+              ],
+              [
+                "Reporting and\n­disclosure",
+                "This criterion assesses whether a taxonomy is linked to reporting\nobligations for countries in the respective country."
+              ]
+            ]
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 318,
+            "y1": 2546,
+            "x2": 1317,
+            "y2": 3398
+          },
+          "text": "The rest of the taxonomies cover between 50 and 90 per-\ncent of emissions.\n\nDifferent approaches to determining taxonomy-\naligned activities\n\nThe results show considerable differences in the screening\napproach, meaning which selection criteria or thresholds\nare defined for covering economic activities (Box 3). The\nASEAN, Columbian, Japanese, Hong Kong, Singaporean,\nand Thai taxonomies received the most points in this cate-\ngory (Figure 5), as they define dynamic and science-based\nthresholds that change over time. They also contain transi-\ntional activities, either by using a traffic light system or by\nrequiring the threshold values to be adjusted regularly. The\nMalaysian and Latin American and the Caribbean (LAC)",
+          "summarized_text": ".\n\nThe Malaysian and Latin American and the Caribbean (LAC) taxonomies take a more simplified approach, summarizing their selection criteria into just a few lines. This suggests that they may have less dynamic thresholds and fewer transitional activities included in their classifications compared to the other taxonomies mentioned."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1397,
+            "y1": 475,
+            "x2": 2327,
+            "y2": 650
+          },
+          "text": "Approaches for screening economic activities in\nalignment with the taxonomy"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1395,
+            "y1": 663,
+            "x2": 2299,
+            "y2": 1958
+          },
+          "text": "Generally, three approaches are used to classify economic\nactivities as aligned with a taxonomy. These approaches par-\ntially overlap and are independently used or used together in\ncombination (G20 SFWG, 2022). One approach involves tech-\nnical screening criteria (TSC design), which is used by many\ntaxonomies, including the EU taxonomy.' According to the TSC\ndesign, an economic activity is aligned with the taxonomy if its\nexpected contribution to an environmental objective defined\nin the taxonomy meets a series of criteria and threshold values\nfor emission intensity. As the type of technology underlying an\nactivity is not restricted, the TSC design is technology neutral.\nIn contrast, the whitelist design (WL) used in the taxonomies\nof Bangladesh, China, Georgia, Russia, and Mongolia explicitly\nmentions the activities aligned with the taxonomy and is thus\ntechnology specific. A “whitelist” means that an activity is only\nin alignment if it (i) is specifically listed in the taxonomy and\n\n(ii) it meets the relevant national environmental performance\nstandards. Finally, some taxonomies follow a principles-based\napproach. This approach defines a set of core principles and\nis open to the type of technology used, such as in the ASEAN,\nMalaysian, Filipino, and Singaporean taxonomies. Most tax-\nonomies combine their chosen approach with additional\nscreening criteria, such as social minimum safeguards and/\nor the \"Do No Significant Harm\" principle as well as specific\nexclusion criteria.",
+          "summarized_text": "Three approaches are used to classify economic activities in alignment with a taxonomy: technical screening criteria (TSC design), whitelist design (WL), and principles-based approach. These approaches determine if an economic activity meets specific criteria, is technology-specific, or follows core principles, often combined with additional screening criteria such as social safeguards and exclusion criteria."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1348,
+            "y1": 2554,
+            "x2": 2335,
+            "y2": 3271
+          },
+          "text": "taxonomies received the fewest points, as they generally only\ndefine principles and do not include measurable thresholds\nand criteria.\n\nTaxonomies often only apply to a limited group of\nmarket participants and financial products\n\nIn regard to the taxonomy’s target group, most taxonomies\nspecify which market participants they apply to or can poten-\ntially apply to. However, they are usually only aimed at a\nlimited group of actors or remain vague (Figure 6). The\nEU taxonomy scored four points here, as the target groups\nare very broad, as described above.\"* The Vietnamese and\nUzbekistani taxonomies received three points each, as they",
+          "summarized_text": ", specify a limited group of market participants and financial products. The Mexican taxonomy received two points, as it only defines principles without measurable thresholds and criteria. Overall, taxonomies received the fewest points due to their limited applicability and lack of specific guidelines."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 884,
+            "y1": 188,
+            "x2": 1626,
+            "y2": 293
+          },
+          "text": "SUSTAINABLE FINANCE TAXONOMIES"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 136,
+            "y1": 385,
+            "x2": 1144,
+            "y2": 798
+          },
+          "text": "at least include mandatory obligations for a defined list of\nactors and products. The rest of the taxonomies only received\ntwo points each, as they either only define a limited target\ngroup or set out a voluntary specification. Furthermore, in\nsome cases, such as Bangladesh, China, Kazakhstan, Russia,\nand Vietnam, the taxonomy only applies to specific financial\ninstruments, such as green bonds.”",
+          "summarized_text": "Mandatory obligations for a defined list of actors and products are outlined in the text, with limited points awarded for other taxonomies targeting specific groups or offering voluntary specifications. Some countries, including Bangladesh, China, Kazakhstan, Russia, and Vietnam, only apply the taxonomy to specific financial instruments like green bonds."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 133,
+            "y1": 811,
+            "x2": 1135,
+            "y2": 1542
+          },
+          "text": "Taxonomies rarely linked to reporting obligations\n\nMany taxonomies have not been directly linked to manda-\ntory disclosure and reporting obligations (Figure 7). In most\ncases, companies are not required to disclose information or\nto report about their alignment with the taxonomy. As taxon-\nomies are often voluntary frameworks, they are not linked to\nreporting obligations, even if some taxonomies refer to exist-\ning international standards and frameworks. The taxono-\nmies of Bangladesh, China, Georgia, and the EU are some\nof the few that have mandatory regulations. All market par-\nticipants who belong to the taxonomies’ target group must\ndisclose information and report about their taxonomy-re-\nlated activities.",
+          "summarized_text": "Taxonomies are often not connected to mandatory reporting requirements, as they are typically voluntary frameworks. However, some countries like Bangladesh, China, Georgia, and the EU have mandatory regulations for disclosure and reporting related to their taxonomies."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 141,
+            "y1": 1565,
+            "x2": 1120,
+            "y2": 1699
+          },
+          "text": "Thresholds help decarbonize activities in\nemission-intensive sectors"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 139,
+            "y1": 1712,
+            "x2": 1147,
+            "y2": 2932
+          },
+          "text": "Most taxonomies classify not only economic activities that\nare already carbon neutral (such as solar and wind energy,\nelectric vehicles, or similar) as sustainable, but also some\nactivities in emission-intensive sectors. In these sectors,\nthe exact criteria and thresholds are decisive for the ques-\ntion of to what extent they can potentially contribute to a cli-\nmate-neutral economy. However, the thresholds are not reg-\nularly adjusted or are not dynamic in many taxonomies. This\ncan mean that corresponding investments are not in accord-\nance with the Paris Agreement or lead to stranded assets. To\nillustrate the importance of dynamic thresholds, the crite-\nria and thresholds for the energy and transportation sectors\nused in the taxonomies of the EU, Thailand, and Indonesia\nare compared below (Table 2).\n\nThe path to carbon neutrality in the energy sector as well as\nin most industrial sectors has not yet been defined in the EU\ntaxonomy. For example, a binary threshold was determined\nfor the CO, intensity of electricity generation (for example for\nelectricity from hydropower plants, biomass, heat cogenera-\ntion, or gas-fired power plants). The taxonomy in Thailand, in\ncontrast, has a traffic light system and contains two thresh-\nolds for the energy sector that decrease over time. The traf-\nfic light system in the Indonesian taxonomy is also based on",
+          "summarized_text": "Taxonomies classify both carbon neutral and emission-intensive activities as sustainable, with criteria and thresholds determining their contribution to a climate-neutral economy. Dynamic thresholds are important to ensure investments align with the Paris Agreement and avoid stranded assets. A comparison of energy and transportation sector thresholds in EU, Thailand, and Indonesia taxonomies highlights the need for ongoing adjustment and dynamism in criteria."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1194,
+            "y1": 543,
+            "x2": 2420,
+            "y2": 1795
+          },
+          "data": {
+            "High contribution": {
+              "description": "Dynamic, measurable thresholds/criteria that are science based",
+              "countries": [
+                "AS",
+                "CO",
+                "HK",
+                "JP",
+                "SG",
+                "LK",
+                "TH"
+              ]
+            },
+            "Moderate contribution": {
+              "description": "Dynamic thresholds and clear screening criteria, science-based origin is unclear",
+              "countries": [
+                "GE",
+                "EU",
+                "IL",
+                "VN",
+                "KR",
+                "RW",
+                "MX"
+              ]
+            },
+            "Little contribution": {
+              "description": "Thresholds and/or criteria, unclear measurability, scientific basis is opaque",
+              "countries": [
+                "BD",
+                "BR",
+                "CN",
+                "ID",
+                "UZ",
+                "ZA",
+                "RU",
+                "PH",
+                "MN",
+                "KZ"
+              ]
+            },
+            "No contribution": {
+              "description": "No criteria or thresholds",
+              "countries": [
+                "MY",
+                "LAC"
+              ]
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1177,
+            "y1": 2088,
+            "x2": 2286,
+            "y2": 3219
+          },
+          "text": "international benchmarks in the strictest category but does\nnot require any threshold reductions.”\n\nIn the transport sector, the EU taxonomy defines a dynamic\nthreshold for passenger and light commercial vehicles that\ndeclines over the years. In the Thai taxonomy, however, there\nis already a threshold of zero emissions for passenger and\nlight commercial vehicles.\n\nThe examples illustrate that different countries and regions\nadjust thresholds differently, which can affect the speed of\nthe transition.\n\nConclusion: Global standards for taxonomies are\nessential\n\nTaxonomies are important for defining sustainable activi-\nties and thus for financing the transition to a climate-neu-\ntral economy. With clear criteria and standards, taxonomies\ncan contribute to creating a robust market for investments\nin climate-friendly activities.",
+          "summarized_text": "Diverse global approaches on emission thresholds for vehicles highlight the need for standardized taxonomies. Clear criteria can help create a robust market for investments in sustainable activities, aiding the transition to a climate-neutral economy."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "label": "graph",
+          "box": {
+            "x1": 82,
+            "y1": 453,
+            "x2": 1303,
+            "y2": 1653
+          },
+          "data": {
+            "TaxonomyTargetGroup": [
+              {
+                "ContributionLevel": "High",
+                "Description": "Mandatory obligations for most or all relevant market participants",
+                "Countries": [
+                  "EU"
+                ]
+              },
+              {
+                "ContributionLevel": "Moderate",
+                "Description": "Mandatory obligations for a moderate number of market participants or products",
+                "Countries": [
+                  "UZ",
+                  "VN"
+                ]
+              },
+              {
+                "ContributionLevel": "Little",
+                "Description": "Mandatory obligations for a few market participants or voluntary specification for potential users",
+                "Countries": [
+                  "SG",
+                  "ID",
+                  "KZ",
+                  "KR",
+                  "MN",
+                  "MX",
+                  "RU",
+                  "BD",
+                  "BR",
+                  "TH",
+                  "GE",
+                  "IL",
+                  "LK",
+                  "AS",
+                  "MY",
+                  "PH",
+                  "LAC",
+                  "JP",
+                  "CO",
+                  "RW",
+                  "ZA",
+                  "CN",
+                  "HK"
+                ]
+              },
+              {
+                "ContributionLevel": "No",
+                "Description": "No information on target group",
+                "Countries": []
+              }
+            ]
+          }
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 90,
+            "y1": 2029,
+            "x2": 1284,
+            "y2": 3186
+          },
+          "data": {
+            "High contribution": {
+              "description": "Granular data on taxonomy-alignment needs to be disclosed and audited by an independent third party",
+              "countries": [
+                "GE",
+                "EU",
+                "CN",
+                "BD"
+              ]
+            },
+            "Moderate contribution": {
+              "description": "Granular data on taxonomy-alignment needs to be disclosed",
+              "countries": [
+                "SG",
+                "ID",
+                "KZ",
+                "KR",
+                "MX",
+                "RU",
+                "VN",
+                "BR",
+                "TH",
+                "LK",
+                "AS",
+                "MY",
+                "PH",
+                "LAC",
+                "JP",
+                "RW",
+                "ZA",
+                "HK"
+              ]
+            },
+            "Little contribution": {
+              "description": "Disclosure voluntary and recommended, frameworks contain detailed specifications",
+              "countries": [
+                "CO",
+                "UZ",
+                "MN",
+                "IL"
+              ]
+            },
+            "No contribution": {
+              "description": "No disclosure or reporting obligations",
+              "countries": []
+            }
+          }
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1337,
+            "y1": 470,
+            "x2": 2427,
+            "y2": 1312
+          },
+          "data": {
+            "EU": {
+              "Energy sector": {
+                "Threshold for green": "<100 gCO2e/kWh, previously no reduction path",
+                "No traffic light system, hence no yellow category": true
+              },
+              "Transportation (Passenger vehicles and light commercial vehicles)": {
+                "Threshold": "<50 g CO2 per kilometer driven (g CO2/km)",
+                "Emissions must be reduced to zero by 2026": true
+              }
+            },
+            "Thailand": {
+              "Energy sector": {
+                "Threshold for green in traffic light system": "<100 gCO2e/kWh",
+                "Reduction to": "<50 gCO2e/kWh by 2040",
+                "Yellow in traffic light system": "will be reduced from < 382 gCO2e/kWh to < 148 gCO2e/kWh in five-year steps to zero by 2040"
+              },
+              "Transportation (Passenger vehicles and light commercial vehicles)": {
+                "No transition period (meaning threshold is zero emissions)": true
+              }
+            },
+            "Indonesia": {
+              "Energy sector": {
+                "Threshold for green in traffic light system": "<100 gCO2e/kWh",
+                "Yellow in traffic light system": "< 510 gCO2/kWh (based on the IEA Sustainable Development Scenario (SDS))"
+              },
+              "Transportation (Passenger vehicles and light commercial vehicles)": {
+                "Not explicitly contained in the taxonomy/thresholds have not yet been defined": true
+              }
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1331,
+            "y1": 1595,
+            "x2": 2344,
+            "y2": 2950
+          },
+          "text": "In conclusion, we find that the potential of the taxonomies\nanalyzed here to shift capital flows in accordance with the\nParis Agreement has not yet been exhausted. To realize the\nfull potential of taxonomies, they should contain environ-\nmental and social standards that are scientifically sound and\nprovide a clear path to climate neutrality. Moreover, an adjust-\nment to international climate targets for all sectors must be\nensured. This requires a dynamic approach, meaning the\ntaxonomy must continually be revised and adjusted based\non new scientific findings. In addition, a taxonomy should\nbe applied to all relevant financial instruments and actors\nin the financial sector and in the real economy and be a part\nof corporate reporting.\n\nDespite efforts to achieve international harmonization, there\nare major differences and divergent definitions of what is\n“green” or “sustainable” around the world. Many firms and\ninvestors are active in multiple countries. To increase the\neffectiveness of the taxonomies and to avoid shifting emis-\nsions abroad (carbon leakage), taxonomies should be har-\nmonized at the international level.\n\nTaxonomies worldwide should be better coordinated so that\nsustainability policies and programs across countries and\nregions can be evaluated coherently and carbon leakage and\ncapital market fragmentation can be avoided.”",
+          "summarized_text": "The potential of taxonomies to drive capital flows towards Paris Agreement goals is yet to be fully realized. To be effective, taxonomies should be science-based, regularly updated, applied universally, and harmonized internationally to prevent carbon leakage and promote global sustainability."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1331,
+            "y1": 1595,
+            "x2": 2344,
+            "y2": 2950
+          },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "blocks": []
+    },
+    {
+      "page_number": 10,
+      "blocks": [
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "EU",
+                "Thailand",
+                "Indonesia"
+              ],
+              [
+                "Energy sector*",
+                "Threshold for green:\n< 100 gCOe/kWh,\n2\n­previously no reduction\npath",
+                "Threshold for green in\ntraffic light system:\n< 100 gCOe/kWh\n2\nReduction to\n< 50 gCOe/kWh by 2040\n2",
+                "Threshold for green in\ntraffic light system:\n< 100 gCOe/KWh\n2"
+              ],
+              [
+                null,
+                "No traffic light system,\nhence no yellow category",
+                "Yellow in traffic light\nsystem:\nwill be reduced from < 382\nto < 148 gCOe/kWh in five-\n2\nyear steps to zero by 2040",
+                "Yellow in traffic light system:\n< 510 gCO/KWh (based\n2\non the IEA Sustainable\n­Development Scenario\n(SDS))"
+              ],
+              [
+                "Transportation\n(Passenger\nvehicles and\nlight commercial\nvehicles)",
+                "Threshold:\n< 50 g CO pro kilometer\n2\ndriven (g CO/km)\n2\nEmissions must be reduced\nto zero by 2026",
+                "No transition period\n(­meaning threshold is\nzero emissions)",
+                "Not explicitly contained in\nthe taxonomy/thresholds\nhave not yet been defined"
+              ]
+            ],
+            "table_1": [
+              [
+                "High\ncontri-\nbution\nModerate\ncontri-\nbution\nLittle\ncontri-\nbution\nNo\ncontri-\nbution",
+                "§ Granular data on taxonomy-alignment\nneeds to be disclosed and audited by\nan independent third party GE EU CN BD"
+              ],
+              [
+                null,
+                "§\nGranular data on taxonomy-alignment needs to be disclosed\nSG ID KZ KR MX RU VN BR TH\nLK AS MY PH LAC JP RW ZA HK"
+              ],
+              [
+                null,
+                "Disclosure voluntary and\nrecommended, frameworks\ncontain detailed specifications CO UZ MN IL"
+              ],
+              [
+                null,
+                "No disclosure or reporting obligations"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

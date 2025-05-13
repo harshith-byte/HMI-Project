@@ -1,0 +1,1395 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1085,
+            "y1": 357,
+            "x2": 1409,
+            "y2": 449
+          },
+          "text": "AT A GLANCE"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 167,
+            "y1": 535,
+            "x2": 2150,
+            "y2": 822
+          },
+          "text": "The future is battery electric: Climate change\nmitigation in road freight transport\n\nBy Wolf-Peter Schill, Julius Johrens, Dominik Rader, Hendrik Beeh, Josef Klingl, and Markus Werner"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 161,
+            "y1": 892,
+            "x2": 2349,
+            "y2": 1665
+          },
+          "text": "Heavy-duty road freight transport was responsible for around six percent of total German\ngreenhouse gas emissions in 2022\n\nBattery-electric truck fleet is growing from a low level, while hydrogen trucks are stagnating\n\nNumber of available models has increased; major manufacturers are mainly selling battery-electric\ndrives\n\nMarket developments, costs, and efficiency advantages clearly favor battery-electric trucks with\nstationary charging\n\nGovernment should continue to support the expansion of the charging infrastructure with fast\ncharging options for trucks",
+          "summarized_text": "In 2022, heavy-duty road freight transport accounted for six percent of German greenhouse gas emissions. The growth of battery-electric truck fleets is outpacing hydrogen trucks, with major manufacturers focusing on battery-electric drives due to market developments, costs, and efficiency advantages. The government should support the expansion of charging infrastructure, particularly fast charging options for trucks, to further accelerate the transition to electric trucks."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 194,
+            "y1": 1784,
+            "x2": 1632,
+            "y2": 1892
+          },
+          "text": "Market development favors battery-electric drives in road freight transport"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 190,
+            "y1": 1973,
+            "x2": 2314,
+            "y2": 2762
+          },
+          "data": {
+            "data": [
+              {
+                "date": "June 2022",
+                "total_percentage": "1.4%",
+                "models": {
+                  "total_available": 119
+                },
+                "type_distribution": {
+                  "battery_electric": "0.013%",
+                  "plug_in_hybrid": "0.006%",
+                  "hydrogen": "0.001%"
+                }
+              },
+              {
+                "date": "June 2023",
+                "total_percentage": "1.8%",
+                "type_distribution": {
+                  "battery_electric": "0.013%",
+                  "plug_in_hybrid": "0.006%",
+                  "hydrogen": "0.001%"
+                }
+              },
+              {
+                "date": "June 2024",
+                "total_percentage": "2.3%",
+                "models": {
+                  "total_available": 42
+                },
+                "type_distribution": {
+                  "battery_electric": "0.27%",
+                  "plug_in_hybrid": "0.008%",
+                  "hydrogen": "0.003%"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1066,
+            "y1": 195,
+            "x2": 1438,
+            "y2": 259
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 161,
+            "y1": 497,
+            "x2": 2365,
+            "y2": 1000
+          },
+          "text": "The future is battery-electric: Climate\nchange mitigation in road freight transport\n\nBy Wolf-Peter Schill, Julius Jchrens, Dominik Rader, Hendrik Beeh, Josef Klingl, and Markus Werner"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 165,
+            "y1": 1222,
+            "x2": 488,
+            "y2": 1313
+          },
+          "text": "ABSTRACT"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 165,
+            "y1": 1346,
+            "x2": 1289,
+            "y2": 2654
+          },
+          "text": "Road freight transport must switch to alternative drive tech-\nnologies, such as battery-electric or hydrogen vehicles, to\nmitigate its impact on the climate. Preliminary results from an\nongoing research project show that the fleet of battery-electric\ntrucks as well as the number of models on offer have recently\ngrown significantly, albeit from a very low level. This is not the\ncase for hydrogen trucks. Considerable amounts of invest-\nment from the private sector are flowing into the charging\ninfrastructure. Compared to hydrogen trucks, battery-electric\nvehicles have major advantages when it comes to energy\nefficiency, foreseeable energy costs, and their expected and\nrealistic contribution to climate change mitigation. Policymak-\ners should therefore set a clear focus on ramping up battery-\nelectric trucks while expanding the charging infrastructure, the\nfast charging network more vigorously in particular. To face\npossible challenges, especially when it comes to grid connec-\ntions, battery swapping systems, or overhead line systems—\nwhich have a large technological overlap with battery-electric\ntrucks—could be tested further. Furthermore, the energy\nefficiency advantages of battery-electric trucks should be con-\nsidered in the greenhouse gas reduction quota system.",
+          "summarized_text": "The road freight transport industry is encouraged to switch to alternative drive technologies like battery-electric or hydrogen vehicles to reduce its impact on the climate. Battery-electric trucks are experiencing significant growth and investment, with advantages in energy efficiency and climate change mitigation compared to hydrogen trucks. Policymakers are advised to focus on expanding the charging infrastructure for battery-electric trucks to support their widespread adoption."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1357,
+            "y1": 1178,
+            "x2": 2349,
+            "y2": 2086
+          },
+          "text": "Germany has set a goal to become climate neutral by 2045.\nThis requires climate change mitigation measures in all eco-\nnomic sectors, including road freight transport. One impor-\ntant strategy for this sector is switching from diesel trucks\nto battery-electric or hydrogen trucks.\n\nThis Weekly Report provides an overview of the current fleet\nand market development trends of battery-electric and hydro-\ngen trucks as well as of the expansion of the charging and\nrefueling infrastructure. Next, it discusses the advantages\nand drawbacks of alternative technologies as well as their\npossible contributions to climate change mitigation. The\ndata used in this Weekly Report are drawn from prelimi-\nnary results of an ongoing research project of the Institute\nfor Energy and Environmental Research (Institut fir Energie-\nund Umweltforschung Heidelberg, ifeu), TU Dresden, and\nDIW Berlin.\"",
+          "summarized_text": "Germany aims to achieve climate neutrality by 2045, requiring climate mitigation in all sectors, including road freight transport shifting from diesel to electric or hydrogen trucks. Research project data from ifeu, TU Dresden, and DIW Berlin analyzes market trends, infrastructure development, and technology pros and cons for climate change mitigation."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1351,
+            "y1": 2092,
+            "x2": 2262,
+            "y2": 2205
+          },
+          "text": "Necessity of and options for climate change\n\nmifinatinn in rnad frainht trancnart®"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1351,
+            "y1": 2270,
+            "x2": 2343,
+            "y2": 2876
+          },
+          "text": "Road freight ranges from urban distribution and delivery\ntransport via light commercial vehicles to trans-national\nheavy goods transport. A variety of vehicles are used for\nsuch transport, differing in aspects such as configuration\nand permitted gross weight. Vehicles heavier than 3.5 tons\nare known as heavy-duty vehicles. The Federal Motor\nTransport Authority (Krafifahrt Bundesamt, KBA) differen-\ntiates between straight trucks (Lastkraftwagen) and tractor\nunits (Zugmaschinen). Especially relevant for heavy goods\ntransport is the subgroup of semi-trailer trucks.’ Semi-trailer\ntrucks cover daily distances of 400 to 500 kilometers on aver-\nage, much greater than other trucks (around 300 kilometers).",
+          "summarized_text": "Road freight transportation includes a range of vehicles, from light commercial vehicles for urban delivery to heavy-duty vehicles for trans-national transport. Vehicles heavier than 3.5 tons are categorized as heavy-duty, with semi-trailer trucks covering greater distances on average compared to other trucks."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1076,
+            "y1": 184,
+            "x2": 1429,
+            "y2": 259
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 95,
+            "y1": 422,
+            "x2": 830,
+            "y2": 578
+          },
+          "text": "Figure 1\n\nRoad freight vehicle fleet in Germany\nShare of alternative drives in percent"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 107,
+            "y1": 627,
+            "x2": 2403,
+            "y2": 1503
+          },
+          "data": {
+            "Trucks": {
+              "Hydrogen": {
+                "2018": 0.7,
+                "2019": 0.8,
+                "2020": 0.9,
+                "2021": 1.0,
+                "2022": 1.3,
+                "2023": 1.6,
+                "2024": 2.7
+              },
+              "Plug-in hybrid": {
+                "2022": 0.01,
+                "2023": 0.006,
+                "2024": 0.006
+              }
+            },
+            "Semi-trailer trucks": {
+              "Battery electric": {
+                "2020": 0.0,
+                "2021": 0.02,
+                "2022": 0.03,
+                "2023": 0.07,
+                "2024": 0.32
+              },
+              "Plug-in hybrid": {
+                "2023": 0.003,
+                "2024": 0.008
+              }
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 171,
+            "y1": 1740,
+            "x2": 1136,
+            "y2": 2168
+          },
+          "text": "Road freight causes significant greenhouse gas emissions in\nGermany, and the emissions keep rising. Commercial vehi-\ncles weighing over 3.5 tons were responsible for 28 percent\nof emissions from the transport sector and for around six\npercent of total German greenhouse gas emissions in 2022.’\nAround two thirds of these commercial vehicles weighed\nover 26 tons; they are mainly used for long-distance routes.",
+          "summarized_text": "Road freight in Germany, particularly from commercial vehicles over 3.5 tons, contributes significantly to greenhouse gas emissions. These vehicles, mainly used for long-distance routes and weighing over 26 tons, accounted for 28% of the transport sector emissions and 6% of total German greenhouse gas emissions in 2022."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 173,
+            "y1": 2140,
+            "x2": 810,
+            "y2": 2227
+          },
+          "text": "Various alternative drive options"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 157,
+            "y1": 2238,
+            "x2": 1130,
+            "y2": 3000
+          },
+          "text": "Possible strategies for climate change mitigation in road\nfreight are avoiding transport, switching to rail freight, and\nusing alternative drives. There appears to be limited poten-\ntial for avoiding transport and switching to rail freight.* Thus,\nthe focus is on switching from diesel trucks to battery-electric\nvehicles, which requires an expansion of the fast-charging\ninfrastructure. There are also two hydrogen-based options:\nVehicles with hydrogen combustion engines and vehicles\nwith fuel cells and an electric motor. Both types require\nhydrogen refueling stations.\n\nThere has also been some discussion of retaining diesel\nengines while using biofuels or synthetic fuels based on\ngreen hydrogen (e-fuels). However, we do not investigate",
+          "summarized_text": "One potential strategy for mitigating climate change in road freight is to retain diesel engines while using biofuels or synthetic fuels derived from green hydrogen. This approach would require investment in infrastructure for producing and distributing these alternative fuels. This strategy could potentially provide a more cost-effective and feasible alternative to completely transitioning to battery-electric or hydrogen-based vehicles."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1173,
+            "y1": 1751,
+            "x2": 2130,
+            "y2": 1870
+          },
+          "text": "these options further in this Weekly Report as they do not\nappear to be affordably scalable.",
+          "summarized_text": "The options mentioned in the Weekly Report do not seem to be scalable due to affordability constraints. These options will not be further discussed in the report."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1175,
+            "y1": 1989,
+            "x2": 2153,
+            "y2": 2767
+          },
+          "text": "The German Federal Government's Climate Action\nProgramme 2030 stipulates that around one third of heavy\nroad freight transport mileage must be electric or powered\nby electric fuels by 2030.° Using alternative drives for road\nfreight thus poses an especially large opportunity for decar-\nbonization.’ However, there are no concrete targets for newly\nregistered trucks or the fleet of electric trucks, unlike for elec-\ntric passenger vehicles.\n\nIn 2024, stricter fleet targets for carbon emissions of\nnewly registered heavy commercial vehicles were set at the\nEuropean level.* By 2030, newly registered trucks over 7.5 tons\nmust have 45 percent lower CO, emissions compared to\n2019. By 2035 and 2040, they must have 65 and 90 percent\nlower emissions, respectively, than in 2019.° These targets",
+          "summarized_text": "The European Union has set stricter fleet targets for carbon emissions of newly registered heavy commercial vehicles, with a 45% reduction by 2030, 65% by 2035, and 90% by 2040 compared to 2019 levels. The German Federal Government's Climate Action Programme 2030 aims for one third of heavy road freight transport mileage to be electric or powered by electric fuels by 2030 to aid in decarbonization."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1173,
+            "y1": 1908,
+            "x2": 1898,
+            "y2": 1973
+          },
+          "text": "No technology-specific goals to date"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1074,
+            "y1": 162,
+            "x2": 1427,
+            "y2": 303
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 99,
+            "y1": 454,
+            "x2": 983,
+            "y2": 584
+          },
+          "text": "Monthly new road freight vehicle registrations\nShare of alternative drives in percent"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 105,
+            "y1": 632,
+            "x2": 2409,
+            "y2": 1546
+          },
+          "data": {
+            "Trucks": {
+              "2021": {
+                "Hydrogen": 5,
+                "Plug-in Hybrid": 2
+              },
+              "2022": {
+                "Hydrogen": 10,
+                "Plug-in Hybrid": 1
+              },
+              "2023": {
+                "Hydrogen": 15,
+                "Plug-in Hybrid": 1
+              },
+              "2024": {
+                "Hydrogen": 15,
+                "Plug-in Hybrid": 1
+              }
+            },
+            "Semi-trailer Trucks": {
+              "2021": {
+                "Hydrogen": 0,
+                "Plug-in Hybrid": 0,
+                "Battery Electric": 0
+              },
+              "2022": {
+                "Hydrogen": 1,
+                "Plug-in Hybrid": 1,
+                "Battery Electric": 1
+              },
+              "2023": {
+                "Hydrogen": 3,
+                "Plug-in Hybrid": 2,
+                "Battery Electric": 3
+              },
+              "2024": {
+                "Hydrogen": 4,
+                "Plug-in Hybrid": 2,
+                "Battery Electric": 3
+              }
+            }
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 97,
+            "y1": 1816,
+            "x2": 1105,
+            "y2": 1924
+          },
+          "text": "Announced and available vehicle models in Germany\nNumber as of October 70274"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 107,
+            "y1": 1968,
+            "x2": 1303,
+            "y2": 2876
+          },
+          "data": {
+            "Battery electric": {
+              "Total": 133,
+              "Available": 117,
+              "Announced": 16
+            },
+            "Fuel cell": {
+              "Total": 31,
+              "Available": 24,
+              "Announced": 7
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1353,
+            "y1": 1740,
+            "x2": 2334,
+            "y2": 1849
+          },
+          "text": "can probably only be achieved with a rapid increase in newly\nreaictered tricke with electric drives 12",
+          "summarized_text": "Rapidly increasing the number of newly registered electric vehicles with electric drives will be key to achieving the desired outcome as mentioned in the text."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1347,
+            "y1": 1897,
+            "x2": 2303,
+            "y2": 2011
+          },
+          "text": "Current market development favors battery-\nelectric vehicles"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1355,
+            "y1": 2049,
+            "x2": 2365,
+            "y2": 2827
+          },
+          "text": "Currently, there are around 3.8 million trucks in Germany,\n530,000 of which weigh more than 3.5 tons. In addition,\nthere are 236,000 semi-trailer trucks (Figure 1).\" Diesel\nengines dominate overwhelmingly in both sectors: 92 per-\ncent of trucks and 97 percent of semi-trailer trucks have\ndiesel engines. Only around 2.3 percent of trucks are pure\nbattery-electric trucks; most are light commercial vehicles\nweighing less than 3.5 tons. Only 0.3 percent of semi-trailer\ntrucks are battery electric.\n\nHowever, the shares of new registrations of battery-electric\nvehicles are markedly higher (Figure 2). This has resulted\nin a considerable recent increase in the fleet of battery-elec-\ntric vehicles, albeit from a low level. On average over the last",
+          "summarized_text": "The majority of trucks in Germany are powered by diesel engines, with only around 2.3% being pure battery-electric vehicles. However, new registrations of battery-electric vehicles are increasing, leading to a growth in the fleet of these vehicles despite starting from a low level."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1087,
+            "y1": 157,
+            "x2": 1467,
+            "y2": 346
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 107,
+            "y1": 432,
+            "x2": 859,
+            "y2": 573
+          },
+          "text": "Piygure &\n\nVehicle models listed by manufacturer\nNumber as of October 27074"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 138,
+            "y1": 1946,
+            "x2": 1157,
+            "y2": 3022
+          },
+          "text": "12 months, five percent of all new trucks as well as 1.6 per-\ncent of all new semi-trailer trucks were pure battery electric.”\n\nDespite being a frequent topic of policy discussion, hydro-\ngen has not yet played any meaningful role in road freight.\nCurrently, there are around 400 pure battery-electric trucks\nfor every hydrogen truck in the fleet, while there are more\nthan one hundred times as many battery-electric semi-trailer\ntrucks as hydrogen semi-trailer trucks. Further, there is no\npositive trend in new registrations of hydrogen vehicles.\n\nConsiderable increase in number of electric vehicle\nmodels\n\nAwide variety of available models is important for the market\npotential of electric trucks due to factors such as route pro-\nfiles, differing requirements in the logistics sector depending\non the type of good being transported, and the often strong\nbrand loyalty of truck operators.",
+          "summarized_text": "Despite ongoing policy discussions, hydrogen has yet to make a significant impact on road freight. There are currently significantly more battery-electric trucks and semi-trailer trucks in operation compared to hydrogen vehicles, with no positive trend in new registrations of hydrogen vehicles. The market potential for electric trucks is bolstered by a wide variety of available models, catering to different route profiles, logistics sector requirements, and brand loyalty among truck operators."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1180,
+            "y1": 1978,
+            "x2": 2169,
+            "y2": 2951
+          },
+          "text": "In total, 164 different models in the sector of heavy trucks\nand semi-trailer trucks weighing over 3.5 tons could be iden-\ntified on the German market in October 2024 (Figure 3).”\nOne hundred and forty-one of these models (86 percent} are\nalready available and 23 have been announced (14 percent).\nThus, compared to an earlier evaluation in October 2022\nwhen 65 models were available, the number of models on\noffer has more than doubled.\n\nAround 80 percent of these models are battery electric, while\nthe remaining 20 percent have a fuel cell drive. Hydrogen\nvehicles are rather well represented in the model range com-\npared to their current niche role in existing and new vehicle\nregistrations.’* However, a small number of specialist compa-\nnies produce a large share of hydrogen trucks, and most of\nthem concentrate on converting vehicles from other manu-\nfacturers. Of the major manufacturers in Europe, in contrast,\nonly six offer or have announced fuel cell vehicles (Figure 4).",
+          "summarized_text": "In October 2024, there were 164 different models of heavy trucks and semi-trailer trucks weighing over 3.5 tons in Germany, with 86 percent already available and 14 percent announced. Around 80 percent of these models are battery electric, while the remaining 20 percent have a fuel cell drive, with a small number of specialist companies leading the production of hydrogen trucks."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 118,
+            "y1": 632,
+            "x2": 2400,
+            "y2": 1713
+          },
+          "data": {
+            "Established_manufacturers": {
+              "DAF": {
+                "Battery_electric": 12,
+                "Fuel_cell": 0
+              },
+              "Fiat": {
+                "Battery_electric": 1,
+                "Fuel_cell": 0
+              },
+              "Ford": {
+                "Battery_electric": 7,
+                "Fuel_cell": 1
+              },
+              "IVECO": {
+                "Battery_electric": 4,
+                "Fuel_cell": 2
+              },
+              "MAN": {
+                "Battery_electric": 6,
+                "Fuel_cell": 6
+              },
+              "Mercedes-Benz": {
+                "Battery_electric": 4,
+                "Fuel_cell": 1
+              },
+              "Mitsubishi Fuso": {
+                "Battery_electric": 9,
+                "Fuel_cell": 1
+              },
+              "Renault": {
+                "Battery_electric": 5,
+                "Fuel_cell": 1
+              },
+              "Scania": {
+                "Battery_electric": 13,
+                "Fuel_cell": 0
+              },
+              "Volvo": {
+                "Battery_electric": 25,
+                "Fuel_cell": 0
+              }
+            },
+            "Small_or_new_manufacturers": {
+              "BYD": {
+                "Battery_electric": 1,
+                "Fuel_cell": 2
+              },
+              "Hyundai": {
+                "Battery_electric": 1,
+                "Fuel_cell": 0
+              },
+              "Irizar": {
+                "Battery_electric": 1,
+                "Fuel_cell": 0
+              },
+              "Maxus": {
+                "Battery_electric": 1,
+                "Fuel_cell": 0
+              },
+              "Steyr": {
+                "Battery_electric": 1,
+                "Fuel_cell": 2
+              },
+              "Tesla": {
+                "Battery_electric": 1,
+                "Fuel_cell": 0
+              },
+              "Volta Trucks": {
+                "Battery_electric": 4,
+                "Fuel_cell": 0
+              }
+            },
+            "Retrofiters": {
+              "Designwerk": {
+                "Battery_electric": 25,
+                "Fuel_cell": 0
+              },
+              "GINAF": {
+                "Battery_electric": 8,
+                "Fuel_cell": 0
+              },
+              "Holthausen": {
+                "Battery_electric": 7,
+                "Fuel_cell": 0
+              },
+              "Quantron": {
+                "Battery_electric": 9,
+                "Fuel_cell": 0
+              },
+              "Orten": {
+                "Battery_electric": 7,
+                "Fuel_cell": 0
+              },
+              "Sonstige": {
+                "Battery_electric": 7,
+                "Fuel_cell": 5
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1080,
+            "y1": 141,
+            "x2": 1440,
+            "y2": 249
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 97,
+            "y1": 400,
+            "x2": 1169,
+            "y2": 584
+          },
+          "text": "Figure 5\n\nRange of available and announced vehicle models\nNumber of models as of 2024"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 107,
+            "y1": 595,
+            "x2": 1318,
+            "y2": 1551
+          },
+          "data": {
+            "data": [
+              {
+                "range": "Up to 100 km",
+                "battery_electric": 55,
+                "fuel_cell": 5
+              },
+              {
+                "range": "Up to 200 km",
+                "battery_electric": 30,
+                "fuel_cell": 5
+              },
+              {
+                "range": "Up to 300 km",
+                "battery_electric": 48,
+                "fuel_cell": 2
+              },
+              {
+                "range": "Up to 400 km",
+                "battery_electric": 60,
+                "fuel_cell": 2
+              },
+              {
+                "range": "Up to 500 km",
+                "battery_electric": 18,
+                "fuel_cell": 7
+              },
+              {
+                "range": "Up to 600 km",
+                "battery_electric": 12,
+                "fuel_cell": 5
+              },
+              {
+                "range": "Up to 700 km",
+                "battery_electric": 5,
+                "fuel_cell": 5
+              },
+              {
+                "range": "More than 700 km",
+                "battery_electric": 5,
+                "fuel_cell": 2
+              }
+            ]
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 341,
+            "y1": 1795,
+            "x2": 1320,
+            "y2": 2735
+          },
+          "text": "A good 80 percent of the models, almost exclusively bat-\nery-electric trucks, have a range of less than 500 kilome-\ners. The focus is on ranges of 200 to 300 kilometers, which\ncan cover regional transport (Figure 5).\" There are a few\nbattery-electric models with a range of over 500 kilometers,\nbut most of these are equipped with a fuel cell drive. Range\nis an important aspect in ongoing discussions about poten-\nial benefits of fuel cell vehicles, which is clearly reflected in\nhe available models.\n\nThe available models cover all size classes of commercial\nvehicles.'® More than half of the models have a gross vehi-\ncle weight of over 12 tons. While the larger vehicles tend to\nhave a somewhat greater range, the range profile is simi-\nlar for all vehicle sizes. This also applies to the semi-trailer\ntrucks that are common in long-distance transport, as these\ncan currently usually only be ordered with the same battery\nsizes as trucks over 12 tons.",
+          "summarized_text": "About 80 percent of battery-electric trucks have a range of less than 500 kilometers, with a focus on 200 to 300 kilometers for regional transport. Some models have a range over 500 kilometers, mostly with fuel cell drives, covering all size classes of commercial vehicles."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 351,
+            "y1": 2757,
+            "x2": 983,
+            "y2": 2816
+          },
+          "text": "Various manufacturer strategies"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 345,
+            "y1": 2865,
+            "x2": 1322,
+            "y2": 3108
+          },
+          "text": "Individual manufacturers differ greatly in their view on the\nstrategic importance of hydrogen drives. While the TRATON\nGroup (MAN / Scania), for example, has strongly empha-\nsized the economic advantages of battery-electric vehicles in\nrecent years and views them as the clear focus of its corporate",
+          "summarized_text": "TRATON Group, including MAN and Scania, has prioritized battery-electric vehicles over hydrogen drives for economic reasons. They see electric vehicles as the main focus of their corporate strategy."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1359,
+            "y1": 400,
+            "x2": 2322,
+            "y2": 1416
+          },
+          "text": "strategy,” Daimler is pursuing a dual strategy with bat-\ntery-electric drives and fuel cells to power heavy long-haul\ntransport.” Other manufacturers use a “three-pillar model”\nincluding renewable fuels (Volvo}” or a “technology-neu-\ntral multi-drive approach” (Iveco).?? Only Renault Trucks\nwill explicitly exclude fossil combustion engines from 2040\nonward.” Volvo, MAN, DAF, and Iveco also include the hydro-\ngen combustion engine as an option to varying degrees.\n\nInformation provided by manufacturers at “cleanroom dis-\ncussions” ,”* which have been initiated by the Federal Ministry\nfor Digital and Transport (Bundesministerium fiir Digitales\nund Verkehr, BMDV) to better assess the future roll-out of\nlow-carbon trucks, shows that the market share of pure bat-\ntery-electric drives in heavy commercial vehicles is expected\nto increase significantly in the coming years. By 2030, they\nwill make up around half of all sales in the over 12 tons\nweight class. Various other technologies will play more of a\nsupplementary role.",
+          "summarized_text": "Daimler is pursuing a dual strategy with battery-electric drives and fuel cells for heavy long-haul transport while other manufacturers like Volvo, MAN, DAF, and Iveco are exploring a three-pillar model with renewable fuels or a technology-neutral multi-drive approach. Renault Trucks plans to exclude fossil combustion engines from 2040 onwards."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1347,
+            "y1": 1384,
+            "x2": 2324,
+            "y2": 1492
+          },
+          "text": "Ramp-up of charging and refueling infrastructure"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1357,
+            "y1": 1513,
+            "x2": 2322,
+            "y2": 2076
+          },
+          "text": "Battery-electric and hydrogen drives face different challenges\nwhen it comes to their public energy supply infrastructure. In\nmany cases, battery-electric trucks can recharge the majority\nof their battery at a depot, provided that the grid connections\nand vehicle profiles allow it. However, a certain amount of\nfast charging is required, especially in long-distance trans-\nport.” Hydrogen trucks, on the other hand, cannot be refu-\neled in depots, but are generally dependent on public hydro-\ngen refueling stations, as the construction and operation of\nrefueling stations is expensive compared to electric depot\ncharging stations.",
+          "summarized_text": "Battery-electric trucks can recharge at depots but require fast charging for long-distance transport, while hydrogen trucks rely on public refueling stations due to the high cost of construction and operation compared to electric charging stations at depots."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1351,
+            "y1": 2086,
+            "x2": 2215,
+            "y2": 2151
+          },
+          "text": "Eynansion of the fast-charaing infrastructure"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1351,
+            "y1": 2205,
+            "x2": 2316,
+            "y2": 2470
+          },
+          "text": "The established Combined Charging System (CCS) stand-\nard is available for charging infrastructure up to a capac-\nity of 400 kilowatts. Currently, 31,000 CCS charging sta-\ntions are publicly available in Germany.” In general, they are\ndesigned for passenger cars, but some can also serve trucks.",
+          "summarized_text": "The CCS standard allows for charging infrastructure up to 400 kW, with 31,000 stations in Germany. Primarily for passenger cars, some stations can also accommodate trucks."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1060,
+            "y1": 130,
+            "x2": 1456,
+            "y2": 270
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 169,
+            "y1": 395,
+            "x2": 913,
+            "y2": 605
+          },
+          "text": "Table\n\nTruck charging infrastructure activities\nAs of October 2024"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 173,
+            "y1": 665,
+            "x2": 2153,
+            "y2": 1178
+          },
+          "data": {
+            "Initial charging network (BMDV, BMWK)": {
+              "Planned locations": "350",
+              "Planned charging points": "4,200",
+              "Existing locations": "0",
+              "Type of location": "Rest areas",
+              "Planned finish date": "Until 2030",
+              "Charging capacity": "1,800 x MCS, 2,400 x CCS"
+            },
+            "e.On, MAN": {
+              "Planned locations": "125 (DE), 170 (EU + UK)",
+              "Planned charging points": "400",
+              "Existing locations": "1 (DE)",
+              "Type of location": "Near highways (first location)",
+              "Planned finish date": "TBD",
+              "Charging capacity": "Initially 400 kW CCS, MCS to be added later"
+            },
+            "Milence": {
+              "Planned locations": "25 (DE), 70 (EU)",
+              "Planned charging points": "570 by 2025, 1,700 by 2027 (EU)",
+              "Existing locations": "0 (DE) / 4 (EU)",
+              "Type of location": "Near highways, truck stops, city center",
+              "Planned finish date": "2025",
+              "Charging capacity": "CCS+MCS (at five existing locations first)"
+            },
+            "Aral Pulse": {
+              "Planned locations": "30",
+              "Planned charging points": "N.a.",
+              "Existing locations": "25 (DE) / 26 (EU)",
+              "Type of location": "Aral truck stops",
+              "Planned finish date": "2024",
+              "Charging capacity": "CCS 300 kW"
+            },
+            "TST+EWR (PVSM Energy)": {
+              "Planned locations": "41",
+              "Planned charging points": "N.a.",
+              "Existing locations": "1",
+              "Type of location": "Near highways",
+              "Planned finish date": "2025",
+              "Charging capacity": "CCS 400 kW"
+            },
+            "CityWatt": {
+              "Planned locations": "N.a.",
+              "Planned charging points": "N.a.",
+              "Existing locations": "50",
+              "Type of location": "City centers/industrial areas, near highways, federal highways",
+              "Planned finish date": "2024",
+              "Charging capacity": "CCS 300 kW"
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 161,
+            "y1": 1432,
+            "x2": 1138,
+            "y2": 2854
+          },
+          "text": "However, much higher charging capacities may be neces-\nsary to recharge the batteries of heavy long-distance transport\ntrucks quickly enough during the drivers’ breaks. To solve\nthis issue, a new fast charging standard is being developed\nand is nearly ready to be introduced, the Megawatt Charging\nSystem (MCS). The MCS should make charging capacities\nof up to 3.75 megawatts (3,750 kilowatts) possible.”°\n\nRecently, various private sector actors have announced plans\nto build specific truck charging stations in over 200 locations,\nand construction has already begun on some of them (Table).\nOn the government side, the BMDV and the Federal Ministry\nfor Digital and Transport (Bundesministerium fir Digitales und\nVerkehr, BMDV) have launched an initiative for a fast-charg-\ning network for trucks” that includes around 350 locations\non federal highways. An initial tender for truck charging sta-\ntions at around 130 unmanaged rest areas has already been\nlaunched,” with another to follow. For all planned station\nlocations, the electrical connection capacities required and\ncorresponding grid connections have already been planned\nand applied for.\n\nThe public fast charging infrastructure is primarily needed\nto make it possible for battery-electric trucks to cover the typ-\nical long-distance transport profiles. This infrastructure will\nlikely be of great importance for compliance with the stricter\nEuropean fleet CO, targets from 2030 onward. Until pub-\nlic truck charging infrastructure is widely available, many",
+          "summarized_text": "Public and private sector initiatives are underway to develop a fast-charging network for heavy long-distance transport trucks, including the introduction of the Megawatt Charging System. Plans for over 200 truck charging stations have been announced, with construction already in progress, to support the adoption of battery-electric trucks and meet upcoming European CO2 emission targets."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1173,
+            "y1": 1465,
+            "x2": 2142,
+            "y2": 1670
+          },
+          "text": "battery-electric trucks can rely on depot charging, especially\ntrucks used for regional transport, which can in turn pro-\nmote the market ramp-up of electric trucks.*",
+          "summarized_text": "Depot charging is a viable option for battery-electric trucks used in regional transport, supporting the market growth of electric trucks. This method can help facilitate the adoption and expansion of electric vehicles in the transportation industry."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1177,
+            "y1": 1659,
+            "x2": 2012,
+            "y2": 1740
+          },
+          "text": "Challenges for hydrogen refueling stations"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1175,
+            "y1": 1735,
+            "x2": 2151,
+            "y2": 2919
+          },
+          "text": "To date, hydrogen refueling stations have mainly been\nplanned for passenger cars at a pressure level of 700 bar.\nHowever, trucks require a lower pressure of 350 bar, which\nonly around half of the existing refueling stations can cur-\nrently provide. As of September 2024, there are 42 refue-\nling stations with a pressure level of 350 bar.” Some man-\nufacturers are also considering using liquid hydrogen in\nfuture vehicle models, which entails uncertainty regarding\nthe construction of new refueling stations.” The previous\nfunding for hydrogen refueling stations from the Climate\nand Transformation Fund (Klima- und Transformationfonds,\nKTF) was discontinued due to funding problems.\n\nWhile there are concrete private sector activities and gov-\nernment tenders being undertaken for the battery-electric\ntruck charging infrastructure, there is much more planning\nuncertainty when it comes to the construction of hydrogen\nrefueling stations. On the government side, the main issue\nis how to ensure compliance with the European minimum\ninfrastructure requirements”! and whether the targets need\nto be adapted to the new market reality.”",
+          "summarized_text": "Currently, there is a shortage of hydrogen refueling stations for trucks due to lower pressure requirements. Government funding for hydrogen infrastructure has been discontinued, leading to uncertainty in planning and compliance with European infrastructure requirements."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 2027,
+            "y1": 119,
+            "x2": 2436,
+            "y2": 292
+          },
+          "text": "Corrected version (Table)"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1080,
+            "y1": 130,
+            "x2": 1438,
+            "y2": 314
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 359,
+            "y1": 432,
+            "x2": 2295,
+            "y2": 589
+          },
+          "text": "30X\n\nElectricity sector analysis: Advantages of hydrogen storage do not outweigh energy-efficiency drawbacks"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 110,
+            "y1": 595,
+            "x2": 1258,
+            "y2": 865
+          },
+          "text": "Figure\n\nChange in electricity sector costs compared to the reference\n(diesel trucks) as well as the electricity consumed by vehicles\nBillions of euros (left axis), terawatt hours (right axis)"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 107,
+            "y1": 865,
+            "x2": 1291,
+            "y2": 2032
+          },
+          "data": {
+            "Directly Electrified": {
+              "Battery Electric, Optimal Charging": {
+                "Cost Difference to Reference (billions of euros)": 2.3,
+                "Additional Electricity Required (TWh)": null
+              },
+              "Battery Electric, Optimal Charging with Vehicle-to-Grid": {
+                "Cost Difference to Reference (billions of euros)": 1.8,
+                "Additional Electricity Required (TWh)": null
+              },
+              "Battery Electric, Inflexible Charging": {
+                "Cost Difference to Reference (billions of euros)": 3.8,
+                "Additional Electricity Required (TWh)": null
+              },
+              "Electric Overhead Line, Optimal Charging": {
+                "Cost Difference to Reference (billions of euros)": 3.0,
+                "Additional Electricity Required (TWh)": null
+              }
+            },
+            "Indirectly Electrified": {
+              "Hydrogen Fuel Cell": {
+                "Cost Difference to Reference (billions of euros)": 12.7,
+                "Additional Electricity Required (TWh)": 117.8
+              }
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1347,
+            "y1": 605,
+            "x2": 2336,
+            "y2": 1692
+          },
+          "text": "An analysis using DIW Berlin's open-source electricity sector\nmodel DIETER shows that battery-electric vehicles with fast charg-\ning capabilities result in the lowest electricity sector costs of all\noptions under observation. Even if the battery-electric vehicles are\nnot optimally charged, they still have clear advantages compared\nto hydrogen fuel cell vehicles or synthetic hydrogen-based e-fuels.\nThe advantages are even greater if the batteries are flexibly\ncharged based on the electricity market price in combination with\nvehicle-to-grid charging, where electricity is fed back to the grid at\ntimes.\n\nBattery-electric vehicles have such an advantage due to the poor\nenergy efficiency of hydrogen and e-fuels, which are assumed\n\nto be domestically produced in the model. Domestic production\nresults in considerable costs for the renewable energy used.\nHowever, it is often argued that this drawback could be offset by\nthe advantageous storage capacity of hydrogen and e-fuels, which\nwill become more important in a future energy system with a high\n\nshare of variable wind and solar energy. However, the model anal-\nyses show that the energy efficiency drawbacks of hydrogen and\ne-fuels clearly outweigh their storage advantages (Figure).\"",
+          "summarized_text": "DIW Berlin's analysis using DIETER model shows that battery-electric vehicles with fast charging offer the lowest electricity sector costs compared to hydrogen fuel cell vehicles and synthetic e-fuels. The poor energy efficiency of hydrogen and e-fuels, despite their storage capacity advantages, outweighs their benefits in a future energy system with high renewable energy penetration."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 347,
+            "y1": 2124,
+            "x2": 1252,
+            "y2": 2276
+          },
+          "text": "Challenges facing battery-electric trucks and\npossible contributions of other technologies"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 341,
+            "y1": 2313,
+            "x2": 1306,
+            "y2": 2886
+          },
+          "text": "The developments on the vehicle market and in the charging\ninfrastructure as well as energy efficiency and energy system\nanalyses suggest that battery-electric vehicles in combination\nwith stationary charging will become a key building block of\nclimate-friendly heavy road freight transport. However, a sys-\ntematic comparison of different criteria shows that this tech-\nnology is also facing various challenges,” including integra-\ntion into the power grid and the effects on the stability of the\nenergy system, the space required for the charging infrastruc-\nture, the raw materials required for batteries, the operational\nchanges required for logistics firms, and the cost of vehicles.",
+          "summarized_text": "Battery-electric vehicles with stationary charging are projected to play a vital role in climate-friendly heavy road freight transport. However, challenges such as integration into the power grid, space for charging infrastructure, raw material requirements for batteries, operational changes for logistics firms, and vehicle costs need to be addressed for successful implementation."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 345,
+            "y1": 2876,
+            "x2": 1182,
+            "y2": 3027
+          },
+          "text": "Hydrogen has some advantages, but many\ndrawbacks"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 341,
+            "y1": 3081,
+            "x2": 1310,
+            "y2": 3243
+          },
+          "text": "Myarogen arives Nave advantages when 1t Comes TO SOME\nof the observed criteria. For example, they do not require\nfast charging infrastructure to be connected to the power\n\nond and thiave noithar any raintnarramant manatirac in tha",
+          "summarized_text": "Myarogen has clear advantages in terms of not needing fast charging infrastructure and lacking maintenance requirements."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1351,
+            "y1": 2157,
+            "x2": 2340,
+            "y2": 3178
+          },
+          "text": "higher voltage network. The space requirement and the need\nfor operational adjustments at logistics firms are also rated\nas slightly more favorable than for battery-electric trucks.*\nHowever, hydrogen trucks have some of their own chal-\nlenges when it comes to infrastructure expansion and energy\ncosts, which ultimately comes down to their poor energy effi-\nciency (Box). In addition, uncertainty around future energy\ncost appears to be significantly higher for hydrogen trucks\nthan for battery-electric trucks. This is due to the fact that\nthe hydrogen market hardly exists to date, but it has a large\nnumber of potential future consumers.\n\nIn light of the foreseeable high hydrogen demand from other\nsectors, especially industry, it seems questionable whether\nsignificant quantities of green hydrogen can be made avail-\nable for road freight in the medium term. Barely any pro-\njects have been realized so far, both in domestic production\nas well as planned hydrogen imports.*",
+          "summarized_text": "Hydrogen trucks face challenges in infrastructure expansion and high energy costs due to poor energy efficiency. Uncertainty around future energy costs is also a concern, as the hydrogen market is still developing with limited availability of green hydrogen for road freight."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1074,
+            "y1": 157,
+            "x2": 1438,
+            "y2": 270
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 167,
+            "y1": 389,
+            "x2": 1140,
+            "y2": 1513
+          },
+          "text": "This also raises the question if hydrogen trucks can even\ncontribute to quickly reducing greenhouse gas emissions in\nGermany. Their emissions balance over the life cycle, when\nincluding vehicle production, seems to offer little advantage\nin the medium term (Figure 6),*° especially if gray hydro-\ngen (hydrogen produced from natural gas) is used. It seems\nplausible that gray hydrogen will be used because the pro-\nduction costs of green hydrogen are likely to remain higher\nthan the costs of gray hydrogen for some time. The emis-\nsions balance is even worse if hydrogen is produced via elec-\ntrolysis powered by average grid electricity. Even if electrol-\nysis were powered entirely by renewable electricity (green\nhydrogen), there would not be any emissions advantage over\ngrid-powered battery-electric trucks, as the share of renew-\nable energy in the power grid is set to rise to at least 80 per-\ncent by 2030. When considering life cycles, battery-electric\ntrucks thus have considerable emissions advantages com-\npared to hydrogen trucks, at least until 2030. Furthermore,\nthe analysis shows that the production of vehicles (including\nbatteries) only makes up a small share of the climate impact\ncompared to power supply during the use phase.",
+          "summarized_text": "Hydrogen trucks may not offer a significant advantage in reducing greenhouse gas emissions in Germany due to the high production costs of green hydrogen and the likelihood of gray hydrogen being used. Battery-electric trucks have been found to have lower emissions and climate impact compared to hydrogen trucks, especially until 2030. Additionally, the production of vehicles, including batteries, has a small share of the overall climate impact compared to power supply during the use phase."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 167,
+            "y1": 1492,
+            "x2": 1037,
+            "y2": 1627
+          },
+          "text": "Other electric technologies advantageous in\nsubsectors"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 167,
+            "y1": 1638,
+            "x2": 1146,
+            "y2": 3016
+          },
+          "text": "Other electric technologies that are not currently widely avail-\nable on the market but have been tested could partially com-\npensate for some weak spots of battery-electric trucks. Such\ntechnologies include electric road systems such as overhead\nline systems or third-rail systems, which dynamically power\nelectric trucks as they drive, making it possible to reduce the\nsize of vehicle batteries. Overhead line systems for trucks\nhave already been comprehensively tested in Germany.”\nIn addition, battery swapping systems for trucks are under\ndiscussion. While such systems are already widespread in\nChina, they have not yet been tested much in Germany. Semi-\ntrailers with electric axels and their own battery (e-trailer),\nwhich could initially be used in combination with diesel trac-\ntors, are another possibility.\n\nSome of these technologies have been evaluated as advan-\ntageous with respect to a few challenging aspects for the\nmarket ramp-up of battery-electric trucks with fast charg-\ning (Figure 7).** Such challenges include network integra-\ntion, the contribution to the stability of the energy system,\nand the space requirement. However, there is still no sin-\ngle technology that equally addresses all of the drawbacks of\nbattery-electric trucks. In addition, each type of technology\nhas its own challenges: An overhead line system, for exam-\nple, requires high initial investment costs for the core net-\nwork, and battery swapping systems must be standardized.",
+          "summarized_text": "Emerging electric technologies such as electric road systems and battery swapping systems are being tested to address limitations of battery-electric trucks. While these technologies show promise in reducing the size of vehicle batteries and addressing network integration challenges, each has its own set of challenges and hurdles to overcome for widespread adoption."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1204,
+            "y1": 432,
+            "x2": 2353,
+            "y2": 643
+          },
+          "text": "Piygure o\n\nClimate impact of semi-trailer trucks in long-haul transport\nin 2030\nGrams of CO, equivalent per kilometer"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1208,
+            "y1": 670,
+            "x2": 2407,
+            "y2": 1762
+          },
+          "data": {
+            "vehicles": [
+              {
+                "type": "Diesel",
+                "emissions": {
+                  "exhaust": 900,
+                  "energy_supply": 300,
+                  "vehicle_manufacture_maintenance_disposal": 0
+                }
+              },
+              {
+                "type": "Battery electric, 2030 electricity mix",
+                "emissions": {
+                  "exhaust": 0,
+                  "energy_supply": 300,
+                  "vehicle_manufacture_maintenance_disposal": 300
+                }
+              },
+              {
+                "type": "Fuel cell, gray hydrogen",
+                "emissions": {
+                  "exhaust": 0,
+                  "energy_supply": 1200,
+                  "vehicle_manufacture_maintenance_disposal": 0
+                }
+              },
+              {
+                "type": "Fuel cell, electrolysis with 2030 electricity mix",
+                "emissions": {
+                  "exhaust": 0,
+                  "energy_supply": 1200,
+                  "vehicle_manufacture_maintenance_disposal": 300
+                }
+              },
+              {
+                "type": "Fuel cell, green hydrogen",
+                "emissions": {
+                  "exhaust": 0,
+                  "energy_supply": 300,
+                  "vehicle_manufacture_maintenance_disposal": 300
+                }
+              }
+            ],
+            "table_0": [
+              [
+                "",
+                "State",
+                "Private sector",
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "Initial charging\nnetwork\n(BMDV, BMWK)",
+                "e.On, MAN",
+                "Milence",
+                "Aral Pulse",
+                "TST+EWR\n(PVSM Energy)",
+                "CityWatt"
+              ],
+              [
+                "Planned locations",
+                "350",
+                "125 (DE), 170 (EU + UK)",
+                "25 (DE), 70 (EU)",
+                "30",
+                "41",
+                "N. a."
+              ],
+              [
+                "Planned charging points",
+                "4,200",
+                "400",
+                "570 by 2025,\n1,700 by 2027 (EU)",
+                "N. a.",
+                "N. a.",
+                "N. a."
+              ],
+              [
+                "Existing locations",
+                "0",
+                "1 (DE)",
+                "0 (DE) / 4 (EU)",
+                "25 (DE) / 26 (EU)",
+                "1",
+                "50"
+              ],
+              [
+                "Type of location",
+                "Rest areas",
+                "Near highways\n(first location)",
+                "Near highways, truck stops,\ncity center",
+                "Aral truck stops",
+                "Near highways",
+                "City centers/industrial areas,\nnear highways, federal highways"
+              ],
+              [
+                "Planned finish date",
+                "Until 2030",
+                "TBD",
+                "2025",
+                "2024",
+                "2025",
+                "2024"
+              ],
+              [
+                "Charging capacity",
+                "1,800 x MCS,\n2,400 x CCS",
+                "Initially 400 kW CCS,\nMCS to be added later",
+                "CCS+MCS (at five existing\nlocations first)",
+                "CCS 300 kW",
+                "CCS 400 kW",
+                "CCS 300 kW"
+              ]
+            ]
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1173,
+            "y1": 1827,
+            "x2": 2097,
+            "y2": 1968
+          },
+          "text": "Greenhouse gas reduction quota could create\nstrong incentives for hydrogen use"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1159,
+            "y1": 2000,
+            "x2": 2183,
+            "y2": 3319
+          },
+          "text": "The greenhouse gas reduction quota (GHG quota) is a\nmarket-based climate change mitigation instrument that\naims to reduce the use of fossil fuels in the transport sec-\ntor. Companies that create fossil fuel emissions in trans-\nport are required to reduce their emissions (including fuel\nproduction}, with the reduction quota increasing each year.\nCurrently, the quota is 9.35 percent compared to the fossil\nfuel reference value; in 2030, it will rise to 25.1 percent.”\nThere are various options for reducing emissions, such as\nusing electric drives or using more electric fuels such as\nhydrogen. Companies do not have to meet the quotas them-\nselves, but can rather trade emissions via certificates.\n\nHowever, the GHG quota does not adequately account for the\nbetter energy efficiency of battery-electric trucks compared to\nhydrogen trucks. Asa result, higher certificate revenues can\nbe achieved by using hydrogen compared to a correspond-\ningly lower amount of electricity that can cover the same\nmileage with a battery-electric truck. If this revenue is used\no subsidize the sale of green hydrogen at refueling stations,\nhe price of hydrogen would decline by around two euros pro\nkilogram at the current GHG quota price of around 70 euros\nper ton of CO,. Ifthe certificate prices once again rise to the\n2022 level of around 400 euros per ton due to rising reduc-\ntion quotas, green hydrogen could be subsidized to be sold",
+          "summarized_text": "The GHG quota is a market-based instrument aimed at reducing fossil fuel use in the transport sector. Companies can trade emissions via certificates, but the current system does not fairly address the higher energy efficiency of battery-electric trucks over hydrogen trucks. This could result in higher certificate revenues for hydrogen, potentially leading to reduced prices for green hydrogen at refueling stations."
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1068,
+            "y1": 141,
+            "x2": 1460,
+            "y2": 303
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 95,
+            "y1": 449,
+            "x2": 1836,
+            "y2": 584
+          },
+          "text": "Evaluation of the risks for the market ramp-up of different technologies considering 15 criteria"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 97,
+            "y1": 616,
+            "x2": 2405,
+            "y2": 1881
+          },
+          "data": {
+            "Battery-electric options": {
+              "Battery electric with stationary (fast) charging": {
+                "Technology": 2,
+                "Use": 3,
+                "Profitability": 3,
+                "Energy system": 2,
+                "Infrastructure": 2,
+                "Criticality": 2,
+                "Politics": 2
+              },
+              "Overhead line system": {
+                "Technology": 1,
+                "Use": 4,
+                "Profitability": 3,
+                "Energy system": 1,
+                "Infrastructure": 4,
+                "Criticality": 1,
+                "Politics": 3
+              },
+              "Battery swapping system and e-trailers": {
+                "Technology": 2,
+                "Use": 4,
+                "Profitability": 4,
+                "Energy system": 4,
+                "Infrastructure": 3,
+                "Criticality": 2,
+                "Politics": 3
+              }
+            },
+            "Hydrogen options": {
+              "Hydrogen combustion engine": {
+                "Technology": 3,
+                "Use": 4,
+                "Profitability": 3,
+                "Energy system": 4,
+                "Infrastructure": 2,
+                "Criticality": 3,
+                "Politics": 2
+              },
+              "Hydrogen fuel cell": {
+                "Technology": 3,
+                "Use": 3,
+                "Profitability": 3,
+                "Energy system": 3,
+                "Infrastructure": 2,
+                "Criticality": 4,
+                "Politics": 3
+              }
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 341,
+            "y1": 2092,
+            "x2": 1308,
+            "y2": 2449
+          },
+          "text": "for around 12 euros per kilogram. This is in the range of cur-\nrent refueling station prices for hydrogen and would drasti-\ncally decrease the energy costs of fuel cell trucks, which are\npresently high. In this way, the greenhouse gas emissions\nrate in its current form could create stronger incentives for\nthe use of hydrogen drives than for battery-electric drives.",
+          "summarized_text": "At around 12 euros per kilogram, the cost of hydrogen for fuel cell trucks is comparable to current refueling station prices. This could significantly reduce energy costs for fuel cell trucks and create stronger incentives for hydrogen drives over battery-electric drives due to lower greenhouse gas emissions."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 341,
+            "y1": 2432,
+            "x2": 1304,
+            "y2": 2578
+          },
+          "text": "Conclusion: Focus should be on battery-electric\ndrives and fast charging"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 335,
+            "y1": 2595,
+            "x2": 1320,
+            "y2": 3211
+          },
+          "text": "In the debate on the use of alternative drives in heavy road\nfreight transport, actors from vehicle manufacturing, logis-\ntics, and the hydrogen business often argue that a broad tech-\nnology portfolio is required to quickly and effectively reduce\ngreenhouse gas emissions. Some also argue that a portfo-\nlio with as many different types of technologies as possible\nmakes sense from an industry policy perspective to provide\nmarket opportunities for domestic manufacturers.”\n\nHowever, current market developments, systematic energy\nefficiency considerations, the energy system effects, and the\nmedium-term expected contributions to emissions reduction",
+          "summarized_text": "In considering alternative drives for heavy road freight transport, a broad technology portfolio is seen as necessary by industry stakeholders. This approach is believed to not only reduce greenhouse gas emissions quickly and effectively but also provide market opportunities for domestic manufacturers."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1351,
+            "y1": 2103,
+            "x2": 2349,
+            "y2": 3416
+          },
+          "text": "suggest that a clear political focus on battery-electric trucks\nwith stationary battery charging is more advantageous. On\nthe one hand, this focus corresponds with the reality of the\nmarket and thus supports current private sector activities.\nOn the other hand, these technologies correspond with what\nis currently the most plausible path for medium and long-\nterm effective climate change mitigation in heavy road freight\ntransport. Federal policy should clearly communicate bat-\ntery-electric trucks as a key technology to give truck manu-\nfacturers and operators security in upcoming investments.\nGovernment funding of too many alternative technology\noptions could, in contrast, lead to planning uncertainty for\nvehicle manufacturers, infrastructure providers, and logis-\ntics specialists and thus ultimately delay the transition of\nruck drives.\n\nThe current activities in the private sector for ramping up\nthe charging infrastructure for battery-electric trucks should\ncontinue to be supported by the government; the correspond-\ning tenders are a first positive step in this direction. Activities\n0 provide the space needed as well as the required network\nconnections also seem sensible. Furthermore, the regula-\nions for the GHG quota should be adjusted to adequately\naccount for the energy efficiency advantages of battery-elec-\nric trucks.",
+          "summarized_text": "A clear political focus on battery-electric trucks with stationary battery charging is advantageous for effective climate change mitigation in heavy road freight transport. Private sector activities and government funding should support the development of charging infrastructure, while regulations should be adjusted to account for energy efficiency advantages of these trucks."
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1083,
+            "y1": 168,
+            "x2": 1448,
+            "y2": 308
+          },
+          "text": "ELECTRIC TRUCKS"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 155,
+            "y1": 357,
+            "x2": 2262,
+            "y2": 1551
+          },
+          "text": "As for keeping opportunities open for other technologies,\nfocus should be on alternatives that are closely related to bat-\ntery-electric trucks technologically and can possibly be com-\nbined modularly with fast charging concepts. Here, battery\nswapping systems as well as e-trailers could develop into com-\nplementary technologies. The technologically closely related\noption of overhead line trucks could also be kept open with\na larger demo project.\n\nHendrik Beeh is a Research Associate in the Mobility Division at the ifeu\nInstitute | hendrik.beeh@ifeu.de\n\nJulius Jéhrens is Head of the Drive Technologies topic area in the Mobility\nDivision at the ifeu Institute | julius.joehrens@ifeu.de\n\nJosef Kling] is an Intern in the Mobility Division at the ifeu Institute |\njosef.klingl @ifeu.de\n\nJEL: L62, Q42, R40, R48\n\nKeywords: road freight transport, battery-electric vehicles, electric road systems,\nhydrogen\n\nHydrogen trucks, in contrast, would require completely dif-\nferent vehicle and infrastructure technology as well as corre-\nsponding pathway decisions from truck operators. [In light\nof the diverse challenges and so as to not further delay the\ndrive transition, the continued support of hydrogen-powered\nheavy road freight transport appears unwise.\n\nDominik Rader is a Research Associate in the Mobility Division at the ifeu\nInstitute | dominik.raeder@ifeu.de\n\nWolf-Peter Schill is Head of the Transformation of the Energy Economy\nResearch Area in the Energy, Transportation, Environment at DIW Berlin |\nwschill@diw.de\n\nMarkus Werner is a Research Associate in the Chair of Electric Railways at the\nTechnical University Dresden | markus.werner@tu-dresden.de",
+          "summarized_text": "The text discusses the need to focus on technologies closely related to battery-electric trucks, such as battery swapping systems and e-trailers, while keeping options like overhead line trucks open. It also advises against further support for hydrogen-powered heavy road freight transport due to the significant technological differences and pathway decisions required."
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "blocks": []
+    }
+  ]
+}

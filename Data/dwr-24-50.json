@@ -1,0 +1,1845 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1105,
+            "y1": 398,
+            "x2": 1399,
+            "y2": 487
+          },
+          "text": "AT A GLANCE"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 174,
+            "y1": 513,
+            "x2": 2334,
+            "y2": 1809
+          },
+          "text": "DIW Berlin Economic Outlook: German economy\nstuck in limbo while trade conflicts threaten the\nglobal economy\n\nBy the DIW Berlin Economic Forecasting Team\n\nGerman economy in a difficult position facing weak growth and structural change; GDP will decline\nin 2024 for the second year in a row\n\nGerman industry experiencing a serious crisis in particular, with increasing international competition,\nincreasing protectionism, and unclear domestic economic policies having a negative impact\n\nPrivate consumption not picking up speed despite increasing real wages, partially due to worries about\njob layoffs\n\nDIW Berlin is revising its growth forecast for Germany for 2025 significantly downward to\n\n0.2 percent; growth of 1.2 percent is expected in 2026\n\nEconomic boom in the United States continues to drive the global economy, compensating for\n\nthe sluggish recovery in other countries; global growth from 2024 to 2026 is expected to be\n\n3.5 percent each year",
+          "summarized_text": "The German economy is facing weak growth and structural change, with GDP expected to decline for the second year in a row. German industry is in crisis due to increasing international competition and protectionism. Despite increasing real wages, private consumption remains slow, leading to a downward revision of growth forecast for 2025."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 207,
+            "y1": 2030,
+            "x2": 2326,
+            "y2": 2809
+          },
+          "data": {
+            "2019": {
+              "Consumption": 1.0,
+              "Investment": -1.0,
+              "Exports": 2.0,
+              "Imports": -2.0,
+              "GDP Growth": -4.1
+            },
+            "2020": {
+              "Consumption": 1.5,
+              "Investment": 0.5,
+              "Exports": 3.0,
+              "Imports": -1.0,
+              "GDP Growth": 3.7
+            },
+            "2021": {
+              "Consumption": 0.5,
+              "Investment": 0.0,
+              "Exports": 0.5,
+              "Imports": 1.0,
+              "GDP Growth": 1.4
+            },
+            "2022": {
+              "Consumption": 0.0,
+              "Investment": -0.5,
+              "Exports": 0.5,
+              "Imports": 0.5,
+              "GDP Growth": 0.3
+            },
+            "2023": {
+              "Consumption": 0.0,
+              "Investment": 0.0,
+              "Exports": 0.0,
+              "Imports": 0.0,
+              "GDP Growth": -0.2
+            },
+            "2024": {
+              "Consumption": 0.5,
+              "Investment": -0.5,
+              "Exports": 0.0,
+              "Imports": 0.5,
+              "GDP Growth": 0.2
+            },
+            "2025": {
+              "Consumption": 0.0,
+              "Investment": 0.0,
+              "Exports": 0.0,
+              "Imports": 0.5,
+              "GDP Growth": 0.2
+            },
+            "2026": {
+              "Consumption": 0.5,
+              "Investment": 0.5,
+              "Exports": 0.0,
+              "Imports": 0.5,
+              "GDP Growth": 1.2
+            }
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 598,
+            "y1": 2889,
+            "x2": 1085,
+            "y2": 2982
+          },
+          "text": "FROM THE AUTHORS"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 174,
+            "y1": 2995,
+            "x2": 1476,
+            "y2": 3340
+          },
+          "text": "“Private households’ uncertainty should lessen over the course of 2025 somewhat.\nIndustry will recover slowly once it is clear next year what government Germany will\nhave and what the economic policy framework will look like. This knowledge brings\nsecurity and the ability to plan ahead.”\n\n— Geraldine Dany-Knedlik —",
+          "summarized_text": "Private households’ uncertainty should decrease in 2025. The industry will recover slowly after next year's government and economic policy are determined, providing security for planning ahead."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 157,
+            "y1": 566,
+            "x2": 2281,
+            "y2": 1243
+          },
+          "text": "DIW Berlin Economic Outlook: German\neconomy stuck in limbo while trade\nconflicts threaten the global economy\n\nBy Geraldine Dany-Knedlik, Guido Baldi, Nina Maria Brehl, Hella Engerer, Angelina Hackmann, Pia Hiittl, Konstantin Kholodilin,\nFrederik Kurcz, Laura Pagenhardt, Jan-Christopher Scherer, Teresa Schildmann, Hannah Magdalena Seidl, Ruben Staffa,\n\nand Kristin Trautmann",
+          "summarized_text": "The German economy is currently stagnant, facing uncertainty due to trade conflicts that may impact the global economy."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 160,
+            "y1": 1305,
+            "x2": 641,
+            "y2": 1433
+          },
+          "text": "EXECUTIVE SUMMARY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 163,
+            "y1": 1424,
+            "x2": 1181,
+            "y2": 3066
+          },
+          "text": "The German economy is stuck in a difficult position as it\nfaces both slow growth as well as structural change. The\ncontinuing lack of orders in manufacturing, increasing\ninternational competition, and sluggish development in\nindustry-related services are now affecting the labor mar-\nket and leading not only to short-time work but to layoffs\ntoo, despite the continuing skilled worker shortage. While\nGDP increased slightly by 0.1 percent in the third quarter\nof 2023, this growth was preceded by a stronger than\ninitially recorded decline in economic output of 0.3 percent\nin the second quarter. Thus, the German economy cannot\nbe said to be on a stable growth path. In contrast, leading\nindicators suggest that economic output will decline again\nin the fourth quarter, with overall growth for 2024 likely to\nbe 0.2 percent. This means that the German economy will\n\ncontract for the second year in a row.\n\nGerman industry in particular is experiencing a serious\ncrisis. Foreign trade may temporarily benefit, as many com-\npanies despite a lack of demand are expected to increase\ntheir exports to the United States in order to get ahead of\nthe possible tariffs that US President-elect Donald Trump\nannounced. However, impending protectionist measures\nare already having an impact and unsettling local compa-\n\nnies, which are therefore postponing investments further.",
+          "summarized_text": "The German economy is facing slow growth and structural changes, with a decline in manufacturing orders and international competition contributing to layoffs despite a shortage of skilled workers. The GDP slightly increased by 0.1 percent in the third quarter of 2023, but leading indicators suggest a decline in economic output in the fourth quarter and a contraction in overall growth for 2024."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1211,
+            "y1": 1402,
+            "x2": 2277,
+            "y2": 3030
+          },
+          "text": "In addition, the economic framework conditions in Ger-\nmany are unclear and will remain unpredictable until at\nleast the spring when there is a new federal government.\nAll of these factors in conjunction with increasing concerns\nabout their own jobs are unsettling households in Ger-\nmany, resulting in private consumption failing to pick up\nspeed despite rising real wages.\n\nA gradual easing is not expected until mid-2025, when\ndomestic and foreign economic uncertainties will succes-\nsively lessen. Nevertheless, the German economy should\nexpand by 0.2 percent in 2025. Thus, DIW Berlin is revis-\ning its fall forecast downward by 0.7 percentage points.\nEconomic output is expected to increase by 1.2 percent in\n2026, although this is partially due to non-recurring effects\nsuch as a relatively high number of work days.\n\nIn regard to the global economy, the boom in the United\nStates will remain a key driver for now, compensating for\nthe sluggish recovery in many other advanced econo-\nmies as well as China. While the Chinese economy falters,\na gradual upswing is continuing in the euro area due to\nrising purchasing power and falling inflation. In 2024, the\nglobal economy is expected to grow by 3.7 percent, while\nit should grow by 3.6 percent and 3.7 percent in 2025 and\n2026, respectively.",
+          "summarized_text": "The economic framework conditions in Germany are uncertain until a new federal government is in place, leading to household concerns about job stability and stagnant private consumption. Despite global economic growth projections of 3.7 percent in 2024, it is expected to slow down slightly in 2025 and 2026 due to uncertainties in domestic and foreign economies."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1066,
+            "y1": 181,
+            "x2": 1442,
+            "y2": 336
+          },
+          "text": "GLOBAL ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 160,
+            "y1": 372,
+            "x2": 2093,
+            "y2": 659
+          },
+          "text": "The rising shadow of protectionism is negatively\naffecting the global economy",
+          "summarized_text": "The growing trend of protectionism is causing harm to the global economy. It is creating barriers to trade and hindering economic growth and cooperation among countries. The rise of protectionist policies is a concerning development that could have long-term negative impacts on the world economy."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 160,
+            "y1": 717,
+            "x2": 1145,
+            "y2": 3393
+          },
+          "text": "The sustained boom in the United States is once again\ndetermining the expansion tempo of the global economy in\n2024, compensating for the sluggish recovery in many other\nadvanced economies and China. Thus, the gap in economic\noutput between the United States and other important econ-\nomies such as the euro area is growing. Purchasing power\nhas recovered in the euro area and the United Kingdom and\nis supporting a gradual upturn there. The Chinese economy\nis faltering, meaning it will not reach its growth target of five\npercent for 2024. Lastly, the economic and trade policies of\nUS President-elect Donald Trump are putting the global eco-\nnomic order to the test.\n\nGlobal economic growth has picked up speed recently: The\nglobal economy expanded by 0.8 percent in the third quar-\nter of 2024 after growth of 0.7 percent in the second quarter\n(Figure 1). In the fall, global growth in the advanced econ-\nomies was primarily driven by a strong increase of 0.7 per-\ncent in the United States. Most other advanced economies\nare continuing to recover at a moderate pace; for example,\nthe British and Japanese economies grew by only 0.1 and\n0.2 percent, respectively. The euro area, in contrast, contin-\nued its recovery, recording an increase of 0.4 percent. Spain\nand the Netherlands grew the most by 0.8 percent each,\nfollowed by France by 0.4 percent. In contrast, Italy and\nGermany stagnated.\n\nThe economies of the Central and Southeastern EU coun-\ntries suffered from weak demand from Germany. In these\ncountries, economic output declined by 0.2 percent in the\nthird quarter of 2024. The only exception was Czechia, where\nGDP increased by 0.3 percent.\n\nFollowing a weak second quarter, the situation was some-\nwhat better for emerging economies. The Chinese economy\npicked up speed and recorded growth of 0.9 percent. The pace\nof expansion of the Indian economy has also been stronger\nrecently, and Mexico’s GDP increased by 1.1 percent in the\nthird quarter. In contrast, growth of 0.9 percent in Brazil was\nweaker than in the previous quarter.\n\nDespite the expected geopolitical and trade policy cutbacks,\nthe global economy should expand slightly in the fourth quar-\nter of 2024, in part thanks to China’s increasingly strong eco-\nnomic growth. Most advanced economies are losing momen-\ntum slightly, and the leading indicators deteriorated in the\nfall months. The slump in global industrial production con-\ntinues as well: The Purchasing Managers Indices for the\nUnited States and the euro area were tilted to the downside\nfrom May to September and recently moved sideways. The\npicture in the services sector appears to be mixed: While the\nUnited States experienced strong growth in November, the\nindices for the euro area fell below the expansion threshold.",
+          "summarized_text": "The United States is leading global economic growth in 2024, compensating for sluggish recovery in other advanced economies such as China. Despite challenges from President-elect Donald Trump's policies, global economic growth is expected to continue in the fourth quarter with China's strong economic growth contributing to this expansion."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1168,
+            "y1": 2137,
+            "x2": 2161,
+            "y2": 3420
+          },
+          "text": "In October, the Purchasing Manager’s Index for manufac-\nuring in the United Kingdom dropped below 50, a trend\nhat continued into November. The index for Japanese man-\nufacturing is continuing its sideways movement slightly\nbelow the expansion threshold. In surveys, the newest polit-\nical developments, such as Trump’s re-election and the col-\nlapse of the German government coalition, were only par-\nially reflected. However, these events are likely to have led\no increased uncertainty among firms and private house-\nholds alike about future economic policy frameworks. The\nbiggest uncertainties concern the future trade policy of the\nUnited States. To hedge against this, companies will likely\npull orders forward, meaning that exports to the United\nStates should initially be somewhat stronger than expected.\nHowever, this will presumably not be reflected in the aggre-\ngated global economic output.\n\nWe expect growth in the United States in the fourth quarter\nof 2024 will continue to be strong, albeit somewhat weaker\nthan in the third quarter, and supported by private consump-\ntion in particular. The recovery in the euro area will lose\nsome momentum for the time being: For example, France\nis experiencing a weak fourth quarter following the one-\noff effects related to the Olympic Games. The Japanese and",
+          "summarized_text": "The Purchasing Manager's Index for manufacturing in the UK and Japan has been trending below expansion thresholds, with increased uncertainty due to recent political events. Despite strong growth expected in the US in Q4 2024, the euro area's recovery may lose momentum, particularly in France."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1182,
+            "y1": 770,
+            "x2": 2392,
+            "y2": 2039
+          },
+          "data": {
+            "data": [
+              {
+                "year": 2023,
+                "advanced_economies": 1.0,
+                "emerging_economies": 1.0,
+                "annual_growth_rate": -1.0,
+                "world_index": 130
+              },
+              {
+                "year": 2024,
+                "advanced_economies": 0.5,
+                "emerging_economies": 0.5,
+                "annual_growth_rate": 4.1,
+                "world_index": 140
+              },
+              {
+                "year": 2025,
+                "advanced_economies": 0.5,
+                "emerging_economies": 0.5,
+                "annual_growth_rate": 3.7,
+                "world_index": 150
+              },
+              {
+                "year": 2026,
+                "advanced_economies": 1.0,
+                "emerging_economies": 1.0,
+                "annual_growth_rate": 3.6,
+                "world_index": 160
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1061,
+            "y1": 181,
+            "x2": 1423,
+            "y2": 323
+          },
+          "text": "GLOBAL ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 344,
+            "y1": 2530,
+            "x2": 1315,
+            "y2": 3415
+          },
+          "text": "South Korean economies, in contrast, are projected to gain\nsome momentum again. In China, the outlook has improved\ndue to the recently announced monetary and fiscal policy\nmeasures, which has brightened economic sentiment.\n\nWe assume that a less restrictive monetary policy will sup-\nport economic growth in the coming years. The central banks\nof many advanced economies will likely cut interest rates\nfurther in 2025. The inflation rate continues to be lower in\nmany places, which is mainly due to falling energy prices.\nInflation in the services sector remains high in many places.\nEmerging economies have initiated an interest rate turna-\nround earlier and may have reached the end of the inter-\nest rate cuts. For example, inflation in Mexico is proving\nto be more persistent than expected, and the Central Bank\nof Brazil recently raised interest rates again in response",
+          "summarized_text": "South Korean and Chinese economies are expected to gain momentum, thanks to recent monetary and fiscal policy measures. Advanced economies may see further interest rate cuts in 2025, while emerging economies like Mexico and Brazil are experiencing varying inflation trends and policy responses."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1344,
+            "y1": 2526,
+            "x2": 2334,
+            "y2": 3406
+          },
+          "text": "to higher core inflation. In contrast, the People's Bank of\nChina is following a loose monetary policy due to deflation-\nary tendencies.\n\nFiscal policy is slightly expansionary in most economies. In\nthe United Kingdom, the Labour government passed its fall\nbudget, ushering in an expansionary fiscal policy. Fiscal pol-\nicy in the United States is also likely to be expansionary over\nthe forecast horizon due to many of President-elect Trump’s\nproposals. At the end of September, the Chinese government\nannounced its largest stimulus package since the pandemic.\nEqualing around 1,300 billion euros, the package focuses on\nsolving the debt problems of local governments. An excep-\ntion to the expansionary fiscal policy is the euro area, where\nfiscal policy will likely remain slightly restrictive over the\nforecast period.",
+          "summarized_text": "Global monetary policy is diverging, with the US and China pursuing expansionary policies while the Eurozone remains restrictive. Fiscal policies are mostly expansionary, with the UK and US implementing measures to boost their economies, while China's stimulus package focuses on resolving local government debt issues."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1073,
+            "y1": 186,
+            "x2": 1438,
+            "y2": 341
+          },
+          "text": "GLOBAL ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 155,
+            "y1": 416,
+            "x2": 1127,
+            "y2": 2522
+          },
+          "text": "Box1\n\nAssumptions and framework conditions\n\nAssumptions about interest rates, exchange rates,\nand energy prices\n\nThis forecast is based on the following assumptions about the\nfurther development of key interest rates, exchange rates, and\ncommodity prices (Table). These assumptions were made based\non previous developments, futures markets prices, and the clos-\ning prices on the date of this forecast (November 12, 2024). The\nEuropean Central Bank (ECB) decreased interest rates once again\nin October, thus continuing the path of normalization. For the win-\nter forecast, four further interest rate cuts of 25 basis points each\nare assumed for the deposit rate until spring 2025. The money\nmarket interest rates also fell in line with key interest rates. We\nexpect that key interest rates will continue to fall until mid-2025\n\nand then remain at that level. The transmission of interest rate cuts\ninto the real economy is also beginning to show. For example, the\nrefinancing costs for households and firms began to decline in the\nsecond quarter of 2024, and this decline is likely to continue in line\nwith key interest rates. The yield on government bonds increased\nagain slightly in the fourth quarter of 2024. We assume that cap-\nital market interest rates will remain largely unchanged over the\nforecast horizon at 2.3 percent for Germany and 2.9 percent for the\neuro area. The euro has recently appreciated slightly against the\nUS dollar. For the forecast period, it is assumed that the exchange\nrate of EUR to USD will remain at 1.07 USD per EUR, the level\nreached at the end of the data period. According to futures, the\nprice for Brent oil should increase slightly in the coming months\nbefore declining again at the start of 2025 until the end of the\nforecast period. In 2024, the average price should be 81 USD per\nbarrel before declining to an average of 73 USD per barrel in 2025\nand finally to 71 USD per barrel in 2026. The wholesale price for\n\ngas (TTF) rose over the course of 2024 and should be 34 euros per\nmegawatt hour on average. Over the forecast horizon, we assume\nthat the prices will increase to 40 euros in 2025 before falling to\n34 euros per megawatt hour in 2026.",
+          "summarized_text": "The forecast assumes further interest rate cuts by the ECB until spring 2025, with key rates expected to stabilize thereafter. The Euro is projected to remain at 1.07 USD per EUR, while Brent oil prices are forecasted to decrease from 81 USD per barrel in 2024 to 71 USD per barrel in 2026."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1157,
+            "y1": 540,
+            "x2": 2294,
+            "y2": 1654
+          },
+          "text": "Geopolitical and trade policy assumptions\n\nAdditionally, the forecast assumes that there will be no further es-\ncalation in the war in Ukraine. In the Middle East, an easing of ten-\nsions is becoming increasingly less likely. The fall of former Syrian\nPresident Bashar al-Assad is causing uncertainty and could lead to\nhigher oil and gas prices. In addition, this forecast assumes that US\nPresident-elect Trump will implement some of the trade tariffs he\nhas announced. It is assumed that the American government will\nincrease tariff rates by 10 percentage points for all goods imported\nfrom China in the first quarter of 2025. As a result, the average\ntariff rate on Chinese goods, which is currently around 20 percent,\nwould increase again by half to around 30 percent (including\nautomotive tariffs and 100-percent tariffs on e-cars). The tariffs on\nEuropean Union aluminum and steel, which had been suspended,\nwill be implemented again (10 percent for aluminum and 25 per-\ncent for steel). Furthermore, trade partners will presumably forego\nbroad countermeasures and only react with retaliatory tariffs on\nspecific groups of goods.\n\nTable",
+          "summarized_text": "The forecast assumes no further escalation in the war in Ukraine, but increasing tensions in the Middle East. It also predicts that US President-elect Trump will implement trade tariffs, including a 10 percentage point increase on goods imported from China and reinstating tariffs on European Union aluminum and steel."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1174,
+            "y1": 1765,
+            "x2": 2342,
+            "y2": 2252
+          },
+          "data": {
+            "ECB_deposit_rate_year_end": {
+              "unit": "Percent",
+              "2023": 4.0,
+              "2024": 3.0,
+              "2025": 2.25,
+              "2026": 2.25
+            },
+            "Money_market_interest_rate": {
+              "unit": "Three-month EURIBOR in percent",
+              "2023": 3.4,
+              "2024": 3.5,
+              "2025": 2.0,
+              "2026": 2.0
+            },
+            "Capital_market_interest_yield_euro_area_government_bonds": {
+              "unit": "Yield on euro-area government bonds with a remaining term of 10 years",
+              "2023": 3.3,
+              "2024": 3.0,
+              "2025": 2.9,
+              "2026": 2.9
+            },
+            "Capital_market_interest_yield_German_government_bonds": {
+              "unit": "Yield on German government bonds with a remaining term of 10 years",
+              "2023": 2.6,
+              "2024": 2.4,
+              "2025": 2.3,
+              "2026": 2.3
+            },
+            "Exchange_rate": {
+              "unit": "USD/EUR",
+              "2023": 1.08,
+              "2024": 1.08,
+              "2025": 1.06,
+              "2026": 1.06
+            },
+            "Crude_oil_price": {
+              "unit": "USD per barrel",
+              "2023": 82.5,
+              "2024": 80.3,
+              "2025": 72.9,
+              "2026": 70.9
+            },
+            "Gas_price": {
+              "unit": "EUR per megawatt hour",
+              "2023": 42.1,
+              "2024": 34.1,
+              "2025": 40.4,
+              "2026": 34.2
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 163,
+            "y1": 2743,
+            "x2": 1152,
+            "y2": 3424
+          },
+          "text": "The booming American economy and the gradual recovery\nin many other advanced economies have somewhat stim-\nulated international trade in the third quarter. Assuming\nhat global trade barriers are tightened from 2025 onwards,\ninternational trade is likely to be stronger in the fourth quar-\ner of 2024, due to anticipated purchases . Therefore, overall\ngrowth of 1.2 percent is expected for 2024. Only a moderate\nupswing is expected for 2025 and 2026 due to likely tighter\nrade barriers. Furthermore, industry’s ongoing weak growth\nshould continue to weigh on international trade before fall-\ning interest rates boost corporate investment somewhat at\nhe end of 2025 and support international trade.",
+          "summarized_text": "The global economy saw increased trade in the third quarter of 2024, driven by the strong American economy. However, tighter trade barriers from 2025 onwards are expected to dampen growth, with only a moderate upswing expected in the following years due to weak industry growth."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1161,
+            "y1": 2738,
+            "x2": 2153,
+            "y2": 3393
+          },
+          "text": "In the coming years, the expected increase in trade barri-\ners is likely to slow global economic growth. This forecast\nassumes that the US government will increase tariff rates on\nChinese goods imports by 10 percentage points, resulting in\nan average rate on Chinese exports of around 30 percent. At\nthe same time, the forecast also assumes that the aluminum\nand steel tariffs on the European Union, which had been sus-\npended by the Biden administration, will be reintroduced.\nIn reaction to the increase in US tariffs, it is assumed that\nthe economies affected will take targeted countermeasures,\nbut avoid an escalation. Due to tariff asymmetries, regions\nmay be affected differently.",
+          "summarized_text": "Forecast predicts that global economic growth will be slowed by an expected increase in trade barriers, with US increasing tariff rates on Chinese goods and reintroducing aluminum and steel tariffs on the European Union. Affected economies are expected to take targeted countermeasures to avoid escalation, leading to varied impacts on regions due to tariff asymmetries."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1076,
+            "y1": 181,
+            "x2": 1444,
+            "y2": 367
+          },
+          "text": "GLOBAL ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 341,
+            "y1": 482,
+            "x2": 1310,
+            "y2": 2504
+          },
+          "text": "Trump reloaded: Expected American trade policy\n\nMajority of tariff announcements likely to function as\nbargaining chips\n\nAn increase in protectionist measures in the United States is ex-\npected over the forecast horizon. President-elect Donald Trump\nhas made contradictory and sometimes extreme announcements\nabout tariff increases. It is likely that Trump will continue the trade\npolicy of his first term and that the threat of additional import tariffs\nwill primarily serve as a means of exerting pressure in bilateral\n\nnegotiations, with tariffs likely to be implemented only partially.\n\nConcretely, this forecast assumes that following Trump's inaugu-\nration, tariffs on Chinese goods will increase by 10 percent’ and\n\nthe tariffs on European Union aluminum and steel, which were\nsuspended by the Biden administration (10 percent for aluminum\nand 25 percent for steel), will be reimplemented. Furthermore, the\nUnited States’ trade partners will presumably avoid broad counter-\nmeasures and only react with retaliatory tariffs on specific groups\nof goods.\n\nAlthough Trump announced further drastic measures such as\nuniversal import tariffs of 10 or 20 percent during his election\ncampaign, these would have considerable economic and polit-\n\nical implications if implemented. On the one hand, tariffs of this\nmagnitude would considerably increase the prices of imported\ngoods and thus create strong inflation, potentially accompanied\n\nby supply chain disruptions and a supply shortage in the United\nStates.’ This is likely to be met with considerable resistance from\nthe public as well as from industry. For example, a study has shown\nthat high inflation rates considerably decrease approval of the\nreigning government. In addition, a sharp increase in import tariffs\ncould destabilize the stock markets, as indicated by the recent\ndrop in shares of the car manufacturers General Motors and Ford\nfollowing Trump's announcements of tariffs on Mexican imports.\nFinally, there are legal hurdles which, despite the US President's\nfar-reaching powers, are likely to make an escalation in trade spol-\nicy more difficult.",
+          "summarized_text": "The American trade policy under Trump is expected to be characterized by an increase in protectionist measures, with tariffs likely to be used as bargaining chips in bilateral negotiations. While Trump may implement some tariff increases, drastic measures such as universal import tariffs could lead to economic implications, public resistance, and legal hurdles."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 333,
+            "y1": 2495,
+            "x2": 1305,
+            "y2": 2933
+          },
+          "text": "If all tariffs actually are implemented, they will cause\nsignificant real economic distortions\n\nNevertheless, there is great uncertainty regarding these assump-\ntions and it seems possible that considerably comprehensive pro-\ntectionist measures will be implemented. Drastic import tariffs are\nnot only justified as a means of obtaining concessions from trade\n\npartners, but also as a means of generating public revenue as well",
+          "summarized_text": "The implementation of all tariffs could result in significant economic distortions. However, there is uncertainty surrounding these assumptions, and it is possible that comprehensive protectionist measures will be put in place to generate revenue and obtain trade concessions."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1347,
+            "y1": 602,
+            "x2": 2316,
+            "y2": 2690
+          },
+          "text": "as maintaining domestic industry and related jobs. Although these\njustifications are not empirically sound, they could point to the\nactual implementation of more far-reaching tariffs.\n\nFor example, Trump has repeatedly announced universal import\ntariffs of 10 percent and tariffs on Chinese imports of 60 percent.\nThis would be a drastic break from previous American trade pol-\nicy; for example, the average effective tariff rate in 2023 was only\n3.8 percent. Such a massive tightening of trade policy would also\nhave very negative economic consequences for the United States.\nFor example, model calculations* show that implementing univer-\nsal import tariffs of 10 percent without trade policy reactions would\nreduce US production by 0.4 percentage points by the end of the\n\norecast horizon. In the year of the tariff increase, inflation would be\n0.6 percentage points higher.\n\nThe Federal Reserve would likely respond to this strong price\npressure with a restrictive course, which would dampen domestic\neconomic activity. In the long term, comprehensive tariffs are also\nlikely to weaken the competitiveness of the US economy due to\nhigher production costs and the shifting of resources to less pro-\nductive sectors.* The United States’ trade partners could respond\nwith broad retaliatory tariffs, which could trigger a trade war and\nfurther destabilize international trade relations. Positive effects of\nthe import tariffs on the US economy will likely be limited. For ex-\nample, a study® shows that the tariffs during Trump's first term did\nnot create any jobs in tariffed sectors. On the contrary, the result-\n\ning counter tariffs imposed by China were economically costly for\nthe United States’ and negatively affected employment levels.*\nAt the same time, the tariffs would not reduce the trade deficit,?\npartly due to an expected appreciation of the US dollar, which\nmakes exports more expensive and imports cheaper.\n\nThe global economy would also be hit hard by such a comprehen-\nsive increase in US tariffs. For example, exports will decline and\nproduction will fall in the rest of the world, while at the same time\ngoods imported from the United States will become more expen-\nsive due to a likely appreciation of the US dollar. The negative con-\nsequences for individual countries will likely depend on the tariff\namount and the country’s dependency on the United States as a\ntrade partner. The table (Table) shows the share of total volume",
+          "summarized_text": "A drastic increase in US tariffs, such as the proposed universal tariff of 10 percent, would have negative economic consequences for both the United States and the global economy. This could lead to a reduction in US production, higher inflation, and potential trade wars with retaliatory tariffs from other countries. The impact on individual countries would vary depending on their reliance on the US as a trade partner."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 341,
+            "y1": 3004,
+            "x2": 1318,
+            "y2": 3353
+          },
+          "text": "1 Cf. Vivek Mishra and Kevin Yao, “Trump to Unleash Nearly 40 Tariffs on China in Early 2025,\nHitting Growth: Reuters Poll,” Reuters, November 20, 2024 (available online).\n\n2 Cf. Warwick J. McKibbin, Megan Hogan, and Marcus Noland, “International Economic Implica-\ntions of a Second Trump Presidency,” Working Papers 24-20 (2024: Peterson Institute for Interna-\ntional Economics) (available online).\n\n3 Cf. David Steinberg, Daniel McDowell, and Erdem Aytac, “The Impact of Inflation on Support for\nKamala Harris in the 2024 Presidential Election,” (2024) (available online).",
+          "summarized_text": "Recent reports indicate that Trump plans to impose nearly 40 tariffs on China in early 2025, which may impact economic growth. Additionally, a study from the Peterson Institute for International Economics explores the international economic implications of a potential second Trump presidency."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1349,
+            "y1": 2721,
+            "x2": 2344,
+            "y2": 3349
+          },
+          "text": "4 Cf. McKibbin, Hogan, and Noland, “International Economic Implications of a Second\n\nTrump Pres\n\nidency.”\n\n5 Cf. Davide Furceri, Swarnali A. Hannan, Jonathan D. Ostry, and Andrew K. Rose, “Macroeco-\nnomic consequences of tariffs,” Nationa\n\n(2018) (avai\n\njable online).\n\n6 gl. David Autor, Anne Beck, David\n\nemployment!\n\nand electoral effects of the\n\nBureau of Economic Research Working Paper, no. 25402\n\nDorn, and Gordon H. Hanson, “Help for the Heartland? The\nTrump tariffs in the United States,” National Bureau of\n\nEconomic Research Working Paper no. 32082 (2024) (available online).\n\n7 Cf.Sung Eun Kim and Yotam Marga\n\nof the US-C\n8 Cf Auto|\n\nhina Trade War,” Internation.\n\nt, Beck, Dorn, and Hanson,\n\n9 Cf.McKi\n\nTrump Presidency.”\n\nit, “Tariffs as Electoral Weapons: The Political Geography\nal Organization 75, no. 1 (2021): 1-25 (available online).\n\nHelp for the Heartland?”\n\nbbin, Hogan, and Noland, “International Economic Implications of a Second",
+          "summarized_text": "The text discusses the economic implications of a potential second Trump presidency, including the effects of tariffs on macroeconomics, employment, and electoral outcomes. It also examines the impact of the Trump tariffs on the United States, particularly on the heartland region."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "GDP",
+                null,
+                null,
+                null,
+                "Consumer prices",
+                null,
+                null,
+                null,
+                "Unemployment rate in percent",
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "Year-on-year percentage change",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "2023",
+                "2024",
+                "2025",
+                "2026",
+                "2023",
+                "2024",
+                "2025",
+                "2026",
+                "2023",
+                "2024",
+                "2025",
+                "2026"
+              ],
+              [
+                "Europe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "European Union",
+                "0.5",
+                "0.9",
+                "1.5",
+                "1.9",
+                "6.4",
+                "2.6",
+                "2.4",
+                "2.2",
+                "6.1",
+                "6.0",
+                "5.9",
+                "5.7"
+              ],
+              [
+                "Euro area",
+                "0.5",
+                "0.7",
+                "1.1",
+                "1.4",
+                "5.4",
+                "2.4",
+                "2.1",
+                "2.0",
+                "6.6",
+                "6.4",
+                "6.3",
+                "6.2"
+              ],
+              [
+                "excluding Germany",
+                "1.2",
+                "1.3",
+                "1.4",
+                "1.6",
+                "5.0",
+                "2.2",
+                "2.0",
+                "1.9",
+                "8.3",
+                "7.9",
+                "7.7",
+                "7.5"
+              ],
+              [
+                "France",
+                "1.1",
+                "1.1",
+                "0.9",
+                "1.5",
+                "5.7",
+                "2.4",
+                "1.9",
+                "1.8",
+                "7.3",
+                "7.5",
+                "7.4",
+                "7.3"
+              ],
+              [
+                "Italy",
+                "0.8",
+                "0.4",
+                "0.8",
+                "1.0",
+                "5.9",
+                "1.1",
+                "1.9",
+                "2.0",
+                "7.7",
+                "6.7",
+                "6.5",
+                "6.4"
+              ],
+              [
+                "Spain",
+                "2.7",
+                "3.1",
+                "2.3",
+                "2.2",
+                "3.4",
+                "2.8",
+                "2.3",
+                "1.9",
+                "12.2",
+                "11.5",
+                "11.1",
+                "10.8"
+              ],
+              [
+                "Netherlands",
+                "0.1",
+                "1.0",
+                "2.2",
+                "1.8",
+                "4.1",
+                "3.1",
+                "2.5",
+                "2.0",
+                "3.6",
+                "3.7",
+                "3.6",
+                "3.6"
+              ],
+              [
+                "United Kingdom",
+                "0.3",
+                "0.9",
+                "1.2",
+                "1.2",
+                "7.3",
+                "2.5",
+                "2.2",
+                "2.1",
+                "4.0",
+                "4.3",
+                "4.4",
+                "4.3"
+              ],
+              [
+                "Switzerland",
+                "0.7",
+                "1.7",
+                "1.8",
+                "1.8",
+                "2.1",
+                "1.2",
+                "1.0",
+                "1.2",
+                "4.0",
+                "4.2",
+                "4.3",
+                "4.1"
+              ],
+              [
+                "Central and Eastern Europe",
+                "0.5",
+                "1.7",
+                "2.7",
+                "3.4",
+                "11.6",
+                "4.0",
+                "3.4",
+                "3.0",
+                "3.6",
+                "3.7",
+                "3.5",
+                "3.4"
+              ],
+              [
+                "Turkey",
+                "5.1",
+                "3.4",
+                "2.9",
+                "3.4",
+                "54.0",
+                "58.7",
+                "35.9",
+                "29.8",
+                "9.4",
+                "8.7",
+                "9.0",
+                "8.6"
+              ],
+              [
+                "Russia1",
+                "3.3",
+                "3.5",
+                "1.7",
+                "1.5",
+                "5.9",
+                "8.2",
+                "6.5",
+                "4.6",
+                "3.2",
+                "2.5",
+                "2.4",
+                "2.4"
+              ],
+              [
+                "The Americas",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "USA",
+                "2.9",
+                "2.7",
+                "2.4",
+                "2.2",
+                "4.1",
+                "2.8",
+                "2.2",
+                "2.2",
+                "3.6",
+                "4.0",
+                "4.1",
+                "3.9"
+              ],
+              [
+                "Mexico",
+                "3.2",
+                "1.3",
+                "1.4",
+                "1.8",
+                "5.5",
+                "4.6",
+                "3.2",
+                "2.9",
+                "2.8",
+                "2.7",
+                "2.6",
+                "2.6"
+              ],
+              [
+                "Brazil",
+                "2.9",
+                "3.0",
+                "2.4",
+                "2.3",
+                "4.6",
+                "4.2",
+                "3.1",
+                "2.9",
+                "8.0",
+                "7.0",
+                "6.8",
+                "6.9"
+              ],
+              [
+                "Asia",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Japan",
+                "1.7",
+                "−0.1",
+                "1.2",
+                "0.9",
+                "3.3",
+                "2.6",
+                "1.9",
+                "1.6",
+                "2.6",
+                "2.6",
+                "2.4",
+                "2.3"
+              ],
+              [
+                "South Korea",
+                "1.4",
+                "2.2",
+                "2.0",
+                "2.2",
+                "3.6",
+                "2.4",
+                "1.9",
+                "1.9",
+                "2.7",
+                "2.8",
+                "3.0",
+                "3.0"
+              ],
+              [
+                "China",
+                "5.2",
+                "4.7",
+                "4.5",
+                "4.3",
+                "−1.7",
+                "0.4",
+                "1.3",
+                "1.4",
+                "5.2",
+                "5.1",
+                "5.0",
+                "5.0"
+              ],
+              [
+                "India",
+                "7.8",
+                "6.5",
+                "6.1",
+                "6.6",
+                "5.7",
+                "4.9",
+                "5.7",
+                "4.6",
+                "8.1",
+                "7.9",
+                "7.5",
+                "7.3"
+              ],
+              [
+                "Total",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Advanced economies",
+                "1.9",
+                "1.8",
+                "1.8",
+                "1.8",
+                "4.8",
+                "3.0",
+                "2.3",
+                "2.3",
+                "4.4",
+                "4.5",
+                "4.5",
+                "4.3"
+              ],
+              [
+                "Emerging economies",
+                "5.5",
+                "4.7",
+                "4.5",
+                "4.6",
+                "4.5",
+                "5.9",
+                "5.7",
+                "5.4",
+                "6.2",
+                "6.0",
+                "5.8",
+                "5.7"
+              ],
+              [
+                "Global economy",
+                "4.1",
+                "3.7",
+                "3.6",
+                "3.7",
+                "4.3",
+                "3.9",
+                "3.5",
+                "3.4",
+                "5.8",
+                "5.7",
+                "5.5",
+                "5.4"
+              ],
+              [
+                "For reference:",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Export weighted2",
+                "3.1",
+                "2.8",
+                "2.8",
+                "2.8",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "GDP weighted in USD3",
+                "3.4",
+                "3.1",
+                "3.1",
+                "3.1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1071,
+            "y1": 195,
+            "x2": 1423,
+            "y2": 336
+          },
+          "text": "GLOBAL ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 168,
+            "y1": 597,
+            "x2": 1121,
+            "y2": 2716
+          },
+          "text": "of goods exports to the United States and its relative importance\ncompared to other trade partners for selected economies.\n\nIt is clear that the share of all exports to the United States of total\nexports is rather low for large EU Member States. The economic\nconsequences of the tariffs may thus be rather limited overall, but\nthere are significant regional differences. A study” investigated\npossible consequences of a universal import tariff of 10 percent,\n60 percent on Chinese imports, and 100 percent on all imported\n\ncars. According to the model calculations in the study, the EU's\nGDP is expected to decline by around 0.11 percent.\"\n\nGermany's economy, in contrast, would be hit even harder; impos-\ning import tariffs on cars would severely affect German industry.”\nIn addition, the United States is the most important individual\n\nsales market for German pharmaceutical companies. If US gas\nexports to the EU are used as a means of political pressure,\n\nthere is also the risk that energy prices will rise again. This would\nlikely further burden the beleaguered manufacturing industry in\nGermany in particular. However, Germany could benefit from tariff\nasymmetries and trade diversification, which may somewhat com-\npensate for the negative effects; an escalation of the trade conflict\nbetween the United States and China that entails significantly\nhigher tariffs on both trade partners would make German products\nrelatively more affordable. At the same time, the tariff policy may\nlead to more diversification of trade relationships with other coun-\ntries,? which could further increase demand for German products.\n\nWith a share of around 15 percent of total export volume in 2023,\nthe United States is China’s most important trade partner. An in-\ncrease in tariffs on all imported Chinese goods to 60 percent would\nhit the Chinese economy hard and lead to distortions in interna-\ntional trade. At the same time, China may, as in 2018, take counter-\nmeasures, which would likely strengthen the effect. During the first\nTrump administration, the counter tariffs were around the amount\nof the American tariffs, which avoided an escalation.\n\nTariffs on Mexican and Canadian goods could result in significant\neconomic losses for both countries. In Canada, the crude oil sec-\n\ntor’* would be affected, while in Mexcio, the automobile industry,\n\nthe country's most important industrial sector, would be affected\n\nin particular.",
+          "summarized_text": "The share of goods exports to the United States varies among different economies, with the EU Member States having a low overall percentage. Germany's economy would be significantly impacted by import tariffs, particularly on cars and pharmaceuticals. Trade conflicts and tariff policies could lead to diversification of trade relationships and potential benefits for German products."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1168,
+            "y1": 1977,
+            "x2": 2250,
+            "y2": 2460
+          },
+          "text": "For emerging economies, the expected appreciation of the US dol-\nlar due to the sharp increase in import tariffs would be associated\nwith considerable disadvantages, as their debts are denominated\nin dollars. An International Monetary Fund study\" suggests that a\n10 percent increase in the dollar would decrease economic output\nin emerging economies by 1.9 percent after six months. These\neffects will last for up to two and a half years.",
+          "summarized_text": "Emerging economies face challenges with the expected appreciation of the US dollar due to increased import tariffs, as their debts are denominated in dollars. An International Monetary Fund study predicts a 10 percent increase in the dollar could decrease economic output in emerging economies by 1.9 percent after six months, with effects lasting up to two and a half years."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1171,
+            "y1": 672,
+            "x2": 2350,
+            "y2": 1849
+          },
+          "data": {
+            "Countries": [
+              {
+                "Country": "Germany",
+                "Rank": 1,
+                "Share_of_exports_to_US_percent": 10
+              },
+              {
+                "Country": "France",
+                "Rank": 5,
+                "Share_of_exports_to_US_percent": 7
+              },
+              {
+                "Country": "Italy",
+                "Rank": 2,
+                "Share_of_exports_to_US_percent": 10.7
+              },
+              {
+                "Country": "Spain",
+                "Rank": 6,
+                "Share_of_exports_to_US_percent": 4.7
+              },
+              {
+                "Country": "Netherlands",
+                "Rank": 5,
+                "Share_of_exports_to_US_percent": 5
+              },
+              {
+                "Country": "United Kingdom",
+                "Rank": 1,
+                "Share_of_exports_to_US_percent": 13.8
+              },
+              {
+                "Country": "Switzerland",
+                "Rank": 4,
+                "Share_of_exports_to_US_percent": 15
+              },
+              {
+                "Country": "Hungary",
+                "Rank": 1,
+                "Share_of_exports_to_US_percent": 5
+              },
+              {
+                "Country": "Poland",
+                "Rank": 8,
+                "Share_of_exports_to_US_percent": 2.9
+              },
+              {
+                "Country": "Czechia",
+                "Rank": 11,
+                "Share_of_exports_to_US_percent": 2.3
+              },
+              {
+                "Country": "Romania",
+                "Rank": 14,
+                "Share_of_exports_to_US_percent": 2.3
+              },
+              {
+                "Country": "Turkey",
+                "Rank": 2,
+                "Share_of_exports_to_US_percent": 5.8
+              },
+              {
+                "Country": "Russia",
+                "Rank": 11,
+                "Share_of_exports_to_US_percent": 2.8
+              },
+              {
+                "Country": "Mexico",
+                "Rank": 1,
+                "Share_of_exports_to_US_percent": 79.6
+              },
+              {
+                "Country": "Brazil",
+                "Rank": 2,
+                "Share_of_exports_to_US_percent": 11
+              },
+              {
+                "Country": "Japan",
+                "Rank": 1,
+                "Share_of_exports_to_US_percent": 20.2
+              },
+              {
+                "Country": "South Korea",
+                "Rank": 2,
+                "Share_of_exports_to_US_percent": 18.4
+              },
+              {
+                "Country": "China",
+                "Rank": 1,
+                "Share_of_exports_to_US_percent": 14.8
+              },
+              {
+                "Country": "India",
+                "Rank": 1,
+                "Share_of_exports_to_US_percent": 17.6
+              }
+            ],
+            "table_0": [
+              [
+                "",
+                "",
+                "2023",
+                "2024",
+                "2025",
+                "2026"
+              ],
+              [
+                "ECB deposit rate1 (year end)",
+                "Percent",
+                "4.0",
+                "3.0",
+                "2.25",
+                "2.25"
+              ],
+              [
+                "Money market interest rate",
+                "Three-month EURIBOR in percent",
+                "3.4",
+                "3.5",
+                "2.0",
+                "2.0"
+              ],
+              [
+                "Capital market interest",
+                "Yield on euro-area government bonds\nwith a remaining term of 10 years",
+                "3.3",
+                "3.0",
+                "2.9",
+                "2.9"
+              ],
+              [
+                "Capital market interest",
+                "Yield on German government bonds\nwith a remaining term of 10 years",
+                "2.6",
+                "2.4",
+                "2.3",
+                "2.3"
+              ],
+              [
+                "Exchange rate",
+                "USD/EUR",
+                "1.08",
+                "1.08",
+                "1.06",
+                "1.06"
+              ],
+              [
+                "Crude oil price",
+                "USD per barrel",
+                "82.5",
+                "80.3",
+                "72.9",
+                "70.9"
+              ],
+              [
+                "Gas price",
+                "EUR per megawatt hour",
+                "42.1",
+                "34.1",
+                "40.4",
+                "34.2"
+              ]
+            ]
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 170,
+            "y1": 2831,
+            "x2": 1123,
+            "y2": 3344
+          },
+          "text": "10 Cf. Aurélien Saussay, The economic impacts of Trump's tariff proposals on Europe\n(Policy Publication, London School of Economics: 2024) (available online).\n\n11 The United Kingdom's GDP is also projected to experience only a moderate decline of\n0.14 percent.\n\n12 Cf. Saussay, The economic impacts of Trump's tariff proposals on Europe.\n\n13. Cf. Pablo Fajgelbaum, Pinelopi Goldberg, Patrick Kennedy, Amit Khandelwal, and Daria\nTaglioni, “The US-China trade war and global reallocations,” American Economic Review: Insights 6,\nNo. 2 (2024): 295-312 (available online).\n\n14 Ninety-seven percent of Canadian crude oil exports are sent to the United States, which\naccounts for 16 percent of Canada’s total export revenue.",
+          "summarized_text": "Ninety-seven percent of Canadian crude oil exports are sent to the United States, making up 16 percent of Canada's total export revenue. This high level of dependency on the US market leaves Canada vulnerable to any changes in US trade policies."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1176,
+            "y1": 3212,
+            "x2": 2035,
+            "y2": 3344
+          },
+          "text": "15. Vgl. International Monetary Fund, External Sector Report 2023, Chapter 2 (2023)\n(available online).",
+          "summarized_text": "The International Monetary Fund's External Sector Report for 2023, Chapter 2 discusses current trends and challenges in the global economy. This report is available online for further reference."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 338,
+            "y1": 376,
+            "x2": 1318,
+            "y2": 1871
+          },
+          "text": "We expect that the strong expansion in the United States will\nlast until 2026 before gradually slowing down. While a pro-\ntectionist trade policy and restrictive immigration policy will\nlead to price pressure, falling energy prices will likely dampen\nthis pressure in the forecast period. Continued strong con-\nsumption should contribute to growth, supported by house-\nholds’ good financial situation, a solid labor market, and\nplanned tax relief for private households under the new gov-\nernment. Corporate investments will likely support growth\nas well, driven by better financing conditions, the recovery\nof the real estate sector, and an expected decrease in the cor-\nporate income tax.\n\nThe euro area economy should expand further in 2025 and\n2026 due to strong domestic demand as a result of rising real\nwages (Figure 2). The effects of US tariffs as assumed in this\nforecast should only marginally hamper growth. While the\nUnited States is an important trade partner for European\neconomies, its market share for exports from the large EU\nMember States is in the single digits on average and there-\nfore relatively small compared to that of the Member States’\ntrade partners within the EU (Box 2).\n\nThe outlook for the emerging economies remains favora-\nble, but the new US government is likely to increase trade\npolicy uncertainty. In addition to China, Mexico may be the\ncountry most affected by import tariffs. In China, the most\nrecent stimulus package is generating growth, although the",
+          "summarized_text": "The United States is expected to experience strong economic expansion until 2026, supported by factors such as a solid labor market and tax relief for households. The euro area economy is also projected to grow due to rising real wages, with minimal impact from US tariffs. Emerging economies, including China, are facing trade policy uncertainties, particularly with regard to import tariffs."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1347,
+            "y1": 380,
+            "x2": 2328,
+            "y2": 1814
+          },
+          "text": "American import tariffs on Chinese products will weigh\nheavily on goods exports.\n\nIn 2024, advanced economies are projected to expand by\n18 percent and emerging economies by 4.7 percent. A growth\nrate of 3.7 percent is expected for the global economy in 2024,\nwhile growth of 3.6 and 3.7 percent is expected for 2025 and\n2026, respectively. The forecast for 2025 has been adjusted\ndownward by 0.1 percentage points. This moderate down-\nward correction results from the fact that the assumed trade\nbarriers are offset by more dynamic growth in the United\nStates (Table 1).\n\nDownward risks for the global economy have increased con-\nsiderably since the fall. Geopolitical risks remain quite high.\nFurther escalation in the Middle East could increase oil and\ngas prices even more. The war in Ukraine remains incalcu-\nlable, especially following Trump’s re-election, which has\nincreased economic and security policy risks overall. This\nforecast makes assumptions about future US trade and\nfiscal policy after Trump’s inauguration in January 2025\n(Box 1). However, if there are considerably higher trade bar-\nriers than assumed in this forecast, there are likely to be\ngreater global economic fallouts (Box 2). A further risk fac-\ntor is public debt sustainability. In France, government bond\nyields have risen, as the resignation of French Prime Minister\nMichel Barnier has increased doubts about a reduction in\nthe debt burden.",
+          "summarized_text": "American import tariffs on Chinese products will impact goods exports, with projected global economic growth rates of 3.7%, 3.6%, and 3.7% for 2024, 2025, and 2026 respectively. However, downward risks have increased due to geopolitical tensions and uncertainties surrounding trade and fiscal policies, especially in the US after Trump's re-election."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 338,
+            "y1": 376,
+            "x2": 2328,
+            "y2": 1871
+          },
+          "text": " American import tariffs on Chinese products will weigh\nheavily on goods exports.\n\nIn 2024, advanced economies are projected to expand by\n18 percent and emerging economies by 4.7 percent. A growth\nrate of 3.7 percent is expected for the global economy in 2024,\nwhile growth of 3.6 and 3.7 percent is expected for 2025 and\n2026, respectively. The forecast for 2025 has been adjusted\ndownward by 0.1 percentage points. This moderate down-\nward correction results from the fact that the assumed trade\nbarriers are offset by more dynamic growth in the United\nStates (Table 1).\n\nDownward risks for the global economy have increased con-\nsiderably since the fall. Geopolitical risks remain quite high.\nFurther escalation in the Middle East could increase oil and\ngas prices even more. The war in Ukraine remains incalcu-\nlable, especially following Trump’s re-election, which has\nincreased economic and security policy risks overall. This\nforecast makes assumptions about future US trade and\nfiscal policy after Trump’s inauguration in January 2025\n(Box 1). However, if there are considerably higher trade bar-\nriers than assumed in this forecast, there are likely to be\ngreater global economic fallouts (Box 2). A further risk fac-\ntor is public debt sustainability. In France, government bond\nyields have risen, as the resignation of French Prime Minister\nMichel Barnier has increased doubts about a reduction in\nthe debt burden."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1063,
+            "y1": 177,
+            "x2": 1421,
+            "y2": 341
+          },
+          "text": "GERMAN ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 162,
+            "y1": 372,
+            "x2": 1593,
+            "y2": 659
+          },
+          "text": "German economy still struggling to\nmake headway",
+          "summarized_text": "The German economy is facing challenges and is struggling to show progress. It is still experiencing difficulties in making significant advancements."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 165,
+            "y1": 681,
+            "x2": 1142,
+            "y2": 3402
+          },
+          "text": "The German economy continues to experience weak growth.\nIn addition to the ongoing global industrial slump, the eco-\nnomic structural change in Germany is having a noticeable\nimpact: Structural adaptation in the manufacturing indus-\ntry, for example to stronger international competition, has\nnow reached industry-related sectors such as business-re-\nlated services and are affecting the labor market. Companies\nin industry as well as those in industry-related sectors are\nresponding to the lack of orders not only by expanding short-\ntime work, but also by laying off some of their staff despite\nthe ongoing skilled worker shortage. Accordingly, unem-\nployment has increased again recently. While economic out-\nput increased slightly (by 0.1 percent) in the third quarter\nof 2024, this growth was preceded by a strong decline (by\n0.3 percent} in the second quarter (Figure 2).\n\nExports and investments in particular have declined again,\nlikely also due to structural reasons. Persistently weak for-\neign demand for local manufacturing products was also evi-\ndent in the third quarter: Exports dropped significantly, goods\nexports experienced a considerable slump. This in combina-\ntion with slightly positive imports resulted in a negative trade\nbalance. Thus, foreign trade depressed economic growth in\nGermany. Investments in equipment and construction were\nalso on the decline again.\n\nNonetheless, GDP increased slightly in the third quarter,\nwhich can be attributed to a moderate expansion of private\nconsumption on the one hand. However, as this growth fol-\nlowed a steep decline in the previous quarter, this cannot be\nconsidered a recovery. Taking into account stable inflation\nrates and sustained wage increases, which were once again\nstrong in the third quarter, the expansion of private con-\nsumption seems rather restrained. In light of the impending\nlayoffs at major industrial companies, many private house-\nholds are likely to be more concerned about their own jobs.\nIt seems that they are saving more money again out of cau-\ntion: The savings rate increased for the fourth quarter in a\nrow. On the other hand, inventories were expanded signif-\nicantly and supported economic development: Companies\nproduced more than was consumed, resulting in GDP being\nhigher than the sum of its components.\n\nExamining individual economic sectors makes it clear that\nthe crisis in German industry is worsening and noticeably\nimpacting other sectors. The gross value added of manu-\nfacturing as well as the construction sector have recently\ndeclined. It declined by 1.4 percent for manufacturing, con-\nsiderably more than expected in the fall. The gross value\nadded of some services, such as professional services firms,\nfinancial services and insurance providers, and information\nand communication services, declined. Strong growth in",
+          "summarized_text": "The German economy is experiencing weak growth due to ongoing global industrial slump and structural changes in manufacturing. This has led to layoffs, increasing unemployment, and declining exports and investments. Despite a slight increase in GDP in the third quarter, private consumption remains restrained as households are cautious about potential job losses."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1166,
+            "y1": 2181,
+            "x2": 2164,
+            "y2": 3375
+          },
+          "text": "public services and other service providers are keeping over-\nall gross value added from dipping into the red.\n\nThe re-election of Donald Trump and the collapse of the\nGerman government coalition at the beginning of November\ncreated further uncertainty about the economic policy frame-\nwork of the coming years, especially among companies. The\noutlook for foreign trade has worsened, as the Trump admin-\nistration will likely increase trade barriers significantly start-\ning in 2025. This forecast assumes that after Trump takes\noffice, he will reimpose 10-percent tariffs on steel and 25-per-\ncent tariffs on aluminum that had previously been repealed\nby current US President Joe Biden. Moreover, it assumes that\nthe tariff rate for Chinese exports to the United States will\nincrease by 10 percentage points. The average tariff rate on\ngoods imports from China to the United States will likely be\n30 percent instead of around 20 percent (Box 1).\n\nDomestically, there is still no federal budget for 2025 due to\nthe collapse of the government coalition and the snap elec-\ntion. Provisional budget management applies following the\ncollapse, under which expenditure may only be incurred",
+          "summarized_text": "Public services and other service providers face uncertainty due to the re-election of Donald Trump and the collapse of the German government coalition, leading to a lack of a federal budget for 2025. The forecast also anticipates an increase in trade barriers under the Trump administration, which may impact foreign trade outlook."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1194,
+            "y1": 942,
+            "x2": 2392,
+            "y2": 1743
+          },
+          "data": {
+            "data": [
+              {
+                "year": 2023,
+                "level": {
+                  "value": 905,
+                  "growth_rate": -0.3
+                },
+                "forecast": [
+                  {
+                    "quarter": 1,
+                    "value": 915
+                  },
+                  {
+                    "quarter": 2,
+                    "value": 910
+                  },
+                  {
+                    "quarter": 3,
+                    "value": 912
+                  },
+                  {
+                    "quarter": 4,
+                    "value": 915
+                  }
+                ]
+              },
+              {
+                "year": 2024,
+                "level": {
+                  "value": 900,
+                  "growth_rate": -0.2
+                },
+                "forecast": [
+                  {
+                    "quarter": 1,
+                    "value": 900
+                  },
+                  {
+                    "quarter": 2,
+                    "value": 905
+                  },
+                  {
+                    "quarter": 3,
+                    "value": 910
+                  },
+                  {
+                    "quarter": 4,
+                    "value": 908
+                  }
+                ]
+              },
+              {
+                "year": 2025,
+                "level": {
+                  "value": 910,
+                  "growth_rate": 0.2
+                },
+                "forecast": [
+                  {
+                    "quarter": 1,
+                    "value": 902
+                  },
+                  {
+                    "quarter": 2,
+                    "value": 915
+                  },
+                  {
+                    "quarter": 3,
+                    "value": 920
+                  },
+                  {
+                    "quarter": 4,
+                    "value": 918
+                  }
+                ]
+              },
+              {
+                "year": 2026,
+                "level": {
+                  "value": 915,
+                  "growth_rate": 1.2
+                },
+                "forecast": [
+                  {
+                    "quarter": 1,
+                    "value": 915
+                  },
+                  {
+                    "quarter": 2,
+                    "value": 920
+                  },
+                  {
+                    "quarter": 3,
+                    "value": 918
+                  },
+                  {
+                    "quarter": 4,
+                    "value": 920
+                  }
+                ]
+              }
+            ],
+            "table_1": [
+              [
+                "Country",
+                "Rank",
+                "Share of total volume of goods\nexports (in percent)"
+              ],
+              [
+                "Germany",
+                "1",
+                "10"
+              ],
+              [
+                "France",
+                "5",
+                "7"
+              ],
+              [
+                "Italy",
+                "2",
+                "10.7"
+              ],
+              [
+                "Spain",
+                "6",
+                "4.7"
+              ],
+              [
+                "Netherlands",
+                "5",
+                "5"
+              ],
+              [
+                "United Kingdom",
+                "1",
+                "13.8"
+              ],
+              [
+                "Switzerland",
+                "1",
+                "15"
+              ],
+              [
+                "Hungary",
+                "4",
+                "5"
+              ],
+              [
+                "Polan",
+                "8",
+                "2.9"
+              ],
+              [
+                "Czechia",
+                "11",
+                "2.3"
+              ],
+              [
+                "Romania",
+                "14",
+                "2.3"
+              ],
+              [
+                "Turkey",
+                "2",
+                "5.8"
+              ],
+              [
+                "Russia",
+                "11",
+                "2.8"
+              ],
+              [
+                "Mexico",
+                "1",
+                "79.6"
+              ],
+              [
+                "Brazil",
+                "2",
+                "11"
+              ],
+              [
+                "Japan",
+                "1",
+                "20.2"
+              ],
+              [
+                "South Korea",
+                "2",
+                "18.4"
+              ],
+              [
+                "China",
+                "1",
+                "14.8"
+              ],
+              [
+                "India",
+                "1",
+                "17.6"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 346,
+            "y1": 1907,
+            "x2": 1308,
+            "y2": 3052
+          },
+          "text": "to “maintain existing institutions, legal obligations of the\nfederal government,”' and for measures that have already\nbeen adopted. In addition, some fiscal policy support that\nhad already passed the Federal Cabinet but had not yet\nbeen approved by the Bundestag will no longer find a major-\nity under the current minority government. This support\nincludes measures aimed at stimulating investment, such\nas the extension of degressive depreciation rules, which were\nintroduced as part of the growth initiative announced in late\nsummer. Planned adjustments to the income tax rate to\neliminate bracket creep and the increase in the child allow-\nance and child benefit are also unlikely to happen for the\ntime being. This forecast assumes that a government will be\nformed and a budget resolution agreed upon in early sum-\nmer 2025, which will support the financial situation of the\nfederal ministries and agencies and thus government con-\nsumption. However, as new government plans and fiscal pol-\nicy measures cannot yet be known, fiscal policy will remain\nrestrictive for the time being. Due to uncertainties about a\nnew government’s economic policy orientation, companies\nlocated in Germany in particular are likely to act carefully.\nThus, investment decisions are likely to be delayed to 2025.",
+          "summarized_text": "The current minority government in Germany is facing challenges in passing fiscal policy support measures, such as stimulating investment and adjusting tax rates. Uncertainties about a new government's economic policy orientation are likely to lead to cautious investment decisions in the country. The forecast assumes that a new government will be formed and a budget resolution agreed upon in early summer 2025."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1334,
+            "y1": 1893,
+            "x2": 2334,
+            "y2": 3415
+          },
+          "text": "The increased uncertainty is hitting the German economy\nin an already extremely difficult situation between cyclical\nweakness and structural change. Thus, another decline in\neconomic output is expected in the current fourth quarter\n(Table 2). Leading indicators from the beginning of the cur-\nrent quarter, i.e., before the US presidential election and the\ncollapse of the German government coalition caused addi-\ntional uncertainty, suggest that the industrial slump would\nhave continued regardless of the additional negative factors\nand that a recovery would have been delayed again. The\nGlobal Composite Purchasing Managers’ Index remained\nbelow the expansion threshold of 50 index points in October.\nIn November, the index declined again. While the index for\nindustry stagnated below the expansion threshold of 50, the\nindex for services fell below this threshold for the first time\nsince February. It should be noted that only some of the sur-\nveys took place following Trump’s re-election and the col-\nlapse of the German government coalition. The extent to\nwhich these political developments have further depressed\nsentiment will probably only become fully apparent in the\nDecember survey. Meanwhile, the order situation remains\nweak for both services as well as manufacturing. For exam-\nple, gross value added in the current fourth quarter is likely\nto decline slightly overall, yet slight increases in the ser-\nvice sectors will compensate for further declines in indus-\ntrial production.\n\nThe uncertainties due to foreign and domestic political devel-\nopments should result in companies acting more reserved in",
+          "summarized_text": "The German economy is facing increased uncertainty amidst cyclical weakness and structural change, leading to another expected decline in economic output. The Global Composite Purchasing Managers’ Index remained below the expansion threshold, signaling continued industrial slump and delayed recovery."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 342,
+            "y1": 3066,
+            "x2": 1303,
+            "y2": 3420
+          },
+          "text": "1 The legal basis for provisional budget management is Article 111 of the Basic Law. The term\n\n“institutions” includes constitutional bodies, federal agencies, institutions, and construction facil-\nities, for example. Maintaining existing institutions includes ongoing personnel costs, costs relat-\ned to filling new positions, and replacement equipment costs. “Legal obligations” include, among\nother things, benefit claims from Social Code Il (SGB II} such as the citizen's benefit (Birgergela),\n\nhousing allowance (Wohngela}, parental allowance (Elterngela), and expenditure obligations from\ninternational agreements.",
+          "summarized_text": "Provisional budget management, based on Article 111 of the Basic Law, encompasses maintaining existing institutions and meeting legal obligations such as Social Code II benefits and international agreement expenses. This includes personnel costs, filling new positions, and necessary equipment replacements."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1334,
+            "y1": 1893,
+            "x2": 2334,
+            "y2": 3420
+          },
+          "text": " to “maintain existing institutions, legal obligations of the\nfederal government,”' and for measures that have already\nbeen adopted. In addition, some fiscal policy support that\nhad already passed the Federal Cabinet but had not yet\nbeen approved by the Bundestag will no longer find a major-\nity under the current minority government. This support\nincludes measures aimed at stimulating investment, such\nas the extension of degressive depreciation rules, which were\nintroduced as part of the growth initiative announced in late\nsummer. Planned adjustments to the income tax rate to\neliminate bracket creep and the increase in the child allow-\nance and child benefit are also unlikely to happen for the\ntime being. This forecast assumes that a government will be\nformed and a budget resolution agreed upon in early sum-\nmer 2025, which will support the financial situation of the\nfederal ministries and agencies and thus government con-\nsumption. However, as new government plans and fiscal pol-\nicy measures cannot yet be known, fiscal policy will remain\nrestrictive for the time being. Due to uncertainties about a\nnew government’s economic policy orientation, companies\nlocated in Germany in particular are likely to act carefully.\nThus, investment decisions are likely to be delayed to 2025. 1 The legal basis for provisional budget management is Article 111 of the Basic Law. The term\n\n“institutions” includes constitutional bodies, federal agencies, institutions, and construction facil-\nities, for example. Maintaining existing institutions includes ongoing personnel costs, costs relat-\ned to filling new positions, and replacement equipment costs. “Legal obligations” include, among\nother things, benefit claims from Social Code Il (SGB II} such as the citizen's benefit (Birgergela),\n\nhousing allowance (Wohngela}, parental allowance (Elterngela), and expenditure obligations from\ninternational agreements."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 163,
+            "y1": 349,
+            "x2": 1148,
+            "y2": 3411
+          },
+          "text": "the current quarter, resulting in a noticeable decline in pri-\nvate equipment investment. The deteriorating external eco-\nnomic environment is also having an dampening impact on\nforeign trade as well as the willingness to invest. On the flip\nside, exports to the United States are expected to be pulled\nforward to the current and upcoming quarters, as the risk\nof steep tariff increases goes well beyond the reintroduction\nof aluminum and steel tariffs assumed in this forecast. The\ntemporary rise in exports should in turn boost imports of\nintermediary goods. Overall, foreign trade is expected to once\nagain make a negative contribution to GDP in this quarter.\n\nPrivate consumption should continue to develop weakly,\nbarely supporting economic development in the fourth quar-\ner. Job worries in particular are dampening private house-\nholds’ willingness to spend. This is reflected in the savings\nrate, which has been rising for four quarters. In addition,\nhe price level, which has become permanently higher, is\nslowing consumption despite rising real disposable income.\nConstruction investments in which residential construction\nargely driven by private households plays a key role are likely\no decline again.\n\nWe expect that the economic situation will relax very gradu-\nally over the further course of the forecast. From mid-2025,\nwith a new federal government and clearer external economic\nconditions, more and more uncertainties will dissipate and\nmake households and companies more confident again. The\nstabilization of employment over the course of 2025, which\nshould even grow somewhat in 2026 should also contribute\nto this. Accordingly, unemployment will gradually decline.\nAs a result, we expect that more of the higher disposable\nincomes and at least some of the household savings will\nbe spent again. Construction and equipment investments\nshould then stabilize, with the latter likely also being sup-\nported by government expenditure in 2025 in particular asa\npart of the Bundeswehr’s special fund. Companies will likely\nincreasingly invest in their production capacities beginning\nin 2026. As European industry increasingly recovers, foreign\ndemand will rise and the European Central Bank (ECB), as\nassumed, will cut interest rates further and German exports\nwill likely pick up speed again.\n\nWhile monetary policy will become increasingly less restric-\ntive due to further interest rate cuts over the course of the\nforecast period, fiscal policy will likely remain restrictive. On\nthe one hand, this is due to the expiry of expansionary meas-\nures in response to the energy crisis, the end of tax breaks,\nand tax increases. On the other hand, we assume that the col-\nlapse of the coalition will mean that revenue-reducing legis-\nlation will no longer be implemented, thus decreasing expan-\nsionary stimuli. Due to the snap elections for the German\nBundestag, the overall direction of fiscal policy during the\nforecast period is subject to a high degree of uncertainty.\n\nAllin all, price-adjusted GDP will likely contract by 0.2 per-\ncent in 2024 for the second year in a row (Table 3). In 2025,\nglobal economic output should expand by 0.2 percent, con-\nsiderably less than was expected in the fall. Growth will be",
+          "summarized_text": "The economic environment is currently deteriorating, leading to a decline in private equipment investment and weak private consumption. However, it is expected that the situation will gradually improve from mid-2025, with stabilization of employment and increased confidence leading to a potential increase in household spending and investment."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1173,
+            "y1": 1721,
+            "x2": 2166,
+            "y2": 3406
+          },
+          "text": "stronger in 2026 at 1.2 percent. However, this will be in part\ndue to non-recurring effects such as a comparatively high\nnumber of work days. Thus, DIW Berlin is lowering its fore-\ncast for 2024 by 0.5 percentage points and for 2025 and 2026\nby 0.7 and 0.2 percentage points, respectively. The signifi-\ncant downward revision in some cases is primarily due to the\nenormous additional burdens on the German economy due\nto the many uncertainties, both for companies as well as pri-\nvate households. With this forecast, DIW Berlin is revising\npotential GDP downward again. In 2029, potential growth\nof the German economy should still be 0.3 percent. Overall,\nthe output gap for 2024 and 2025 is likely to be a bit larger\nthan expected in fall. The gap will be —1.0 percent for 2024\nand -0.9 percent for 2025. Over the course of the recovery,\nthe gap is expected to nearly close at -0.2 percent in 2026.\n\nFollowing the strong growth of previous years, average con-\nsumer price inflation should be 2.2 percent, primarily due\no falling energy prices. This is close to the ECB’s two-per-\ncent target In the coming years, the inflation rate is expected\no level off at two percent. Thus, DIW Berlin’s inflation fore-\ncast remains unchanged compared to the fall. The core rate\n(inflation excluding energy and food) should also decline fur-\nher and come closer to the inflation target, but more slowly\nhan the overall rate of inflation.\n\nThe downside risks for the German economy grew signifi-\ncantly larger in the fall. In particular, domestic and foreign\neconomic policy uncertainties pose a risk of real economic\ndistortions that could be significantly greater than assumed\nin this forecast. There could be delays in forming a govern-\nment and, accordingly, in the budget process, which would",
+          "summarized_text": "DIW Berlin is revising its GDP forecast downward for 2024-2026, citing uncertainties and additional burdens on the German economy. Inflation is expected to level off at two percent, with downside risks growing due to economic policy uncertainties."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1176,
+            "y1": 535,
+            "x2": 2400,
+            "y2": 1194
+          },
+          "data": {
+            "2023": {
+              "GDP": -0.3,
+              "Employment (1,000 persons)": 46011,
+              "Unemployed (1,000 persons)": 2609,
+              "Unemployment (BA concept, in percent)": 5.7,
+              "Consumer prices": 5.9,
+              "Unit labor costs": 6.7,
+              "Government budget balance": {
+                "in billions of euros": -107.5,
+                "in percent of nominal GDP": -2.6
+              },
+              "Current account balance": {
+                "in billions of euros": 248.7,
+                "in percent of nominal GDP": 5.9
+              }
+            },
+            "2024": {
+              "GDP": -0.2,
+              "Employment (1,000 persons)": 46106,
+              "Unemployed (1,000 persons)": 2787,
+              "Unemployment (BA concept, in percent)": 6.0,
+              "Consumer prices": 2.2,
+              "Unit labor costs": 5.4,
+              "Government budget balance": {
+                "in billions of euros": -108.6,
+                "in percent of nominal GDP": -2.5
+              },
+              "Current account balance": {
+                "in billions of euros": 254.3,
+                "in percent of nominal GDP": 5.9
+              }
+            },
+            "2025": {
+              "GDP": 0.2,
+              "Employment (1,000 persons)": 46071,
+              "Unemployed (1,000 persons)": 2854,
+              "Unemployment (BA concept, in percent)": 6.1,
+              "Consumer prices": 2.0,
+              "Unit labor costs": 3.1,
+              "Government budget balance": {
+                "in billions of euros": -92.8,
+                "in percent of nominal GDP": -2.1
+              },
+              "Current account balance": {
+                "in billions of euros": 223.4,
+                "in percent of nominal GDP": 5.1
+              }
+            },
+            "2026": {
+              "GDP": 1.2,
+              "Employment (1,000 persons)": 46120,
+              "Unemployed (1,000 persons)": 2707,
+              "Unemployment (BA concept, in percent)": 5.8,
+              "Consumer prices": 2.0,
+              "Unit labor costs": 1.8,
+              "Government budget balance": {
+                "in billions of euros": -87.7,
+                "in percent of nominal GDP": -1.8
+              },
+              "Current account balance": {
+                "in billions of euros": 209.5,
+                "in percent of nominal GDP": 4.6
+              }
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 163,
+            "y1": 349,
+            "x2": 2166,
+            "y2": 3411
+          },
+          "text": " stronger in 2026 at 1.2 percent. However, this will be in part\ndue to non-recurring effects such as a comparatively high\nnumber of work days. Thus, DIW Berlin is lowering its fore-\ncast for 2024 by 0.5 percentage points and for 2025 and 2026\nby 0.7 and 0.2 percentage points, respectively. The signifi-\ncant downward revision in some cases is primarily due to the\nenormous additional burdens on the German economy due\nto the many uncertainties, both for companies as well as pri-\nvate households. With this forecast, DIW Berlin is revising\npotential GDP downward again. In 2029, potential growth\nof the German economy should still be 0.3 percent. Overall,\nthe output gap for 2024 and 2025 is likely to be a bit larger\nthan expected in fall. The gap will be —1.0 percent for 2024\nand -0.9 percent for 2025. Over the course of the recovery,\nthe gap is expected to nearly close at -0.2 percent in 2026.\n\nFollowing the strong growth of previous years, average con-\nsumer price inflation should be 2.2 percent, primarily due\no falling energy prices. This is close to the ECB’s two-per-\ncent target In the coming years, the inflation rate is expected\no level off at two percent. Thus, DIW Berlin’s inflation fore-\ncast remains unchanged compared to the fall. The core rate\n(inflation excluding energy and food) should also decline fur-\nher and come closer to the inflation target, but more slowly\nhan the overall rate of inflation.\n\nThe downside risks for the German economy grew signifi-\ncantly larger in the fall. In particular, domestic and foreign\neconomic policy uncertainties pose a risk of real economic\ndistortions that could be significantly greater than assumed\nin this forecast. There could be delays in forming a govern-\nment and, accordingly, in the budget process, which would"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 342,
+            "y1": 372,
+            "x2": 1321,
+            "y2": 756
+          },
+          "text": "keep economic conditions in Germany in limbo for longer\nthan assumed here. The new US government could impose\nhigh tariffs on German car exports to the United States,\nwhich would hit the already struggling manufacturing indus-\ntry in Germany even harder. In addition, it is unclear to\nwhat extent the German economy’s weak growth is shaped",
+          "summarized_text": "The German economy's weak growth may be prolonged by uncertain economic conditions, potentially exacerbated by high tariffs on car exports to the US. This could further impact the struggling manufacturing industry in Germany."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1354,
+            "y1": 389,
+            "x2": 2310,
+            "y2": 681
+          },
+          "text": "by structural adaptation and to what extent by cyclical fac-\ntors. Global economic risks are also affecting Germany.’ For\nexample, there is no easing in sight for many geopolitical\nflashpoints, such as the war in Ukraine.",
+          "summarized_text": "Germany's economy is impacted by both structural adaptations and cyclical factors, as well as global economic risks such as geopolitical tensions. The ongoing war in Ukraine is one of the many geopolitical flashpoints contributing to these risks."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 336,
+            "y1": 858,
+            "x2": 1305,
+            "y2": 1677
+          },
+          "text": "Geraldine Dany-Knedlik is Head of the Forecasting Department in the\nMacroeconomics Department at DIW Berlin | gdanyknedlik@diw.de\n\nGuido Baldi is a Guest Researcher in the Macroeconomics Department at\nDIW Berlin | gbaldi@diw.de\n\nNina Maria Brehl is a Research Associate in the Macroeconomics Department\nat DIW Berlin specializing in the euro area and consumer prices in Germany |\nnbrehl@diw.de\n\nHella Engerer is a Research Associate in the Energy, Transportation,\nEnvironment Department at DIW Berlin specializing in Central and Eastern\nEurope | hengerer@diw.de\n\nAngelina Hackmannis a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in the German labor market |\nahackmann@diw.de\n\nPia Hiittl is the Coordinator of the global economic forecast and a Research\nAssociate in the Macroeconomics Department | phuettl@diw.de\n\nKonstantin Kholodilin is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in estimating potential output at\nDIW Berlin | kholodilin@diw.de",
+          "summarized_text": "The team at DIW Berlin includes experts such as Geraldine Dany-Knedlik, Guido Baldi, Nina Maria Brehl, Hella Engerer, Angelina Hackmann, Pia Hiittl, and Konstantin Kholodilin, each specializing in different areas of macroeconomics and economic forecasting."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1342,
+            "y1": 854,
+            "x2": 2334,
+            "y2": 1725
+          },
+          "text": "Frederik Kurczis a Research Associate in the Macroeconomics Department at\nDIW Berlin specializing in the euro area | fkurcz@diw.de\n\nLaura Pagenhardt is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in investments | lpagenhardt@diw.de\n\nJan-Christopher Scherer is the Coordinator of the German economic forecast\nand Research Associate in the Macroeconomics Department at DIW Berlin |\njscherer@diw.de\n\nTeresa Schildmann is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in German fiscal policy |\ntschildmann@diw.de\n\nHannah Magdalena Seidl is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin | hseidl@diw.de\n\nRuben Staffa is a Research Associate in the Macroeconomics Department at\nDIW Berlin specializing in the USA, German fiscal policy, and German foreign\ntrade | rstaffa@diw.de\n\nKristin Trautmann is a Research Associate in the Macroeconomics\n\nDepartment at DIW Berlin specializing in the United Kingdom and European\nMonetary Policy | ktrautmann@diw.de",
+          "summarized_text": "Frederik, Laura, Jan-Christopher, Teresa, Hannah, Ruben, and Kristin are research associates at DIW Berlin specializing in various aspects of macroeconomics, including the euro area, investments, German fiscal policy, USA, German foreign trade, United Kingdom, and European Monetary Policy."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 342,
+            "y1": 372,
+            "x2": 2310,
+            "y2": 756
+          },
+          "text": " by structural adaptation and to what extent by cyclical fac-\ntors. Global economic risks are also affecting Germany.’ For\nexample, there is no easing in sight for many geopolitical\nflashpoints, such as the war in Ukraine."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1342,
+            "y1": 854,
+            "x2": 2334,
+            "y2": 1725
+          },
+          "text": "Frederik Kurczis a Research Associate in the Macroeconomics Department at\nDIW Berlin specializing in the euro area | fkurcz@diw.de\n\nLaura Pagenhardt is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in investments | lpagenhardt@diw.de\n\nJan-Christopher Scherer is the Coordinator of the German economic forecast\nand Research Associate in the Macroeconomics Department at DIW Berlin |\njscherer@diw.de\n\nTeresa Schildmann is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in German fiscal policy |\ntschildmann@diw.de\n\nHannah Magdalena Seidl is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin | hseidl@diw.de\n\nRuben Staffa is a Research Associate in the Macroeconomics Department at\nDIW Berlin specializing in the USA, German fiscal policy, and German foreign\ntrade | rstaffa@diw.de\n\nKristin Trautmann is a Research Associate in the Macroeconomics\n\nDepartment at DIW Berlin specializing in the United Kingdom and European\nMonetary Policy | ktrautmann@diw.de Geraldine Dany-Knedlik is Head of the Forecasting Department in the\nMacroeconomics Department at DIW Berlin | gdanyknedlik@diw.de\n\nGuido Baldi is a Guest Researcher in the Macroeconomics Department at\nDIW Berlin | gbaldi@diw.de\n\nNina Maria Brehl is a Research Associate in the Macroeconomics Department\nat DIW Berlin specializing in the euro area and consumer prices in Germany |\nnbrehl@diw.de\n\nHella Engerer is a Research Associate in the Energy, Transportation,\nEnvironment Department at DIW Berlin specializing in Central and Eastern\nEurope | hengerer@diw.de\n\nAngelina Hackmannis a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in the German labor market |\nahackmann@diw.de\n\nPia Hiittl is the Coordinator of the global economic forecast and a Research\nAssociate in the Macroeconomics Department | phuettl@diw.de\n\nKonstantin Kholodilin is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in estimating potential output at\nDIW Berlin | kholodilin@diw.de"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "blocks": [
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "2023",
+                "2024",
+                "2025",
+                "2026"
+              ],
+              [
+                "GDP1",
+                "−0.3",
+                "−0.2",
+                "0.2",
+                "1.2"
+              ],
+              [
+                "Employment2 (1,000 persons)",
+                "46,011",
+                "46,106",
+                "46,071",
+                "46,120"
+              ],
+              [
+                "Unemployed (1,000 persons)",
+                "2,609",
+                "2,787",
+                "2,854",
+                "2,707"
+              ],
+              [
+                "Unemployment3 (BA concept, in percent)",
+                "5.7",
+                "6.0",
+                "6.1",
+                "5.8"
+              ],
+              [
+                "Consumer prices4",
+                "5.9",
+                "2.2",
+                "2.0",
+                "2.0"
+              ],
+              [
+                "Unit labor costs5",
+                "6.7",
+                "5.4",
+                "3.1",
+                "1.8"
+              ],
+              [
+                "Government budget balance6",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "in billions of euros",
+                "−107.5",
+                "−108.6",
+                "−92.8",
+                "−82.7"
+              ],
+              [
+                "in percent of nominal GDP",
+                "−2.6",
+                "−2.5",
+                "−2.1",
+                "−1.8"
+              ],
+              [
+                "Current account balance",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "in billions of euros",
+                "248.7",
+                "254.3",
+                "223.4",
+                "209.5"
+              ],
+              [
+                "in percent of nominal GDP",
+                "5.9",
+                "5.9",
+                "5.1",
+                "4.6"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

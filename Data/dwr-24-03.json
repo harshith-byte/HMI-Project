@@ -1,0 +1,3560 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 294,
+            "y1": 1836,
+            "x2": 1211,
+            "y2": 2141
+          },
+          "text": "Women Executives\nBarometer 2024"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 139,
+            "y1": 2199,
+            "x2": 1523,
+            "y2": 3030
+          },
+          "text": "18 Report by Virginia Sondergeld, Katharina Wrohlich, and Anja Kirsch\n\nShare of women on the executive boards of\nlarge companies has increased, but generally is\nat most one woman\n\nThe DIW Berlin Women Executives Barometer is the largest survey on\nwomen in leadership positions of large companies in Germany\n\nShare of women at top 200 companies around 18 percent in late\n\nfall 2023\n\nMany companies have appointed no more than one woman to their\nexecutive board for the first time",
+          "summarized_text": "The share of women on the executive boards of large companies in Germany has increased, but generally, there is at most one woman. The DIW Berlin Women Executives Barometer revealed that around 18 percent of top 200 companies had appointed no more than one woman to their executive board in late fall 2023."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": []
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 131,
+            "y1": 482,
+            "x2": 2308,
+            "y2": 925
+          },
+          "text": "Share of women on the executive boards of large\ncompanies has increased, but generally is at most\none woman\n\nBw VUiedninin Candarnoald Watharinn Wereaklicekh and Anim Mivrcrk"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 131,
+            "y1": 964,
+            "x2": 2350,
+            "y2": 1712
+          },
+          "text": "The largest analysis of its kind, the DIW Berlin Women Executives Barometer contains information\non shares of women on the executive and supervisory boards of over 500 companies\n\nNumber of women on executive boards of largest companies in Germany increased considerably;\nthe top 200 companies had a share of around 18 percent in late fall 2023\n\nMany companies have appointed no more than one woman to their executive board for the first\ntime; 44 percent of the top 200 group still has no women on the executive board\n\nMore commitment needed from companies, both internally and externally, to achieve equal\nparticipation of men and women in management positions",
+          "summarized_text": "The DIW Berlin Women Executives Barometer found that while there has been an increase in the number of women on executive boards in Germany, there is still a lack of equal representation. With only 18 percent of the top 200 companies having women on their executive boards, more effort is needed both internally and externally to achieve gender equality in management positions."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 914,
+            "y1": 1933,
+            "x2": 2302,
+            "y2": 2858
+          },
+          "data": {
+            "summary": {
+              "percent_of_executive_board_members_who_are_women": {
+                "late_fall_2023": 18,
+                "trending": "up"
+              },
+              "companies_with_at_least_one_woman_on_executive_board": {
+                "count": 110,
+                "trending": "up"
+              },
+              "women_CEOs": {
+                "count": 9,
+                "trending": "down"
+              }
+            },
+            "companies_by_number_of_women_on_executive_board": {
+              "2021": {
+                "0": 50,
+                "1": 40,
+                "2": 5,
+                "3": 4,
+                "4": 1,
+                "5": 0,
+                "6": 0
+              },
+              "2022": {
+                "0": 45,
+                "1": 39,
+                "2": 10,
+                "3": 4,
+                "4": 2,
+                "5": 0,
+                "6": 0
+              },
+              "2023": {
+                "0": 30,
+                "1": 45,
+                "2": 15,
+                "3": 7,
+                "4": 3,
+                "5": 0,
+                "6": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 754,
+            "y1": 181,
+            "x2": 1759,
+            "y2": 305
+          },
+          "text": "WOMEN EXECUTIVES BAROMETER: SHARE OF WOMEN"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 136,
+            "y1": 580,
+            "x2": 2235,
+            "y2": 978
+          },
+          "text": "Share of women on the executive boards\nof large companies has increased, but\ngenerally is at most one woman",
+          "summarized_text": "The share of women on executive boards of large companies has increased, but typically there is only one woman represented. Despite progress, there is still a lack of gender diversity at the highest levels of corporate leadership."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 136,
+            "y1": 1217,
+            "x2": 433,
+            "y2": 1323
+          },
+          "text": "ABSTRACT"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 139,
+            "y1": 1323,
+            "x2": 1284,
+            "y2": 2619
+          },
+          "text": "The number of women serving on the executive boards of\nlarge companies in Germany once again increased in 2023:\nAround 18 percent (153 of 875) of executive board members\nat the 200 largest companies were women as of late fall 2023,\ntwo percentage points higher than in 2022. Thus, growth has\nslightly picked up again. In some of the groups of companies\nanalyzed, the figure was even higher. Around 23 percent\n\nof executive board members at the DAX 40 companies,\n\nfor example, are women. The largest banks and insurance\ncompanies, which in the past years have lagged considerably\nbehind other private sector companies and companies with\ngovernment-owned shares, managed to catch up a bit. In\nmany places, this growth is due to the fact that companies\nhave appointed a woman to their executive board for the first\ntime. Beyond that, there is currently not much progress. In\naddition, the number of women holding the position of CEO\nhas decreased in many groups of companies. More commit-\nment is needed from companies, both internally (e.g., from\nthe supervisory board) and externally (e.g., from investors) to\n\nachieve gender parity in senior leadership positions.",
+          "summarized_text": "The number of women on executive boards of large companies in Germany increased in 2023, with around 18% of board members being women. However, there is still a lack of progress in increasing the number of women CEOs, and more commitment is needed from companies and investors to achieve gender parity in senior leadership positions."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1345,
+            "y1": 1181,
+            "x2": 2340,
+            "y2": 2252
+          },
+          "text": "Since 2006, DIW Berlin’s Women Executives Barometer has\nbeen documenting the share of women! on management\nboards and among managing directors (hereafter referred\nto as “executive boards”) as well as on supervisory, admin-\nistrative, and advisory boards as well as boards of trustees\n(hereafter “supervisory boards”) of the largest companies\nin Germany.’ It is also documented to what extent women\nhold executive board chair and executive board spokesper-\nson positions (hereafter “CEO”) as well as supervisory board\nchair positions. These shares of women are reported here\nfor the 200 largest companies in Germany (measured by\nrevenue),* all DAX companies,‘ all companies with govern-\nment-owned shares,’ the 100 largest banks*® (measured by\nbalance sheet total), and the 60 largest insurance companies’\n(measured by revenue from contributions}. Furthermore,\nthe shares of women on executive boards and supervisory\nboards are reported separately for the companies subject to\nthe gender quota on supervisory boards and for the compa-\nnies subject to the 2021 inclusion requirement® for execu-\n\n1.) This Weekly Report uses a binary understanding of gender. The gender of the persons",
+          "summarized_text": "The report focuses on the representation of women in executive and supervisory board positions of major companies in Germany, using a binary understanding of gender. It documents the share of women in leadership roles such as managing directors and executive board chair positions, providing insights into gender diversity in corporate governance."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 160,
+            "y1": 456,
+            "x2": 2009,
+            "y2": 580
+          },
+          "text": "Women on executive and supervisory boards of Germany's 200 largest companies’ (excluding the\nfinancial sector)"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 166,
+            "y1": 2203,
+            "x2": 1160,
+            "y2": 2738
+          },
+          "text": "tive boards. Altogether, the DIW Berlin Women Executives\nBarometer includes information on over 500 companies in\nGermany. The figures published here were researched from\nNovember 15 to November 27, 2023.° The data are drawn\nfrom online company profiles, 2022 annual reports, finan-\ncial statements, and the German Federal Government’s 2022\nBeteiligungsbericht. It also includes information from German\nFederal Gazette publications as well as specifc data requests\nmade to the companies by DIW Berlin.",
+          "summarized_text": "The DIW Berlin Women Executives Barometer provides information on over 500 companies in Germany, researched in November 2023. Data sources include online profiles, annual reports, financial statements, government reports, and specific company requests."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 165,
+            "y1": 2734,
+            "x2": 1168,
+            "y2": 2977
+          },
+          "text": "Top 200 companies\n\nShare of women on executive boards continues to\nrise, but number of women CEOs is declining"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 162,
+            "y1": 2995,
+            "x2": 1176,
+            "y2": 3256
+          },
+          "text": "In the fourth quarter of 2023, the share of women on the\nexecutive boards of the 200 largest companies (excluding the\nfinancial sector) was nearly 18 percent (Table 1 and Figure 1),\nan increase of almost two percentage points compared to",
+          "summarized_text": "In the fourth quarter of 2023, women made up nearly 18 percent of executive boards in the top 200 largest companies, excluding the financial sector. This marked an increase of almost two percentage points from the previous period."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1178,
+            "y1": 2225,
+            "x2": 2145,
+            "y2": 3145
+          },
+          "text": "2022. Thus, following rather restrained growth in 2022, the\nshare of women has begun to increase again. Since 2018,\nthe share of women on the executive boards of the 200 larg-\nest companies has almost doubled.\n\nThe development among the top 100 companies was similar:\nThere, the share of women on executive boards also increased\nby nearly two percentage points and, as of late fall 2023, was\nover 19 percent. This share has also almost doubled since 2018.\n\nThe increase in the share of women on executive boards, how-\never, contrasts with a decline in the share of women CEOs:\nIn both the top 200 and the top 100 companies, the number\nof women CEOs fell by one person in each case. Only nine\n(five percent) of the 200 largest companies had a woman CEO\nas of fall 2023, while only four (a little over four percent) of\nthe 100 largest had a woman CEO.”",
+          "summarized_text": "The share of women on executive boards of top companies has nearly doubled since 2018, with an increase in late fall 2023. However, the number of women CEOs has declined, with only a small percentage holding CEO positions in the largest companies."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "Largest 200 companies",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "Largest 100 companies",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "2006",
+                "2011",
+                "2016",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2006",
+                "2011",
+                "2016",
+                "2020",
+                "2021",
+                "2022",
+                "2023"
+              ],
+              [
+                "Executive/management boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "200",
+                "200",
+                "200",
+                "200",
+                "200",
+                "200",
+                "200",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100"
+              ],
+              [
+                "With composition data",
+                "195",
+                "197",
+                "200",
+                "193",
+                "197",
+                "197",
+                "197",
+                "97",
+                "100",
+                "100",
+                "96",
+                "97",
+                "98",
+                "97"
+              ],
+              [
+                "With women on executive board",
+                "9",
+                "22",
+                "61",
+                "81",
+                "101",
+                "104",
+                "110",
+                "1",
+                "11",
+                "35",
+                "48",
+                "60",
+                "58",
+                "63"
+              ],
+              [
+                "Percentage share",
+                "4.6",
+                "11.2",
+                "30.5",
+                "42.0",
+                "51.3",
+                "52.8",
+                "55.8",
+                "1.0",
+                "11.0",
+                "35.0",
+                "50.0",
+                "61.9",
+                "59.2",
+                "64.9"
+              ],
+              [
+                "Total number of members",
+                "953",
+                "942",
+                "931",
+                "878",
+                "944",
+                "935",
+                "875",
+                "531",
+                "533",
+                "498",
+                "468",
+                "482",
+                "479",
+                "459"
+              ],
+              [
+                "Men",
+                "942",
+                "914",
+                "855",
+                "777",
+                "805",
+                "789",
+                "722",
+                "530",
+                "520",
+                "455",
+                "404",
+                "403",
+                "395",
+                "370"
+              ],
+              [
+                "Women",
+                "11",
+                "28",
+                "76",
+                "101",
+                "139",
+                "146",
+                "153",
+                "1",
+                "13",
+                "43",
+                "64",
+                "79",
+                "84",
+                "89"
+              ],
+              [
+                "Percentage share of women",
+                "1.2",
+                "3.0",
+                "8.2",
+                "11.5",
+                "14.7",
+                "15.6",
+                "17.5",
+                "0.2",
+                "2.4",
+                "8.6",
+                "13.7",
+                "16.4",
+                "17.5",
+                "19.4"
+              ],
+              [
+                "Total number of chairpersons",
+                "195",
+                "198",
+                "176",
+                "183",
+                "176",
+                "179",
+                "181",
+                "97",
+                "100",
+                "94",
+                "95",
+                "90",
+                "90",
+                "92"
+              ],
+              [
+                "Men",
+                "195",
+                "197",
+                "171",
+                "176",
+                "162",
+                "169",
+                "172",
+                "97",
+                "100",
+                "94",
+                "91",
+                "84",
+                "85",
+                "88"
+              ],
+              [
+                "Women",
+                "0",
+                "1",
+                "5",
+                "7",
+                "14",
+                "10",
+                "9",
+                "0",
+                "0",
+                "0",
+                "4",
+                "6",
+                "5",
+                "4"
+              ],
+              [
+                "Percentage share of women",
+                "0",
+                "0.5",
+                "2.9",
+                "3.8",
+                "8.0",
+                "5.6",
+                "5.0",
+                "0",
+                "0",
+                "0",
+                "4.2",
+                "6.7",
+                "5.6",
+                "4.3"
+              ],
+              [
+                "Supervisory boards/administrative boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "200",
+                "200",
+                "200",
+                "200",
+                "200",
+                "200",
+                "200",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100"
+              ],
+              [
+                "With composition data",
+                "170",
+                "163",
+                "154",
+                "154",
+                "160",
+                "166",
+                "161",
+                "87",
+                "90",
+                "81",
+                "83",
+                "86",
+                "89",
+                "87"
+              ],
+              [
+                "With women on supervisory board",
+                "110",
+                "118",
+                "138",
+                "145",
+                "149",
+                "156",
+                "155",
+                "65",
+                "68",
+                "74",
+                "79",
+                "81",
+                "85",
+                "84"
+              ],
+              [
+                "Percentage share",
+                "64.7",
+                "72.4",
+                "89.6",
+                "94.2",
+                "93.1",
+                "94.0",
+                "96.3",
+                "74.7",
+                "75.6",
+                "91.4",
+                "95.2",
+                "94.2",
+                "95.5",
+                "96.6"
+              ],
+              [
+                "Total number of members",
+                "2,500",
+                "2,268",
+                "2,160",
+                "2,074",
+                "2,183",
+                "2,160",
+                "2,148",
+                "1,389",
+                "1,326",
+                "1,198",
+                "1,252",
+                "1,317",
+                "1,302",
+                "1,326"
+              ],
+              [
+                "Men",
+                "2,304",
+                "1,999",
+                "1,671",
+                "1,453",
+                "1,519",
+                "1,493",
+                "1,470",
+                "1,270",
+                "1,178",
+                "922",
+                "866",
+                "910",
+                "894",
+                "900"
+              ],
+              [
+                "Women",
+                "196",
+                "269",
+                "489",
+                "621",
+                "664",
+                "667",
+                "678",
+                "119",
+                "148",
+                "276",
+                "386",
+                "407",
+                "408",
+                "426"
+              ],
+              [
+                "Percentage share of women",
+                "7.8",
+                "11.9",
+                "22.6",
+                "29.9",
+                "30.4",
+                "30.9",
+                "31.6",
+                "8.6",
+                "11.2",
+                "23.0",
+                "30.8",
+                "30.9",
+                "31.3",
+                "32.1"
+              ],
+              [
+                "Total number of chairpersons",
+                "170",
+                "167",
+                "153",
+                "153",
+                "160",
+                "166",
+                "161",
+                "87",
+                "91",
+                "80",
+                "83",
+                "86",
+                "89",
+                "87"
+              ],
+              [
+                "Men",
+                "167",
+                "164",
+                "150",
+                "145",
+                "150",
+                "155",
+                "148",
+                "85",
+                "88",
+                "78",
+                "79",
+                "81",
+                "82",
+                "80"
+              ],
+              [
+                "Women",
+                "3",
+                "3",
+                "3",
+                "8",
+                "10",
+                "11",
+                "13",
+                "2",
+                "3",
+                "2",
+                "4",
+                "5",
+                "7",
+                "7"
+              ],
+              [
+                "Percentage share of women",
+                "1.8",
+                "1.8",
+                "2.0",
+                "5.2",
+                "6.3",
+                "6.6",
+                "8.1",
+                "2.3",
+                "3.3",
+                "2.5",
+                "4.8",
+                "5.8",
+                "7.9",
+                "8.0"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 82,
+            "y1": 394,
+            "x2": 1242,
+            "y2": 633
+          },
+          "text": "Figure 1\n\nShares of women and men in selected groups of companies\nIn percent"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 86,
+            "y1": 637,
+            "x2": 1244,
+            "y2": 1641
+          },
+          "data": {
+            "charts": [
+              {
+                "title": "Executive boards",
+                "categories": [
+                  {
+                    "name": "DAX 40",
+                    "color": "orange",
+                    "trend": "decreasing"
+                  },
+                  {
+                    "name": "Top 200",
+                    "color": "gray",
+                    "trend": "decreasing"
+                  },
+                  {
+                    "name": "With government-owned shares",
+                    "color": "brown",
+                    "trend": "decreasing"
+                  }
+                ]
+              },
+              {
+                "title": "With government-owned shares",
+                "categories": [
+                  {
+                    "name": "Top 200",
+                    "color": "dark teal",
+                    "trend": "increasing"
+                  },
+                  {
+                    "name": "DAX 40",
+                    "color": "light teal",
+                    "trend": "increasing"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1266,
+            "y1": 606,
+            "x2": 2378,
+            "y2": 1610
+          },
+          "data": {
+            "Supervisory_boards": {
+              "DAX_40": {
+                "2006": 78,
+                "2008": 76,
+                "2010": 74,
+                "2012": 73,
+                "2014": 71,
+                "2016": 69,
+                "2018": 67,
+                "2020": 66,
+                "2022": 64,
+                "2023": 63
+              },
+              "Top_200": {
+                "2006": 91,
+                "2008": 89,
+                "2010": 87,
+                "2012": 84,
+                "2014": 82,
+                "2016": 79,
+                "2018": 76,
+                "2020": 74,
+                "2022": 71,
+                "2023": 70
+              }
+            },
+            "With_government_owned_shares": {
+              "DAX_40": {
+                "2006": 3,
+                "2008": 5,
+                "2010": 7,
+                "2012": 9,
+                "2014": 10,
+                "2016": 14,
+                "2018": 17,
+                "2020": 20,
+                "2022": 22,
+                "2023": 23
+              },
+              "Top_200": {
+                "2006": 20,
+                "2008": 23,
+                "2010": 26,
+                "2012": 28,
+                "2014": 31,
+                "2016": 33,
+                "2018": 36,
+                "2020": 38,
+                "2022": 40,
+                "2023": 42
+              }
+            }
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 336,
+            "y1": 1911,
+            "x2": 1155,
+            "y2": 2084
+          },
+          "text": "Slight growth in the share of women on\nsupervisory boards"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 330,
+            "y1": 2101,
+            "x2": 1316,
+            "y2": 2813
+          },
+          "text": "The share of women on supervisory boards remains signifi-\ncantly higher than the share of women on executive boards;\nrecently the shares at both the 200 and 100 largest compa-\nnies increased by nearly one percentage point each to around\n32 percent. On average, women have made up almost one\nthird of supervisory board members for several years now.\nThe number of women leading a supervisory board among\nthe 200 largest companies grew from 11 in 2022 to 13, a good\neight percent, in late fall 2023.\" In the fourth quarter of 2023,\nthe 100 largest companies had seven women (eight percent)\nsupervisory board chairs.",
+          "summarized_text": "The share of women on supervisory boards is higher than on executive boards, with around 32% at the 200 and 100 largest companies. The number of women leading supervisory boards at these companies increased from 11 to 13 in late fall 2023."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1354,
+            "y1": 1911,
+            "x2": 2229,
+            "y2": 2203
+          },
+          "text": "Publicly listed companies\n\nDAX 40 companies have the largest share of\nwomen on executive boards, but MDAX and\nTecDAX companies are catching up"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1350,
+            "y1": 2216,
+            "x2": 2329,
+            "y2": 3366
+          },
+          "text": "In late fall 2023, the average share of women on the executive\nboards of the 160 publicly listed companies analyzed here\n(DAX 40, MDAX, SDAX, and TecDAX) was a good 18 per-\ncent, thus nearly three percentage points higher than in\n2022. This share is very similar to the shares of women on\nthe executive boards of the 200 and 100 largest companies.\n\nHowever, this average conceals major differences between\nthe individual DAX groups. The largest publicly listed compa-\nnies, the DAX 40, have had a larger share of women on their\nexecutive boards than the SDAX, MDAX, and TecDAX com-\npanies for more than ten years (Table 2 and Table 3). There\nwas a particularly strong increase in the share of women at\nthe executive level in the DAX 40 group between 2020 and\n2022 from almost 15 percent to nearly 22 percent. Recently,\nthis momentum has slowed a bit; in the fourth quarter of\n2023, the share of women on the executive boards of the\nDAX 40 companies was 23 percent, only a good one percent-\nage point higher than in 2022. This means that in late fall\n2023, 59 ofa total of 256 executive board members across the\n40 largest publicly listed companies were women.",
+          "summarized_text": "In late fall 2023, the average share of women on the executive boards of publicly listed companies analyzed was 18%, almost 3% higher than in 2022. The DAX 40 companies have had a larger share of women on their executive boards for over a decade, with a recent increase bringing the share to 23% in late 2023."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 157,
+            "y1": 372,
+            "x2": 1877,
+            "y2": 602
+          },
+          "text": "Table 2\n\nWomen on executive and supervisory boards of DAX 30/DAX 40 and MDAX companies'"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 150,
+            "y1": 2252,
+            "x2": 1145,
+            "y2": 3442
+          },
+          "text": "The MDAX companies, in contrast, experienced consider-\nably more growth: Here, the share of women on executive\nboards increased by nearly six percentage points and was\nnearly 18 percent most recently. The TecDAX companies\nhave developed similarly (Table 3): The share of women on\nexecutive boards experienced a comparatively strong increase\nof nearly five percentage points to around 21 percent. The\nshare of women on the executive boards of SDAX companies\ngrew much less: Ata good 14 percent, the SDAX companies\nhave the lowest share of women executive board members\nofall DAX groups. Moreover, the increase was not especially\nlarge, at only around two percentage points.\n\nIn contast to the growth of women on executive boards, the\ngrowth of women CEOs was either negative or stagnated, as\nis the case at the 200 and 100 largest companies. While two\nDAX 40 companies had women CEOs in 2022, as of late fall\n2023, there was only one: Belén Garijo, the CEO of Merck.\nOne TecDAX company had a woman CEO in 2022, butas of\nlate fall 2023, that is no longer the case. There was no change\nin the MDAX and SDAX companies, where there were two",
+          "summarized_text": "The MDAX and TecDAX companies saw noticeable growth in the representation of women on executive boards, with increases of nearly six and five percentage points respectively. However, the SDAX companies had the lowest share of women on executive boards at around 14 percent, with only a small increase of about two percentage points."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1166,
+            "y1": 2283,
+            "x2": 2181,
+            "y2": 2610
+          },
+          "text": "and five women CEOs, respectively, as of the fourth quarter\nof 2023, as was the case in 2022. Comparing the DAX groups,\nthe SDAX companies were ahead at just over seven percent\nwomen CEOs, which contrasts with their comparatively low\nshare of women among executive board members overall.”",
+          "summarized_text": "In the fourth quarter of 2023, the number of women CEOs in DAX and SDAX companies remained consistent with the previous year. SDAX companies had a higher percentage of women CEOs at just over seven percent, despite having a lower representation of women among executive board members overall."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1171,
+            "y1": 2610,
+            "x2": 1956,
+            "y2": 2752
+          },
+          "text": "Slight increase in the share of women on\nsupervisory boards of all DAX groups"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1169,
+            "y1": 2747,
+            "x2": 2227,
+            "y2": 3159
+          },
+          "text": "In late fall 2023, the average share of women on supervisory\nboards at all 160 DAX companies was nearly 36 percent,\naround two percentage points higher than in 2022.\n\nThe DAX 40 and TecDAX companies both had the greatest\nshare of women on supervisory boards at a good 38 percent\neach. They are followed by the MDAX companies (36 per-\ncent} and SDAX companies (a little over 33 percent). MDAX",
+          "summarized_text": "In late fall 2023, the average share of women on supervisory boards at all 160 DAX companies was nearly 36 percent, a two percentage point increase from 2022. The DAX 40 and TecDAX companies had the highest representation of women at 38 percent each, followed by MDAX companies at 36 percent and SDAX companies at a little over 33 percent."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "DAX 30/DAX 402",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "MDAX3",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "2008",
+                "2012",
+                "2016",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2011",
+                "2016",
+                "2020",
+                "2021",
+                "2022",
+                "2023"
+              ],
+              [
+                "Executive/management boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "30",
+                "30",
+                "30",
+                "30",
+                "40",
+                "40",
+                "40",
+                "50",
+                "50",
+                "60",
+                "50",
+                "50",
+                "50"
+              ],
+              [
+                "With composition data",
+                "30",
+                "30",
+                "30",
+                "29",
+                "39",
+                "39",
+                "40",
+                "50",
+                "50",
+                "60",
+                "50",
+                "50",
+                "50"
+              ],
+              [
+                "With women on executive board",
+                "1",
+                "13",
+                "17",
+                "21",
+                "31",
+                "33",
+                "38",
+                "5",
+                "7",
+                "24",
+                "20",
+                "18",
+                "30"
+              ],
+              [
+                "Percentage share",
+                "3.3",
+                "43.3",
+                "56.7",
+                "72.4",
+                "79.5",
+                "84.6",
+                "95.0",
+                "10.0",
+                "14.0",
+                "40.0",
+                "40.0",
+                "36.0",
+                "60.0"
+              ],
+              [
+                "Total number of members",
+                "183",
+                "193",
+                "195",
+                "178",
+                "234",
+                "243",
+                "256",
+                "213",
+                "206",
+                "250",
+                "193",
+                "189",
+                "197"
+              ],
+              [
+                "Men",
+                "182",
+                "178",
+                "173",
+                "152",
+                "193",
+                "190",
+                "197",
+                "208",
+                "197",
+                "220",
+                "170",
+                "166",
+                "161"
+              ],
+              [
+                "Women",
+                "1",
+                "15",
+                "22",
+                "26",
+                "41",
+                "53",
+                "59",
+                "5",
+                "9",
+                "30",
+                "23",
+                "23",
+                "35"
+              ],
+              [
+                "Percentage share of women",
+                "0.5",
+                "7.8",
+                "11.3",
+                "14.6",
+                "17.5",
+                "21.8",
+                "23.0",
+                "2.3",
+                "4.4",
+                "12.0",
+                "11.9",
+                "12.2",
+                "17.8"
+              ],
+              [
+                "Total number of chairpersons",
+                "30",
+                "30",
+                "30",
+                "29",
+                "39",
+                "39",
+                "40",
+                "50",
+                "48",
+                "59",
+                "49",
+                "49",
+                "49"
+              ],
+              [
+                "Men",
+                "30",
+                "30",
+                "30",
+                "29",
+                "38",
+                "37",
+                "39",
+                "50",
+                "48",
+                "57",
+                "47",
+                "47",
+                "47"
+              ],
+              [
+                "Women",
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "2",
+                "1",
+                "0",
+                "0",
+                "2",
+                "2",
+                "2",
+                "2"
+              ],
+              [
+                "Percentage share of women",
+                "0",
+                "0",
+                "0",
+                "0",
+                "2.6",
+                "5.1",
+                "2.5",
+                "0",
+                "0",
+                "3.4",
+                "4.1",
+                "4.1",
+                "4.1"
+              ],
+              [
+                "Supervisory boards/administrative boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "30",
+                "30",
+                "30",
+                "30",
+                "40",
+                "40",
+                "40",
+                "50",
+                "50",
+                "60",
+                "50",
+                "50",
+                "50"
+              ],
+              [
+                "With composition data",
+                "30",
+                "30",
+                "30",
+                "29",
+                "39",
+                "39",
+                "39",
+                "50",
+                "49",
+                "60",
+                "50",
+                "49",
+                "50"
+              ],
+              [
+                "With women on supervisory board",
+                "27",
+                "28",
+                "30",
+                "29",
+                "39",
+                "39",
+                "39",
+                "35",
+                "45",
+                "55",
+                "45",
+                "47",
+                "49"
+              ],
+              [
+                "Percentage share",
+                "90.0",
+                "93.3",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "70.0",
+                "91.8",
+                "91.7",
+                "90.0",
+                "95.9",
+                "100"
+              ],
+              [
+                "Total number of members",
+                "527",
+                "494",
+                "490",
+                "452",
+                "544",
+                "574",
+                "608",
+                "581",
+                "579",
+                "629",
+                "527",
+                "518",
+                "541"
+              ],
+              [
+                "Men",
+                "458",
+                "398",
+                "342",
+                "287",
+                "355",
+                "360",
+                "376",
+                "515",
+                "427",
+                "420",
+                "353",
+                "343",
+                "346"
+              ],
+              [
+                "Women",
+                "69",
+                "96",
+                "148",
+                "165",
+                "189",
+                "214",
+                "232",
+                "66",
+                "152",
+                "209",
+                "174",
+                "175",
+                "195"
+              ],
+              [
+                "Percentage share of women",
+                "13.1",
+                "19.4",
+                "30.2",
+                "36.5",
+                "34.7",
+                "37.3",
+                "38.2",
+                "11.4",
+                "26.3",
+                "33.2",
+                "33.0",
+                "33.8",
+                "36.0"
+              ],
+              [
+                "Total number of chairpersons",
+                "n/a",
+                "30",
+                "30",
+                "29",
+                "39",
+                "39",
+                "39",
+                "50",
+                "48",
+                "60",
+                "50",
+                "49",
+                "50"
+              ],
+              [
+                "Men",
+                "n/a",
+                "29",
+                "29",
+                "28",
+                "36",
+                "35",
+                "37",
+                "50",
+                "47",
+                "57",
+                "49",
+                "47",
+                "48"
+              ],
+              [
+                "Women",
+                "n/a",
+                "1",
+                "1",
+                "1",
+                "3",
+                "4",
+                "2",
+                "0",
+                "1",
+                "3",
+                "1",
+                "2",
+                "2"
+              ],
+              [
+                "Percentage share of women",
+                "n/a",
+                "3.3",
+                "3.3",
+                "3.4",
+                "7.7",
+                "10.3",
+                "5.1",
+                "0",
+                "2.1",
+                "5.0",
+                "2.0",
+                "4.1",
+                "4.0"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 339,
+            "y1": 398,
+            "x2": 1849,
+            "y2": 562
+          },
+          "text": "Table 3\n\nWomen on executive and supervisory boards of SDAX and TecDAX companies’"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 344,
+            "y1": 2176,
+            "x2": 1323,
+            "y2": 3176
+          },
+          "text": "companies recently experienced the most growth, with the\nshare of women on supervisory boards increasing by over\ntwo percentage points, while growth in the other DAX groups\nwas around one percentage point each. The share of women\nsupervisory board chairs did not increase, with the exception\nof the TecDAX companies. In contrast, the number of women\nsupervisory board chairs at DAX 40 companies was halved,\nfrom four to two. Thus, in the fourth quarter of 2023, only a\ngood five percent of DAX 40 companies had a woman head-\ning the supervisory board. The number of women supervi-\nsory board chairs at MDAX companies remained the same\n(two women — four percent). Meanwhile, there was a decline\namong the SDAX companies (from three to two women),\nand with that, the share of women supervisory board chairs\nwas only barely three percent as of late fall 2023. Compared\nto 2022, there was an additional woman supervisory board\nchair in the TecDAX companies. Here, two women (nearly\nseven percent) were supervisory board chairs in the fourth\nquarter of 2023.”",
+          "summarized_text": "In the fourth quarter of 2023, the share of women on supervisory boards increased significantly in DAX companies, particularly in TecDAX. However, the number of women heading supervisory boards decreased in DAX 40 companies. Overall, there was only a small increase in the number of women supervisory board chairs across all DAX groups."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1342,
+            "y1": 2181,
+            "x2": 2310,
+            "y2": 2420
+          },
+          "text": "More women on executive boards of companies\nwith government-owned shares, but no increase\nin women on supervisory boards"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1341,
+            "y1": 2424,
+            "x2": 2324,
+            "y2": 3172
+          },
+          "text": "As many companies with government-owned shares are\nsmall, they can only be compared to the other groups of\ncompanies examined here to a limited extent.” In addition,\nin contrast to the private sector, supervisory board seats in\nthese companies are often tied to a leading position in public\nadministration or to political mandates. The share of women\nin senior public administration positions and political office\naffects the share of women on the supervisory boards of these\ncompanies due to this fact.\n\nAs in past years, companies with government-owned shares\nhad a considerably higher share of women on executive\nboards than private sector companies. [n late fall 2023, over\none third (a good 34 percent) of all executive board members",
+          "summarized_text": "Government-owned companies have a higher percentage of women on their executive boards compared to private sector companies, largely due to the connection between supervisory board seats and public administration or political mandates. This results in over one third of executive board members being women in these companies as of late fall 2023."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "SDAX",
+                null,
+                null,
+                null,
+                null,
+                null,
+                "TecDAX",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "2011",
+                "2016",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2013",
+                "2016",
+                "2020",
+                "2021",
+                "2022",
+                "2023"
+              ],
+              [
+                "Executive/management boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "50",
+                "50",
+                "70",
+                "70",
+                "70",
+                "70",
+                "30",
+                "30",
+                "30",
+                "30",
+                "30",
+                "30"
+              ],
+              [
+                "With composition data",
+                "50",
+                "50",
+                "70",
+                "70",
+                "70",
+                "70",
+                "30",
+                "30",
+                "30",
+                "30",
+                "30",
+                "30"
+              ],
+              [
+                "With women on executive board",
+                "6",
+                "11",
+                "19",
+                "30",
+                "31",
+                "31",
+                "8",
+                "2",
+                "8",
+                "10",
+                "11",
+                "17"
+              ],
+              [
+                "Percentage share",
+                "12.0",
+                "22.0",
+                "27.1",
+                "42.9",
+                "44.3",
+                "44.3",
+                "26.7",
+                "6.7",
+                "26.7",
+                "33.3",
+                "36.7",
+                "56.7"
+              ],
+              [
+                "Total number of members",
+                "168",
+                "178",
+                "258",
+                "262",
+                "276",
+                "264",
+                "107",
+                "107",
+                "120",
+                "118",
+                "121",
+                "127"
+              ],
+              [
+                "Men",
+                "160",
+                "167",
+                "238",
+                "229",
+                "242",
+                "226",
+                "98",
+                "103",
+                "107",
+                "102",
+                "102",
+                "101"
+              ],
+              [
+                "Women",
+                "8",
+                "11",
+                "20",
+                "33",
+                "34",
+                "38",
+                "9",
+                "4",
+                "13",
+                "16",
+                "19",
+                "26"
+              ],
+              [
+                "Percentage share of women",
+                "4.8",
+                "6.2",
+                "7.8",
+                "12.6",
+                "12.3",
+                "14.4",
+                "8.4",
+                "3.7",
+                "10.8",
+                "13.6",
+                "15.7",
+                "20.5"
+              ],
+              [
+                "Total number of chairpersons",
+                "50",
+                "49",
+                "69",
+                "70",
+                "70",
+                "70",
+                "30",
+                "30",
+                "30",
+                "30",
+                "30",
+                "30"
+              ],
+              [
+                "Men",
+                "49",
+                "49",
+                "66",
+                "64",
+                "65",
+                "65",
+                "30",
+                "29",
+                "29",
+                "28",
+                "29",
+                "30"
+              ],
+              [
+                "Women",
+                "1",
+                "0",
+                "3",
+                "6",
+                "5",
+                "5",
+                "0",
+                "1",
+                "1",
+                "2",
+                "1",
+                "0"
+              ],
+              [
+                "Percentage share of women",
+                "2.0",
+                "0",
+                "4.3",
+                "8.6",
+                "7.1",
+                "7.1",
+                "0",
+                "3.3",
+                "3.3",
+                "6.7",
+                "3.3",
+                "0"
+              ],
+              [
+                "Supervisory boards/administrative boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "50",
+                "50",
+                "70",
+                "70",
+                "70",
+                "70",
+                "30",
+                "30",
+                "30",
+                "30",
+                "30",
+                "30"
+              ],
+              [
+                "With composition data",
+                "50",
+                "50",
+                "70",
+                "70",
+                "70",
+                "70",
+                "30",
+                "30",
+                "30",
+                "30",
+                "29",
+                "30"
+              ],
+              [
+                "With women on supervisory board",
+                "21",
+                "36",
+                "57",
+                "60",
+                "62",
+                "62",
+                "19",
+                "23",
+                "26",
+                "27",
+                "28",
+                "27"
+              ],
+              [
+                "Percentage share",
+                "42.0",
+                "72.0",
+                "81.4",
+                "85.7",
+                "88.6",
+                "88.6",
+                "63.3",
+                "76.7",
+                "86.7",
+                "90.0",
+                "96.6",
+                "90.0"
+              ],
+              [
+                "Total number of members",
+                "346",
+                "414",
+                "622",
+                "612",
+                "643",
+                "623",
+                "207",
+                "215",
+                "266",
+                "269",
+                "281",
+                "292"
+              ],
+              [
+                "Men",
+                "309",
+                "326",
+                "443",
+                "418",
+                "435",
+                "417",
+                "174",
+                "166",
+                "182",
+                "176",
+                "175",
+                "180"
+              ],
+              [
+                "Women",
+                "37",
+                "88",
+                "179",
+                "194",
+                "208",
+                "206",
+                "33",
+                "49",
+                "84",
+                "93",
+                "106",
+                "112"
+              ],
+              [
+                "Percentage share of women",
+                "10.7",
+                "21.3",
+                "28.8",
+                "31.7",
+                "32.3",
+                "33.1",
+                "15.9",
+                "22.8",
+                "31.6",
+                "34.6",
+                "37.7",
+                "38.4"
+              ],
+              [
+                "Total number of chairpersons",
+                "50",
+                "49",
+                "70",
+                "70",
+                "70",
+                "70",
+                "30",
+                "30",
+                "30",
+                "30",
+                "29",
+                "30"
+              ],
+              [
+                "Men",
+                "50",
+                "48",
+                "67",
+                "66",
+                "67",
+                "68",
+                "29",
+                "28",
+                "28",
+                "27",
+                "28",
+                "28"
+              ],
+              [
+                "Women",
+                "0",
+                "1",
+                "3",
+                "4",
+                "3",
+                "2",
+                "1",
+                "2",
+                "2",
+                "3",
+                "1",
+                "2"
+              ],
+              [
+                "Percentage share of women",
+                "0",
+                "2.0",
+                "4.3",
+                "5.7",
+                "4.3",
+                "2.9",
+                "3.3",
+                "6.7",
+                "6.7",
+                "10.0",
+                "3.4",
+                "6.7"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 165,
+            "y1": 398,
+            "x2": 1157,
+            "y2": 960
+          },
+          "text": "at companies with government-owned shares were women,\nfour percentage points more than in 2022 (Table 4). In addi-\ntion, unlike at the large companies in the private sector, the\nnumber of women CEOs has also continued to increase,\nrecently from nine to 13 women (26 percent).”\n\nIn contrast, the share of women on supervisory boards of\ncompanies with government-owned shares declined slightly\nand was recently at 39 percent (minus a good one percentage\npoint). Meanwhile, the share of women supervisory board\nchairs has increased to over 36 percent (22 women).",
+          "summarized_text": "The percentage of women CEOs at companies with government-owned shares increased from 26 percent to 30 percent in 2023. However, the percentage of women on supervisory boards slightly decreased to 39 percent, with an increase in the number of women holding supervisory board chair positions to over 36 percent."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 158,
+            "y1": 1013,
+            "x2": 1155,
+            "y2": 1217
+          },
+          "text": "Banks and insurance companies: Executive\nboards catching up while supervisory\nboards stagnate"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 158,
+            "y1": 1212,
+            "x2": 1145,
+            "y2": 2703
+          },
+          "text": "The largest companies in the financial sector, the 100 largest\nbanks and 60 largest insurance companies, have been lagging\nsignificantly behind other large private sector companies for\nthe past ten years in terms of the share of women on boards.\nRecently, however, these two groups began to catch up a bit:\nIn late fall 2023, the share of women on the executive boards\nof the 100 largest banks was nearly 17 percent (an increase\nof a good two percentage points) and thus similar to the fig-\nure in the 200 largest private sector companies (excluding\nthe financial sector) (Table 5). The share of women at the\n60 largest insurance companies even increased by almost\nthree percentage points to over 18 percent. There was also\ngrowth in the share of women CEOs in the financial sector:\nThe share of women CEOs at banks increased by almost four\npercentage points to nearly 12 percent (11 women), while the\nshare at insurance companies increased by around three per-\ncentage points to a good eight percent (five women). Thus,\nthe figures for banks and insurance companies were signif-\nicantly higher than the respective figures for the 200 or 100\nlargest private sector companies.”\n\nUnlike the development on the executive boards, the share of\nwomen on supervisory boards in the financial sector barely\nincreased; however, as in the other groups of companies, the\nincreases occurred at a markedly higher level. The share of\nwomen on the supervisory boards of the 100 largest banks\ngrew by a good half percentage point to around 27 percent.\nThe share of women on the supervisory boards of the 60\nlargest insurance companies in the final quarter of 2023",
+          "summarized_text": "In late fall 2023, the share of women on the executive boards of the 100 largest banks and 60 largest insurance companies increased significantly, with women making up nearly 17% and over 18% of their respective boards. The share of women CEOs in the financial sector also rose, with women holding nearly 12% of CEO positions in banks and over 8% in insurance companies."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1173,
+            "y1": 398,
+            "x2": 2402,
+            "y2": 610
+          },
+          "text": "Table 4\n\nWomen on executive and supervisory boards of companies with\ngovernment-owned shares'"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1169,
+            "y1": 2207,
+            "x2": 2139,
+            "y2": 2707
+          },
+          "text": "was around 29 percent, an increase of one percentage point.\nHowever, compared to 2022 there were fewer women super-\nvisory board chairs in these two groups: Among the 100 larg-\nest banks, there was a decline from 11 women to nine, result-\ning in a share of women of nearly ten percent. Among the\n60 largest insurance companies, there was only one woman\nsupervisory board chair in late fall 2023 (a share of nearly\ntwo percent) compared to four women in 2022.\"",
+          "summarized_text": "In late fall 2023, there was a slight increase in the percentage of women serving as supervisory board chairs in the 100 largest banks and 60 largest insurance companies. However, there were fewer women in these positions compared to 2022, with only nine women in banks and one woman in insurance companies."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1166,
+            "y1": 2721,
+            "x2": 2140,
+            "y2": 2862
+          },
+          "text": "Share of women on boards of the largest publicly\nlisted companies in Germany above EU average"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1165,
+            "y1": 2875,
+            "x2": 2172,
+            "y2": 3114
+          },
+          "text": "A European comparison shows that the share or women on\nthe supervisory boards of the largest publicly listed compa-\nnies in Germany has been above the EU average since the",
+          "summarized_text": "Germany consistently surpasses the EU average for the representation of women on the supervisory boards of its largest publicly listed companies. This indicates a relatively higher level of gender diversity in corporate leadership compared to other European countries."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "2010",
+                "2013",
+                "2017",
+                "2020",
+                "2021",
+                "2022",
+                "2023"
+              ],
+              [
+                "Executive/management boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "61",
+                "60",
+                "61",
+                "63",
+                "66",
+                "69",
+                "69"
+              ],
+              [
+                "With composition data",
+                "60",
+                "60",
+                "60",
+                "63",
+                "66",
+                "69",
+                "68"
+              ],
+              [
+                "With women on executive board",
+                "9",
+                "14",
+                "22",
+                "32",
+                "33",
+                "36",
+                "36"
+              ],
+              [
+                "Percentage share",
+                "15.0",
+                "23.3",
+                "36.7",
+                "50.8",
+                "50.0",
+                "52.2",
+                "52.9"
+              ],
+              [
+                "Total number of members",
+                "152",
+                "143",
+                "140",
+                "151",
+                "162",
+                "186",
+                "166"
+              ],
+              [
+                "Men",
+                "142",
+                "125",
+                "115",
+                "109",
+                "117",
+                "125",
+                "109"
+              ],
+              [
+                "Women",
+                "10",
+                "18",
+                "25",
+                "42",
+                "45",
+                "56",
+                "57"
+              ],
+              [
+                "Percentage share of women",
+                "6.6",
+                "12.6",
+                "17.9",
+                "27.8",
+                "27.8",
+                "30.1",
+                "34.3"
+              ],
+              [
+                "Total number of chairpersons",
+                "54",
+                "56",
+                "41",
+                "46",
+                "37",
+                "37",
+                "50"
+              ],
+              [
+                "Men",
+                "51",
+                "51",
+                "36",
+                "35",
+                "30",
+                "28",
+                "37"
+              ],
+              [
+                "Women",
+                "3",
+                "5",
+                "5",
+                "11",
+                "7",
+                "9",
+                "13"
+              ],
+              [
+                "Percentage share of women",
+                "5.6",
+                "8.9",
+                "12.2",
+                "23.9",
+                "18.9",
+                "24.3",
+                "26.0"
+              ],
+              [
+                "Supervisory boards/administrative boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "61",
+                "60",
+                "61",
+                "63",
+                "66",
+                "69",
+                "69"
+              ],
+              [
+                "With composition data",
+                "54",
+                "51",
+                "51",
+                "56",
+                "59",
+                "61",
+                "61"
+              ],
+              [
+                "With women on supervisory board",
+                "46",
+                "41",
+                "50",
+                "56",
+                "59",
+                "61",
+                "60"
+              ],
+              [
+                "Percentage share",
+                "85.2",
+                "80.4",
+                "98.0",
+                "100",
+                "100",
+                "100",
+                "98.0"
+              ],
+              [
+                "Total number of members",
+                "577",
+                "553",
+                "530",
+                "602",
+                "626",
+                "623",
+                "644"
+              ],
+              [
+                "Men",
+                "472",
+                "453",
+                "368",
+                "380",
+                "385",
+                "369",
+                "390"
+              ],
+              [
+                "Women",
+                "105",
+                "100",
+                "162",
+                "222",
+                "241",
+                "254",
+                "254"
+              ],
+              [
+                "Percentage share of women",
+                "18.2",
+                "18.1",
+                "30.6",
+                "36.9",
+                "38.5",
+                "40.8",
+                "39.4"
+              ],
+              [
+                "Total number of chairpersons",
+                "53",
+                "47",
+                "51",
+                "56",
+                "59",
+                "61",
+                "61"
+              ],
+              [
+                "Men",
+                "45",
+                "39",
+                "41",
+                "42",
+                "40",
+                "40",
+                "39"
+              ],
+              [
+                "Women",
+                "8",
+                "8",
+                "10",
+                "14",
+                "19",
+                "21",
+                "22"
+              ],
+              [
+                "Percentage share of women",
+                "15.1",
+                "17.0",
+                "19.6",
+                "25.0",
+                "32.2",
+                "34.4",
+                "36.1"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 328,
+            "y1": 385,
+            "x2": 2263,
+            "y2": 575
+          },
+          "text": "Table 5\n\nWomen on the executive and supervisory boards of large banks and insurance companies in Germany'"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 330,
+            "y1": 2243,
+            "x2": 1334,
+            "y2": 3026
+          },
+          "text": "beginning of the 2010s.” In 2023, the EU-wide average for\nthe share of women on the supervisory boards of the largest\npublicly listed companies was nearly 36 percent (Figure 2).\nThus, it was more than two percentage points below the\nshare for Germany (nearly 38 percent).\n\nHowever, the share of women on executive boards or among\nmembers with executive functions was considerably lower\nthan the share of women on supervisory boards across all EU\ncountries. In Germany, the share was below the EU average\nuntil 2021. [tis only since 2022 that Germany has caught up\nand recorded a share of women on executive boards of the\nlargest publicly listed companies of a good 23 percent in 2023,\nthus slightly higher than the EU average of 22 percent. This",
+          "summarized_text": "In 2023, the EU-wide average for women on supervisory boards of large publicly listed companies was nearly 36%, slightly lower than Germany's nearly 38%. However, the share of women on executive boards was considerably lower across all EU countries, with Germany only catching up in 2022 with a 23% share in 2023."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1352,
+            "y1": 2296,
+            "x2": 2352,
+            "y2": 2473
+          },
+          "text": "catching-up process is in part related to the introduction of\nthe inclusion requirement for women on executive boards.",
+          "summarized_text": "The catching-up process is partially driven by the inclusion of women on executive boards. This requirement is aimed at promoting gender equality and is seen as a step towards achieving a more diverse and inclusive leadership."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1352,
+            "y1": 2482,
+            "x2": 2313,
+            "y2": 2628
+          },
+          "text": "Legal requirements for appointing women to\nsupervisory boards and executive boards has\nincreased share of women"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1350,
+            "y1": 2663,
+            "x2": 2328,
+            "y2": 3406
+          },
+          "text": "In 2015, the Equal Participation of Women and Men in\nLeadership Positions in the Private and Public Sectors\nAct (Gesetz fiir die gleichberechtigte Teilhabe von Frauen und\nMéannern an Fiihrungspositionen in der Privatwirtschaft und\nim 6ffentlichen Dienst, FiiPoG I) became law in Germany and\nstipulated a statutory gender quota of 30 percent for super-\nvisory boards. This quota applies to publicly listed companies\nthat also have employee representation on their supervisory\nboards (full co-determination). As of fall 2023, 101 compa-\nnies were subject to the quota. Mandatory requirements for\nthe gender composition of executive boards were not intro-\nduced until six years later in 2021 with the Second Equal\nParticipation of Women and Men in Leadership Positions\nin the Public and Private Sectors Act (zweites Gesetz fiir",
+          "summarized_text": "In 2015, Germany implemented a gender quota of 30 percent for supervisory boards in publicly listed companies with employee representation. It was followed by a law in 2021 that introduced mandatory requirements for the gender composition of executive boards."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "Banks",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "Insurance companies",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "2006",
+                "2011",
+                "2016",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2006",
+                "2011",
+                "2016",
+                "2020",
+                "2021",
+                "2022",
+                "2023"
+              ],
+              [
+                "Executive/management boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "100",
+                "100",
+                "100",
+                "100",
+                "99",
+                "100",
+                "99",
+                "63",
+                "59",
+                "59",
+                "60",
+                "60",
+                "60",
+                "60"
+              ],
+              [
+                "With composition data",
+                "100",
+                "100",
+                "100",
+                "100",
+                "99",
+                "100",
+                "99",
+                "63",
+                "59",
+                "59",
+                "59",
+                "60",
+                "60",
+                "60"
+              ],
+              [
+                "With women on executive board",
+                "10",
+                "12",
+                "30",
+                "33",
+                "39",
+                "42",
+                "49",
+                "10",
+                "14",
+                "31",
+                "32",
+                "32",
+                "40",
+                "44"
+              ],
+              [
+                "Percentage share",
+                "10.0",
+                "12.0",
+                "30.0",
+                "33.0",
+                "39.4",
+                "42.0",
+                "49.5",
+                "15.9",
+                "23.7",
+                "52.5",
+                "54.2",
+                "53.3",
+                "66.7",
+                "73.3"
+              ],
+              [
+                "Total number of members",
+                "442",
+                "404",
+                "404",
+                "392",
+                "403",
+                "418",
+                "423",
+                "394",
+                "385",
+                "357",
+                "338",
+                "348",
+                "392",
+                "359"
+              ],
+              [
+                "Men",
+                "431",
+                "391",
+                "371",
+                "351",
+                "350",
+                "358",
+                "352",
+                "384",
+                "370",
+                "322",
+                "298",
+                "302",
+                "331",
+                "293"
+              ],
+              [
+                "Women",
+                "11",
+                "13",
+                "33",
+                "41",
+                "53",
+                "60",
+                "71",
+                "10",
+                "14",
+                "35",
+                "40",
+                "46",
+                "61",
+                "66"
+              ],
+              [
+                "Percentage share of women",
+                "2.5",
+                "3.2",
+                "8.2",
+                "10.5",
+                "13.2",
+                "14.4",
+                "16.8",
+                "2.5",
+                "3.6",
+                "9.8",
+                "11.8",
+                "13.2",
+                "15.6",
+                "18.4"
+              ],
+              [
+                "Total number of chairpersons2",
+                "100",
+                "100",
+                "98",
+                "98",
+                "95",
+                "96",
+                "95",
+                "63",
+                "59",
+                "59",
+                "59",
+                "60",
+                "60",
+                "60"
+              ],
+              [
+                "Men",
+                "98",
+                "99",
+                "94",
+                "88",
+                "87",
+                "88.5",
+                "84",
+                "63",
+                "59",
+                "58",
+                "57",
+                "55",
+                "57",
+                "55"
+              ],
+              [
+                "Women",
+                "2",
+                "1",
+                "4",
+                "10",
+                "8",
+                "7.5",
+                "11",
+                "0",
+                "0",
+                "1",
+                "2",
+                "5",
+                "3",
+                "5"
+              ],
+              [
+                "Percentage share of women",
+                "2.0",
+                "1.0",
+                "4.1",
+                "10.2",
+                "8.4",
+                "7.8",
+                "11.6",
+                "0",
+                "0",
+                "1.7",
+                "3.4",
+                "8.3",
+                "5.0",
+                "8.3"
+              ],
+              [
+                "Supervisory boards/administrative\nboards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "100",
+                "100",
+                "100",
+                "100",
+                "99",
+                "100",
+                "99",
+                "63",
+                "59",
+                "59",
+                "60",
+                "60",
+                "60",
+                "60"
+              ],
+              [
+                "With composition data",
+                "100",
+                "100",
+                "98",
+                "99",
+                "97",
+                "98",
+                "92",
+                "63",
+                "59",
+                "59",
+                "58",
+                "60",
+                "58",
+                "69"
+              ],
+              [
+                "With women on supervisory board",
+                "89",
+                "88",
+                "95",
+                "97",
+                "94",
+                "95",
+                "90",
+                "46",
+                "45",
+                "52",
+                "51",
+                "52",
+                "49",
+                "52"
+              ],
+              [
+                "Percentage share",
+                "89.0",
+                "88.0",
+                "96.9",
+                "98.0",
+                "96.9",
+                "96.9",
+                "97.8",
+                "73.0",
+                "76.3",
+                "88.1",
+                "87.9",
+                "86.7",
+                "84.5",
+                "75.4"
+              ],
+              [
+                "Total number of members",
+                "1,633",
+                "1,567",
+                "1,520",
+                "1,585",
+                "1,428",
+                "1,459",
+                "1,406",
+                "812",
+                "689",
+                "639",
+                "588",
+                "605",
+                "618",
+                "597"
+              ],
+              [
+                "Men",
+                "1,387",
+                "1,307",
+                "1,194",
+                "1,206",
+                "1,074",
+                "1,083",
+                "1,033",
+                "720",
+                "599",
+                "498",
+                "445",
+                "453",
+                "448",
+                "427"
+              ],
+              [
+                "Women",
+                "246",
+                "260",
+                "326",
+                "379",
+                "354",
+                "376",
+                "373",
+                "92",
+                "90",
+                "141",
+                "143",
+                "153",
+                "170",
+                "170"
+              ],
+              [
+                "Percentage share of women",
+                "15.1",
+                "16.6",
+                "21.4",
+                "23.9",
+                "24.8",
+                "25.8",
+                "26.5",
+                "11.3",
+                "13.1",
+                "22.1",
+                "24.3",
+                "25.3",
+                "27.5",
+                "28.5"
+              ],
+              [
+                "Total number of chairpersons",
+                "100",
+                "100",
+                "98",
+                "99",
+                "97",
+                "98",
+                "92",
+                "63",
+                "59",
+                "59",
+                "58",
+                "60",
+                "58",
+                "59"
+              ],
+              [
+                "Men",
+                "97",
+                "98",
+                "91",
+                "92",
+                "90",
+                "87",
+                "83",
+                "63",
+                "58",
+                "58",
+                "54",
+                "54",
+                "54",
+                "58"
+              ],
+              [
+                "Women",
+                "3",
+                "2",
+                "7",
+                "7",
+                "7",
+                "11",
+                "9",
+                "0",
+                "1",
+                "1",
+                "4",
+                "6",
+                "4",
+                "1"
+              ],
+              [
+                "Percentage share of women",
+                "3.0",
+                "2.0",
+                "7.1",
+                "7.1",
+                "7.2",
+                "11.2",
+                "9.8",
+                "0",
+                "1.7",
+                "1.7",
+                "6.9",
+                "10.0",
+                "6.9",
+                "1.7"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 155,
+            "y1": 367,
+            "x2": 1152,
+            "y2": 3132
+          },
+          "text": "die gleichberechtigte Teilhabe von Frauen und Mdnnern an\nFithrungspositionen in der Privatwirtschaft und im éffentlichen\nDienst, FiiPoG LH). This law states, among other things, that\npublicly listed companies with full co-determination whose\nexecutive board has at least four members must have at least\none executive board position filled by a member of the under-\nrepresented gender. ”° As of late fall 2023, 63 companies are\nrequired to comply with this regulation. These companies\nhad, on average, a share of a good 21 percent women on their\nexecutive boards (Table 6). Thus, this group of companies is\nbehind companies with government-owned shares (34 per-\ncent) and just behind the DAX 40 companies (23 percent), but\nis ahead of the rest of the groups examined here. The compa-\nnies subject to the gender quota for supervisory boards had\nan average share of women supervisory board members of\nnearly 38 percent, thus putting this group slightly behind the\ncompanies with government-owned shares (a solid 39 per-\ncent) and the DAX 40 companies (just over 38 percent), but\nahead of all other groups of companies.\n\nThe positive effects of the legal requirements for women on\nthese boards are becoming visible over time as the shares\nof women grow: Within the 200 largest companies, a com-\nparison of the companies that are subject to the supervisory\nboard quota with the companies not subject to it shows that\nthere has been a signifcantly stronger increase in the share\nof women in the “quota companies,” especially from 2014 to\n2019 as well as since 2021 (Figure 3). Since 2014, the share\nof women on the supervisory boards of the companies sub-\nject to the quota (quota companies) among the 200 largest\ncompanies has increased by over 17 percentage points (from\naround 20 to nearly 37 percent). Among the companies in the\ntop 200 group not subject to the quota, the share of women\non supervisory boards only increased by around 12 perent-\nage points (from almost 16 to around 28 percent) in the same\nperiod of time and was, as of late fall 2023, nearly ten per-\ncentage points lower than the share of women in the quota\ncompanies. There has been barely any growth in the non-\nquota companies over the past years, while the quota com-\npanies have clearly continued to strive for gender parity even\nafter reaching the legal minimum of 30 percent.\n\nThe inclusion requirement for executive boards introduced\nin 2021 is also clearly having an impact: From 2017 to 2020,\nthe share of women on executive boards of the companies in\nthe top 200 group that would later be subject to the require-\nment as well as those that would not be subject to the require-\nment developed at the same pace (Figure 4). Since it became\nknown in 2020 that an inclusion requirement for executive\nboards was coming, the companies that would become sub-\nject to the requirement increased the share of women on their\nexecutive boards much more quickly than companies in the\ntop 200 companies that were not subject to the requirement",
+          "summarized_text": "The FiiPoG LH law requires publicly listed companies with full co-determination to have at least one executive board position filled by an under-represented gender. Companies subject to this gender quota for supervisory boards have seen a significant increase in the share of women on their boards, showing positive effects of the legal requirements for women in leadership positions."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1179,
+            "y1": 398,
+            "x2": 2378,
+            "y2": 655
+          },
+          "text": "Figure 2\n\nShare of women on top boards of the largest publicly listed\ncompanies in Germany and on an EU average\nIn percent"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1182,
+            "y1": 655,
+            "x2": 2399,
+            "y2": 1650
+          },
+          "data": {
+            "data": [
+              {
+                "category": "With supervisory function (Germany)",
+                "values": {
+                  "2012": 10,
+                  "2013": 12,
+                  "2014": 14,
+                  "2015": 16,
+                  "2016": 18,
+                  "2017": 20,
+                  "2018": 22,
+                  "2019": 24,
+                  "2020": 26,
+                  "2021": 28,
+                  "2022": 30,
+                  "2023": 32
+                }
+              },
+              {
+                "category": "With supervisory function (EU average)",
+                "values": {
+                  "2012": 10,
+                  "2013": 11,
+                  "2014": 12,
+                  "2015": 14,
+                  "2016": 15,
+                  "2017": 16,
+                  "2018": 17,
+                  "2019": 18,
+                  "2020": 20,
+                  "2021": 22,
+                  "2022": 23,
+                  "2023": 24
+                }
+              },
+              {
+                "category": "With executive function (EU average)",
+                "values": {
+                  "2012": 10,
+                  "2013": 11,
+                  "2014": 12,
+                  "2015": 13,
+                  "2016": 14,
+                  "2017": 15,
+                  "2018": 16,
+                  "2019": 17,
+                  "2020": 18,
+                  "2021": 19,
+                  "2022": 20,
+                  "2023": 21
+                }
+              },
+              {
+                "category": "With executive function (Germany)",
+                "values": {
+                  "2012": 10,
+                  "2013": 11,
+                  "2014": 13,
+                  "2015": 15,
+                  "2016": 17,
+                  "2017": 20,
+                  "2018": 23,
+                  "2019": 26,
+                  "2020": 28,
+                  "2021": 30,
+                  "2022": 33,
+                  "2023": 34
+                }
+              }
+            ],
+            "source": "European Institute for Gender Equality (EIGE)"
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1184,
+            "y1": 2000,
+            "x2": 2400,
+            "y2": 2283
+          },
+          "text": "Figure 3\n\nShare of women on supervisory boards of the top 200\ncompanies with and without a supervisory board quota\nIn percent"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1186,
+            "y1": 2291,
+            "x2": 2412,
+            "y2": 3048
+          },
+          "data": {
+            "Companies with gender quota for supervisory board": {
+              "2013": 10,
+              "2014": 13,
+              "2015": 16,
+              "2016": 19,
+              "2017": 22,
+              "2018": 25,
+              "2019": 28,
+              "2020": 31,
+              "2021": 34,
+              "2022": 37,
+              "2023": 38
+            },
+            "Companies without gender quota for supervisory board": {
+              "2013": 7,
+              "2014": 9,
+              "2015": 11,
+              "2016": 13,
+              "2017": 15,
+              "2018": 17,
+              "2019": 19,
+              "2020": 21,
+              "2021": 22,
+              "2022": 24,
+              "2023": 25
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 344,
+            "y1": 398,
+            "x2": 2329,
+            "y2": 571
+          },
+          "text": "Table 6\n\nWomen on the executive and supervisory boards of companies subject to the inclusion and quota requirements’"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 333,
+            "y1": 2283,
+            "x2": 1320,
+            "y2": 3159
+          },
+          "text": "in fall 2021.” Of the companies in the top 200 group that are\nsubject to the inclusion requirement, the share of women on\nexecutive boards was recently 22 percent, which is an over\neight-percentage-point increase since 2020. The rest of the\n200 largest companies not subject to the requirement had a\nconsiderably lower share of women on executive boards at\na good 17 percent in fall 2023. Since 2020, it has increased\nby around six percentage points, making the gap between\nthe two groups a little over five percentage points (instead\nof under three percentage points in 2020).\n\nOverall, 58 of the 63 companies subject to the inclusion\nrequirement for the executive board had at least one woman\non the executive board in late fall 2023 (Table 6). The share\nof companies in this group that do not have a single woman\non the executive board decreased from 29 percent in 2021",
+          "summarized_text": "In Fall 2021, the share of women on executive boards in top 200 companies subject to inclusion requirements was 22%, an increase of over 8 percentage points since 2020. The gap between these companies and the rest of the top 200, with a 17% share, has increased to over 5 percentage points since 2020. In late Fall 2023, 58 out of the 63 companies subject to the requirement had at least one woman on the executive board, showing a decrease from 29% in 2021."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1337,
+            "y1": 2278,
+            "x2": 2337,
+            "y2": 3066
+          },
+          "text": "to eight percent in the fourth quarter of 2023 (Figure 5).\nNearly 70 percent of these companies recently had exactly\none woman on the executive board. In late fall 2023, just one\nfifth of the companies in this group had two or more women\non the executive board.\n\nA comparison of the companies subject to the inclusion\nrequirement for the executive board with all of the compa-\nnies in the top 200 group shows that there are still a consid-\nerable number of companies—44 percent as of the fourth\nquarter of 2023—in the top 200 group that do not have a\nsingle woman on their executive board. Around 40 percent\nhad exactly one woman on the executive board, while only\n16 percent had two or more women.",
+          "summarized_text": "In the fourth quarter of 2023, nearly 70 percent of companies in the top 200 group had only one woman on the executive board, with just one fifth having two or more women. However, a significant portion, 44 percent, of companies in the group still did not have any women on their executive board."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1339,
+            "y1": 3079,
+            "x2": 2352,
+            "y2": 3243
+          },
+          "text": "Conclusion: Companies need more committment\nto gender parity internally and externally\n\nBram 9097 +n 39092 tha ehara nf uwnman nn tha avariithva"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1344,
+            "y1": 3212,
+            "x2": 2363,
+            "y2": 3415
+          },
+          "text": "From 2022 to 2023, the share of women on the executive\nboards of the largest companies in Germany increased in\nall groups of companies analyzed. [In particular, companies",
+          "summarized_text": "The share of women on executive boards of the largest companies in Germany saw an increase from 2022 to 2023 in all groups analyzed. This indicates progress towards gender diversity in corporate leadership within the country during this time period."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "Companies subject to the supervisory board quota3",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "Companies subject to\nthe executive board\ninclusion requirement",
+                null
+              ],
+              [
+                null,
+                "2016",
+                "2017",
+                "2018",
+                "2019",
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2022",
+                "2023"
+              ],
+              [
+                "Executive/management boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "106",
+                "105",
+                "104",
+                "105",
+                "107",
+                "103",
+                "102",
+                "101",
+                "62",
+                "63"
+              ],
+              [
+                "With composition data",
+                "106",
+                "105",
+                "104",
+                "105",
+                "107",
+                "103",
+                "102",
+                "101",
+                "62",
+                "63"
+              ],
+              [
+                "With women on executive board",
+                "26",
+                "33",
+                "34",
+                "42",
+                "50",
+                "57",
+                "59",
+                "73",
+                "49",
+                "58"
+              ],
+              [
+                "Percentage share",
+                "24.5",
+                "31.4",
+                "32.7",
+                "40.0",
+                "46.7",
+                "55.3",
+                "57.8",
+                "72.3",
+                "79.0",
+                "92.1"
+              ],
+              [
+                "Total number of members",
+                "447",
+                "495",
+                "483",
+                "494",
+                "485",
+                "476",
+                "468",
+                "478",
+                "348",
+                "361"
+              ],
+              [
+                "Men",
+                "446",
+                "456",
+                "442",
+                "443",
+                "424",
+                "405",
+                "389",
+                "382",
+                "282",
+                "285"
+              ],
+              [
+                "Women",
+                "31",
+                "39",
+                "41",
+                "51",
+                "61",
+                "71",
+                "79",
+                "96",
+                "66",
+                "76"
+              ],
+              [
+                "Percentage share of women",
+                "6.5",
+                "7.9",
+                "8.5",
+                "10.3",
+                "12.6",
+                "14.9",
+                "16.9",
+                "20.1",
+                "19.0",
+                "21.1"
+              ],
+              [
+                "Total number of chairpersons2",
+                "103",
+                "104",
+                "104",
+                "105",
+                "107",
+                "103",
+                "102",
+                "101",
+                "62",
+                "63"
+              ],
+              [
+                "Men",
+                "102",
+                "101",
+                "102",
+                "101.5",
+                "104",
+                "97",
+                "98",
+                "97",
+                "61",
+                "63"
+              ],
+              [
+                "Women",
+                "1",
+                "3",
+                "2",
+                "3.5",
+                "3",
+                "6",
+                "4",
+                "4",
+                "1",
+                "0"
+              ],
+              [
+                "Percentage share of women",
+                "1.0",
+                "2.9",
+                "1.9",
+                "3.3",
+                "2.8",
+                "5.8",
+                "3.9",
+                "4.0",
+                "1.6",
+                "0"
+              ],
+              [
+                "Supervisory boards/administrative boards",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Total number of companies",
+                "106",
+                "105",
+                "104",
+                "105",
+                "107",
+                "103",
+                "102",
+                "101",
+                "62",
+                "63"
+              ],
+              [
+                "With composition data",
+                "105",
+                "105",
+                "104",
+                "105",
+                "107",
+                "103",
+                "102",
+                "101",
+                "62",
+                "63"
+              ],
+              [
+                "With women on supervisory board",
+                "105",
+                "105",
+                "104",
+                "105",
+                "107",
+                "103",
+                "102",
+                "101",
+                "62",
+                "63"
+              ],
+              [
+                "Percentage share",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100",
+                "100"
+              ],
+              [
+                "Total number of members",
+                "1,562",
+                "1,597",
+                "1,511",
+                "1,577",
+                "1,621",
+                "1,552",
+                "1,546",
+                "1,551",
+                "999",
+                "1,036"
+              ],
+              [
+                "Men",
+                "1,134",
+                "1,116",
+                "1,016",
+                "1,027",
+                "1,045",
+                "1,002",
+                "979",
+                "967",
+                "640",
+                "650"
+              ],
+              [
+                "Women",
+                "428",
+                "481",
+                "495",
+                "550",
+                "576",
+                "550",
+                "567",
+                "584",
+                "359",
+                "386"
+              ],
+              [
+                "Percentage share of women",
+                "27.4",
+                "30.1",
+                "32.8",
+                "34.9",
+                "35.5",
+                "35.4",
+                "36.7",
+                "37.7",
+                "35.9",
+                "37.3"
+              ],
+              [
+                "Total number of chairpersons",
+                "104",
+                "105",
+                "104",
+                "105",
+                "107",
+                "103",
+                "102",
+                "101",
+                "62",
+                "63"
+              ],
+              [
+                "Men",
+                "100",
+                "101",
+                "100",
+                "99",
+                "102",
+                "99",
+                "98",
+                "98",
+                "61",
+                "62"
+              ],
+              [
+                "Women",
+                "4",
+                "4",
+                "4",
+                "6",
+                "5",
+                "4",
+                "4",
+                "3",
+                "1",
+                "1"
+              ],
+              [
+                "Percentage share of women",
+                "3.8",
+                "3.8",
+                "3.8",
+                "5.7",
+                "4.7",
+                "3.9",
+                "3.9",
+                "3.0",
+                "1.6",
+                "1.6"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 152,
+            "y1": 389,
+            "x2": 1161,
+            "y2": 1522
+          },
+          "text": "subject to the 2021 inclusion requirement that had no woman\non the board in 2022 have become active and appointed\nwomen board members. However, in this group of compa-\nnies, as in most of the others, the number of women remains\nat one. Among the 200 largest companies, for example, there\nis still a significant share of executive boards without a single\nwoman, around 44 percent. Moreover, the position of CEO\nremains heavily dominated by men: Only nine women were\nhe CEO of a top 200 company as of late fall 2023; among\nhe DAX 40 companies, only one woman had this position.\nNot only is the share of women CEOs still negligible, there is\nnot even an upward trend discernable—rather the opposite.\n\nMuch suggests that the introduction of an inclusion require-\nment for executive boards has led to the establishment of a\nnew social norm. The target of zero women on the executive\nboard set by many companies a few years ago” has appar-\nently been replaced by a target of one woman on the execu-\nive board. Media coverage and public debate contribute to\nhe formation of such an implicit quota as a social norm.”\nWhile boards consisting only of men are no longer considered",
+          "summarized_text": "Despite the 2021 inclusion requirement, many companies still only have one woman on their board. The position of CEO also remains overwhelmingly male-dominated, with very few women in leadership roles. The introduction of inclusion requirements may have created a new norm of having at least one woman on the executive board."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1189,
+            "y1": 407,
+            "x2": 2392,
+            "y2": 668
+          },
+          "text": "Figure 4\n\nShare of women on executive boards of the top 200 companies\nwith and without an inclusion requirement’\nIn percent"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1186,
+            "y1": 664,
+            "x2": 2399,
+            "y2": 1486
+          },
+          "data": {
+            "Companies with inclusion requirement for executive board": {
+              "2017": 10,
+              "2018": 12,
+              "2019": 14,
+              "2020": 17,
+              "2021": 22,
+              "2022": 27,
+              "2023": 29
+            },
+            "Companies without inclusion requirement for executive board": {
+              "2017": 8,
+              "2018": 10,
+              "2019": 12,
+              "2020": 15,
+              "2021": 18,
+              "2022": 20,
+              "2023": 22
+            }
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 86,
+            "y1": 2075,
+            "x2": 1166,
+            "y2": 2318
+          },
+          "text": "Figure 5\n\nCompanies by number of women on the executive board\nShares in percent\n\nmee eninge eiihimet te the ineloeiean eran ee rf"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 84,
+            "y1": 2291,
+            "x2": 1240,
+            "y2": 3110
+          },
+          "data": {
+            "Companies subject to the inclusion requirement": {
+              "0 Women": {
+                "2021": 10,
+                "2022": 20
+              },
+              "1 Women": {
+                "2021": 30,
+                "2022": 50
+              },
+              "2 Women": {
+                "2021": 70,
+                "2022": 0
+              },
+              "3 Women": {
+                "2021": 10,
+                "2022": 20
+              },
+              "4 Women": {
+                "2021": 0,
+                "2022": 0
+              },
+              "5 Women": {
+                "2021": 0,
+                "2022": 0
+              },
+              "6 Women": {
+                "2021": 0,
+                "2022": 0
+              }
+            }
+          }
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1258,
+            "y1": 2238,
+            "x2": 2387,
+            "y2": 3176
+          },
+          "data": {
+            "Top 200 companies": {
+              "2022": {
+                "0": 65,
+                "1": 55,
+                "2": 15,
+                "3": 5,
+                "4": 1,
+                "5": 0,
+                "6": 0
+              },
+              "2023": {
+                "0": 50,
+                "1": 45,
+                "2": 10,
+                "3": 5,
+                "4": 1,
+                "5": 0,
+                "6": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 330,
+            "y1": 376,
+            "x2": 1333,
+            "y2": 1088
+          },
+          "text": "adequate, there is a danger that the new social norm will legit-\nimize boards with a low share of women. Companies may\nhave little motivation to appoint more women once they have\nreached a minimum level of gender diversity, and thereby\nkeep women underrepresented on executive boards.\n\nTo achieve equal participation of women and men on execu-\ntive boards, more commitment is required, both within com-\npanies and without. When filling executive board positions\nvia executive search firms, which play an important role as\ngatekeepers, supervisory boards can require them to search\nspecifically for women candidates. Furthermore, supervisory\nboards can demand that their executive boards implement",
+          "summarized_text": "To ensure gender diversity on executive boards, it is important for companies to continue appointing more women even after reaching a minimum level. Supervisory boards can enforce this by requiring executive search firms to seek out women candidates and demanding implementation of gender diversity initiatives within the company."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1347,
+            "y1": 376,
+            "x2": 2337,
+            "y2": 841
+          },
+          "data": {
+            "text": "leadership development measures to ensure that enough women are available for executive board positions on companies' internal labor markets. Meanwhile, those observing women's representation on executive boards, such as investors and the public at large, should no longer be satisfied with a bare minimum of gender diversity, but rather demand the actual equal participation of men and women in executive board positions."
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 330,
+            "y1": 376,
+            "x2": 1333,
+            "y2": 1088
+          },
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

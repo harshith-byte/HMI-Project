@@ -1,0 +1,933 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1105,
+            "y1": 385,
+            "x2": 1387,
+            "y2": 456
+          },
+          "text": "AT A GLANCE"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 165,
+            "y1": 518,
+            "x2": 2339,
+            "y2": 1628
+          },
+          "text": "No lasting increase in the gender care gap in\nGermany after the coronavirus pandemic\n\nBy Jonas Jessen, Lavinia Kinne, and Katharina Wrohlich\n\nUsing the German family panel pairfam, this study examines how couples divided care work during\nand around the coronavirus pandemic\n\nMany feared that there would be a return to traditional genders roles due to the pandemic; at first,\nmothers more often (almost) entirely took care of children and the household\n\nHowever, new data show that the gender care gap has now returned to its pre-pandemic level\n\nYet differences in the division of care work in Germany remain high, also in an\ninternational comparison\n\nIncentives for couples to divide work more equally should be strengthened, e.g., through more\npartner months during parental allowance and via reforming Ehegattensplitting and minijobs",
+          "summarized_text": "The gender care gap in Germany did not increase long-term after the coronavirus pandemic, as couples have returned to pre-pandemic levels of division of care work. However, differences in care work division remain high, suggesting a need for stronger incentives for more equal sharing of responsibilities."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 195,
+            "y1": 2022,
+            "x2": 2292,
+            "y2": 2800
+          },
+          "data": {
+            "Before the pandemic (2019)": {
+              "(Almost) entirely the father": 1,
+              "Primarily the father": 10,
+              "About 50/50": 54,
+              "Primarily the mother": 30,
+              "(Almost) entirely the mother": 4
+            },
+            "Spring/summer 2020 Daycare and school closures": {
+              "(Almost) entirely the father": 2,
+              "Primarily the father": 14,
+              "About 50/50": 52,
+              "Primarily the mother": 28,
+              "(Almost) entirely the mother": 5
+            },
+            "Winter 2020/21 Daycare and school closures": {
+              "(Almost) entirely the father": 1,
+              "Primarily the father": 18,
+              "About 50/50": 52,
+              "Primarily the mother": 26,
+              "(Almost) entirely the mother": 3
+            },
+            "Winter 2021/22": {
+              "(Almost) entirely the father": 1,
+              "Primarily the father": 15,
+              "About 50/50": 55,
+              "Primarily the mother": 25,
+              "(Almost) entirely the mother": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 173,
+            "y1": 1225,
+            "x2": 394,
+            "y2": 1305
+          },
+          "text": "ABSTRACT"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 165,
+            "y1": 1336,
+            "x2": 1255,
+            "y2": 2654
+          },
+          "text": "The gender care gap, i.e., the difference between the amount\nof unpaid care work—such as childcare and housework—per-\nformed between men and women is comparatively high in\nGermany: Women take on much more unpaid care work than\nmen. This gap increases consistently when starting a family.\nAt the beginning of the coronavirus pandemic in 2020, many\nfeared that the gender care gap may grow even larger. In\n\nfact, empirical analyses show that gender differences in care\nwork did increase in young families at the beginning of the\npandemic, as primarily women took on the extra childcare\nwork brought on by closures of daycare facilities and schools.\nHowever, using data from the family panel pairfam, this Weekly\nReport shows that the gender care gap has since returned to\nits—albeit still high—pre-pandemic level. If policymakers want\nto effectively combat gender inequalities on the labor market,\nthey should focus more on the unequal division of care work\nand dismantle existing barriers preventing a more equal divi-\nsion. This could be done by, for example, increasing the period\nof parental leave earmarked to fathers, and reforming minijobs\nand Ehegattensplitting, ie. the joint taxation of married cou-\nples with full income splitting.",
+          "summarized_text": "The gender care gap in Germany shows women take on more unpaid care work than men, especially when starting a family. During the pandemic, women took on extra childcare work, but the gap has since returned to pre-pandemic levels, highlighting the need for policy reforms to promote a more equal division of care work."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 170,
+            "y1": 566,
+            "x2": 1828,
+            "y2": 1057
+          },
+          "text": "No lasting increase in the gender\ncare gap in Germany after the\ncoronavirus pandemic\n\na a oe? an a - eas gg pe"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1344,
+            "y1": 1208,
+            "x2": 2329,
+            "y2": 2030
+          },
+          "text": "International Women’s Day on March 8 is drawing increased\nattention to numerous inequalities between women and\nmen. In particular, the gender pay gap, which was 18 per-\ncent' for the fourth time in a row in 2023 according to cal-\nculations by the Federal Statistical Office, is moving into the\ncenter of the public debate—not least thanks to the Equal Pay\nDay campaign, which falls on March 6 in Germany this year.’\n\nThe difference in unpaid care work between women and\nmen, known as the gender care gap, is closely related to the\ngender pay gap. Care work includes childcare, housework\n(cooking, cleaning, washing), repairs, and informal care of\nrelatives.* Countless studies over the years have investigated\nthe gender care gap.* Recently, the Federal Statistical Office\npublished data on the gender care gap in Germany mount-\ning to about 44 percent.’",
+          "summarized_text": "International Women’s Day is bringing attention to inequalities such as the gender pay gap, which has been stagnant at 18%. The gender care gap, which includes unpaid care work, is also a significant issue with a gap of about 44% in Germany."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1341,
+            "y1": 2035,
+            "x2": 2265,
+            "y2": 2190
+          },
+          "text": "Considerable increase in gender care gap after\nbecoming a parent"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1349,
+            "y1": 2207,
+            "x2": 2323,
+            "y2": 2455
+          },
+          "text": "Like the gender pay gap, the gender care gap is not the same\nacross all age groups and increases from age 30 in particu-\nlar. For employed individuals aged 35 to 39, the gender care\ngap is over 100 percent. This means that women in this age",
+          "summarized_text": "The gender care gap, like the gender pay gap, varies across age groups and peaks for individuals aged 35 to 39, with women experiencing a gap of over 100 percent in terms of care responsibilities. This highlights a significant disparity in caregiving responsibilities between men and women in this age group."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 171,
+            "y1": 394,
+            "x2": 1132,
+            "y2": 1827
+          },
+          "text": "group take on twice as much unpaid care work as men.® How\nthe gender care gap develops over the life course is closely\nrelated to having children, which not only leads to a large\nincrease in care work overall but also to a considerable\nincrease in the unequal division of care work.\n\nAn evaluation of data from the family panel pairfam shows\nthe relationship between the birth of the first child and an\nincrease in the gender care gap (Box 1). When, for example,\nconsidering the division of housework (i.e., cooking, clean-\ning, and washing) as part of unpaid care work before and\nafter the birth of a child, there is a sharp decline in the share\nof couples who divide housework almost equally (“about\n50/50”). Just under half of couples divide housework roughly\nequally before the birth of the first child, but this share is\nup to 27 percentage points lower in the years following the\nbirth of the child (Figure 1, right-hand side). In contrast, the\nshare of couples in which “primarily the mother” or “(almost)\nentirely the mother” handles the housework increases sig-\nnificantly (by ten and 21 percentage points, respectively).\n\nThe share of couples indicating that the mother primarily\nor (almost) entirely handles childcare is also significantly\nhigher than the share of couples who divide childcare more\nequally (Figure 1, left-hand side). Only a few couples indi-\ncated that the father takes on a larger share of unpaid care\nwork compared to the mother, both before and after the birth\nof the first child.",
+          "summarized_text": "Women take on twice as much unpaid care work as men, with the gender care gap increasing significantly after the birth of a child. Data shows a decline in equal division of housework and childcare, with the mother shouldering a larger share of responsibilities in most couples."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 160,
+            "y1": 1858,
+            "x2": 1108,
+            "y2": 1991
+          },
+          "text": "Even more unequal division of care work during\nthe first months of the pandemic"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 168,
+            "y1": 2004,
+            "x2": 1134,
+            "y2": 2862
+          },
+          "text": "In March 2020, daycare facilities and schools in Germany\nwere closed on short notice to combat the spread of the\ncoronavirus. Parents had to make up for the lack of school-\ning and childcare options at home to a large extent. At the\ntime, many feared that mothers would primarily take on the\nmajority of the additional educational and childcare tasks,\nwhich would further increase the already large gender care\ngap in Germany.’ On the other hand, some pointed out the\npossibility that the lack of childcare options could increase\nfathers’ participation in childcare and thus bring about a\nchange in social norms in the medium term.®\n\nCountless empirical studies have examined the division of\nunpaid care work during the first months of the coronavi-\nrus pandemic. Studies on Germany using various surveys\nfrom the first weeks and months of the pandemic came to\nthe same conclusion: Mothers took on the majority of the",
+          "summarized_text": "Daycare facilities and schools in Germany were closed in March 2020 due to the coronavirus, leading to parents having to take on additional schooling and childcare responsibilities at home. Studies showed that mothers primarily took on the majority of these tasks, potentially widening the gender care gap in Germany."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1178,
+            "y1": 420,
+            "x2": 2135,
+            "y2": 1163
+          },
+          "text": "additional care work.’ At the same time, however, the data\nshows that fathers also spent more time on childcare than\nbefore the pandemic.”\n\nA study from spring and summer 2020 evaluated pairfam\ndata on how couples with at least one child aged 14 or younger\ndivide housework and childcare duties and also concluded\nthat this division was somewhat more unequal than before\nthe pandemic. While the share of couples dividing child-\ncare and housework equally remained nearly the same, the\nshare of couples who indicated that the mother performed\n(almost) all of these tasks increased. The share of couples in\nwhich these tasks were “primarily” performed by the mother\ndecreased accordingly.\" Studies on other countries came to\nsimilar results (Box 2}.",
+          "summarized_text": "Studies have shown that during the pandemic, childcare and housework duties were more unequal, with mothers taking on a larger share of the tasks compared to before. This trend was observed in couples with children aged 14 or younger in multiple countries."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1166,
+            "y1": 1208,
+            "x2": 1988,
+            "y2": 1336
+          },
+          "text": "Unequal division of care work declined to\npre-pandemic level within one year"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1168,
+            "y1": 1354,
+            "x2": 2148,
+            "y2": 1734
+          },
+          "text": "Empirical studies based on data from winter 2020/2021,\nnearly a year into the pandemic, concluded that couples were\nsplitting unpaid care work essentially the same as they did\nbefore the pandemic (in 2019) (Figure 2).” The larger share\nof couples in which the mother “(almost) entirely” took over\nchildcare and housework in the first lockdown in 2020 was\nno longer observed in winter 2020/2021.",
+          "summarized_text": "Empirical studies from winter 2020/2021 showed that couples were sharing unpaid care work similarly to pre-pandemic levels. The trend of mothers shouldering almost all childcare and housework during the first lockdown in 2020 had decreased by winter 2020/2021."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1169,
+            "y1": 1765,
+            "x2": 2122,
+            "y2": 1871
+          },
+          "text": "Division of care work has not changed two years\nfollowing the start of the pandemic"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1169,
+            "y1": 1907,
+            "x2": 2143,
+            "y2": 2499
+          },
+          "text": "Pairfam data is now available for the second year follow-\ning the beginning of the coronavirus pandemic. These data\ninclude very detailed information on the division of house-\nwork and childcare between mothers and fathers. They are\navailable for the time before the pandemic (2019) and can\nbe compared with three periods during and after the pan-\ndemic (spring and summer 2020, winter 2020/2021, and\nwinter 2021/2022). While many families were still affected\nby pandemic containment measures such as daycare and\nschool closures in summer 2020 and winter 2020/2021, this\nwas no longer the case in winter 2021/2022.” The analyses",
+          "summarized_text": "Pairfam data provides detailed insights into the division of housework and childcare between mothers and fathers before, during, and after the coronavirus pandemic. The latest data from winter 2021/2022 show changes in parenting responsibilities as pandemic containment measures evolved."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "graph",
+          "box": {
+            "x1": 103,
+            "y1": 588,
+            "x2": 1208,
+            "y2": 2623
+          },
+          "data": {
+            "Childcare": [
+              {
+                "category": "(Almost) entirely or primarily the father",
+                "values": [
+                  {
+                    "year": -5,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -4,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -3,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -2,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -1,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 0,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 1,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 2,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 3,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 4,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 5,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 6,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 7,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 8,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 9,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 10,
+                    "percentage": 0
+                  }
+                ]
+              },
+              {
+                "category": "About 50/50",
+                "values": [
+                  {
+                    "year": -5,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -4,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -3,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -2,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -1,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 0,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 1,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 2,
+                    "percentage": 20
+                  },
+                  {
+                    "year": 3,
+                    "percentage": 20
+                  },
+                  {
+                    "year": 4,
+                    "percentage": 20
+                  },
+                  {
+                    "year": 5,
+                    "percentage": 20
+                  },
+                  {
+                    "year": 6,
+                    "percentage": 20
+                  },
+                  {
+                    "year": 7,
+                    "percentage": 20
+                  },
+                  {
+                    "year": 8,
+                    "percentage": 20
+                  },
+                  {
+                    "year": 9,
+                    "percentage": 20
+                  },
+                  {
+                    "year": 10,
+                    "percentage": 20
+                  }
+                ]
+              },
+              {
+                "category": "Primarily mother",
+                "values": [
+                  {
+                    "year": -5,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -4,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -3,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -2,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -1,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 0,
+                    "percentage": 50
+                  },
+                  {
+                    "year": 1,
+                    "percentage": 50
+                  },
+                  {
+                    "year": 2,
+                    "percentage": 50
+                  },
+                  {
+                    "year": 3,
+                    "percentage": 50
+                  },
+                  {
+                    "year": 4,
+                    "percentage": 40
+                  },
+                  {
+                    "year": 5,
+                    "percentage": 40
+                  },
+                  {
+                    "year": 6,
+                    "percentage": 40
+                  },
+                  {
+                    "year": 7,
+                    "percentage": 40
+                  },
+                  {
+                    "year": 8,
+                    "percentage": 40
+                  },
+                  {
+                    "year": 9,
+                    "percentage": 40
+                  },
+                  {
+                    "year": 10,
+                    "percentage": 40
+                  }
+                ]
+              },
+              {
+                "category": "(Almost) entirely mother",
+                "values": [
+                  {
+                    "year": -5,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -4,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -3,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -2,
+                    "percentage": 0
+                  },
+                  {
+                    "year": -1,
+                    "percentage": 0
+                  },
+                  {
+                    "year": 0,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 1,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 2,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 3,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 4,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 5,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 6,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 7,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 8,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 9,
+                    "percentage": 10
+                  },
+                  {
+                    "year": 10,
+                    "percentage": 10
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1247,
+            "y1": 597,
+            "x2": 2378,
+            "y2": 2588
+          },
+          "data": {
+            "data": [
+              {
+                "category": "(Almost) entirely or primarily the father",
+                "values": {
+                  "-5": 0,
+                  "-4": 0,
+                  "-3": 0,
+                  "-2": 0,
+                  "-1": 0,
+                  "0": 0,
+                  "1": 0,
+                  "2": 0,
+                  "3": 0,
+                  "4": 0,
+                  "5": 0,
+                  "6": 0,
+                  "7": 0,
+                  "8": 0,
+                  "9": 0,
+                  "10": 0
+                }
+              },
+              {
+                "category": "About 50/50",
+                "values": {
+                  "-5": 60,
+                  "-4": 60,
+                  "-3": 59,
+                  "-2": 58,
+                  "-1": 54,
+                  "0": 50,
+                  "1": 46,
+                  "2": 45,
+                  "3": 44,
+                  "4": 43,
+                  "5": 43,
+                  "6": 42,
+                  "7": 42,
+                  "8": 42,
+                  "9": 42,
+                  "10": 42
+                }
+              },
+              {
+                "category": "Primarily mother",
+                "values": {
+                  "-5": 41,
+                  "-4": 41,
+                  "-3": 43,
+                  "-2": 43,
+                  "-1": 42,
+                  "0": 42,
+                  "1": 42,
+                  "2": 42,
+                  "3": 43,
+                  "4": 43,
+                  "5": 43,
+                  "6": 43,
+                  "7": 43,
+                  "8": 43,
+                  "9": 43,
+                  "10": 43
+                }
+              },
+              {
+                "category": "(Almost) entirely mother",
+                "values": {
+                  "-5": 12,
+                  "-4": 13,
+                  "-3": 17,
+                  "-2": 21,
+                  "-1": 27,
+                  "0": 32,
+                  "1": 35,
+                  "2": 37,
+                  "3": 38,
+                  "4": 40,
+                  "5": 40,
+                  "6": 40,
+                  "7": 40,
+                  "8": 40,
+                  "9": 40,
+                  "10": 40
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 171,
+            "y1": 398,
+            "x2": 1124,
+            "y2": 3030
+          },
+          "text": "focus on couples living together with at least one child below\nthe age of 14.\n\nIn 2019, before the coronavirus pandemic, the majority\n(59 percent) of respondents indicated that childcare was\nprovided primarily by the mother. In around 30 percent of\ncases, childcare was divided evenly. Less than nine percent of\nrespondents indicated that the mother was (almost) entirely\nresponsible for childcare. In fewer than three percent of all\nhouseholds in 2019 the father was (almost) entirely or pri-\nmarily providing childcare. Very similar patterns were found\nfor housework.\n\nIn comparison, the division of childcare and housework\nin early summer 2020, ie., during the first survey after the\nbeginning of the coronavirus pandemic, was more unequal.\nParticularly noticeable is the decline in the share of couples\nin which the mother was “primarily” responsible for child-\ncare and housework. In contrast, the share of couples in\nwhich the mother took on childcare and housework “(almost)\nentirely” increased by almost the same extent (Figure 2).\nA detailed analysis of the changes in how couples divide\ncare work shows that some couples in which the mother\nwas primarily responsible for these duties before the pan-\ndemic also had a more equal division during the first lock-\ndown (Figure 3). However, some couples who initially had\na more equal division switched to a more unequal division\nin spring/summer 2020 in which primarily the mother took\non childcare and housework.\n\nNine months later, in winter 2020/2021, the share of cou-\nples in which the mother took care of childcare and house-\nwork “(almost) entirely” again declined markedly. Couples\nin which the mothers took on almost all of the childcare at\nthe beginning of the pandemic now divide childcare more\nequally. In addition, the share of couples dividing house-\nwork and childcare roughly equally increased again and was\nabove the 2019 pre-pandemic level. The division of childcare\nduties remained nearly the same in winter 2021/2022 as well.\n\nThus, the new data from winter 2021/2022 confirm the obser-\nvation that the division of childcare between mothers and\nfathers—following a brief more unequal division during the\nfirst lockdown in 2020—has not changed significantly fol-\nlowing the coronavirus pandemic. A similar picture emerges\nfor housework: Although the share of couples in which the\nmother was (almost) entirely responsible for housework\nincreased by three percentage points, these changes were\nnot statistically significant. Overall, it cannot be said with\nstatistical certainty that there have been any changes com-\npared to before the pandemic for any constellations of house-\nwork division.",
+          "summarized_text": "Before the coronavirus pandemic, childcare was primarily the mother's responsibility in most households, but during the pandemic, there was a shift towards more equal sharing of childcare duties. By winter 2021/2022, the division of childcare between mothers and fathers had returned to a similar level as before the pandemic, with no significant changes observed in the division of housework."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 168,
+            "y1": 3044,
+            "x2": 1027,
+            "y2": 3247
+          },
+          "text": "Conclusion: Large gender care gap in\nGermany, but no lasting increase during the\ncoronavirus pandemic"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 170,
+            "y1": 3251,
+            "x2": 1132,
+            "y2": 3397
+          },
+          "text": "Germany has a relatively large gender care gap compared to,\nfor example, the Nordic countries, Sweden, Norway, Finland,",
+          "summarized_text": "Germany's gender care gap is significantly larger than that of Nordic countries like Sweden, Norway, and Finland. The gap in access to caregiving services and support is more pronounced in Germany compared to these countries."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1168,
+            "y1": 3074,
+            "x2": 2145,
+            "y2": 3415
+          },
+          "text": "and Denmark. Inis means that women periorm signincantly\nmore unpaid care work, such as childcare and housework,\ncompared to men. At the beginning of the coronavirus pan-\ndemic, many feared that the related daycare and school clo-\nsures could further increase this inequality. And this seemed\nto be the case, at least in the short term: In spring and early",
+          "summarized_text": "In Denmark, women perform significantly more unpaid care work than men, including childcare and housework. During the early stages of the pandemic, daycare and school closures further exacerbated this inequality, increasing the burden on women in the short term."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1186,
+            "y1": 672,
+            "x2": 2361,
+            "y2": 1659
+          },
+          "data": {
+            "Childcare": [
+              {
+                "category": "(Almost) entirely father",
+                "Before the pandemic (2019)": 1,
+                "Spring/summer 2020": 1,
+                "Winter 2020/21": 2,
+                "Winter 2021/22": 1
+              },
+              {
+                "category": "Primarily father",
+                "Before the pandemic (2019)": 5,
+                "Spring/summer 2020": 6,
+                "Winter 2020/21": 5,
+                "Winter 2021/22": 5
+              },
+              {
+                "category": "About 50/50",
+                "Before the pandemic (2019)": 17,
+                "Spring/summer 2020": 20,
+                "Winter 2020/21": 27,
+                "Winter 2021/22": 25
+              },
+              {
+                "category": "Primarily mother",
+                "Before the pandemic (2019)": 35,
+                "Spring/summer 2020": 38,
+                "Winter 2020/21": 30,
+                "Winter 2021/22": 35
+              },
+              {
+                "category": "(Almost) entirely mother",
+                "Before the pandemic (2019)": 42,
+                "Spring/summer 2020": 35,
+                "Winter 2020/21": 36,
+                "Winter 2021/22": 34
+              }
+            ]
+          }
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1199,
+            "y1": 1659,
+            "x2": 2368,
+            "y2": 2579
+          },
+          "data": {
+            "Housework Distribution": {
+              "Before the pandemic (2019)": {
+                "(Almost) entirely father": 1,
+                "Primarily father": 5,
+                "About 50/50": 24,
+                "Primarily mother": 35,
+                "(Almost) entirely mother": 44
+              },
+              "Winter 2020/21": {
+                "(Almost) entirely father": 1,
+                "Primarily father": 8,
+                "About 50/50": 25,
+                "Primarily mother": 36,
+                "(Almost) entirely mother": 49
+              },
+              "Winter 2020/2021": {
+                "(Almost) entirely father": 1,
+                "Primarily father": 5,
+                "About 50/50": 25,
+                "Primarily mother": 36,
+                "(Almost) entirely mother": 43
+              },
+              "Winter 2021/22": {
+                "(Almost) entirely father": 1,
+                "Primarily father": 5,
+                "About 50/50": 24,
+                "Primarily mother": 35,
+                "(Almost) entirely mother": 41
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 331,
+            "y1": 429,
+            "x2": 462,
+            "y2": 544
+          },
+          "text": "Box 1\n\nData"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 330,
+            "y1": 588,
+            "x2": 1315,
+            "y2": 2990
+          },
+          "text": "The analyses are based on data from the family panel pairfam.\"\nPairfam was funded by the German Research Foundation\n(Deutsche Forschungsgemeinschaft, DFG) from 2008 to 2022 and\nhas since been continued as a part of the family demography pan-\nel study FReDA. Each year, over 12,000 randomly selected people\nborn between 1971 to 1973, 1981 to 1983, 1991 to 1993, and 2001 to\n2003 (since 2019) cohorts participated in the pairfam survey. In\nthe survey, respondents are asked to provide information about\nthemselves and their family members, while the family members\nanswer a less extensive survey.\n\nAn additional survey was conducted in summer 2020 with the\npurpose of investigating societal changes following the corona-\nvirus pandemic.’ The focus of the survey was on coronavirus-re-\nlated changes to family life. All respondents who participated\n\nin the previous survey wave, or were only temporarily absent,\nparticipated in the additional survey. The regular pairfam survey\nwas continued in the winters of 2020/2021 and 2021/2022. The\nanalyses in this Weekly Report are mainly based on the last regular\nsurvey before the pandemic (2018/2019), the additional corona-\nvirus pandemic survey, and the two following survey waves. As\ngender differences are investigated, the analysis was limited to\nopposite-gender couples.\n\nThe data include extensive information on socio-demographic\ncharacteristics of the respondents, their employment situation,\nand attitudes toward and details about relationships. Furthermore,\nthere are questions about the division of labor in the partnership,\nthe main topic of this Weekly Report. The survey question is:\n\n“How are you and your partner currently dividing the time spent\nperforming work in the following areas?\"\n\nHousework (washing, cooking, cleaning)\n\nShopping\n\nHouse, apartment, or car repairs\n\nFinancial matters, dealing with authorities\n\nChildcare [only households with children]\n\nAnswer options are:\n(Almost) entirely my partner\nPrimarily my partner\nAbout 50/50 split\nPrimarily me\n(Almost) entirely me\n\nThe answers are recoded by gender in order to more directly inter-\npret the responses of women and men, each of which make up",
+          "summarized_text": "Pairfam is a family panel study funded by the German Research Foundation, with over 12,000 participants born between 1971 to 2003. A survey conducted in summer 2020 focused on coronavirus-related changes to family life, with gender differences in dividing household tasks being a main topic of analysis. Data includes socio-demographic information, employment status, and attitudes towards relationships."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1342,
+            "y1": 597,
+            "x2": 2308,
+            "y2": 2522
+          },
+          "text": "about half of the respondents. The answers thus range from “the\nmale partner takes over this area (almost) entirely” to “the female\npartner takes over this area (almost) entirely.\"\n\nTo examine the changes in the division of unpaid care work, the\nresponses from 2018/2019 are used as a reference period and\ndeviations during and after the coronavirus pandemic are subse-\nquently studied.\n\nThe analyses on the effects of having children on the division of\nunpaid care work? are based on all survey waves from 2008 to\n2022. The dependent variable, i.e., different constellations of care\nwork division, is regressed on indicators for the years before and\nafter the birth of the first child. In addition, age and cohort effects\nare partialled out. The coefficients displayed thus show how the\ndivision of care work has changed relative to the reference period\n(two years before the birth of the first child). As no childcare is per-\n\nfomed before the birth of the first child, the coefficients are natu-\nrally set to zero before the birth of the first child. In contrast, the\ndivision of household labor before the birth of the first child is in-\ndicated in the figures. The estimates are based on a total of 19,665\nobservations of 5,840 respondents. The sample in the estimation\nis limited to couples who will either have a child in the following\nsurvey years or had a child in the previous waves.\n\nIn the analysis of the division of care work before, during, and after\nthe coronavirus pandemic,’ opposite-gender couples living to-\ngether are observed in the corresponding four survey waves. The\nsample includes 7,352 observations based on 3,186 respondents.\nIn both samples, 56 to 60 percent of the respondents are women.\n\nTo depict the division of care work over the four survey waves\naround the pandemic and how this division changed from survey\nto survey, the sample is limited to households that were observed\nin all four survey waves.° This way, it can be ensured that the\nperiods between the surveys can be investigated. The sample\nincludes 2,324 observations and 581 respondents.",
+          "summarized_text": "The text discusses changes in the division of unpaid care work within couples, specifically focusing on the effects of having children and the impact of the coronavirus pandemic. The analysis is based on survey data from different years, with a majority of respondents being women."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 166,
+            "y1": 403,
+            "x2": 1147,
+            "y2": 1951
+          },
+          "text": "summer 2020, inequality in unpaid care work among cou-\nples with children had increased compared to the year before\nthe pandemic. However, this inequality declined back to its\npre-pandemic level within the first year of the pandemic.\nRecent data from the second year after the beginning of the\npandemic confirm this finding.\n\nThus, a major reversal of gender roles did not occur as a\nresult of the coronavirus pandemic as some had feared.\nThe unequal division of unpaid care work between women\nand men in Germany did not become more unequal in the\nmedium term, but instead remained at a high level.\n\nThe gender care gap is associated with many gender gaps\non the labor market. Gender inequalities increase in unpaid\ncare work as well as on the labor market when couples have\nchildren. If policymakers want to reduce labor market-re-\nlated gender inequalities such as the gender pay gap, they\nneed to also focus on closing the gender care gap. Numerous\ncourses of action to create incentives for a more equal divi-\nsion of paid and unpaid care work between women and men\nhave been on the table for some time. Expanding the num-\nber of partner months during parental allowance (Elterngeld),\nfor example, could reduce the considerable inequality in care\nwork following the birth ofa child. Furthermore, reforming\nEhegattensplitting (joint taxation of married couples with full\nincome splitting} and the tax treatment of mini-job income\ncould reduce the financial “part-time trap” for married\nwomen and thus lead to a more equal division of paid work\nand care work between women and men in the long term.",
+          "summarized_text": "Inequality in unpaid care work among couples with children increased in summer 2020 but returned to pre-pandemic levels within a year. Gender roles did not majorly reverse during the pandemic, highlighting the need for policy measures to close the gender care gap and reduce labor market-related gender inequalities. Redistributions of parental allowance and tax reforms could help promote a more equal division of paid and unpaid care work between women and men."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1200,
+            "y1": 686,
+            "x2": 2381,
+            "y2": 1712
+          },
+          "data": {
+            "Childcare": {
+              "Before the pandemic (2019)": {
+                "(Almost) entirely or primarily father": "10%",
+                "Primarily mother": "70%",
+                "About 50/50": "20%"
+              },
+              "Spring/summer 2020": {
+                "(Almost) entirely or primarily father": "15%",
+                "Primarily mother": "60%",
+                "About 50/50": "25%"
+              },
+              "Winter 2020/21": {
+                "(Almost) entirely or primarily father": "12%",
+                "Primarily mother": "65%",
+                "About 50/50": "23%"
+              },
+              "Winter 2021/22": {
+                "(Almost) entirely or primarily father": "10%",
+                "Primarily mother": "70%",
+                "About 50/50": "20%"
+              }
+            }
+          }
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1203,
+            "y1": 1712,
+            "x2": 2376,
+            "y2": 2707
+          },
+          "data": {
+            "Housework": [
+              {
+                "Period": "Before the pandemic (2019)",
+                "Almost entirely or primarily father": 5,
+                "Primarily mother": 25,
+                "About 50/50": 35,
+                "Almost entirely mother": 35
+              },
+              {
+                "Period": "Spring/summer 2020",
+                "Almost entirely or primarily father": 10,
+                "Primarily mother": 25,
+                "About 50/50": 40,
+                "Almost entirely mother": 25
+              },
+              {
+                "Period": "Winter 2020/21",
+                "Almost entirely or primarily father": 10,
+                "Primarily mother": 30,
+                "About 50/50": 30,
+                "Almost entirely mother": 30
+              },
+              {
+                "Period": "Winter 2021/22",
+                "Almost entirely or primarily father": 5,
+                "Primarily mother": 25,
+                "About 50/50": 40,
+                "Almost entirely mother": 30
+              }
+            ]
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 166,
+            "y1": 403,
+            "x2": 1147,
+            "y2": 1951
+          },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 349,
+            "y1": 482,
+            "x2": 2145,
+            "y2": 580
+          },
+          "text": "Impact of the coronavirus pandemic on the division of unpaid care work in an international context"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 344,
+            "y1": 602,
+            "x2": 1295,
+            "y2": 1730
+          },
+          "text": "Worldwide, women perform considerably more unpaid care work\nthan men, although the size of the gender care gap differs between\ncountries. In some OECD countries, such as South Korea, Japan,\nMexico, and Turkey, the gender care gap is similar to the gap in\nGermany. However, the average gender care gap is smaller in\nmany other European countries.’ Moreover, an especially large in-\ncrease in the gender care gap can be observed following the birth\nof a couple's first child in Germany compared to other countries.?\n\nThe effects of the coronavirus pandemic on the division of unpaid\ncare work have been investigated in many countries. For example,\nstudies from the U.S. show that couples were dividing care work\nmore equally in 2020 compared to before the pandemic. However,\nhere too there is an increased burden on mothers compared to\nfathers in terms of educating their children and contempora-\nneously managing both paid work and childcare. This burden\noccurred primarily due to daycare and school closures and could\nbe observed in particular for parents with a low level of education\nand low income.’ This also resulted in differences in well-being\nbetween mothers and women without children: Mothers with\nyoung children (up to and including primary school age) reported\na greater psychological burden during the pandemic.*",
+          "summarized_text": "Women globally perform more unpaid care work than men, with variations in gender care gap among countries. The pandemic has highlighted disparities in caregiving responsibilities, with mothers facing increased burden in managing work and childcare, particularly due to daycare and school closures."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1342,
+            "y1": 606,
+            "x2": 2332,
+            "y2": 1526
+          },
+          "text": "In the United Kingdom, too, mothers primarily took over the addi-\ntional childcare duties resulting from the coronavirus pandemic\nmeasures. Like in the U.S., these duties were taken on mostly\nindependently of the mothers’ employment status, such that they\nwere often performing paid and unpaid work at the same time. For\nhouseholds in which the men were not working, however, there\nwas a trend toward a more equal division of care work. Further\nstudies are needed to determine if this trend is continuing after\n\nthe pandemic.’\n\nIn Spain, men also performed more unpaid household work over\nthe course of the pandemic, but not to the same extent as women.®\nStudies have documented a similar trend in Canada and Australia,”\nIndia? and Nigeria and South Africa.® The extent to which these\npatterns will revert to pre-pandemic conditions after the end of the\npandemic, as in Germany, will largely depend on the institutions\nand norms in the various countries.",
+          "summarized_text": "Mothers in the UK and Spain took on additional childcare duties during the pandemic, often independently of their employment status. Men in households where they were not working tended to contribute more equally to care work. The post-pandemic return to pre-pandemic conditions may vary depending on each country's institutions and norms."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "blocks": []
+    }
+  ]
+}

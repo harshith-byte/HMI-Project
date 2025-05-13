@@ -1,0 +1,961 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1101,
+                        "y1": 384,
+                        "x2": 1415,
+                        "y2": 432
+                    },
+                    "text": "AT A GI ANCE"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 165,
+                        "y1": 546,
+                        "x2": 2338,
+                        "y2": 854
+                    },
+                    "text": "Extended restrictions to health care entitlements\nfor refugees: negative health consequences\nwithout the anticinated cavinos"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 153,
+                        "y1": 886,
+                        "x2": 2355,
+                        "y2": 1730
+                    },
+                    "text": "By Louise Biddle\n\nAs long as refugees are subject to the Asylum Seekers’ Benefits Act (AsylbLG), they have limited\nhealth care entitlements\n\nAnalysis using IAB-BAMF-SOEP survey data provides information on how the AsylbLG impacts\ndifferent groups of refugees\n\nScenario with an extended exclusion period shows: People with low level of education or little\nGerman knowledge are affected in particular\n\nElectronic health insurance card for refugees can cushion the negative effects of the changes to\nthe AsylbLG by dismantling administrative barriers\n\nAccess to health care should be simplified to save costs for the government in the long term",
+                    "summarized_text": "Refugees under the Asylum Seekers' Benefits Act have limited health care entitlements. The IAB-BAMF-SOEP survey data shows that refugees with low education or limited German knowledge are disproportionately affected. Implementing an electronic health insurance card could help mitigate the negative impact of changes to the AsylbLG and simplify access to health care, ultimately saving costs for the government."
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 180,
+                        "y1": 1816,
+                        "x2": 2308,
+                        "y2": 2713
+                    },
+                    "data": {
+                        "title": "Restricted health care is a burden on refugees and society in the long term",
+                        "categories": [
+                            {
+                                "category": "Limited health care entitlements",
+                                "details": {
+                                    "old_version": "AsylbLG",
+                                    "updated_version": {
+                                        "name": "AsylbLG",
+                                        "since": "21/06/2014"
+                                    }
+                                }
+                            },
+                            {
+                                "category": "Increase in the exclusion period",
+                                "details": {
+                                    "from": "18 months",
+                                    "to": "36 months"
+                                }
+                            },
+                            {
+                                "category": "Consequences",
+                                "details": [
+                                    "Prolonged state of poor health",
+                                    {
+                                        "higher_health_expenditure": {
+                                            "description": "Higher health expenditure in the long term",
+                                            "affected": [
+                                                "state",
+                                                "social security"
+                                            ]
+                                        }
+                                    },
+                                    "Less social and economic participation"
+                                ]
+                            }
+                        ],
+                        "source": "Author's depiction",
+                        "credit": "DIW Berlin 2024"
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 998,
+                        "y1": 141,
+                        "x2": 1510,
+                        "y2": 281
+                    },
+                    "text": "ACCESS TO HEALTH CARE"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 180,
+                        "y1": 568,
+                        "x2": 2361,
+                        "y2": 973
+                    },
+                    "text": "Extended restrictions to health care\nentitlements for refugees: negative health\nconsequences without the anticipated savings"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 174,
+                        "y1": 1222,
+                        "x2": 419,
+                        "y2": 1276
+                    },
+                    "text": "ABSTRACT"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 153,
+                        "y1": 1357,
+                        "x2": 1301,
+                        "y2": 2551
+                    },
+                    "text": "METUQEES Mave HITE Meath) Care CHUUNIN ts QUling tie\nasylum process. In February 2024, the maximum length of this\nexclusion period was increased from 18 to 36 months. This\nincrease may double the actual waiting time, which is currently\nalready more than one year, as data from the Socio-Economic\nPanel show. This particularly affects refugees with a low level\nof education and little knowledge of German. A longer waiting\ntime not only negatively impacts the health of affected individ-\nuals but is also disadvantageous for the state; late treatment\noften requires more expensive treatment. Thus, shortening the\nperiod would have been more sensible than increasing it. The\nelectronic health insurance card (EHIC) for refugees makes\naccess to health services during this waiting period easier, as\nit reduces administrative barriers. However, just under 20 per-\ncent of all refugees have an EHIC, as the system has not been\nintroduced in all federal states. The electronic health insur-\nance card should be introduced nationwide in order to cushion\n\nthe negative effects of extended restrictions on health care.",
+                    "summarized_text": "The asylum process in Germany has been affected by the increase in the maximum exclusion period to 36 months, doubling the already long waiting time for refugees. This particularly impacts those with low education and little knowledge of German. While the EHIC helps ease access to healthcare, less than 20% of refugees have it, highlighting the need for nationwide implementation to mitigate the negative effects of extended health care restrictions."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1347,
+                        "y1": 1189,
+                        "x2": 2372,
+                        "y2": 2886
+                    },
+                    "text": "At the end of February 2024, the maximum period that a\nrefugee is excluded from health care services under the\nAsylbewerberleistungsgesetz (Asylum Seekers’ Benefits Act,\nAsylbLG) was increased from 18 to 36 months. The AsylbLG\nregulates the amount and type of social benefits asylum seek-\ners receive before they are entitled to the citizen’s benefit\n(Biirgergeld) and other social benefits. According to calcu-\nlations on draft legislation by the CDU/CSU Parliamentary\nGroup,' such an extension should result in savings “in the\nthree-digit million range annually.” This draft legislation was\npreceded by an agreement between the federal and state gov-\nernments on a series of measures to reduce incentives for\nrefugees to migrate to Germany as well as the costs incurred\nby state and local authorities, including increasing the exclu-\nsion period of the AsylbLG. However, the actual effects of\nsuch a change to the AsylbLG have not been discussed in\ndetail. In this Weekly Report, health care will be used as an\nexample to show how increasing the AsylbLG’s exclusion\nperiod affects the health and integration of refugees as well\nas the financing of health care.’ The effect of introducing the\nelectronic health insurance card (EHIC) for refugees in this\nlegal context is also explored.\n\nAsylum seekers, refugees with exceptional leave to remain\n(Geduldete), and refugees required to leave the country\n(Ausreisepflichtige) have limited healthcare entitlements com-\npared to social welfare recipients. By the end of February 2024,\nthis exclusion period lasted 18 months; until September 2019,\nit was only 15 months. According to Section 4 of the AsylbLG,\nrefugees are entitled to treatment for “acute illnesses and\npain,” vaccinations and medically required check-ups as\nwell as pregnancy and birth. Further services can be pro-\nvided on an individual basis according to Section 6 as long as",
+                    "summarized_text": "As of February 2024, the exclusion period for refugees from health care services under the AsylbLG was extended from 18 to 36 months, leading to potential savings in the hundreds of millions yearly. The impact of this change on refugee health, integration, and healthcare financing, as well as the introduction of the EHIC for refugees, is being explored in detail."
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1010,
+                        "y1": 195,
+                        "x2": 1494,
+                        "y2": 243
+                    },
+                    "text": "ACCECEG TH YWEAITH CADE"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 110,
+                        "y1": 476,
+                        "x2": 1394,
+                        "y2": 573
+                    },
+                    "text": "Entitlement to health care under the Asylum Seekers’ Benefits Act\nPrior to February 26. 27024"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 105,
+                        "y1": 632,
+                        "x2": 2402,
+                        "y2": 1405
+                    },
+                    "data": {
+                        "HealthcareEntitlements": [
+                            {
+                                "Type": "Limited entitlements",
+                                "Details": "Section 4 and 6 of the AsylbLG",
+                                "AdditionalInfo": null,
+                                "Timeline": {
+                                    "Start": "Arrival",
+                                    "End": "18 months"
+                                }
+                            },
+                            {
+                                "Type": "Limited entitlements with simplified access",
+                                "Details": "Section 4 and 6 AsylbLG",
+                                "AdditionalInfo": "access simplified due to electronic health card",
+                                "Timeline": {
+                                    "Start": "Arrival",
+                                    "End": "18 months"
+                                }
+                            },
+                            {
+                                "Type": "Regular entitlements through waiting time",
+                                "Details": "analogous services according to SGB XII",
+                                "AdditionalInfo": null,
+                                "Timeline": {
+                                    "Start": "18 months",
+                                    "End": "Indefinite"
+                                }
+                            },
+                            {
+                                "Type": "Regular entitlements through approved asylum claim",
+                                "Details": "analogous services according to SGB XIII",
+                                "AdditionalInfo": null,
+                                "Timeline": {
+                                    "Start": "Asylum approval",
+                                    "End": "Indefinite"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 161,
+                        "y1": 1562,
+                        "x2": 1142,
+                        "y2": 2805
+                    },
+                    "text": "they are “vital to ensuring [...] health.” With regard to health\ncare, the AsylbLG offers considerable scope for discretion,\nas neither “acute pain conditions” according to Section 4 nor\nthe “indispensability” of care according to Section 6 are pre-\ncisely defined. Itis therefore up to the responsible doctors to\nassess the situation and the social security offices to decide\nwhether they will approve reimbursement.’ This results in\nconsiderable inequality in refugees’ realized access to health\ncare.* It is clear, however, that refugees must initially expect\nconsiderable health care restrictions after their arrival in\nGermany. Refugees have the same entitlements to health\ncare services as social welfare recipients only after the end\nof the AsylbLG exclusion period’ or once their asylum claim\nhas been approved (SGB XII, Figure 1).\n\nThe introduction of the AsylbLG in 1993 was accompanied\nby a change in health care financing from the health insur-\nance companies to the municipalities and thus required a\nnew billing structure. Health care vouchers were introduced\nfor this purpose: Before a doctor’s appointment, a refugee\nmust apply for a health care voucher from the responsi-\nble social security office. The social security office reviews\nadherence to the AsylbLG as well as the medical necessity\nof the doctor’s appointment. This process leads to unnec-\nessary delays in treatment and is viewed as a barrier to care",
+                    "summarized_text": "The introduction of the AsylbLG in 1993 led to health care financing shifting to municipalities and the introduction of health care vouchers for refugees. This process, which requires approval from social security offices, has led to delays in treatment and is seen as a barrier to care."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1169,
+                        "y1": 1524,
+                        "x2": 2167,
+                        "y2": 2908
+                    },
+                    "text": "by patients and doctors.® In addition to the considerable\namount of administrative work required, medical laypeo-\nple are acting as gatekeepers to the health care system.’ An\nalternative system using an electronic health insurance card\n(EHIC) was introduced in Bremen for the first time in 2005\n(Box 1). Currently, the EHIC has been introduced comprehen-\nsively in six states: Berlin, Brandenburg, Bremen, Hamburg,\nThuringia, and Schleswig-Holstein. The EHIC has also been\nintroduced in individual districts and municipalities in three\nother states (Figure 2).\n\nThe 2019 change to the AsylbLG’s exclusion period and the\ngradual introduction of the EHIC since 2005 have resulted\nin differing health care entitlements for refugees depending\non the place of residence and year. In addition, the entitle-\nments depend on the processing time of the asylum claim,\nwhich has varied over the past years and by the applicant’s\ncountry of origin. The number of refugees with exceptional\nleave to remain also plays a role, as they are subject to the\nAsylbLG regulations even after their asylum process has\nbeen completed.’ Due to these circumstances, it is currently\nunclear how long refugees actually had to wait for full health\ncare entitlements.\n\nTo assess the consequences of extending the exclusion period\nto 36 months, we must look at how many refugees are actually\naffected by such an extension. That is, how many individuals",
+                    "summarized_text": "The introduction of the electronic health insurance card (EHIC) in certain states in Germany has created differing health care entitlements for refugees based on their place of residence and year. The extension of the exclusion period to 36 months in the AsylbLG has resulted in uncertainty regarding the waiting period for refugees to receive full health care entitlements."
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1021,
+                        "y1": 130,
+                        "x2": 1487,
+                        "y2": 265
+                    },
+                    "text": "ACCESS TO HEALTH CARE"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1409,
+                        "y1": 459,
+                        "x2": 2281,
+                        "y2": 508
+                    },
+                    "text": ""
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1399,
+                        "y1": 611,
+                        "x2": 2308,
+                        "y2": 1913
+                    },
+                    "text": "The electronic health insurance card for refugees makes it\npossible for refugees to use health care services legally with-\nout a health care voucher. Refugees receive a chip card that\nthey can use to receive health care services directly in the\nsame way as the statutorily insured via a framework agree-\nment between state authorities and a health insurance pro-\nvider. To this end, a range of services is defined in advance at\nstate level that complies with the AsylbLG.' The costs of med-\nical care are covered by the municipality, but the services are\ncheaper, as the municipalities now are subject to the health\ninsurance providers’ cost catalog.* The health care companies\nreceive an administrative fee per chip card for their efforts;\nthis is ten euros per month per person in Hamburg, for exam-\nple. The EHIC makes access to health care easier by remov-\ning bureaucratic obstacles for both patients and doctors, by\ncreating clarity about the scope of health care services, and\nby minimizing waiting times associated with the health care\nvoucher system.\n\nIn addition to the benefits for the municipalities, the introduc-\ntion of the EHIC has significant benefits for the general health\nstatus and mental health of refugees.* These benefits are espe-\ncially evident for refugees with language barriers.* In addition,\nthe introduction of the EHIC results in higher utilization of pri-\nmary care® while lowering utilization of emergency care.”",
+                    "summarized_text": "The electronic health insurance card for refugees allows them to access health care services without vouchers, providing clarity on services and reducing waiting times. It benefits municipalities by streamlining administrative processes and improving the general health and mental health of refugees, particularly those with language barriers."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 347,
+                        "y1": 2195,
+                        "x2": 1320,
+                        "y2": 3113
+                    },
+                    "text": "are expected to remain without a positive asylum decision\nduring this period. Furthermore, it is unclear who is affected\nby long waiting times: The length of the asylum process var-\nies depending on the applicant’s country of origin, meaning\nthat the actual waiting time for regular health care entitle-\nments can vary greatly for certain groups of refugees. The\nburden of disease, especially for chronic illnesses, is higher\namong older refugees, women, or refugees with a low level\nof education and these groups thus have a higher need for\nhealth services.° If these groups experience very long wait-\ning times, they experience a double hardship: Not only are\nthey ill more often and more acutely, but they also experi-\nence additional barriers in accessing the health care system.\n\nSome states have introduced the EHIC for refugees to sim-\nplify administrative access to health care during the AsylbLG\nexclusion period. However, it is currently unclear who the\nEHIC benefits. The waiting times for different groups of",
+                    "summarized_text": "Long waiting times for asylum decisions can result in increased burden of disease for older refugees, women, and those with low education levels. Access to health care is further hindered for these groups, leading to additional barriers in getting the necessary medical assistance. Some states have introduced the EHIC for refugees to simplify health care access during the exclusion period, but it is unclear who exactly benefits from this system."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 103,
+                        "y1": 481,
+                        "x2": 1227,
+                        "y2": 573
+                    },
+                    "text": "Coverage of the electronic health insurance card (EHIC) for\nrefuqees in Germany"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 107,
+                        "y1": 659,
+                        "x2": 1293,
+                        "y2": 1897
+                    },
+                    "data": {
+                        "Germany": {
+                            "Introduced_in_entire_state": [
+                                "Schleswig-Holstein",
+                                "Bremen",
+                                "Hamburg",
+                                "Brandenburg",
+                                "Saxony-Anhalt",
+                                "Thuringia",
+                                "Saarland"
+                            ],
+                            "Introduced_in_individual_districts_municipalities": [
+                                "Mecklenburg-Vorpommern",
+                                "Lower Saxony",
+                                "North Rhine-Westphalia",
+                                "Hesse",
+                                "Rhineland-Palatinate",
+                                "Baden-Württemberg",
+                                "Saxony",
+                                "Bavaria"
+                            ],
+                            "Rejected": [
+                                "Berlin"
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1021,
+                        "y1": 211,
+                        "x2": 1467,
+                        "y2": 265
+                    },
+                    "text": "ACCESS TO HEALTH CARE"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 99,
+                        "y1": 492,
+                        "x2": 1231,
+                        "y2": 530
+                    },
+                    "text": "Entitlements to health care system by months after arrival"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 97,
+                        "y1": 627,
+                        "x2": 2405,
+                        "y2": 1800
+                    },
+                    "data": {
+                        "1": {
+                            "LimitedEntitlementsAsylbLG": 100
+                        },
+                        "2": {
+                            "LimitedEntitlementsAsylbLG": 100
+                        },
+                        "3": {
+                            "LimitedEntitlementsAsylbLG": 100
+                        },
+                        "4": {
+                            "LimitedEntitlementsAsylbLG": 100
+                        },
+                        "5": {
+                            "LimitedEntitlementsAsylbLG": 100
+                        },
+                        "6": {
+                            "LimitedEntitlementsAsylbLG": 95,
+                            "LimitedEntitlementsEHIC": 5
+                        },
+                        "7": {
+                            "LimitedEntitlementsAsylbLG": 90,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 5
+                        },
+                        "8": {
+                            "LimitedEntitlementsAsylbLG": 85,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 10
+                        },
+                        "9": {
+                            "LimitedEntitlementsAsylbLG": 75,
+                            "LimitedEntitlementsEHIC": 10,
+                            "RegularEntitlementsWaitingTime": 15
+                        },
+                        "10": {
+                            "LimitedEntitlementsAsylbLG": 60,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 25,
+                            "RegularEntitlementsApprovedAsylum": 10
+                        },
+                        "11": {
+                            "LimitedEntitlementsAsylbLG": 35,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 40,
+                            "RegularEntitlementsApprovedAsylum": 20
+                        },
+                        "12": {
+                            "LimitedEntitlementsAsylbLG": 15,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 50,
+                            "RegularEntitlementsApprovedAsylum": 30
+                        },
+                        "13": {
+                            "LimitedEntitlementsAsylbLG": 15,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 50,
+                            "RegularEntitlementsApprovedAsylum": 30
+                        },
+                        "14": {
+                            "LimitedEntitlementsAsylbLG": 15,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 50,
+                            "RegularEntitlementsApprovedAsylum": 30
+                        },
+                        "15": {
+                            "LimitedEntitlementsAsylbLG": 15,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 50,
+                            "RegularEntitlementsApprovedAsylum": 30
+                        },
+                        "16": {
+                            "LimitedEntitlementsAsylbLG": 15,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 50,
+                            "RegularEntitlementsApprovedAsylum": 30
+                        },
+                        "17": {
+                            "LimitedEntitlementsAsylbLG": 15,
+                            "LimitedEntitlementsEHIC": 5,
+                            "RegularEntitlementsWaitingTime": 50,
+                            "RegularEntitlementsApprovedAsylum": 30
+                        },
+                        "18": {
+                            "RegularEntitlementsWaitingTime": 60,
+                            "RegularEntitlementsApprovedAsylum": 40
+                        }
+                    }
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 97,
+                        "y1": 627,
+                        "x2": 2405,
+                        "y2": 1800
+                    },
+                    "text": "100—\n\n75—\n50—\n— | | L| a L ; - ;\naan 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16\nLimited entitlements according to AsylbLG ME Regular entitlements through approved asylum claim ~ [as)\nLimited entitlements, access simplified due to EHIC {i Regular entitlements through waiting time\n\nNote: Refugees who came to Germany between 2013 and 2070. Thus. for the majority of individuals. the maximum exclusion period was 15 months. Since 2019. the maximum exclusion period has been 18 months.",
+                    "summarized_text": "Refugees who arrived in Germany between 2013 and 2070 are entitled to limited benefits initially, but can access regular benefits through an approved asylum claim. The maximum exclusion period for accessing regular benefits has been 18 months since 2019."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 171,
+                        "y1": 2432,
+                        "x2": 1095,
+                        "y2": 2638
+                    },
+                    "text": "Refugees’ have an average waiting time of\nover one year before receiving full health care\nentitlements"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 163,
+                        "y1": 2119,
+                        "x2": 1138,
+                        "y2": 2432
+                    },
+                    "text": "refugees and the extent to which the introduction of the\nEHIC simplifies access to health care during the waiting\nperiod can be examined in more detail in a cross-sectional\nanalysis using data from the 2021 IAB-SOEP-BAMEF Survey\nof Refugees (Box 2).",
+                    "summarized_text": "The impact of the EHIC on refugee access to healthcare during the waiting period can be studied using data from the 2021 IAB-SOEP-BAMEF Survey of Refugees through a cross-sectional analysis."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 163,
+                        "y1": 2676,
+                        "x2": 1153,
+                        "y2": 3265
+                    },
+                    "text": "Overall, rerugees who were living 1n Germany 1n 2021 walted\nover one year (376 days) until they received full health care\nentitlements. Sixty-four percent of the refugees had to wait for\nthe end of the AsylbLG exclusion period,\" whereas 36 percent\nwere granted regular entitlements earlier due to their asylum\nclaim being accepted. Thus, the majority of refugees experi-\nence a long exclusion period under the AsylbLG (Figure 3).\n\nThere are slight but statistically significant differences\nbetween men and women in the waiting period until full\nhealth care entitlements. On average, women had to wait\n17 days longer than men (Figure 4). Refugees with a low",
+                    "summarized_text": "Refugees living in Germany in 2021 waited over one year for full health care entitlements, with 64% experiencing a long exclusion period under AsylbLG. Women, on average, waited 17 days longer than men for their full health care entitlements."
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1177,
+                        "y1": 2151,
+                        "x2": 2155,
+                        "y2": 2367
+                    },
+                    "text": "level of education also had to wait longer: On average, they\nwaited 24 days longer than refugees with a medium level\nof education.",
+                    "summarized_text": "Refugees with higher levels of education experienced an average wait time that was 24 days longer than those with a medium level of education. This suggests that educational attainment may play a role in the length of time refugees must wait for assistance."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1175,
+                        "y1": 2389,
+                        "x2": 2155,
+                        "y2": 2567
+                    },
+                    "text": "SOTTMNOMTT CACIUSIUN PCMOod HRETY tU TMC ase\ndisadvantages for refugees with a low level of\neducation and little knowledge of German"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1173,
+                        "y1": 2573,
+                        "x2": 2200,
+                        "y2": 3362
+                    },
+                    "text": "It refugees who were living in Germany in 2021 had had a\nwaiting time of 36 months instead of 18 (or 15), they would\nhave waited an additional 352 days on average before receiv-\ning regular health care entitlements. Fifty-two percent of the\nrefugees would have had to wait for the end of the AsylbLG’s\nexclusion period—so 36 months—whereas 48 percent would\nhave received earlier access due to their asylum claim being\naccepted.\n\nA hypothetical validity period of 36 months greatly exacerbates\nthe differences in waiting times: Refugees with a low level of\neducation would have to wait around three months longer\nthan refugees with an intermediate or high level of educa-\ntion (Figure 5). Refugees with little or intermediate knowl-\nedge of German would have also had to wait around two\nmonths longer than refugees who understand German well.",
+                    "summarized_text": "Refugees in Germany in 2021 would have waited an additional 352 days on average for regular health care entitlements if the waiting time was extended to 36 months. Those with lower education levels and limited proficiency in German would have faced even longer wait times compared to their counterparts with higher education levels and better language skills."
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1025,
+                        "y1": 205,
+                        "x2": 1533,
+                        "y2": 270
+                    },
+                    "text": "ACCESS TO HEALTH CARE"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 101,
+                        "y1": 454,
+                        "x2": 1289,
+                        "y2": 638
+                    },
+                    "text": "Waiting time to regular health care entitlements by subgroup'\nIn days"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 95,
+                        "y1": 654,
+                        "x2": 1301,
+                        "y2": 1562
+                    },
+                    "data": {
+                        "Age": {
+                            "17 to 29 years old": 400,
+                            "30 to 49 years old": 350,
+                            "50 or older": 215
+                        },
+                        "Gender": {
+                            "Male": 320,
+                            "Female": 310
+                        },
+                        "Education": {
+                            "Low": 125,
+                            "Medium": 270,
+                            "High": 385
+                        },
+                        "German skills": {
+                            "Low": 100,
+                            "Intermediate": 250,
+                            "High": 460
+                        }
+                    }
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 103,
+                        "y1": 1924,
+                        "x2": 1297,
+                        "y2": 2108
+                    },
+                    "text": "ee Denn\n\n36-month scenario: Additional waiting time until regular health\ncare entitlements by subgroup'\nAverage in davs"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 105,
+                        "y1": 2162,
+                        "x2": 1299,
+                        "y2": 3146
+                    },
+                    "data": {
+                        "data": [
+                            {
+                                "category": "Age",
+                                "subcategories": [
+                                    {
+                                        "name": "17 to 29 years old",
+                                        "value": 330,
+                                        "confidence_interval": [
+                                            320,
+                                            340
+                                        ]
+                                    },
+                                    {
+                                        "name": "30 to 49 years old",
+                                        "value": 250,
+                                        "confidence_interval": [
+                                            230,
+                                            270
+                                        ]
+                                    },
+                                    {
+                                        "name": "50 or older",
+                                        "value": 120,
+                                        "confidence_interval": [
+                                            100,
+                                            140
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "category": "Gender",
+                                "subcategories": [
+                                    {
+                                        "name": "Male",
+                                        "value": 290,
+                                        "confidence_interval": [
+                                            270,
+                                            310
+                                        ]
+                                    },
+                                    {
+                                        "name": "Female",
+                                        "value": 150,
+                                        "confidence_interval": [
+                                            130,
+                                            170
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "category": "Education",
+                                "subcategories": [
+                                    {
+                                        "name": "Low",
+                                        "value": 340,
+                                        "confidence_interval": [
+                                            330,
+                                            350
+                                        ]
+                                    },
+                                    {
+                                        "name": "Medium",
+                                        "value": 220,
+                                        "confidence_interval": [
+                                            210,
+                                            230
+                                        ]
+                                    },
+                                    {
+                                        "name": "High",
+                                        "value": 90,
+                                        "confidence_interval": [
+                                            80,
+                                            100
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "category": "German skills",
+                                "subcategories": [
+                                    {
+                                        "name": "Low",
+                                        "value": 370,
+                                        "confidence_interval": [
+                                            350,
+                                            390
+                                        ]
+                                    },
+                                    {
+                                        "name": "Intermediate",
+                                        "value": 240,
+                                        "confidence_interval": [
+                                            220,
+                                            260
+                                        ]
+                                    },
+                                    {
+                                        "name": "High",
+                                        "value": 70,
+                                        "confidence_interval": [
+                                            50,
+                                            90
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1355,
+                        "y1": 411,
+                        "x2": 2320,
+                        "y2": 541
+                    },
+                    "text": "Majority of refugees do not benefit from the\nelectronic health insurance card"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1349,
+                        "y1": 551,
+                        "x2": 2336,
+                        "y2": 1859
+                    },
+                    "text": "In 2021, 24 percent of all refugees lived in a region that uses\nthe electronic health insurance card. The gradual introduc-\ntion of the EHIC since 2005 has resulted in easier access to\nhealth care services for a total of 17 percent of all refugees.\nSeven percent of refugees had full access to the health care\nsystem at the point of introduction and could thus not ben-\nefit from the EHIC although they lived in a region where it\nwas in use (Figure 6). Thus, so far only very few refugees\nor municipalities have been able to benefit from the intro-\nduction of the EHIC (Box 1). The majority of refugees must\nface the uncertainty, extra effort, and treatment delays asso-\nciated with the health care voucher system.\n\nIn addition, regional coverage of the EHIC is associated\nwith inequality in regard to the refugees’ level of education:\nThirty-four percent of refugees with a high level of educa-\ntion live in a region with the EHIC. However, only 22 and\n23 percent of refugees with an intermediate or low level of\neducation, respectively (Figure 6), live in a region with the\nEHIC. Like the maximum exclusion period of the AsylbLG,\nthe administrative regulations in the states result in a sys-\ntematic health disadvantage for refugees with a low level of\neducation, although this group generally has a higher bur-\nden of disease and already faces greater obstacles in access-\ning health care services.",
+                    "summarized_text": "The introduction of the electronic health insurance card (EHIC) has made it easier for refugees to access healthcare services, with 24% of refugees living in regions where it is used. However, only a small percentage of refugees have been able to benefit from the EHIC so far, leading to inequalities in access based on education level. Refugees with a low level of education face greater obstacles in accessing healthcare services."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1355,
+                        "y1": 1854,
+                        "x2": 2332,
+                        "y2": 2032
+                    },
+                    "text": "Longer exclusion period from healthcare\nentitlements: Hope for cost savings is short\nsighted"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1351,
+                        "y1": 2065,
+                        "x2": 2343,
+                        "y2": 3059
+                    },
+                    "text": "The actual waiting time until regular health care entitle-\nments is already significant and will more than double by\nexpanding the AsylbLG exclusion period to 36 months. It is\nshort-sighted to assume that limiting health care services\nwill save money. In contrast, studies show that limiting ref-\nugees’ health care is more cost-intensive in the long run.”\nThis is because limiting health care access increased the\nchance that emergency or intensive treatment is required.\nEarly intervention in primary care, on the other hand, can\nprevent expensive hospital stays, complex diagnostic proce-\ndures, and serious disease progression.”\n\nThe argument of cost savings is also short-sighted, as it\nignores the consequences of poor health on refugees’ social\nand economic participation. It is well documented that seri-\nous illness restricts a person’s ability to participate in educa-\ntional opportunities, find and keep a job, take care of their\nfamily, and participate in social activities.” Not addressing\n\n1 Kayvan Bozorgmehr and Oliver Razum, “Effect of Restricting Access to Health Care on Health",
+                    "summarized_text": "Limiting refugees' access to healthcare can lead to increased costs in the long run due to the need for emergency or intensive treatment. Poor health can also restrict refugees' social and economic participation, impacting their ability to work, care for their families, and engage in social activities."
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1010,
+                        "y1": 184,
+                        "x2": 1516,
+                        "y2": 286
+                    },
+                    "text": "ACCESS TO HEALTH CARE"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 157,
+                        "y1": 459,
+                        "x2": 680,
+                        "y2": 551
+                    },
+                    "text": "Data and methodology"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 157,
+                        "y1": 616,
+                        "x2": 2227,
+                        "y2": 3038
+                    },
+                    "text": "This Weekly Report uses data from the Socio-Economic Panel's\nIAB-SOEP-BAMF Survey of Refugees (M3-M6) (SOEP, v.38.1).'\nThis is a collaborative project between the SOEP, the Institute for\n\nEmployment Research, and the Federal Office for Migration and\nRefugees that collects representative data on refugees who have\nbeen in Germany since 2013.2 The newest available data from the\n2021 survey is used in the analyses. The data analysis methodol-\nogy is a means comparison of the waiting times 1) under current\nconditions, and 2) under a hypothetical expansion of the AsylbLG’s\nexclusion period to 36 months within and between groups with\n95-percent confidence intervals. The coverage of the electronic\nhealth insurance card is calculated as a proportion of all refugees.\n\nTo calculate the waiting time until regular health care entitlements\nunder the current conditions (as of January 2024), two pieces of\ninformation are linked: the time since arrival in Germany and the\ndate of approval of the asylum claim. If the approval occurred dur-\ning the exclusion period of the AsylbLG (15 months or 18 months\nafter September 21, 2019), time to approval was considered as the\nwaiting time until regular entitlements. Otherwise, the exclusion\nperiod of the AsylbLG was used. If no information about the date\nof arrival in Germany was available, the date of the asylum claim\nis used. Individuals who have not yet received a decision on their\nasylum claim at the time of the survey and were still subject to the\nexclusion period of the AsylbLG, and for whom the final waiting\ntime was thus unclear, are excluded from the analysis. Overall,\n2,181 refugees who participated in the 2021 survey are included in\nthe analysis.\n\nData on the date of arrival and the asylum claim are available for\nthe respective month and year. For this analysis, however, days\nare used as the measure by using the midpoint of each month\n(the 15th day). It is assumed that the arrival of refugees is evenly\ndistributed over the month, so a correct average number of days\nis calculated with a sufficiently large sample size. An advantage to\nusing days instead of months is that distortions can be avoided if\nthis information is linked with legislative changes, as these often\nhappen at the beginning of a month.\n\nIn order to evaluate the waiting time under a hypothetical ex-\npansion of the exclusion period of the AsylbLG to 36 months,\ndata on the date of arrival in Germany and the date the asylum\nclaim was approved are similarly linked. However, in this case, a\nwaiting time of 36 months is determined if the asylum claim was\nnot approved within the first 36 months. Otherwise, the time until\napproval is considered as the waiting time. As with the evaluation\nof the waiting time under current conditions, people who had not\n\nyet received a decision about their asylum claim and had been\n\nin Germany for less than 36 months at the time of the survey are\nexcluded from the analysis. For this hypothetical scenario, 2,152\nrefugees who participated in the 2021 survey are included in the\nanalysis.\n\nRegional data from SOEP is used to evaluate the coverage of the\nelectronic health insurance card. These are linked with the date of\nintroduction in the respective federal states, counties, or munic-\nipalities.* A survey respondent could benefit from the electronic\nhealth insurance card if they lived in a region with the EHIC and\nits introduction happened before they received regular access to\nthe health care system (before the expiry of the AsylbLG exclusion\nperiod or the asylum claim).\n\nTo investigate inequalities in regard to people with a special need\nfor health care, the calculated waiting time and EHIC coverage are\nconsidered separately according to four characteristics: gender\n(male/female), age group (17-29/30—-49/50+), level of education\nin home country based on the ISCED-11 classification (low/medi-\num/high), and German language skills, with speaking, writing and\nreading skills each recorded on a scale of 1-5, summed, and then\ntertiles of the total score formed (low/medium/high).\n\nCross-sectional weights are used for the analyses so that the\nresults are representative for refugees living in Germany in 2021\n(excluding Ukrainian refugees, as the AsylbLG does not apply to\nthem).",
+                    "summarized_text": "This report analyzes data from the SOEP refugee survey to examine waiting times for health care entitlements under current conditions and a hypothetical 36-month exclusion period. It also assesses EHIC coverage and inequalities based on gender, age, education, and German language skills among refugees in Germany in 2021."
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1012,
+                        "y1": 178,
+                        "x2": 1527,
+                        "y2": 259
+                    },
+                    "text": "ACCESS TO HEALTH CARE"
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 101,
+                        "y1": 465,
+                        "x2": 1285,
+                        "y2": 605
+                    },
+                    "text": "Electronic health insurance card (EHIC) coverage by subgroup\nIn percent of refugees"
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 97,
+                        "y1": 627,
+                        "x2": 1289,
+                        "y2": 1697
+                    },
+                    "data": {
+                        "Age": {
+                            "17 to 29 years old": {
+                                "Does not live in a region with the EHIC": 80,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 10,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 10
+                            },
+                            "30 to 49 years old": {
+                                "Does not live in a region with the EHIC": 70,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 20,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 10
+                            },
+                            "50 or older": {
+                                "Does not live in a region with the EHIC": 75,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 15,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 10
+                            }
+                        },
+                        "Gender": {
+                            "Male": {
+                                "Does not live in a region with the EHIC": 80,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 15,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 5
+                            },
+                            "Female": {
+                                "Does not live in a region with the EHIC": 85,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 15,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 0
+                            }
+                        },
+                        "Education": {
+                            "Low": {
+                                "Does not live in a region with the EHIC": 80,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 15,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 5
+                            },
+                            "Medium": {
+                                "Does not live in a region with the EHIC": 85,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 10,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 5
+                            },
+                            "High": {
+                                "Does not live in a region with the EHIC": 75,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 20,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 5
+                            }
+                        },
+                        "German skills": {
+                            "Low": {
+                                "Does not live in a region with the EHIC": 90,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 10,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 0
+                            },
+                            "Intermediate": {
+                                "Does not live in a region with the EHIC": 75,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 15,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 10
+                            },
+                            "High": {
+                                "Does not live in a region with the EHIC": 80,
+                                "Lives in a region with the EHIC, introduced after end of waiting period": 15,
+                                "Lives in a region with the EHIC, introduced before end of waiting period": 5
+                            }
+                        },
+                        "Total": {
+                            "Does not live in a region with the EHIC": 80,
+                            "Lives in a region with the EHIC, introduced after end of waiting period": 15,
+                            "Lives in a region with the EHIC, introduced before end of waiting period": 5
+                        }
+                    }
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 333,
+                        "y1": 2000,
+                        "x2": 1316,
+                        "y2": 3097
+                    },
+                    "text": "health problems at an early stage with needs-based care can\nresult in significant, long-term social and economic costs for\nthe federal government and the social systems.\n\nThus, the savings cited in the CDU/CSU Parliamentary\nGroup’s draft legislation cannot be scientifically justified\nin regard to health care. Moreover, the presumption that\nincreasing the exclusion period of the AsylbLG will make\nGermany a less attractive destination and that the number\nof asylum seekers will decline is not scientifically ground-\ned.” In the context of forced migration, it is predominantly\nthe conditions and events in the origin country that deter-\nmine if asylum figures rise or fall, while more or less restric-\ntive laws in destination countries play a less important role.®\n\nFurthermore, increasing the exclusion period of the AsylbLG\nparticularly affects refugees with a low level of education and\nlittle knowledge of German. However, these are the refugees\nthat have the highest disease burden and thus require swift,\nappropriate care.\"",
+                    "summarized_text": "Early intervention in health problems is crucial to prevent long-term social and economic costs for the government and social systems. Increasing exclusion periods for refugees may not impact asylum numbers significantly, as factors in their origin countries play a larger role."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1355,
+                        "y1": 389,
+                        "x2": 2310,
+                        "y2": 530
+                    },
+                    "text": "Conclusion: Reduce health care access barriers\nfor refugees"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1345,
+                        "y1": 605,
+                        "x2": 2371,
+                        "y2": 2519
+                    },
+                    "text": "access to health care are restrictive and will be further tight-\nened by extending the AsylbLG to 36 months. This is a clear\nviolation of the right to health, to which Germany has com-\nmitted itself by ratifying the UN International Covenant on\nEconomic, Social and Cultural Rights.” The restrictions are\noften justified by their temporary nature, but the long pro-\ncessing time of asylum claims in Germany, the high asylum\nclaim acceptance rate, and the high share of refugees with\nexceptional leave to remain mean that the restrictions affect\nthe people who remain in Germany for long periods of time.\n\nMoreover, the health care restrictions result in negative\nhealth outcomes for refugees in the short-term, as well as\nincurring long-term costs for the state if delayed treatment\nresults in high costs for emergency or intensive care. Instead\nof creating additional legal barriers for refugees, access to\nthe health care system should be made easier, for example\nthrough low-threshold health care provision in refugee shel-\nters,\" the nationwide introduction of the EHIC to remove\nadministrative barriers,” and appropriate interpretation and\ntranslation services.”\n\nThe introduction of the EHIC for refugees offers significant\nhealth and economic benefits, but is insufficiently imple-\nmented. By removing administrative barriers related to the\nhealth care voucher, health care services can be accessed ear-\nlier instead of delaying treatment. Arguments against the\nintroduction of the EHIC are the relatively high adminis-\ntration fees charged by health insurance companies and the\nfeared increase in health care costs. However, administrative\ncosts of 1.6 million euros were saved annually in Hamburg\nusing the EHIC compared to the health care voucher sys-\ntem.” Furthermore, easier access to health care via the EHIC\ndid not lead to inappropriate use: In the Ruhr area, for exam-\nple, the number of doctor’s visits increased following the\nintroduction of the EHIC, but was still lower than among\nnon-refugees.” Thus, primary health care costs may rise in\nthe short term depending on health needs.” However, this",
+                    "summarized_text": "Restrictions on refugee access to healthcare in Germany violate their right to health, resulting in negative health outcomes and potential long-term costs for the state. The introduction of the EHIC for refugees could provide significant benefits by removing administrative barriers and improving access to timely healthcare services."
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1014,
+                        "y1": 184,
+                        "x2": 1471,
+                        "y2": 232
+                    },
+                    "text": ""
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 149,
+                        "y1": 346,
+                        "x2": 2212,
+                        "y2": 886
+                    },
+                    "text": "expenditure is a long-term investment for the state that avoids\nexpensive emergency and hospital treatments.”*\n\nChanges to the AsylbLG were made with the hope of sav-\ning money and reducing Germany’s appeal as a destination\nfor refugees. However, a look at the public health evidence\nshows that these assumptions cannot be substantiated in\n\n24 Hollederer, \"Die Gewahrleistung von Krankheitshilfen bei asylsuchenden Menschen.”\n\nthe health sector. In contrast: Considering the costs for the\nstate and the affected refugees, it would make more sense\nto shorten the exclusion period of the AsylbLG rather than\nextend it. The nationwide introduction of the EHIC could\nminimize administrative barriers to accessing health care\nduring the waiting period. The introduction of the EHIC\nshould be actively pursued, especially now that the change\nto the AslybLG is further exacerbating the health situation\nof refugees.",
+                    "summarized_text": "Changes to the AsylbLG were intended to save money and reduce Germany's appeal to refugees, but evidence in the public health sector contradicts these assumptions. It would be more beneficial to shorten the exclusion period of AsylbLG and introduce EHIC to minimize administrative barriers and improve healthcare access for refugees."
+                }
+            ]
+        },
+        {
+            "page_number": 10,
+            "blocks": []
+        }
+    ]
+}
