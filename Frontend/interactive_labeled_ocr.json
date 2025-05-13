@@ -1,0 +1,103 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 1097,
+                        "y1": 382,
+                        "x2": 1392,
+                        "y2": 477
+                    },
+                    "text": "AT A GLANCE"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 158,
+                        "y1": 515,
+                        "x2": 2305,
+                        "y2": 1536
+                    },
+                    "text": "Decline in nominal construction volume expected\nfor the first time since the financial crisis;\nresidential construction situation worsening\n\nBy Martin Gornig and Laura Pagenhardt\n\n- Falling construction prices will cause construction volume to decline by 3.5 percent in nominal\nterms and by 1.5 percent in real terms in 2024\n\n- Residential construction is declining markedly, more so in new construction than in renovation\n- Goal of constructing 400,000 residences per year becoming more out of reach\n* Only civil engineering is cushioning the downturn and will increase again in 2025\n\n- The situation is expected to stabilize in 2025",
+                    "summarized_text": "Residential construction is expected to continue declining, particularly in new construction, making the goal of constructing 400,000 residences per year increasingly difficult to achieve. However, civil engineering is expected to cushion the downturn and show an increase in 2025, indicating a potential stabilization in the construction industry."
+                },
+                {
+                    "label": "graph",
+                    "box": {
+                        "x1": 195,
+                        "y1": 1997,
+                        "x2": 2284,
+                        "y2": 2790
+                    },
+                    "data": {
+                        "Total construction": {
+                            "2023": "-1.1%",
+                            "2024": "-1.5%",
+                            "2025": "1.5%"
+                        },
+                        "Residential construction": {
+                            "2023": "-2.3%",
+                            "2024": "-3.4%",
+                            "2025": "0.4%"
+                        },
+                        "Civil engineering": {
+                            "2023": "2.6%",
+                            "2024": "3.6%",
+                            "2025": "3.3%"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "blocks": [
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 171,
+                        "y1": 1324,
+                        "x2": 382,
+                        "y2": 1399
+                    },
+                    "text": "ABSTRACT"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 166,
+                        "y1": 1428,
+                        "x2": 1247,
+                        "y2": 2964
+                    },
+                    "text": "High construction prices and worsened financing conditions\nare weighing on the construction industry, especially build-\ning construction. Despite a nominal increase of six percent\n\nin construction expenses in 2023, it decreased by just over\none percent in inflation-adjusted terms. In 2024, the nominal\nconstruction volume is likely to contract by around 3.5 per-\ncent, declining for the first time since the financial crisis due to\nfalling construction prices. Residential construction in particu-\nlar experienced a sharp decline in 2023 and will continue on\nthis downward trend more strongly in 2024. Renovation and\nmodernization activity is less affected than new construction.\nThe situation will stabilize by 2025. The prospect of con-\nstructing 400,000 new residences annually is thus becoming\nincreasingly out of reach. Only civil engineering is stabilizing\nthe construction industry overall; it is likely to expand in both\n2024 and 2025. The different growth prospects of the sectors\nrequire restructuring in the construction industry. In particu-\nlar, capacities freed up in new residential construction should\nbe utilized in the energy-efficient renovation of private and\npublic buildings. Policy makers should actively support this\nrestructuring. In addition, they should provide clarity about the\nsubsidy programs for energy-efficient building renovation and\nresidential unit construction. At the same time, it is important\n\nto maintain focus on the new housing construction target.",
+                    "summarized_text": "High construction prices and difficult financing conditions have led to a decrease in construction volume in 2024, especially in residential construction. Despite this, civil engineering is expected to grow, requiring a restructuring of the industry to focus on energy-efficient renovation and renovation projects."
+                },
+                {
+                    "label": "title",
+                    "box": {
+                        "x1": 166,
+                        "y1": 560,
+                        "x2": 2207,
+                        "y2": 1158
+                    },
+                    "text": "Decline in nominal construction volume\nexpected for the first time since the\nfinancial crisis; residential construction\nsituation worsening"
+                },
+                {
+                    "label": "body",
+                    "box": {
+                        "x1": 1344,
+                        "y1": 1308,
+                        "x2": 2331,
+                        "y2": 3043
+                    },
+                    "text": "The construction industry in Germany continues to strug-\ngle. The crisis began in 2021 with material and supply bot-\ntlenecks and continued in 2022 and 2023 with the energy\ncrisis and loss of household purchasing power due to con-\nsumer price inflation. This was compounded by rapidly ris-\ning interest rates, which made it considerably more diffi-\ncult to finance construction projects, particularly for private\nhouseholds, but also for companies. In particular, incoming\norders and building permits for new residential construc-\ntion plummeted last year. Due to the very dynamic devel-\nopment of construction prices, the construction volume in\nnominal terms increased over the years, but price-adjusted\ndeclines have already been recorded in almost all construc-\ntion sectors since 2021.\n\nNominal construction volume is expected to contract in 2024.\nDue to declining capacity utilization and falling material\nprices, prices are likely to fall as well and a turnaround in\ninterest rates is expected in summer 2024. However, as prices\nand interest rates are likely to remain high overall and many\nsubsidy programs are in limbo, the building construction\nvolume in particular is likely to suffer and in some cases\ndecline considerably. Development is likely to improve in\n2025, but strong growth is not expected.\n\nThese are the results of DIW Berlin’s calculations of the con-\nstruction volume,! which includes construction investments\nas well as repairs that do not increase value. Furthermore, in\naddition to construction in the narrower sense, the calcula-\ntions encompass related sectors, such as steel and light metal\nconstruction, the manufacture of prefabricated buildings,\nbuilding fittings, planning, and other services. As a supple-\nment to the investment calculation of the Statistical Offices,\nDIW Berlin’s annual construction volume differentiates",
+                    "summarized_text": "The construction industry in Germany has been struggling since 2021, with declines in incoming orders and building permits for new residential construction. Nominal construction volume is expected to contract in 2024, with falling material prices and a turnaround in interest rates expected in summer 2024."
+                }
+            ]
+        }
+    ]
+}
