@@ -1,0 +1,821 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1094,
+            "y1": 400,
+            "x2": 1399,
+            "y2": 451
+          },
+          "text": "AT A GLANCE"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 176,
+            "y1": 548,
+            "x2": 2275,
+            "y2": 791
+          },
+          "text": "Refugees send remittances abroad less often than\nother migrants"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 132,
+            "y1": 879,
+            "x2": 2322,
+            "y2": 1697
+          },
+          "text": "Number of remittances sent abroad has increased over the past years, both in Germany\n\nand worldwide\n\nA study based on large-scale representative survey data shows how the share of people living in\nGermany who send remittances abroad has changed\n\nOnly seven percent of refugees and 12 percent of migrants without a refugee background sent\nremittances abroad in 2021\n\nThe likelihood of sending remittances declines the larger the household is and the less likely a\nperson's intention to return is\n\nRole of remittances should be reassessed in political and media debates, especially as they make\nan important contribution to development in migrants’ home countries",
+          "summarized_text": "Recent research shows that the number of remittances sent abroad from Germany has increased over the years, with only 7% of refugees and 12% of migrants without refugee background sending money in 2021. The study also found that the likelihood of sending remittances decreases in larger households and among those less likely to return to their home countries, highlighting the importance of reassessing the role of remittances in political and media discussions as they contribute significantly to development in migrants' home countries."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1037,
+            "y1": 172,
+            "x2": 1416,
+            "y2": 292
+          },
+          "text": "REMITTANCES"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 144,
+            "y1": 557,
+            "x2": 2139,
+            "y2": 865
+          },
+          "text": "Refugees send remittances abroad less\noften than other migrants"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1345,
+            "y1": 1197,
+            "x2": 2335,
+            "y2": 2633
+          },
+          "text": "In recent decades, the volume of the global flow of remit-\ntances sent by migrants has grown significantly and reached\nhistoric peaks. According to World Bank data based on cal-\nculations by central banks around the world, these remit-\ntance flows have developed into a significant income source\nfor many low and middle-income countries. These personal\ntransfers, referred to hereafter interchangeably as “personal\ntransfers” or “remittances,” help millions of families meet\ntheir basic needs and make an important contribution to local\neconomic development.' Germany is also part of this global\ntrend: Since the 2000s, the country has recorded a continu-\ning increase of remittances sent abroad (Figure 1). By 2023,\nGermany was one of the top European nations in remit-\ntances sent, reaching over 24 billion dollars (22 billion euros).\n\nThis development reflects the change in migration dynamics\nthat Germany has experienced over the past two decades.\nSince 2000, the share of the population with a migration\nbackground? has risen steadily. As of 2022, it was around\n25 percent of the population, or around 21 million people.\nThis increase is due both to the arrival of skilled migrants as\nwell as of asylum seekers from crisis regions such as Syria,\nAfghanistan, and Ukraine. As of 2023, anew record of around\n3.2 million asylum seekers are living in Germany.’ This situ-\nation reflects Germany’s humanitarian commitment, but has\nalso led to more debate on migration policy. Critical voices\ndemand stricter regulations, especially regarding accepting\nasylum seekers. One key argument in this discussion is the",
+          "summarized_text": "The global flow of remittances sent by migrants has grown significantly, with Germany also experiencing an increase in remittances sent abroad. This trend is driven by the rise in migration dynamics in Germany, with around 25% of the population having a migration background as of 2022."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 148,
+            "y1": 1226,
+            "x2": 435,
+            "y2": 1298
+          },
+          "text": "ABSTRACT"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 148,
+            "y1": 1322,
+            "x2": 1241,
+            "y2": 2679
+          },
+          "text": "Remittances sent by refugees to their home countries has\nbeen a hotly debated policy topic in Germany over the past\nyears and has led to the introduction of a payment card for\nasylum applicants. This Weekly Report investigates how the\nshare of people living in Germany who send remittances\nabroad has changed over time according to their migration\nbackground (with or without a refugee background) and\nwhich factors influence the likelihood of remitting. Based on\nSocio-Economic Panel (SOEP) data as well as the IAB-SOEP\nMigration Samples and the IAB-BAMF-SOEP Refugee Survey\nfrom 2013 to 2022, the analysis shows that migrants without\n\na refugee background send remittances more often, while\nrefugees are often rarely able to send remittances due to\nstructural barriers. Thus, the political debate does not reflect\nreality. A person's family situation and their intention to stay in\nGermany long term are particularly important factors influenc-\ning the likelihood that they will send remittances abroad. In\nthis respect, these results should contribute to a reevaluation\nof remittances, as they are an important instrument in achiev-\ning sustainable development goals, in stabilizing the economy\nin the migrants’ home countries, and reducing poverty.",
+          "summarized_text": "The debate on remittances sent by refugees in Germany has led to the introduction of a payment card for asylum applicants. Research shows that migrants without a refugee background send remittances more often, with factors such as family situation and intention to stay in Germany influencing the likelihood of remitting."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "graph",
+          "box": {
+            "x1": 84,
+            "y1": 463,
+            "x2": 2390,
+            "y2": 1335
+          },
+          "data": {
+            "Personal Transfers in Billions of USD": {
+              "Austria": {
+                "2011": 5,
+                "2012": 6,
+                "2013": 2,
+                "2014": 6,
+                "2015": 9,
+                "2016": 5,
+                "2017": 5,
+                "2018": 4,
+                "2019": 3,
+                "2020": 2,
+                "2021": 2,
+                "2022": 2,
+                "2023": 2
+              },
+              "Belgium": {
+                "2011": 6,
+                "2012": 4,
+                "2013": 7,
+                "2014": 3,
+                "2015": 3,
+                "2016": 3,
+                "2017": 5,
+                "2018": 7,
+                "2019": 3,
+                "2020": 2,
+                "2021": 2,
+                "2022": 5,
+                "2023": 1
+              },
+              "France": {
+                "2011": 14,
+                "2012": 19,
+                "2013": 21,
+                "2014": 20,
+                "2015": 24,
+                "2016": 20,
+                "2017": 15,
+                "2018": 14,
+                "2019": 13,
+                "2020": 12,
+                "2021": 9,
+                "2022": 14,
+                "2023": 2
+              },
+              "Germany": {
+                "2011": 5,
+                "2012": 6,
+                "2013": 1,
+                "2014": 8,
+                "2015": 10,
+                "2016": 12,
+                "2017": 7,
+                "2018": 6,
+                "2019": 7,
+                "2020": 4,
+                "2021": 5,
+                "2022": 7,
+                "2023": 4
+              },
+              "Italy": {
+                "2011": 8,
+                "2012": 3,
+                "2013": 2,
+                "2014": 10,
+                "2015": 5,
+                "2016": 5,
+                "2017": 6,
+                "2018": 6,
+                "2019": 7,
+                "2020": 5,
+                "2021": 2,
+                "2022": 5,
+                "2023": 5
+              },
+              "Netherlands": {
+                "2011": 6,
+                "2012": 6,
+                "2013": 7,
+                "2014": 9,
+                "2015": 8,
+                "2016": 12,
+                "2017": 10,
+                "2018": 4,
+                "2019": 6,
+                "2020": 3,
+                "2021": 3,
+                "2022": 4,
+                "2023": 2
+              },
+              "Spain": {
+                "2011": 8,
+                "2012": 7,
+                "2013": 2,
+                "2014": 7,
+                "2015": 5,
+                "2016": 7,
+                "2017": 5,
+                "2018": 3,
+                "2019": 3,
+                "2020": 2,
+                "2021": 3,
+                "2022": 3,
+                "2023": 2
+              },
+              "Sweden": {
+                "2011": 3,
+                "2012": 4,
+                "2013": 2,
+                "2014": 5,
+                "2015": 4,
+                "2016": 3,
+                "2017": 5,
+                "2018": 5,
+                "2019": 3,
+                "2020": 2,
+                "2021": 1,
+                "2022": 4,
+                "2023": 2
+              }
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 136,
+            "y1": 1699,
+            "x2": 1147,
+            "y2": 2985
+          },
+          "text": "presumption that refugees are sending significant portions\nof the state subsidies they receive abroad and that the ease\nof sending transfers encourages further asylum requests\nin Germany. This presumption has already led to concrete\nregulatory measures: For example, a payment card system\nhas been introduced, which limits asylum seekers’ access to\ndisposable cash.* The goal of this measure is to control the\nuse of state subsidies more strictly and to ensure that refu-\ngees are mainly using this money to support themselves in\nGermany.’ However, this debate ignores the positive effects\nthat remittances sent abroad have on the recipient countries.°\n\nThe increase in remittances and the related policy reactions\nemphasize the topic’s complexity: They illustrate how closely\nrelated economic aspects of migration and social policy chal-\nlenges and public discourse are. While these remittances are\nof great significance for the recipient countries, host socie-\nties face the challenge of addressing unsubstantiated con-\ncerns about public funds flowing abroad, while also ensur-\ning support and integration for refugees.\n\nHowever, the aggregated figures published by the World\nBank, which use Bundesbank data for Germany, do not pro-\nvide any insight into the amounts sent by migrants, especially\nrefugees, and non-migrants (Box). Thus, a detailed analysis",
+          "summarized_text": "The debate over refugees sending state subsidies abroad ignores the positive effects of remittances on recipient countries, highlighting the complexity of migration policy and social challenges. However, current data does not provide insight into the amounts sent by migrants, including refugees."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1165,
+            "y1": 1703,
+            "x2": 2158,
+            "y2": 2825
+          },
+          "text": "of remittances sent only by migrants based on Bundesbank\nfigures is not possible.’ Additionally, neither an individual’s\nspecific context nor their motives for sending remittances\nare recorded. This results in a certain unclarity, as the actual\nremittance amounts of the individual groups cannot be deter-\nmined. Moreover, remittances sent via informal channels are\noften not included or are underestimated, which further dis-\ntorts the overall figures.®\n\nFor a clearer understanding of who is sending remittances\nunder what conditions, we must analyze the trends in remit-\ntances and the driving factors behind them more closely.\nSuch an analysis provides not only a look at the economic\nrelationships and realities of migrants in Germany, but also\nreveals what motives and challenges are driving them to send\nfinancial support to their home countries. This closer look\nis decisive for making informed policy decisions and better\nunderstanding the effects of migration and financial flows\non societies, both sender and recipient countries.\n\nThis analysis is the first to use representative, longitudi-\nnal survey data from private households in Germany to",
+          "summarized_text": "An analysis of remittance trends and driving factors among migrants in Germany is crucial for understanding economic relationships and realities, as well as motives and challenges behind sending financial support to home countries. This analysis will inform policy decisions and enhance understanding of migration and financial flows in both sender and recipient countries."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 136,
+            "y1": 1699,
+            "x2": 2158,
+            "y2": 2985
+          },
+          "text": " of remittances sent only by migrants based on Bundesbank\nfigures is not possible.’ Additionally, neither an individual’s\nspecific context nor their motives for sending remittances\nare recorded. This results in a certain unclarity, as the actual\nremittance amounts of the individual groups cannot be deter-\nmined. Moreover, remittances sent via informal channels are\noften not included or are underestimated, which further dis-\ntorts the overall figures.®\n\nFor a clearer understanding of who is sending remittances\nunder what conditions, we must analyze the trends in remit-\ntances and the driving factors behind them more closely.\nSuch an analysis provides not only a look at the economic\nrelationships and realities of migrants in Germany, but also\nreveals what motives and challenges are driving them to send\nfinancial support to their home countries. This closer look\nis decisive for making informed policy decisions and better\nunderstanding the effects of migration and financial flows\non societies, both sender and recipient countries.\n\nThis analysis is the first to use representative, longitudi-\nnal survey data from private households in Germany to"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 310,
+            "y1": 471,
+            "x2": 1395,
+            "y2": 558
+          },
+          "text": "Method of calculation and international remittance data"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 302,
+            "y1": 597,
+            "x2": 1281,
+            "y2": 1566
+          },
+          "text": "International remittance statistics, as reported in the International\nFinancial Statistics of the International Monetary Fund (IMF), follov\nthe Balance of Payments manual (BPM6) methodology and divide\ntransfers into two main categories:'\nCompensation of Employees (CE): Includes the income of tem-\nporary migrant workers, such as seasonal workers. The gross\nincome including the employer's social security contributions\nis recorded.\nPersonal transfers (PT): Includes all monetary or in-kind trans-\nfers sent abroad by people living in Germany, independent of\ntheir relationship to the recipient.\n\nIn Germany, transfer data is mainly collected via banks. Transfers\nof smaller amounts (under 12,500 euros) and informal remittances\nare frequently not included, which can result in the actual remit-\ntance volume being underestimated. In addition, the data can\ninclude remittances made by Germans without a migration back-\nground. Furthermore, there are challenges in recording informal\nand digital remittances.",
+          "summarized_text": "International remittance statistics in Germany are divided into Compensation of Employees (CE) and Personal Transfers (PT) categories. Data is mainly collected via banks, but smaller amounts and informal remittances are often not included, leading to potential underestimation of actual remittance volume. Challenges also exist in recording informal and digital remittances."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 298,
+            "y1": 1592,
+            "x2": 870,
+            "y2": 1680
+          },
+          "text": "SOEP data and methodology"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 323,
+            "y1": 1717,
+            "x2": 1302,
+            "y2": 2243
+          },
+          "text": "The German Socio-Economic Panel (SOEP) data used in this\nWeekly Report can provide some of this more detailed informa-\ntion for Germany. SOEP is a representative and multidisciplinary\nhousehold survey encompassing around 15,00 households\n(Version 39) that has been conducted every year since 1984. The\nanalysis is limited to the years 2013 to 2022 to explicitly record the\nsurvey waves of the IAB-SOEP Migration Samples as well as the\nIAB-BAMF-SOEP Refugee Survey.’ Including these studies creates\na representative population sample of people with migration and\nrefugee backgrounds, which reflects the migration dynamics of the",
+          "summarized_text": "The German Socio-Economic Panel (SOEP) data used in this report provides detailed information on approximately 15,000 households in Germany since 1984. The analysis focuses on the years 2013 to 2022 to capture the survey waves of the IAB-SOEP Migration Samples and the IAB-BAMF-SOEP Refugee Survey, creating a representative sample of people with migration and refugee backgrounds."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1324,
+            "y1": 599,
+            "x2": 2346,
+            "y2": 2384
+          },
+          "text": "past decade and can be compared with the rest of the population\nincluded in the SOEP.*\n\nQuestions used for the analysis on remittances abroad are located\nin the Family and Friends (Familie und Freundeskreis) section\n\nof the survey (see for example question 218 in the individual\nquestionnaire (Fragebogen Personen, SOEP v39). The following\nquestion is asked in all samples: “Did you send money or other\nfinancial support to relatives or other people outside of your house-\nhold in the last year (20xx)? If yes, what was the total amount you\ntransferred in 20xx? Where does the recipient live?” The possible\nanswer categories for recipient are: Parents, children, spouse/ex-\nspouse, other relatives, unrelated people, or no transfers sent.\n\nMultiple answers are possible. This way, respondents can indicate\nthat they sent transfers to relatives abroad as well as to relatives\nliving in Germany. This makes it possible to record the remittance\npractices of respondents comprehensively while considering the\ndifferent locations of the recipients.\n\nA distinction is made between personal transfers made exclusively\nwithin Germany and personal transfers abroad for the analysis in\nthis Weekly Report. However, the survey does not provide more\nexact information on what specific countries the remittances are\nbeing sent to. Based on this definition, this Weekly Report focuses\non people who have sent remittances abroad to one or more of the\nrecipients mentioned.\n\nAs is well known in research, remittance amounts reported by\nrespondents are often incomplete and subject to underreporting\nand inaccuracies.° A detailed analysis of these values requires a\ncomplex method of multiple imputation, which is beyond the scope\nof this Weekly Report. Therefore, the present analysis focuses on\nif a person has sent a remittance abroad or not, without taking full\naccount of how much was sent.",
+          "summarized_text": "The analysis on remittances abroad in the SOEP survey focuses on whether individuals have sent money or financial support to relatives outside of their household. The survey allows respondents to report transfers to various recipients, both in Germany and abroad, providing a comprehensive view of their remittance practices. While the survey does not specify the countries receiving remittances, the analysis highlights individuals who have sent money abroad."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 318,
+            "y1": 2742,
+            "x2": 1293,
+            "y2": 3040
+          },
+          "text": "distinguish specifically between migrants without a refu\ngee background, refugees, and non-migrants in regard tc\nremittances.” It is based on data from the Socio-Economic\nPanel (SOEP),” the IAB-SOEP Migration Samples fror\n2013 to 2022, and the IAB-BAMF-SOEP Survey of Refugees",
+          "summarized_text": "The study analyzed remittances among migrants without a refugee background, refugees, and non-migrants using data from the SOEP, IAB-SOEP Migration Samples, and IAB-BAMF-SOEP Survey of Refugees. The aim was to understand the differences in remittance behavior among these groups."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1324,
+            "y1": 2736,
+            "x2": 2350,
+            "y2": 3007
+          },
+          "text": "from 2016 to 2022.\" These surveys belong to the most com-\nprehensive and long-running multidisciplinary household\npanel worldwide and offer a unique basis for well-founded\nanalyses of the population with migration and refugee\nbackgrounds (Box).",
+          "summarized_text": "The surveys conducted from 2016 to 2022 are part of the most comprehensive household panel worldwide, providing a unique basis for analyzing populations with migration and refugee backgrounds."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 123,
+            "y1": 388,
+            "x2": 1009,
+            "y2": 543
+          },
+          "text": "Motives for sending remittances: Altruism,\nstrategic opportunities, and cultural bonds"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 148,
+            "y1": 558,
+            "x2": 1132,
+            "y2": 1001
+          },
+          "text": "Sending remittances abroad has been intensively investi-\ngated in both migration and economic research. In essence,\nthere are three main motives for sending remittances: altru-\nism, strategic or investment reasons, and social and cul-\ntural bonds.” These motivations can overlap and reflect dif-\nferent needs and circumstances, which can vary depend-\ning on the migrants’ individual situation and the nature of\ntheir migration.",
+          "summarized_text": "Research on sending remittances abroad reveals three main motives: altruism, strategic investment, and social/cultural bonds. These motivations can overlap and vary depending on individual circumstances and the nature of migration."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 158,
+            "y1": 1010,
+            "x2": 537,
+            "y2": 1075
+          },
+          "text": "Altruistic motives"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 146,
+            "y1": 1103,
+            "x2": 1139,
+            "y2": 1669
+          },
+          "text": "A key motive for sending remittances is altruism, the desire\nto support relatives in need. This motive drives more remit-\ntances during crisis periods in migrants’ home countries in\nparticular, when families are faced with economic challenges,\npolitical instability, or natural disasters. In such cases, remit-\ntances are vital aid to secure basic needs such as food, medi-\ncal care, and education.” This form of assistance is common\namong both migrants without a refugee background as well\nas refugees, although the latter may be under particular pres-\nsure to provide financial support due to their refugee situ-\nation and the often precarious situation of their families.“",
+          "summarized_text": "Remittances are often sent out of altruism to help support family members in need during crises like economic hardships or natural disasters. This aid provides essential necessities such as food, medical care, and education for families in difficult situations. Both migrants and refugees, especially the latter, feel pressured to provide financial support to their families due to their circumstances."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 142,
+            "y1": 1711,
+            "x2": 863,
+            "y2": 1770
+          },
+          "text": "Strategic or investment motives"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 132,
+            "y1": 1801,
+            "x2": 1128,
+            "y2": 2428
+          },
+          "text": "Remittances are strategic investments for some migrants,\nespecially those who are economically stable. Remittances\nare used to acquire or maintain assets in their home coun-\ntry, such as real estate or family businesses. Generally, the\ngoal is to secure long-term sources of income or to ensure\na possible return.” This is generally a motive for migrants\nwithout a refugee background, who, unlike refugees, tend to\nhave a secure work situation and thus can use their financial\nresources to plan for long-term investments in their home\ncountry.”° Favorable investment conditions, such as changes\nin exchange rates or low interest rates or transaction costs,\ncan also stimulate this type of personal transfer.",
+          "summarized_text": "Remittances are strategic investments for economically stable migrants to acquire or maintain assets in their home country, ensuring long-term sources of income. Favorable investment conditions like exchange rates or low transaction costs can further drive these investments. Refugees, typically lacking secure work situations, may not prioritize long-term investments in their home country."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 137,
+            "y1": 2472,
+            "x2": 664,
+            "y2": 2520
+          },
+          "text": "Social and cultural bonds"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 151,
+            "y1": 2568,
+            "x2": 1148,
+            "y2": 2766
+          },
+          "text": "In addition to economic motives, remittances are also sent\nto maintain a connection to one’s home country or to live\nup to familial or cultural expectations. For many migrants,\nregularly sending remittances strengthens not only familial",
+          "summarized_text": "Remittances are not only sent for economic reasons but also to maintain a connection to one's home country and fulfill familial or cultural expectations. Many migrants regularly send remittances to strengthen family ties and meet cultural obligations."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1185,
+            "y1": 472,
+            "x2": 2411,
+            "y2": 1396
+          },
+          "data": {
+            "title": "People in Germany who send remittances abroad",
+            "subtitle": "Share in percent of all people living in Germany",
+            "data": [
+              {
+                "year": 2012,
+                "percentage": 3.0,
+                "confidence_interval": [
+                  2.5,
+                  3.5
+                ]
+              },
+              {
+                "year": 2013,
+                "percentage": 3.3,
+                "confidence_interval": [
+                  2.8,
+                  3.8
+                ]
+              },
+              {
+                "year": 2014,
+                "percentage": 3.1,
+                "confidence_interval": [
+                  2.6,
+                  3.6
+                ]
+              },
+              {
+                "year": 2015,
+                "percentage": 3.3,
+                "confidence_interval": [
+                  2.8,
+                  3.8
+                ]
+              },
+              {
+                "year": 2016,
+                "percentage": 3.1,
+                "confidence_interval": [
+                  2.6,
+                  3.6
+                ]
+              },
+              {
+                "year": 2017,
+                "percentage": 3.0,
+                "confidence_interval": [
+                  2.5,
+                  3.5
+                ]
+              },
+              {
+                "year": 2018,
+                "percentage": 3.0,
+                "confidence_interval": [
+                  2.5,
+                  3.5
+                ]
+              },
+              {
+                "year": 2019,
+                "percentage": 3.2,
+                "confidence_interval": [
+                  2.7,
+                  3.7
+                ]
+              },
+              {
+                "year": 2020,
+                "percentage": 3.3,
+                "confidence_interval": [
+                  2.8,
+                  3.8
+                ]
+              },
+              {
+                "year": 2021,
+                "percentage": 3.6,
+                "confidence_interval": [
+                  3.1,
+                  4.1
+                ]
+              }
+            ],
+            "note": "The vertical lines indicate the 95 percent confidence interval. In 95 percent of cases, the unknown actual value will lie within this range."
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1162,
+            "y1": 1841,
+            "x2": 2190,
+            "y2": 2306
+          },
+          "text": "ties, but also their cultural identity and sense of belonging.”\nThe amount and frequency of remittances can be influenced\nby how close of a relationship a person has to the relatives\nthey left behind and how long they have lived in their host\ncountry. Nevertheless, refugees often find themselves in a\ndilemma: Although they have strong familial ties, financial\nlimitations in their host country can limit the amount and\nregularity of remittances.",
+          "summarized_text": "The frequency and amount of remittances sent by refugees can be influenced by their relationship with family members back home and their length of stay in the host country. Despite strong familial ties, financial constraints in the host country may limit the ability to send money regularly."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1161,
+            "y1": 2322,
+            "x2": 2079,
+            "y2": 2427
+          },
+          "text": "Migrants send remittances abroad more often\nthan refugees"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1161,
+            "y1": 2454,
+            "x2": 2144,
+            "y2": 3210
+          },
+          "text": "To understand the theoretical motives for remitting in practice,\nwe first describe the development of the share of people who\nsend personal transfers abroad using SOEP data from 2013\nto 2022. Next, statistical models shed light on the characteris-\ntics that are associated with a higher likelihood of remitting.\n\nAlthough remittances abroad are mainly associated with\nmigrants, non-migrants (Germans without a migration\nbackground) also send personal transfers to other coun-\ntries. In recent years, between three and four percent of all\npeople living in Germany sent remittances abroad (Figure 2),\nas well as around 1.5 percent of non-migrants. However,\nSOEP data only provide limited information on the amounts\nnon-migrants send abroad or for what specific reasons they\nare remitting. It is unclear whether they send remittances",
+          "summarized_text": "Non-migrants in Germany have also been sending personal transfers abroad, with about 1.5 percent reported to be engaging in remittances. However, limited information is available on the amounts sent or the specific reasons for non-migrants remitting."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1086,
+            "y1": 201,
+            "x2": 1440,
+            "y2": 299
+          },
+          "text": "REMITTANCES"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 63,
+            "y1": 375,
+            "x2": 1279,
+            "y2": 1272
+          },
+          "data": {
+            "title": "Share of migrants without a refugee background in Germany who send remittances abroad",
+            "subtitle": "In percent of all migrants without a refugee background",
+            "data": [
+              {
+                "year": 2012,
+                "percentage": 9.0
+              },
+              {
+                "year": 2013,
+                "percentage": 9.7
+              },
+              {
+                "year": 2014,
+                "percentage": 9.5
+              },
+              {
+                "year": 2015,
+                "percentage": 9.1
+              },
+              {
+                "year": 2016,
+                "percentage": 8.7
+              },
+              {
+                "year": 2017,
+                "percentage": 10.3
+              },
+              {
+                "year": 2018,
+                "percentage": 12.3
+              },
+              {
+                "year": 2019,
+                "percentage": 11.0
+              },
+              {
+                "year": 2020,
+                "percentage": 10.7
+              },
+              {
+                "year": 2021,
+                "percentage": 11.8
+              }
+            ]
+          }
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 79,
+            "y1": 1751,
+            "x2": 1281,
+            "y2": 2458
+          },
+          "data": {
+            "title": "Share of refugees in Germany who send remittances abroad",
+            "subtitle": "In percent of all refugees",
+            "data": [
+              {
+                "year": 2012,
+                "percent": 15
+              },
+              {
+                "year": 2013,
+                "percent": 16
+              },
+              {
+                "year": 2014,
+                "percent": 15
+              },
+              {
+                "year": 2015,
+                "percent": 11
+              },
+              {
+                "year": 2016,
+                "percent": 10
+              },
+              {
+                "year": 2017,
+                "percent": 10
+              },
+              {
+                "year": 2018,
+                "percent": 10
+              },
+              {
+                "year": 2019,
+                "percent": 10
+              },
+              {
+                "year": 2020,
+                "percent": 10
+              },
+              {
+                "year": 2021,
+                "percent": 9
+              }
+            ]
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 316,
+            "y1": 2938,
+            "x2": 1318,
+            "y2": 3377
+          },
+          "text": "sporadically, such as to support relatives in specific situations,\nas opposed to regularly like many migrants. Remittances can\nbe sent, for example, to support children studying abroad.\n\nFor migrants without a refugee background, there is a clear\nupward trend: Since 2016, the share of this group sending\nremittances abroad has grown continually, increasing from\neight percent to nearly 12 percent in 2021 (Figure 3). This",
+          "summarized_text": "Remittances are increasingly being sent by migrants without a refugee background, with the percentage of this group sending money abroad rising from 8% in 2016 to almost 12% in 2021. This support is often provided sporadically to help relatives in specific situations, such as assisting children studying abroad."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1346,
+            "y1": 399,
+            "x2": 2322,
+            "y2": 1878
+          },
+          "text": "rise could indicate increasing economic and professional\nstabilization, enabling more migrants to financially support\ntheir families in their home countries to a greater extent or\nto invest in real estate or companies. These results correlate\nwith the strategic and investment motives described in the\nliterature, which are often accompanied by altruistic motives.\n\nThe decline of remittances sent by migrants without a\nrefugee background between 2013 and 2016 coincides with\nthe increase in asylum seekers in Europe in 2015 and 2016,\nwhen around 1.3 million refugees, mainly from Syria, came\nto Germany.\"* The German population’s increased altruistic\ncommitment to refugees during this period could explain\nwhy fewer migrants sent remittances abroad.”\n\nThe share of refugees who send remittances abroad is lower\nthan the share of migrants without a refugee background who\nremit abroad. From 2013 to 2016, there was a steady decrease\nfrom 15 to seven percent (Figure 4). The share of refugees\nsending remittances abroad declined in 2015 and 2016 in par-\nticular, similar as to other migrants. Between 2017 and 2020\nthe share stabilized at around ten percent before falling down\nto seven percent in 2021. Presumably, this upward trend can\nbe explained by economic and job-related difficulties, which\nmany people faced during the coronavirus pandemic.” The\ntrend suggests that while refugees want to maintain strong\nsocial bonds and cultural ties to their home countries and\nsupport their families, their economic situation limits their\nability to remit regularly.",
+          "summarized_text": "The decline in remittances sent by migrants without a refugee background between 2013 and 2016 coincided with an increase in asylum seekers in Europe, particularly refugees from Syria. The share of refugees sending remittances abroad is lower than migrants without a refugee background, likely due to economic challenges faced during the coronavirus pandemic."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1326,
+            "y1": 1918,
+            "x2": 2199,
+            "y2": 2043
+          },
+          "text": "Men, small households, and divorcees send\nremittances abroad more frequently"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1330,
+            "y1": 2053,
+            "x2": 2333,
+            "y2": 2844
+          },
+          "text": "To understand why people send remittances abroad, the\nfollowing section utilizes two statistical models to investi-\ngate the personal and familial factors that can influence the\nlikelihood of remitting. In the first model, variables such\nas gender, level of education, household size, number of\nchildren, marital status, and life satisfaction are considered\n(Figure 5). The models differentiate between non-migrants\n(Germans without a migration background) and migrants\n(migrants without a refugee background and refugees). The\nresults show that migrants are 2.1 percentage points more\nlikely to send remittances abroad than non-migrants, while\nrefugees are 2.7 percentage points less likely to send remit-\ntances than non-migrants. This is in line with studies that\nshow that refugees are often subject to greater economic\nrestrictions, which limits their ability to send remittances.”!",
+          "summarized_text": "The study used statistical models to analyze factors influencing remittance sending behavior. Results showed that migrants are more likely to send remittances, while refugees are less likely due to economic constraints."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 136,
+            "y1": 393,
+            "x2": 1121,
+            "y2": 2162
+          },
+          "text": "Gender also plays a role: Women are 3.4 percentage points\nless likely to send remittances abroad than men, which could\nbe due to differing access to household resources. Studies\non gender-specific remittance practices suggest that women\nmigrants often face major economic barriers and have spe-\ncific familial obligations that limit their ability to earn an\nincome and thus to remit.”” Income differences in particular\nexplain why women, even if they want to support their fami-\nlies abroad, send less frequently as well as smaller amounts\nthan men.”\n\nLevel of education only shows a small influence on remit-\ntance behavior, which is consistent with the mixed evidence\nin the research. Some studies suggest that better educated\nmigrants remit less frequently, as they had already been liv-\ning in more stable economic situations due to their qualifica-\ntions in their home countries before they left, and they expe-\nrience less pressure to support their family. Their families\nare possibly more financially secure and less dependent on\nregular remittances. Other studies suggest that less educated\nmigrants remit more frequently, especially if their families\nare experiencing economic difficulties or they migrated to\nGermany primarily to financially provide for their family.”\n\nHousehold size also influences remittance behavior: With\nevery additional household member, the likelihood ofa remit-\ntance declines by 0.4 percentage points, which indicates more\nfinancial obligations within a larger household. Marital status\nis also an influential factor: Widows and widowers, divorcees,\nand people who are separated are more likely to send remit-\ntances than married people. This is likely due to a strong feel-\ning of responsibility for relatives living abroad or being geo-\ngraphically separated from family members. These results\nare consistent with the research that emphasizes the sig-\nnificance of the family structure for remittance behavior.”",
+          "summarized_text": "Gender, education level, household size, and marital status all play a role in remittance behavior. Women send fewer and smaller remittances than men due to economic barriers. Education level and household size also impact remittance frequency, with less educated migrants and those in larger households sending more frequently. Marital status, specifically being widowed or divorced, is associated with more frequent remittances, possibly due to feelings of responsibility towards family members."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 151,
+            "y1": 2202,
+            "x2": 899,
+            "y2": 2354
+          },
+          "text": "Intention to return to home country\ninfluences remittances"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 135,
+            "y1": 2374,
+            "x2": 1146,
+            "y2": 2792
+          },
+          "text": "The second mode! differentiates between migrants without a\nrefugee background and refugees. Additional factors, such as\nthe intention to stay in Germany permanently and a strong\nbond to the home country, are investigated (Figure 6). It can\nbe seen that migrants who plan to live in Germany perma-\nnently send remittances abroad less often. This indicates\nthat a long-term intention to stay in Germany is associated\nwith a greater prioritization of investments in Germany.” In",
+          "summarized_text": "The second mode distinguishes between migrants without a refugee background and refugees, considering factors like intention to permanently stay in Germany and ties to the home country. Migrants planning to stay in Germany long-term tend to send remittances abroad less frequently, suggesting a greater focus on investing in Germany."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1176,
+            "y1": 2392,
+            "x2": 2157,
+            "y2": 3021
+          },
+          "text": "contrast, a strong connection to one’s home country increases\nthe likelihood of sending remittances abroad, which empha-\nsizes the significance of familial obligations and emotional\nties.\n\nIn summary, the results of both models illustrate the central\nrole of the migration and refugee experiences as well as per-\nsonal factors, such as an intention to return and emotional\nties, in remittance behavior. These findings contribute to a\nbetter understanding of the complex motives and different\nliving conditions of migrants in Germany.",
+          "summarized_text": "A strong connection to one's home country increases the likelihood of sending remittances abroad, highlighting the importance of familial obligations and emotional ties. Migration and refugee experiences, as well as personal factors like intention to return and emotional ties, play a central role in remittance behavior among migrants in Germany."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 315,
+            "y1": 2596,
+            "x2": 1290,
+            "y2": 2723
+          },
+          "text": "Conclusion: Reevaluation and better recording of\ndata needed"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 320,
+            "y1": 2743,
+            "x2": 1338,
+            "y2": 3107
+          },
+          "text": "The data show that refugees do not only send remittances\nabroad more rarely than migrants without a refugee back-\nground, but that they also are less likely to remit than people\nwithout a migration background. On the one hand, this find-\ning exposes the contradictory nature of the political debate,\nwhich focuses on remittances sent by refugees and resulted",
+          "summarized_text": "Refugees are less likely to send remittances abroad compared to both migrants without a refugee background and individuals without a migration background. This challenges the political focus on refugee remittances and highlights a contradiction in the current debate."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1345,
+            "y1": 391,
+            "x2": 2341,
+            "y2": 2477
+          },
+          "text": "in the introduction of the payment card system in various fed-\neral states, among other things, without empirical evidence\nof its benefits. Secondly, this finding emphasizes the need\nfor a more in-depth analysis to shed light on the connections\nbetween remittances and the specific, diverse living condi-\ntions of migrants (such as their different employment situ-\nations). For such an analysis, data collection on remittances\nmust also be improved, as central banks in particular often\nfail to adequately record informal financial flows. Advanced\ntechniques, such integrating different data sources and mul-\ntiple imputation, could provide more accurate figures and\nthus create a reliable basis for economic policy decisions.\n\nFurthermore, it is crucial to recognize the value of remit-\ntances as an informal but important form of economic sup-\nport.”® Remittances abroad, which are often sent for personal\nreasons, contribute significantly to the economic stability\nof families in low and middle-income countries according\nto studies. Remittances are often more effective than finan-\ncial resources from development cooperation, as they reach\nthose in need directly without losing money due to bureau-\ncracy or corruption. In this way, remittances make an impor-\ntant contribution to reducing poverty and economic resil-\nience.* Migrants’ remittances abroad can be considered a\ndriving force in promoting the United Nations Sustainable\nDevelopment Goals (SDGs), as they improve the living con-\nditions of families and communities. Remittances make it\npossible for migrants to support their families back home,\nan action in line with the SDG framework,* which empha-\nsizes the right of every person to freely spend their income,\nregardless of where their relatives live.\n\nReevaluating the role of remittances could help better focus\npolicy measures on supporting remittances and their func-\ntion as a direct development instrument.” Targeted support\nof the economic integration of refugees would be a deci-\nsive step in strengthening their financial independence and\nimproving their ability to support their families abroad. This\nwould strengthen their economic resilience as well as the\npositive effect of the remittances to their home countries.",
+          "summarized_text": "The introduction of payment card systems in federal states lacks empirical evidence of benefits. Improved data collection on remittances, recognizing their importance in economic stability, can aid in poverty reduction and support the Sustainable Development Goals. Strengthening policy measures to support remittances and economic integration of migrants can enhance their financial independence and ability to support their families."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "blocks": []
+    }
+  ]
+}

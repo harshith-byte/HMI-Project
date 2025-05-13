@@ -1,0 +1,768 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1082,
+            "y1": 380,
+            "x2": 1397,
+            "y2": 443
+          },
+          "text": "AT A GLANCE"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 162,
+            "y1": 534,
+            "x2": 2222,
+            "y2": 781
+          },
+          "text": "Carbon pricing: Swift introduction of a climate\ndividend needed, reduce at higher incomes"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 142,
+            "y1": 888,
+            "x2": 2362,
+            "y2": 1569
+          },
+          "text": "Transition from German National Emissions Trading System to European Emissions Trading\nSystem from 2027 may increase carbon price considerably for motor and heating fuels\n\nA climate dividend automatically paid to all residents in Germany can significantly mitigate carbon\npricing burdens\n\nA climate dividend relieves low-income households that are not sufficiently met by other measures\n\nLow-income households with high energy consumption require additional aid and subsidy\nprograms\n\nTo this end, the climate dividend should be reduced for higher-income earners as part of wage\nand income taxes",
+          "summarized_text": "Transition to EU emissions trading system in 2027 may raise carbon prices; a climate dividend paid to all Germans can help lessen the burden, especially for low-income households with high energy consumption. Consider reducing the dividend for higher-income earners through income taxes to provide additional aid where needed."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 161,
+            "y1": 1777,
+            "x2": 2325,
+            "y2": 2773
+          },
+          "data": {
+            "title": "Reduce the climate dividend as a part of wage and income taxes to benefit low-income households with high energy consumption",
+            "system_integration": {
+              "description": "National emissions trading system is being integrated into the EU system",
+              "effect": "Carbon prices rise."
+            },
+            "scenarios": [
+              {
+                "scenario_number": 1,
+                "description": "A climate dividend is financed from revenue. It relieves all households.",
+                "climate_dividend": "approx. 124 euros per person/year"
+              },
+              {
+                "scenario_number": 2,
+                "description": "Climate dividend is reduced for richer households.",
+                "net_household_income": "30,000 euros (needs weighted)",
+                "benefit": "This makes additional aid for low-income households with high energy consumption possible."
+              }
+            ],
+            "household_data": [
+              {
+                "type": "all households",
+                "share_burdened": "51.2%",
+                "description": "Share of households that are burdened by over 0.5 percent of their net income"
+              },
+              {
+                "type": "households despite the climate dividend",
+                "share_burdened": "16.5%",
+                "description": "Share of households that are burdened by over 0.5 percent of their income despite the climate dividend"
+              }
+            ],
+            "sources": [
+              "SOEP v37",
+              "Federal Ministry of Finance",
+              "authors' calculations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 134,
+            "y1": 571,
+            "x2": 2286,
+            "y2": 1052
+          },
+          "text": "Carbon pricing: Swift introduction of a\nclimate dividend needed, reduce at higher\nincomes"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1339,
+            "y1": 1205,
+            "x2": 2316,
+            "y2": 2467
+          },
+          "text": "Carbon pricing is a key instrument to achieving climate\ntargets in Germany and Europe. Since 2005, the European\nEmissions Trading System (EU-ETS1) has captured the\ncarbon emissions of the energy industry, industrial pro-\ncesses, other large combustion plants, and aviation. In 2021,\nGermany introduced its national emissions trading system\n(national ETS) for fossil and heating fuels in the heating and\ntransportation sectors. Currently, the carbon price is 45 euros\nper ton; by 2026, it will increase up to 65 euros per ton.'\n\nThe European Emissions Trading System for fuels (EU-ETS2)\nwill be introduced in 2027 and integrate the existing national\nETS. Due to the strict European emission caps and, in some\ncases, little progress in decarbonization in Europe, it is\nexpected that the carbon price for motor and heating fuels will\nrise significantly. According to studies, prices of 200 euros\nper ton are possible.” The effects on the end consumer prices\nexpected for 2026 may therefore increase many times over.’\n\nOn average, low-income households spend a higher share\nof their net income on energy and transportation costs than\nabove-average and high-income earners (Figure 1). Therefore,\ndue to the rising carbon price, they have a greater burden\nrelative to income than higher-income households. Carbon\npricing, without other relief for household budgets, thus",
+          "summarized_text": "Carbon pricing is a key instrument in achieving climate targets in Germany and Europe. However, it may disproportionately burden low-income households due to their higher share of income spent on energy and transportation costs."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 118,
+            "y1": 1228,
+            "x2": 453,
+            "y2": 1309
+          },
+          "text": "ABSTRACT"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 151,
+            "y1": 1332,
+            "x2": 1263,
+            "y2": 2686
+          },
+          "text": "With the transition from the German national emissions trad-\ning system to the European Emissions Trading System (EU\nETS2) from 2027, final consumer prices for fossil motor and\nheating fuels are likely to rise significantly. This increase will\naffect low-income households more noticeably, as they spend\na larger share of their income on energy than high-income\nhouseholds. Existing relief measures, such as the basic income\nscheme, the housing benefit, and subsidy programs, only\npartially reach these groups. A climate dividend that is auto-\nmatically paid out to all residents largely mitigates excessive\neffects of the carbon pricing burden. However, additional aid\nand subsidy programs are required due to the remaining bur-\ndens on vulnerable low-income households with high energy\nconsumption. These programs could be financed if above-\naverage and high-income earners did not receive the climate\ndividend. Carbon pricing does not affect these groups as much\nand they generally have more opportunities to reduce their\nfossil energy consumption. Thus, the climate dividend should\nbe paid to all households, but reduced unbureaucratically as\n\na part of wage and income taxes for above-average and high-\n\nincome earners.",
+          "summarized_text": "Transition to EU ETS in 2027 will raise fossil fuel prices, impacting low-income households more. Climate dividend can help mitigate the effect, but additional aid is needed for vulnerable households. Potential funding can be redirected by excluding high-income earners from receiving the climate dividend."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 118,
+            "y1": 474,
+            "x2": 2006,
+            "y2": 562
+          },
+          "text": "Reducing the climate dividend for median income households as a part of wage and income taxes'"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 115,
+            "y1": 604,
+            "x2": 1175,
+            "y2": 2147
+          },
+          "text": "As an income concept for reducing the climate dividend, we\nsuggest the net income per person in the household, as long as it\nhas been included in the wage and income tax base. This makes\nit possible to use a standardized reduction function that does not\nhave to be differentiated by household or family type.\n\nNet income per person can be sufficiently accurately derived from\nincome tax return or wage tax information (Figure).\n\nWe suggest the following reduction function:\nBased on median needs-weighted net household income (me-\ndian income): With the commonly used needs-scale (new OECD\nscale), this is estimated to be 30,000 euros per year per person\nin 2024, so 2,500 euros/month (SOEP 2020, extrapolated to\n2024).\nThe climate dividend is reduced linearly over a surrounding\nincome interval of 10,000 euros relative to annual income, i.e.,\nfrom 25,000 euros to 35,000 euros per year.’\n\nThis way, the climate dividend will be significantly reduced for the\nmedian income groups: The bottom 30 percent of the population\nwill receive nearly the entire dividend, while it will be almost com-\npletely reduced for the top 30 percent (Figure 3).\n\nThe additional bureaucratic effort required to reduce the dividend\nis minimal. Taxpayers do not need to provide any additional infor-\nmation as only existing information from the taxation procedure is\nrequired. Implementation requires moderate one-off expenses esti-\nmated at 250 million euros for the tax authorities and employers in\nthe context of wage tax procedures.’",
+          "summarized_text": "The proposed income concept for reducing the climate dividend suggests using net income per person from income tax returns, with a reduction function based on median household income. This approach aims to significantly reduce the dividend for the top 30% of income earners while providing most of it to the bottom 30%, requiring minimal bureaucratic effort for implementation."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1186,
+            "y1": 2110,
+            "x2": 2136,
+            "y2": 2565
+          },
+          "text": "To avoid legal objections to taxing or reducing the climate divi-\ndJend as a part of income taxation as well as effects on the federal\niscal equalization, the tax authorities could carry out the proposed\norocedures on behalf of the federal government. The additional\n‘evenue would then flow in full to the federal government, if nec-\nassary minus a reimbursement of administrative costs to the im-\nolementing tax authorities. This is unlike the case with income tax,\nwhere half of the additional revenue is paid to the federal states\nand municipalities.",
+          "summarized_text": "Tax authorities can implement procedures for taxing or reducing the climate dividend on behalf of the federal government to avoid legal objections and maintain fiscal equalization. The additional revenue generated would flow directly to the federal government, with the possibility of reimbursing tax authorities for administrative costs."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 140,
+            "y1": 2708,
+            "x2": 1144,
+            "y2": 3201
+          },
+          "text": "has a regressive effect—it makes the income distribution\nmore unequal.\n\nTo offset the carbon burden and alleviate the associated social\nhardships, it makes sense to compensate households for the\nrising carbon costs in a general and unbureaucratic man-\nner. To this end, the German Federal Government agreed\nto “develop a social compensation mechanism beyond the\nabolition of the EEG levy (climate money)” in its coalition\naoreement‘ Currently. the leoal. administrative. and tech-",
+          "summarized_text": "The regressive effect of carbon taxes makes income distribution more unequal. To combat this, the German government is developing a social compensation mechanism to offset the rising carbon costs for households."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1172,
+            "y1": 2696,
+            "x2": 2173,
+            "y2": 3071
+          },
+          "text": "nical requirements for paying a climate dividend automati-\ncally to all residents in Germany are being developed.° Such\na climate dividend would reduce the carbon pricing burden\non the population as a whole, even overcompensating for\nit for many low-income earners. At the same time, it either\ndoes not or only marginally reduces incentives to save energy\nthrough the “income effect.”",
+          "summarized_text": "Development of technical requirements for automated climate dividend payments in Germany aim to reduce carbon pricing burden on residents, potentially overcompensating low-income earners while maintaining or slightly reducing incentives for energy savings."
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "graph",
+          "box": {
+            "x1": 298,
+            "y1": 626,
+            "x2": 2402,
+            "y2": 2025
+          },
+          "data": {
+            "Carbon pricing revenue": {
+              "from unleaded gasoline": {
+                "Households": 3.3,
+                "Firms": 0.1,
+                "Government (energy consumption)": 0.0,
+                "Total": 3.5,
+                "Government financial balance": 3.4
+              },
+              "from diesel": {
+                "Households": 2.3,
+                "Firms": 4.1,
+                "Government (energy consumption)": 0.1,
+                "Total": 6.5,
+                "Government financial balance": 6.4
+              },
+              "from heating oil": {
+                "Households": 1.7,
+                "Firms": 0.5,
+                "Government (energy consumption)": 0.3,
+                "Total": 2.5,
+                "Government financial balance": 2.2
+              },
+              "from natural and liquefied gas": {
+                "Households": 3.1,
+                "Firms": 2.3,
+                "Government (energy consumption)": 0.5,
+                "Total": 5.9,
+                "Government financial balance": 5.4
+              },
+              "Total": {
+                "Households": 10.4,
+                "Firms": 7.0,
+                "Government (energy consumption)": 0.9,
+                "Total": 18.3,
+                "Government financial balance": 17.5
+              }
+            },
+            "Additional VAT revenue": {
+              "Households": 1.8,
+              "Firms": 0.2,
+              "Government (energy consumption)": 0.0,
+              "Total": 1.9,
+              "Government financial balance": 1.8
+            },
+            "Corporate income tax reduction": {
+              "Households": 0.0,
+              "Firms": -1.6,
+              "Government (energy consumption)": 0.0,
+              "Total": -1.6,
+              "Government financial balance": -1.6
+            },
+            "Total government revenue": {
+              "Households": 12.2,
+              "Firms": 5.5,
+              "Government (energy consumption)": 1.0,
+              "Total": 18.7,
+              "Government financial balance": 17.7
+            },
+            "Additional expenditure on basic income scheme and housing benefit": {
+              "Households": -1.0,
+              "Firms": 0.0,
+              "Government (energy consumption)": 0.0,
+              "Total": -1.0,
+              "Government financial balance": -1.0
+            },
+            "Remaining government revenue": {
+              "Households": 11.2,
+              "Firms": 5.5,
+              "Government (energy consumption)": 1.0,
+              "Total": 17.7,
+              "Government financial balance": 16.7
+            },
+            "Scenario 1: Flat-rate climate dividend for the entire population": {
+              "Government expenditure on climate dividend": -9.5,
+              "Remaining government revenue": 1.8,
+              "Total Remaining Government Revenue": {
+                "Households": 8.3,
+                "Firms": 5.5,
+                "Government (energy consumption)": 1.0,
+                "Total": 15.0,
+                "Government financial balance": 13.7
+              }
+            },
+            "Scenario 2: Reduction of the flat-rate climate dividend": {
+              "Government expenditure on climate dividend": -9.5,
+              "Additional income tax revenue": 5.2,
+              "Remaining government revenue": 7.0,
+              "Total Remaining Government Revenue": {
+                "Households": 13.5,
+                "Firms": 5.5,
+                "Government (energy consumption)": 1.0,
+                "Total": 20.0,
+                "Government financial balance": 19.7
+              }
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 288,
+            "y1": 2081,
+            "x2": 1325,
+            "y2": 2440
+          },
+          "text": "This Weekly Report is based on a study by DIW Berlin and\nthe Forum Okologisch-Soziale Marktwirtschaft e.V. (FOS) on\nthe possibilities and impact of a flat-rate per capita climate\ndividend.® Concepts have been developed for reducing the\ndividend in which it is charged as a part of wage and income\ntaxes for high-income households.",
+          "summarized_text": "A study by DIW Berlin and FOS explores the potential of a per capita climate dividend. Strategies are proposed for reducing the dividend for high-income households by incorporating it into wage and income taxes."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 297,
+            "y1": 2476,
+            "x2": 1213,
+            "y2": 2610
+          },
+          "text": "Limit the dividend to low and middle-income\nearners"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 312,
+            "y1": 2631,
+            "x2": 1327,
+            "y2": 3019
+          },
+          "text": "4A Tlat-rate per Capita Climate dividend for all residents\nwould also relieve above-average and high-income earners.\nHowever, carbon pricing burdens these groups relative to\ntheir income considerably less and they generally have more\nopportunities for reducing their fossil energy consumption—\nopportunities that are generously supported by subsidy pro-\ngrams, which mostly have a strong regressive effect.",
+          "summarized_text": "Implementing a flat-rate per capita climate dividend for all residents would help to alleviate the burden on above-average and high-income earners, who are currently facing higher costs due to carbon pricing. These groups typically have more opportunities to reduce fossil energy consumption and access subsidy programs, which often have a regressive effect."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1342,
+            "y1": 2102,
+            "x2": 2310,
+            "y2": 2628
+          },
+          "text": "Therefore, it seems reasonable to concentrate the climate\ndividend on low and middle-income households and indi-\nviduals. The funds saved by doing so can be used in a more\ntargeted manner to relieve groups with above-average bur-\ndens or those experiencing particular hardship. Furthermore,\naccording to European legal requirements, revenue from the\nEU-ETS2 may only be used for programs aimed at decreas-\ning fossil energy consumption or leveling social disparities\nbetween low and middle-income households and higher-in-\ncome households beginning in 2027.",
+          "summarized_text": "The climate dividend should focus on low and middle-income households to efficiently relieve those facing hardship. Funds saved can then be used to address inequalities and decrease fossil energy consumption in line with EU legal requirements by 2027."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1346,
+            "y1": 2658,
+            "x2": 2321,
+            "y2": 3121
+          },
+          "text": "Adjusting the climate dividend to recipients’ income\ndirectly at the time of transfer would be too costly, as it\nwould require an income assessment for all 84 million res-\nidents in Germany. Thus, we propose that the climate divi-\ndend be taxed retrospectively as part of wage and income tax\nprocedures (Box), similar to the 2022 energy price flat rate\n(Energiepreispauschale). Instead of taxing the climate dividend\nat the existing income tax rate, we suggest a special tax rate\nfunction.’ For average net incomes, the climate dividend is",
+          "summarized_text": "The climate dividend in Germany would be taxed retrospectively through wage and income tax procedures to avoid costly individual assessments. A special tax rate function would be applied instead of the existing income tax rate for average net incomes."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 143,
+            "y1": 400,
+            "x2": 1155,
+            "y2": 723
+          },
+          "text": "reduced linearly over an income interval of 10,000 euros per\nyear. This ensures that low-income households receive the\nfull climate dividend, while it is reduced for high-income\nhouseholds. This indirect adjustment based on income can\nbe integrated easily into existing taxation procedures with-\nout excessive bureaucracy.",
+          "summarized_text": "The climate dividend is reduced linearly over a 10,000 euro income interval, benefiting low-income households the most. This adjustment based on income can be seamlessly integrated into existing taxation procedures."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 140,
+            "y1": 774,
+            "x2": 1112,
+            "y2": 880
+          },
+          "text": "Carbon pricing burdens poorer households more\nrelative to household income"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 133,
+            "y1": 905,
+            "x2": 1120,
+            "y2": 2242
+          },
+          "text": "The revenue effects of carbon pricing as well as the reliet\nfor households are estimated based on current forecasts on\nenergy consumption and overall economic development in\n2024. We use a microsimulation model that is based on\nSocio-Economic Panel (SOEP) household data from 2020 to\nanalyze the distributional effects. The data is coordinated with\nthe macroeconomic information systems and extrapolated to\nthe year 2024.° The simulations assume that the carbon price\nis fully shifted to the final consumption prices of fuels and\nheating fuels. The effects of the European Emissions Trading\nSystem (EU-ETS1) are not observed. Economic effects of the\nreform scenarios investigated, especially energy consump-\ntion savings, are not considered in the simulation calcula-\ntions. The carbon cost allocation for heating rented build-\nings, which divides the heating costs between landlords and\ntenants according to a graduated model, is also not taken\ninto account.”\n\nThe following is based on a carbon price of 65 euros per\nton, which is the upper price limit in 2026 under the exist-\ning regulations. Based on the estimated energy consump-\ntion for 2024, revenue from the German national ETS will\ntotal 18.3 billion euros (Table), not including an additional\n1.9 billion euros in VAT revenue.\" Corporate tax revenue\nfell by 1.6 billion euros, as the scenarios considered here do\nnot provide any relief for firms; thus, higher energy prices",
+          "summarized_text": "The estimated revenue from the German national ETS in 2024, with a carbon price of 65 euros per ton, is projected to be 18.3 billion euros, excluding VAT revenue. Corporate tax revenue is expected to decrease by 1.6 billion euros due to the lack of relief for firms from higher energy prices."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1170,
+            "y1": 2718,
+            "x2": 2164,
+            "y2": 3078
+          },
+          "text": "reduce corporate profits.” Overall, this results in additional\nrevenue of 18.7 billion euros for the government. Taking VAT\ninto account, households will be burdened in the amount\nof 12.2 billion euros. The public sector pays itself 1.0 billion\neuros for its own energy consumption. Government financial\nbalance will increase by 177 billion euros, which is 0.42 per-\ncent of gross domestic product (GDP) in 2024.",
+          "summarized_text": "The government's plan to reduce corporate profits results in an additional revenue of 18.7 billion euros. However, households will be burdened with 12.2 billion euros, while the government's financial balance will increase by 177 billion euros by 2024."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1047,
+            "y1": 202,
+            "x2": 1442,
+            "y2": 322
+          },
+          "text": "CLIMATE DIVIDEND"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1335,
+            "y1": 397,
+            "x2": 2340,
+            "y2": 1610
+          },
+          "text": "The burden and relief effects of carbon pricing as well as the\nhigher social transfers and climate dividend are expressed as\na percentage of 2024 net household income, broken down\nby deciles of equivalence-weighted household net income\n(Figure 1). Therefore, the relative income effects are shown\nwhich are decisive for the effects on income distribution.\n\nThe simulations reveal the familiar picture of a regressive\ncarbon pricing impact on motor and heating fuels. There is\na considerably greater burden on low-income households\nrelative to their income than on high-income households.\nFor heating fuels (heating oil, natural gas, and liquefied gas),\nthe regressive effect of carbon pricing is significant, while\nit is much smaller for premium grade gas and nearly pro-\nportional for diesel.\n\nThese distributional effects will become accordingly stronger\nifthe carbon price reaches levels of 100+ euros per ton from\n2027 in the EU-ETS2. The actual distributional effects may\nbe even more severe, as poorer households frequently have\nfewer opportunities to react to high energy prices. In con-\ntrast, rich households are increasingly performing energy-ef-\nficient refurbishment on their homes, installing new heat-\ning systems, or purchasing electric vehicles.",
+          "summarized_text": "Carbon pricing has a regressive impact on low-income households, with a greater burden on heating fuels. As the cost of carbon increases, poorer households may struggle to adapt to high energy prices compared to wealthier households who are more likely to invest in energy-efficient measures."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1328,
+            "y1": 1658,
+            "x2": 2322,
+            "y2": 1788
+          },
+          "text": "Flat-rate per capita climate dividend relieves low-\nincome earners"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1333,
+            "y1": 1796,
+            "x2": 2326,
+            "y2": 2974
+          },
+          "text": "The simulations first account for the coverage of higher heat-\ning costs due to carbon pricing as a part of the basic income\nscheme as well as the carbon and climate components of the\n2021 and 2023 housing benefit reforms as relief for house-\nholds.“ To do so, we use a micro simulation model to esti-\nmate a relief volume of 1.0 billion euros in 2024. The remain-\ning government revenue from carbon pricing that is availa-\nble for compensation declines accordingly.\n\nAs additional relief, we simulate a flat-rate per capita climate\ndividend that is paid to all residents in Germany. We assume\nthat the amount of the climate dividend is calculated based\non carbon pricing revenue from households, excluding VAT\nrevenue, which is estimated to be 10.4 billion euros (Table).\nWith 84 million residents, this results in a climate dividend\nof 124.09 euros per person per year.\n\nTo avoid double subsidies, coverage of high heating costs via\nthe basic income scheme and the increase in the housing\nbenefit are offset against the climate dividend. This results in\nnet costs of 9.5 billion euros for the dividend, which reduces\nthe general government financial balance to 7.2 billion euros.\nOf this, households are burdened in the amount of nearly",
+          "summarized_text": "The simulations account for coverage of higher heating costs and climate components in housing benefit reforms as relief for households. A flat-rate per capita climate dividend of 124.09 euros per person per year is also simulated to offset double subsidies, resulting in net costs of 9.5 billion euros."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "Sector",
+                "Households",
+                "Firms",
+                "Government (energy\nconsumption)",
+                "Total",
+                "Government\nfinancial balance1"
+              ],
+              [
+                "Carbon pricing revenue, other tax revenue, and social expenditure",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "Carbon pricing revenue2",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "from unleaded gasoline",
+                "3.3",
+                "0.1",
+                "0.0",
+                "3.5",
+                "3.4"
+              ],
+              [
+                "from diesel",
+                "2.3",
+                "4.1",
+                "0.1",
+                "6.5",
+                "6.4"
+              ],
+              [
+                "from heating oil",
+                "1.7",
+                "0.5",
+                "0.3",
+                "2.5",
+                "2.2"
+              ],
+              [
+                "from natural and liquefied gas",
+                "3.1",
+                "2.3",
+                "0.5",
+                "5.9",
+                "5.4"
+              ],
+              [
+                "Total",
+                "10.4",
+                "7.0",
+                "0.9",
+                "18.3",
+                "17.5"
+              ],
+              [
+                "Additional VAT revenue",
+                "1.8",
+                "",
+                "0.2",
+                "1.9",
+                "1.8"
+              ],
+              [
+                "Corporate income tax reduction",
+                "",
+                "−1.6",
+                "",
+                "−1.6",
+                "−1.6"
+              ],
+              [
+                "Total government revenue",
+                "12.2",
+                "5.5",
+                "1.0",
+                "18.7",
+                "17.7"
+              ],
+              [
+                "Additional expenditure on basic income scheme3 and housing benefit4",
+                "−1.0",
+                "",
+                "",
+                "−1.0",
+                "−1.0"
+              ],
+              [
+                "Remaining government revenue",
+                "11.2",
+                "5.5",
+                "1.0",
+                "17.7",
+                "16.7"
+              ],
+              [
+                "Flat-rate per capita climate dividend of 124.09 euros/year per person",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "Scenario 1: Flat-rate climate dividend for the entire population",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Government expenditure on climate dividend5",
+                "−9.5",
+                "",
+                "",
+                "−9.5",
+                "−9.5"
+              ],
+              [
+                "Remaining government revenue",
+                "1.8",
+                "5.5",
+                "1.0",
+                "8.3",
+                "7.2"
+              ],
+              [
+                "Scenario 2: Reduction of the flat-rate climate dividend",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Government expenditure on climate dividend5",
+                "−9.5",
+                "",
+                "",
+                "−9.5",
+                "−9.5"
+              ],
+              [
+                "Additional income tax revenue",
+                "5.2",
+                "",
+                "",
+                "5.2",
+                "5.2"
+              ],
+              [
+                "Remaining government revenue",
+                "7.0",
+                "5.5",
+                "1.0",
+                "13.5",
+                "12.4"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1068,
+            "y1": 198,
+            "x2": 1437,
+            "y2": 276
+          },
+          "text": "CLIMATE DIVIDEND"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 146,
+            "y1": 391,
+            "x2": 1145,
+            "y2": 2279
+          },
+          "text": "two billion euros (Table). These funds are available for pub-\nlic spending programs or tax cuts that are not considered\nhere further.\n\nA climate dividend of 124.09 euros per person per year as well\nas the coverage of heating costs and increase in the hous-\ning benefit almost completely offset the carbon pricing bur-\nden, including VAT, on average, for households as a whole\n(Figure 1). The climate dividend counteracts and reverses\nthe regressive burden of carbon pricing. Low-income earn-\ners benefit from this considerably on average, as the flat-rate\nclimate dividend is much higher relative to their income\nthan for above-average or high-income earners. In addition,\nmany low-income earners have their heating costs covered by\nthe basic income scheme and the housing benefit has been\nincreased, which is partially offset against the climate div-\nidend here. The increase in the housing benefit will make\nitself more noticeable in the second and third deciles, as the\nhousing benefit mainly favors “top-ups” (low-income indi-\nviduals also receiving the citizen’s benefit) and extends into\nthe lower middle classes.\n\nOn balance, i.e., taking into account the carbon pricing bur-\nden and the relief provided by the climate dividend and social\nbenefits, households in the lowest decile will be relieved by\njust under 0.6 percent of their net income on average. The\nrelief and burdens balance each other out for middle-in-\ncome earners, while the top 30 percent of households have\na marginal burden of nearly 0.2 percent of their net income.\nOverall, the combination of carbon pricing and a flat-rate\ndividend reduce income inequality slightly. The Gini coef-\nficient’ of the needs-weighted net household income, the\nstandard measure of income inequality, declines marginally\nby 0.23 percent (Figure 2). The at-risk-of-poverty rate, i.e., the\nshare of the population whose income is less than 60 per-\ncent of the median needs-weighted net disposable household\nincome, fell slightly from 16.7 to 16.6 percent.",
+          "summarized_text": "The implementation of a climate dividend of 124.09 euros per person per year, along with covering heating costs and increasing housing benefits, helps to offset the burden of carbon pricing on households. Low-income earners benefit significantly from this system, with the relief balancing out for middle-income earners and resulting in a slight reduction in income inequality overall."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 138,
+            "y1": 2299,
+            "x2": 1118,
+            "y2": 2387
+          },
+          "text": "Climate dividend cannot prevent hardship cases"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 123,
+            "y1": 2397,
+            "x2": 1137,
+            "y2": 2800
+          },
+          "text": "The analyses show a significant spread of net burdens around\nthe mean, which is depicted using box-and-whisker plots\n(Figure 2).\"* This spread arises due to the considerable het-\nerogeneity of the households within the income groups in\nterms of energy consumption. In the two bottom income\ndeciles, which are especially relevant to social and distribu-\ntional policy, most households are relieved on balance due to",
+          "summarized_text": "The analysis reveals a wide range of net burdens among households, illustrated through box-and-whisker plots. This variation is attributed to the diversity in energy consumption habits within different income groups. Particularly in the lowest income deciles, many households benefit overall from the policies in place."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1172,
+            "y1": 2697,
+            "x2": 2212,
+            "y2": 3293
+          },
+          "text": "higher social transfers and the climate dividend (Figure 1).\nThere are also numerous “losers” in this group: Sixteen\npercent of households have a burden of over 0.5 percent of\ntheir net income on balance despite the climate dividend,\neight percent of households a burden of over one percent.\nThis suggests there are hardship cases who require further\naid beyond a flat-rate climate dividend—especially low-in-\ncome households with high energy consumption. This group\ntends to have fewer opportunities to improve the energy\nefficiency of their home or vehicles, as they are more fre-\nquently renters or cannot easily finance investments in",
+          "summarized_text": "Some households have a heavy financial burden despite receiving the climate dividend, indicating a need for additional support for low-income households with high energy consumption. These households may struggle to improve energy efficiency due to being renters or lacking financial resources for investments."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 324,
+            "y1": 390,
+            "x2": 1301,
+            "y2": 1497
+          },
+          "text": "environmentally-friendly homes and vehicles.” Furthermore,\nitis generally difficult for them to compensate for the addi-\ntional burdens by saving more, liquidating assets, or going\ninto debt. This emphasizes the need for additional subsidy\nprograms that are tailored specifically to vulnerable house-\nholds.\n\nIf the climate dividend were not paid, over half of house-\nholds would be burdened by more than 0.5 percent of their\nnet income. This would be 45 percent for the bottom two\nincome deciles. Nearly 17 percent of households overall and\n26 percent in the bottom two income deciles lose over one\npercent of their net income. This emphasizes the signifi-\ncance of a climate dividend paid to all residents automati-\ncally, especially if the carbon price increases considerably and\nthe share of the “losers” continues to increase.\"* Although\nthese groups are eligible, they often do not take advantage\nof the housing benefit or heating cost coverage via the basic\nincome scheme due to a lack of information and bureau-\ncratic application procedures.” This applies to subsidy pro-\ngrams for decarbonization in particular.",
+          "summarized_text": "The need for tailored subsidy programs for vulnerable households to compensate for additional burdens of environmentally-friendly initiatives is emphasized. Climate dividends are crucial in preventing financial burdens for over half of households, especially for low-income groups, but lack of awareness and complex application procedures hinder their uptake."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 326,
+            "y1": 1516,
+            "x2": 1281,
+            "y2": 1574
+          },
+          "text": "Reducing climate dividend reduces fiscal cost"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 319,
+            "y1": 1608,
+            "x2": 1299,
+            "y2": 2470
+          },
+          "text": "By reducing the climate dividend, half of the expenditure will\nflow back into the public budget through additional income\ntax revenue. Government financial balance from the reform\nincreases to 12.4 billion euros per year (Table). Additional\nfunds in the amount of 5.2 billion euros per year are avail-\nable. These funds may be used for subsidy programs, such\nas ones that are tailored specifically to vulnerable house-\nholds. On average, households overall are burdened in the\namount of a good 0.3 percent of their net income. The cli-\nmate dividend is noticeably reduced beginning from the\nfourth income decile.\n\nThe reduction in the climate dividend strengthens the pro-\ngressive effect of the reform on higher incomes (Figure 3).\nIn contrast, the climate dividend is not reduced or only min-\nimally reduced for the lower and middle-income groups.",
+          "summarized_text": "By reducing the climate dividend, additional income tax revenue flows back into the public budget, increasing the government financial balance by 12.4 billion euros per year. These extra funds can be used for subsidy programs targeting vulnerable households, while higher income groups are more affected by the reduction in the climate dividend compared to lower and middle-income groups."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1322,
+            "y1": 387,
+            "x2": 2325,
+            "y2": 665
+          },
+          "text": "In these groups, the number of hardship cases with larger\nburdens increases only slightly (Figure 1). The Gini coeffi-\ncient for income inequality declines minimally more than\nwithout the reduction (Table).",
+          "summarized_text": "In the groups studied, there was only a slight increase in the number of hardship cases with larger burdens. Additionally, the Gini coefficient for income inequality showed a minimal decline when compared to without the reduction."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1330,
+            "y1": 678,
+            "x2": 2289,
+            "y2": 775
+          },
+          "text": "Conclusion: Climate dividend urgently needed,\nespecially for low-income households"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1347,
+            "y1": 804,
+            "x2": 2330,
+            "y2": 3362
+          },
+          "text": "Carbon pricing for fossil and heating fuels is a key instru-\nment for achieving German and European climate targets.\nWithout a broad redistribution of revenue from carbon pric-\ning to households, it has a regressive effect on the income\ndistribution because it burdens low-income households rel-\native to their income more than above-average and high-\nincome earners.\n\nIf there is a considerable increase in carbon pricing, which\nis expected during the transition to the EU-ETS2, the intro-\nduction of a climate dividend will be all the more urgent,\nat least for low-income households. After all, many low-in-\ncome households do not have their heating costs covered\nby the basic income scheme or do not receive the housing\nbenefit despite being eligible due to a lack of information\nand bureaucratic application procedures. The same applies\nto subsidy programs for decarbonization.\n\nPaying a climate dividend to the entire population entails a\nhigh fiscal burden for which there is not yet leeway in the\nClimate and Transformation Fund (KTF). This would require\nfunding programs to be cut funds to be made available from\nthe federal budget.\n\nA flat-rate per capita climate dividend paid to all residents\nwould also relieve above-average and high-income earners.\nThese groups are less strongly affected by carbon pricing\nand generally have more opportunities to reduce their fos-\nsil fuel energy consumption. These opportunities are sup-\nported generously by subsidy programs, which also mostly\nhave a strongly regressive effect. Therefore, it makes sense\nto concentrate the climate dividend on low and middle-in-\ncome households in the long term, so long as it is techni-\ncally and politically feasible.\n\nSince determining each resident’s income and adjusting the\nclimate dividend individually per person would be too time\nconsuming, taxing the climate dividend is a good option,\nas it can be done so unbureaucratically. The application of\na specific tax rate function makes it possible for lower and\nmiddle-income households to receive the full climate div-\nidend while it is reduced significantly for higher-income\nhouseholds.\n\nThe funds freed up this way can be used for additional aid\nand support programs for decarbonization, especially for\n“vulnerable” households with low incomes and higher energy\nconsumption. This could contribute to increasing societal\nacceptance for noticeable carbon cost increases as well as\nsocietal support for an ambitious climate policy.",
+          "summarized_text": "Carbon pricing for fossil and heating fuels is crucial for achieving climate targets in Germany and Europe. To offset regressive effects, a climate dividend should be introduced for low and middle-income households, funded by taxing the dividend and reallocating funds for decarbonization support programs. This approach aims to increase societal acceptance of carbon cost increases and promote an ambitious climate policy."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "blocks": []
+    },
+    {
+      "page_number": 10,
+      "blocks": []
+    }
+  ]
+}

@@ -1,0 +1,1774 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1105,
+            "y1": 394,
+            "x2": 1392,
+            "y2": 482
+          },
+          "text": "AT A GLANCE"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 174,
+            "y1": 531,
+            "x2": 2326,
+            "y2": 1796
+          },
+          "text": "DIW Economic Outlook:\nGlobal economy recovering swiftly;\nGerman economy gaining momentum\n\nBy DIW Berlin’s Economic Forecasting Team\n\nGerman economy picked up at the beginning of 2024 and developed better than expected thanks\nto a strong expansion in construction investment and powerful goods exports\n\nPrivate consumption declined in the first quarter unexpectedly; consumer sentiment has since\nbrightened, inflation remains under three percent, real wages are rising\n\nDIW Berlin is revising its forecast for the German economy upward to 0.3 percent, 2025 forecast\nnow slightly more optimistic at plus 1.3 percent\n\nUEFA Euro 2024 will provide small stimuli for consumption; consequences of flooding in southern\nGermany are unlikely to have an economic impact\n\nGlobal economy also picking up speed and should expand by a good 3.5 percent in both 2024\nand 2025",
+          "summarized_text": "The global economy is recovering swiftly, with a projected expansion of 3.5 percent in both 2024 and 2025. The German economy is gaining momentum, with a revised forecast of 0.3 percent for 2024 and a slightly more optimistic forecast of 1.3 percent for 2025."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 192,
+            "y1": 1809,
+            "x2": 2265,
+            "y2": 1969
+          },
+          "text": "Consumer spending is supporting the German economy; investment will also contribute to growth in 2025\nIndividual GDP components’ contribution to growth in percentage points"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 204,
+            "y1": 1969,
+            "x2": 2313,
+            "y2": 2809
+          },
+          "data": {
+            "data": [
+              {
+                "year": 2018,
+                "consumption": 1.0,
+                "investments": 2.6,
+                "exports": -3.6,
+                "imports": 0.7,
+                "gdp_growth": 1.0
+              },
+              {
+                "year": 2019,
+                "consumption": 0.8,
+                "investments": 1.3,
+                "exports": -3.9,
+                "imports": 0.2,
+                "gdp_growth": 1.1
+              },
+              {
+                "year": 2020,
+                "consumption": -1.5,
+                "investments": -7.4,
+                "exports": 4.6,
+                "imports": -0.5,
+                "gdp_growth": -3.8
+              },
+              {
+                "year": 2021,
+                "consumption": 2.9,
+                "investments": 1.3,
+                "exports": -0.3,
+                "imports": 0.7,
+                "gdp_growth": 3.2
+              },
+              {
+                "year": 2022,
+                "consumption": 1.5,
+                "investments": 0.1,
+                "exports": 0.3,
+                "imports": 0.1,
+                "gdp_growth": 1.8
+              },
+              {
+                "year": 2023,
+                "consumption": 0.5,
+                "investments": -0.2,
+                "exports": -0.2,
+                "imports": 0.7,
+                "gdp_growth": -0.2
+              },
+              {
+                "year": 2024,
+                "consumption": 0.5,
+                "investments": -0.2,
+                "exports": -0.1,
+                "imports": 0.5,
+                "gdp_growth": 0.3
+              },
+              {
+                "year": 2025,
+                "consumption": 0.5,
+                "investments": 0.5,
+                "exports": 0.2,
+                "imports": 0.3,
+                "gdp_growth": 1.3
+              }
+            ]
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 581,
+            "y1": 2898,
+            "x2": 1110,
+            "y2": 2990
+          },
+          "text": "FROM THE AUTHORS"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 178,
+            "y1": 2995,
+            "x2": 1494,
+            "y2": 3344
+          },
+          "text": "“Consumer sentiment in Germany is brightening considerably: In many sectors, employ-\nces are now permanently earning more money thanks to the collective wage increases.\n\nIn conjunction with inflation, which is now lower, real wages are rising. In addition to\nthis is the turnaround tn interest rates, which is making saving less attractive and loans\n\nmore affordable.” — Geraldine Dany-Knedlik —",
+          "summarized_text": "Consumer sentiment in Germany is improving due to higher wages from collective agreements. With lower inflation and interest rates, real wages are increasing and loans have become more affordable."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 993,
+            "y1": 177,
+            "x2": 1520,
+            "y2": 367
+          },
+          "text": "DIW ECONOMIC OUTLOOK"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 141,
+            "y1": 526,
+            "x2": 2286,
+            "y2": 1225
+          },
+          "text": "DIW Economic Outlook:\nGlobal economy recovering swiftly;\nGerman economy gaining momentum\n\nBy Geraldine Dany-Knedlik, Guido Baldi, Nina Maria Brehl, Hella Engerer, Angelina Hackmann, Pia Hiittl, Konstantin Kholodilin,\nFrederik Kurcz, Laura Pagenhardt, Marie Rulliére, Jan-Christopher Scherer, Teresa Schildmann, Ruben Staffa, and\n\nKristin Trautmann",
+          "summarized_text": "The global economy is recovering quickly, with the German economy showing signs of gaining momentum."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 160,
+            "y1": 1212,
+            "x2": 627,
+            "y2": 1332
+          },
+          "text": "EXECUTIVE SUMMARY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 165,
+            "y1": 1314,
+            "x2": 1189,
+            "y2": 3358
+          },
+          "text": "The German economy began recovering at the beginning\nof 2024 and has developed better than initially expected. A\nsharp rise in construction investment, albeit more of a flash\nin the pan as a result of mild winter weather, along with\nstrong goods exports helped the economy onto its recov-\nery path and masked the disappointing development of\nprivate consumption, which sank unexpectedly. However,\nconsumer sentiment has since brightened considerably:\nFollowing the recent special payments, employees in many\nsectors are now earning more on a permanent basis due\nto pay raises, which increases income security. In conjunc-\ntion with the inflation rate now being stable at below the\nthree-percent threshold, real wages are rising significantly.\nAdded to this is the turnaround in interest rates initiated\nby the European Central Bank, which is making saving less\nattractive and loans more affordable. The UEFA European\nMen's Football Championship, which is being held in Ger-\nmany this year, is also likely to boost consumption, albeit\nslightly.\n\nIn addition to private consumption, foreign trade will prove\nto be the second mainstay of the German economy in the\nforecast period. On the one hand, imports are increasing\nas the domestic economy becomes stronger. On the other\nhand, the German export industry will also experience a\nsignificant boost, as industrial production is likely to pick up\nworldwide. Due to the high share of intermediate products\nand investment goods, exports \"made in Germany’ are\nparticularly dependent on the global industry's economic\nsituation. In Germany, too, industrial companies will begin\ninvesting more in their capacities from 2025 at the latest.\n\nConstruction investment will then also rise again.",
+          "summarized_text": "The German economy has recovered well, with a rise in construction investment and strong goods exports masking a dip in private consumption. The increase in real wages, stable inflation rate, and European Central Bank's interest rates turnaround are contributing to the brighter consumer sentiment."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1215,
+            "y1": 1203,
+            "x2": 2287,
+            "y2": 2774
+          },
+          "text": "Overall, the outlook is somewhat more positive than it was\nin the spring: Instead of stagnating, DIW Berlin now expects\nthe German economy to grow by 0.3 percent in 2024 and\nby 1.3 percent in 2025. One risk factor for the forecast\n\nis that the full extent of the damage from the flooding in\nsouthern Germany is still unclear. In some places, pro-\nduction capacities could remain impaired for longer than\nexpected. At the same time, it is also conceivable that\nrepair and reconstruction work could increase economic\noutput. Overall, however, the effects in one way or the other\nare likely to remain manageable. In addition, the tug-of-war\nover the next federal budget could once again become a\nfactor contributing to uncertainty, possibly even more so\nthan was already to be expected after the results of the EU\nelections in Germany.\n\nThe global economy will also gain some momentum over\nthe forecast period. The euro area is finally overcoming its\nweak phase for good and international trade is picking up\nspeed. The interest rate turnaround in the major advanced\neconomies will likely have a positive effect on residential\nconstruction and corporate investments from the second\nhalf of 2024. Overall, the global economy is expected to\ngrow by 3.7 percent in 2024 and by 3.6 percent in 2025.",
+          "summarized_text": "The outlook for the German economy is more positive, with expected growth of 0.3% in 2024 and 1.3% in 2025, despite risks from flooding and budget uncertainties. The global economy is also predicted to gain momentum, with growth of 3.7% in 2024 and 3.6% in 2025, fueled by improved euro area performance and increased international trade."
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1064,
+            "y1": 177,
+            "x2": 1433,
+            "y2": 310
+          },
+          "text": "GLOBAL ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 174,
+            "y1": 385,
+            "x2": 2155,
+            "y2": 672
+          },
+          "text": "Global economy: Advanced economies once again\npicking up speed",
+          "summarized_text": "The global economy is showing signs of improvement as advanced economies are picking up speed. This suggests a positive outlook and potential for growth in the near future. However, challenges and risks still remain."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 163,
+            "y1": 664,
+            "x2": 1153,
+            "y2": 3397
+          },
+          "text": "The global economy developed better than expected in the\nfirst quarter of 2024 in particular due to the recovery of\ndomestic demand in most advanced economies. Among\nthe emerging economies, China performed surprisingly\nwell in terms of high exports and strong industrial output.\n\nIn Europe, real wage increases have finally arrived in the\npockets of consumers and are boosting private consumption.\nQuarter-on-quarter the economy expanded by 0.3 and 0.6 per-\ncent in the euro area and the United Kingdom, respectively.\nEconomic growth in the United States was at 0.3 percent and\ncontinues to be carried by consumer spending. In contrast,\ninflation is weighing strongly on domestic demand in Japan,\nwhere GDP shrunk by 0.5 percent in the first quarter of 2024.\nOf the emerging economies, the Indian and Chinese econ-\nomies experienced the most growth. The Chinese economy\nexpanded by 1.6 percent, more than in the previous quarter;\nthis was driven primarily by industrial output and exports,\nwhile domestic demand continued to develop weakly. Overall,\nthe global economy expanded by 1.0 percent in the first quar-\nter of 2024, similar to the fourth quarter of 2023 (Figure 1).\n\nThe global economy should continue its recovery into the\ncurrent second quarter of 2024. The upswing in the advanced\neconomies will receive a bit more momentum, especially due\nto the euro area economy, where falling inflation rates com-\nbined with rising nominal wages are leading to rising real\nwages. This should boost the purchasing power of consum-\ners as well as domestic demand. The upswing in the United\nKingdom is also likely to continue; the favorable outlook for\nservices points to a further increase in consumption. The\nUS economy, in contrast, is expected to expand only mod-\nerately, as private households’ remaining excess savings are\nrunning out, cooling private consumption. In Japan, high\ninflation is continuing to weigh on economic growth. The\nManufacturing Purchasing Managers’ Indices have been\nrecovering in most advanced economies since the beginning\nof 2024. The May values for Japan, the United Kingdom, and\nthe United States are consistently over the threshold expan-\nsion of 50. The value for the euro area remained under 50,\nbut experienced a strong increase from 45.7 in April to 47.3\nin May. Thus, industrial output is likely to gradually pick\nup speed.\n\nThe emerging economies are expected to cool down in the\nsecond quarter following a strong first quarter. While eco-\nnomic development in China and India continues to support\ngrowth, other countries such as Brazil and Mexico are experi-\nencing weak growth due to dampened domestic demand. In\ncontrast, there are signs of a recovery in economic momen-\ntum in China, mainly due to more expansive monetary and\nfiscal policies. Moreover, the recovery of the global econ-\nomy is likely to boost Chinese exports. Continued dynamic",
+          "summarized_text": "The global economy performed better than expected in the first quarter of 2024, driven by strong domestic demand in advanced economies and high exports in China. The second quarter is expected to see continued recovery in advanced economies, with a slight slowdown in emerging economies due to weak domestic demand in countries like Brazil and Mexico."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1161,
+            "y1": 2106,
+            "x2": 2168,
+            "y2": 3424
+          },
+          "text": "growth is expected for the Indian economy in the second\nquarter thanks to solid domestic demand.\n\nInternational trade recovered by 0.3 percent in the first quar-\ner of 2024, following a decline of 1.9 percent in 2023. Weak\ndemand from advanced economies and ongoing geopolitical\nurmoil weighed on international trade in 2023. Nevertheless,\nsome trade barriers have partly been dissolved since the\nbeginning of the year: For example, circumventing blockaded\nrade routes from Asia to Europe by means of an alternative\nAfrican route is now factored into supply chains and produc-\nion. This and the gradual recovery of the global economy\nare likely to lead to international trade picking up somewhat\nin 2024, albeit less strongly than before the pandemic. One\nimportant reason for this is that trade policy conflicts, espe-\ncially between Western countries and China, will continue\nto have a dampening effect. The punitive tariffs imposed by\nthe US government on Chinese electric vehicles and sem-\niconductors in May 2024 emphasize the fact that the situa-\ntion is not expected to ease anytime soon.\n\nMonetary policy in many advanced economies remained\nrestrictive at the beginning of 2024 and interest rates were\nstill high. The first key interest rate cuts were made in spring",
+          "summarized_text": "Indian economy is expected to grow in the second quarter due to solid domestic demand. International trade is also expected to pick up in 2024, recovering slightly from the decline in 2023, although trade conflicts between Western countries and China may continue to dampen growth. Monetary policy in advanced economies began to ease in spring 2024 with the first key interest rate cuts."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1202,
+            "y1": 783,
+            "x2": 1594,
+            "y2": 841
+          },
+          "text": "Growth of real GDP"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1202,
+            "y1": 938,
+            "x2": 2391,
+            "y2": 1809
+          },
+          "data": {
+            "years": [
+              "2022",
+              "2023",
+              "2024",
+              "2025"
+            ],
+            "emerging_economies": [
+              -1.0,
+              1.3,
+              1.0,
+              1.0,
+              0.9,
+              0.8,
+              0.7
+            ],
+            "advanced_economies": [
+              1.0,
+              0.7,
+              0.5,
+              0.5,
+              0.5,
+              0.5,
+              0.5
+            ],
+            "world_index": {
+              "2022": -0.2,
+              "2023": 130,
+              "2024": 140,
+              "2025": 150
+            },
+            "annual_growth_rate": {
+              "2022": 3.3,
+              "2023": 4.0,
+              "2024": 3.7,
+              "2025": 3.6
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1060,
+            "y1": 173,
+            "x2": 1446,
+            "y2": 358
+          },
+          "text": "GLOBAL ECONOMY"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 354,
+            "y1": 482,
+            "x2": 1124,
+            "y2": 575
+          },
+          "text": "Assumptions and framework conditions"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 341,
+            "y1": 597,
+            "x2": 1313,
+            "y2": 1756
+          },
+          "text": "The forecast is based on the following assumptions about the\nfurther development of key interest rates, exchange rates, and\ncommodity prices (Table). These assumptions were made based\non previous development, futures markets prices, and the closing\nprices on the date of this forecast (14. May 2024).\n\nThe European Central Bank (ECB) first decreased interest rates in\nJune, as was assumed in the spring forecast. After a year of stable\ninterest rates, it has now initiated a turnaround; further interest\nrate cuts will follow. We assume five subsequent cuts over the\nforecasting horizon. In detail, we assume a cut of 35 basis points\nat the September 2024 meeting, and subsequent cuts every\nquarter of respectively 25 basis points.’ Taken together, this leads\nto a decline of 85 basis points in 2024 and of 75 basis points in\n2025. The ECB has thus initiated an interest rate cut before the\nUS Federal Reserve. The Fed and the Bank of England will presum-\nably not lower interest rates until the third quarter of 2024.\n\nMoney market interest rates fell at the beginning of 2024 in antici-\npation of the interest rate turnaround. It is assumed that these, in\nline with key interest rates, will continue to fall over the forecast\nhorizon. The refinancing costs for households and companies are",
+          "summarized_text": "The forecast assumes that the European Central Bank will make five interest rate cuts over the next two years, with a total decline of 85 basis points in 2024 and 75 basis points in 2025. Money market interest rates are expected to fall in line with these cuts, reducing refinancing costs for households and companies."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1333,
+            "y1": 562,
+            "x2": 2326,
+            "y2": 1898
+          },
+          "text": "likely to decline as key interest rates fall over the next years. The\nreturn on government bonds slightly increased again following a\nbrief decline in winter 2023. It is assumed that capital market inter-\nest rates will remain largely unchanged over the forecast horizon\nat 2.6 percent for Germany and 3.1 percent for the euro area. The\neuro has recently depreciated against the US dollar due to the\ninterest rate differential. For the forecast period, it is assumed that\nthe exchange rate of EUR to USD will remain at 1,08 USD per EUR,\nthe level reached at the end of the data period on June 6.\n\nUncertainties about the gas supply in the coming year resulted\n\nin slight increases in the wholesale price for gas (TTF) recently.\nHowever, well-filled gas storage facilities should prevent a severe\nsupply shortage. According to futures, the average gas price\nshould be around 30.90 and 35.50 euros per megawatt hours in\n2024 and 2025, respectively. According to traded futures, the price\nfor Brent oil should increase slightly in the coming months before\ndeclining again at the start of 2025 until the end of the forecast\n\nperiod. In 2024, the average price is likely to be 83 USD per barrel\nbefore it declines to an average of 78 USD per barrel in 2025.\n\nThis forecast is also based on political assumptions: We assume\nthat no further escalations will occur, but also that none of the cur-\nrent geopolitical crises, such as the Israeli-Hamas war, the Russo-\nUkrainian War, and conflict between China and Taiwan, will end.",
+          "summarized_text": "Key interest rates are expected to decline over the next years, leading to a slight increase in government bond returns. Gas prices are projected to rise slightly due to uncertainties in the gas supply, while Brent oil prices are forecasted to increase in 2024 before declining in 2025. Political assumptions include the continuation of current geopolitical crises without further escalation."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 344,
+            "y1": 2026,
+            "x2": 785,
+            "y2": 2128
+          },
+          "text": "Forecast assumptions"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 342,
+            "y1": 2128,
+            "x2": 2331,
+            "y2": 2552
+          },
+          "data": {
+            "ECB key interest rate (year end)": {
+              "Unit": "Percent",
+              "2022": 2.5,
+              "2023": 4.5,
+              "2024": 3.7,
+              "2025": 2.9
+            },
+            "Money market interest rate": {
+              "Unit": "Three-month EURIBOR in percent",
+              "2022": 0.3,
+              "2023": 3.4,
+              "2024": 3.6,
+              "2025": 2.9
+            },
+            "Capital market interest for euro-area government bonds": {
+              "Unit": "Yield on euro-area government bonds with a remaining term of ten years",
+              "2022": 2.3,
+              "2023": 3.2,
+              "2024": 3.0,
+              "2025": 3.1
+            },
+            "Capital market interest for German government bonds": {
+              "Unit": "Yield on German government bonds with a remaining term of ten years",
+              "2022": 1.8,
+              "2023": 2.5,
+              "2024": 2.6,
+              "2025": 2.6
+            },
+            "Exchange rate": {
+              "Unit": "USD/EUR",
+              "2022": 1.05,
+              "2023": 1.09,
+              "2024": 1.08,
+              "2025": 1.08
+            },
+            "Crude oil price": {
+              "Unit": "USD per barrel",
+              "2022": 98.6,
+              "2023": 82.1,
+              "2024": 83.0,
+              "2025": 78.0
+            },
+            "Gas price": {
+              "Unit": "EUR per megawatt hour",
+              "2022": 133.9,
+              "2023": 42.2,
+              "2024": 30.9,
+              "2025": 35.5
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 331,
+            "y1": 2827,
+            "x2": 1312,
+            "y2": 3420
+          },
+          "text": "2024 in light of lower inflation rates only in isolated cases,\nsuch as in Switzerland. It is expected that other central banks\nwill begin lowering their interest rates in the summer (Box).\nIn the euro area, this turnaround happened on June 6th,\nsooner than in the United States and the United Kingdom\ndue to rapidly falling inflation rates. Commodity prices are\nalso no longer likely to provide any price-driving impetus.\nJapan is a special case, as its inflation is still well above the\nBank of Japan’s two-percent target as of April 2024 at 2.5 per-\ncent, which is unusually high for the country.",
+          "summarized_text": "In 2024, central banks are expected to lower interest rates due to lower inflation rates, with Switzerland being an isolated case. The euro area made this turnaround on June 6th, while Japan's inflation remains above the Bank of Japan's two-percent target at 2.5 percent."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1328,
+            "y1": 2836,
+            "x2": 2331,
+            "y2": 3415
+          },
+          "text": "Monetary policy has once again become somewhat less\nrestrictive in many emerging economies. There have already\nbeen regular key interest rate cuts in Brazil since the end\nof 2023 due to declining inflation rates and low economic\ngrowth, while Mexico decreased its key interest rates in\nMarch 2024. In February 2024, the People’s Bank of China\nalso adopted a more expansive course by lowering its mini-\nmum reserves to support the struggling economy and com-\nbat deflationary trends. In India, the key interest rate will\nlikely not be lowered until the third quarter because food",
+          "summarized_text": "Monetary policies in emerging economies are becoming less restrictive, with key interest rate cuts in countries like Brazil and Mexico. The People's Bank of China has also adopted a more expansive policy to support its economy. India, on the other hand, is not expected to lower its key interest rate until the third quarter."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1064,
+            "y1": 173,
+            "x2": 1429,
+            "y2": 327
+          },
+          "text": "GLOBAL ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 170,
+            "y1": 2495,
+            "x2": 1142,
+            "y2": 3238
+          },
+          "text": "prices, which are important in India, are currently still ris-\ning, although core inflation is already falling overall.\n\nFiscal policy during the forecast period is likely to be slightly\nrestrictive in most economies. On the one hand, this is due to\nhe fact that measures taken to combat the energy crisis are\nexpiring. On the other hand, higher interest rates are putting\ngovernments under pressure to reduce expenditure, which is\nikely to be to the detriment of medium-term investment pro-\ngrams. In the EU, however, the NextGenerationEU recovery\nfunding is stimulating investments in Member States, while\nhe new European fiscal rules are creating leeway for invest-\nments that support growth.' China is again an exception here:",
+          "summarized_text": "China is an exception to the trend of slightly restrictive fiscal policies, as it continues to stimulate investments in various sectors. The country's focus on growth and development is evident through its proactive approach towards fiscal measures."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1171,
+            "y1": 2486,
+            "x2": 2153,
+            "y2": 3389
+          },
+          "text": "The Chinese government announced several billion-euro\nmeasures to revive the debt-ridden real estate sector.\n\nThe global economy is likely to continue gaining momentum\nthroughout the further course of the forecast. The interest\nrate turnaround in the major advanced economies will likely\nhave a positive effect on residential construction and corpo-\nrate investments from the second half of 2024 and primar-\nily in 2025. Private consumption is also likely to support the\nupswing in the advanced economies, which is partly due to\nthe continued good situation on the labor market and accord-\ningly solid growth in labor income. The output gap in the\nUnited States is likely to close over the course of the forecast\nhorizon, as is the currently negative output gap in the euro\narea. Chinese GDP is likely to continue its powerful devel-\nopment, but rates are likely to be lower than before the pan-\ndemic. Potential growth has declined markedly compared to",
+          "summarized_text": "The Chinese government announced billion-euro measures to revive the debt-ridden real estate sector. The global economy is expected to gain momentum with positive effects on residential construction and corporate investments in 2024-2025. Chinese GDP is forecasted to continue strong development with lower rates post-pandemic."
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1060,
+            "y1": 168,
+            "x2": 1431,
+            "y2": 336
+          },
+          "text": "GLOBAL ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 338,
+            "y1": 385,
+            "x2": 1320,
+            "y2": 1730
+          },
+          "text": "past decades in light of demographic development and the\nprovinces’ high level of debt.\n\nOn average, the advanced economies should expand by\n1.7 percent in 2024. Economic output will likely increase by\n4.9 percent in the emerging economies. Overall, the global\neconomy is expected to grow by 3.7 percent in 2024 (Table 1).\nAs the development in the euro area as well as in China was\nbetter than expected in the first half of 2024, DIW Berlin is\nincreasing its forecast for the entire year by 0.2 percentage\npoints. In 2025, the global economy is likely to increase by\n3.6 percent, unchanged from the spring forecast.\n\nThis forecast is based on several uncertainty factors. On\nthe one hand, geopolitical risks remain quite high. The cri-\nses relating to the ongoing Israel-Hamas War could spread\nthroughout the region; there is also no end to the Russo-\nUkrainian War in sight. There are also simmering geopo-\nlitical conflicts in Asia concerning the Korean peninsula or\nTaiwan, for example. A possible intensification of these geo-\npolitical conflicts harbors many risks for the global economy,\nfrom temporarily higher energy and resource prices to major\ntrade distortions and real economic losses.\n\nA further risk factor is public debt sustainability in light of\nhigher interest rates. Long-term government bond yields",
+          "summarized_text": "Global economic growth is expected to reach 3.7 percent in 2024, with advanced economies growing by 1.7 percent and emerging economies by 4.9 percent. However, geopolitical risks and public debt sustainability remain key uncertainties for the forecast."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1342,
+            "y1": 372,
+            "x2": 2328,
+            "y2": 1526
+          },
+          "text": "continue to be high, for example in the US, and react sen-\nsitively to developments in inflation and monetary policy\ndecisions. Local governments in China are also heavily over-\nindebted due to the ongoing real estate crisis. The fact that\n2024 is a record election year could also lead to a further\nincrease in debt ratios. Forty-nine percent of the world popu-\nlation will be going to the polls in 2024. Elections often entail\nfiscal stimuli and thus higher debt.’ Together with higher\ninterest rates, this could signal a somewhat more restrictive\nfiscal policy in the future.\n\nIn addition, the elections are creating a greater risk of political\npolarization in many countries. For example, uncertainties\nregarding the direction of US economic and security policy\nwould increase if Donald Trump is re-elected in November.\nA further escalation of the trade conflict with China is also\nto be expected under a Trump administration. Moreover, it\nis not yet clear to what extent the nationalist forces in the\nEU Parliament, which made strong gains in the recent elec-\ntions, will paralyze the EU’s active role in shaping common\neconomic and foreign policy.",
+          "summarized_text": "High debt levels in countries like the US and China are likely to be exacerbated by the record election year in 2024, leading to increased political polarization and potential restrictions on fiscal policy. Uncertainties surrounding economic and security policies, including trade conflicts, are expected to persist, particularly if certain nationalist forces gain more influence in the EU Parliament."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "",
+                "2022",
+                "2023",
+                "2024",
+                "2025"
+              ],
+              [
+                "ECB key interest rate (year end)",
+                "Percent",
+                "2.5",
+                "4.5",
+                "3.7",
+                "2.9"
+              ],
+              [
+                "Money market interest rate",
+                "Three-month EURIBOR in percent",
+                "0.3",
+                "3.4",
+                "3.6",
+                "2.9"
+              ],
+              [
+                "Capital market interest",
+                "Yield on euro-area government bonds with a remaining term of ten years",
+                "2.3",
+                "3.2",
+                "3.0",
+                "3.1"
+              ],
+              [
+                "Capital market interest",
+                "Yield on German government bonds with a remaining term of ten years",
+                "1.8",
+                "2.5",
+                "2.6",
+                "2.6"
+              ],
+              [
+                "Exchange rate",
+                "USD/EUR",
+                "1.05",
+                "1.09",
+                "1.08",
+                "1.08"
+              ],
+              [
+                "Crude oil price",
+                "USD per barrel",
+                "98.6",
+                "82.1",
+                "83.0",
+                "78.0"
+              ],
+              [
+                "Gas price",
+                "EUR per megawatt hour",
+                "133.9",
+                "42.2",
+                "30.9",
+                "35.5"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1064,
+            "y1": 168,
+            "x2": 1438,
+            "y2": 349
+          },
+          "text": "GERMAN ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 153,
+            "y1": 332,
+            "x2": 2150,
+            "y2": 646
+          },
+          "text": "German economy: Private consumption becoming\nthe driver of the upturn",
+          "summarized_text": "Private consumption is playing a crucial role in driving the upturn in the German economy. As households increase their spending, it is contributing to overall economic growth. This trend is expected to continue in the near future."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 168,
+            "y1": 664,
+            "x2": 1152,
+            "y2": 3163
+          },
+          "text": "The German economy is slowly exiting its slump, starting out\n2024 with momentum following weak performance in 2023.’\nEconomic output increased by 0.2 percent in the first quar-\nter of 2024, more than previously expected (Figure 2).* The\nrobust growth rate in the first quarter was due in particular\ntoa surprisingly strong increase in construction investment\nas aresult of mild winter weather. In addition, goods exports\nrose unexpectedly sharply, resulting in a positive trade bal-\nance. Meanwhile, private consumption continued to decline\ndespite falling inflation rates and rising disposable incomes.\n\nHigh interest rates and the German government’s polit-\nical indecisiveness seemed to have dampened consumer\nsentiment at the beginning of 2024. Even strong growth in\nreal wages seemingly could not boost consumer confidence\nenough at the beginning of the year to prevent a decline in\nprivate consumption. The signs for a recovery in private con-\nsumption were there at the beginning of 2024: Employment\nincreased and nominal wages rose significantly, for example\nin the energy industry and in the public sector at the state\nlevel. Together with further declining consumer price infla-\ntion, which has been consistently below the three-percent\nthreshold, real wages rose noticeably. The decline in infla-\ntion is primarily due to lower food inflation and lower energy\ngoods prices. Meanwhile, core inflation, which excludes food-\nstuffs and energy, rose more strongly in the first quarter,\nwhich was likely largely due to rising prices for services.\n\nGoods exports increased markedly, especially the export of\nchemical and pharmaceutical products. Chemical products\noften serve as the intermediate inputs in further production\nprocesses. After their marked declined due to high energy\nprices, their recent increase might point to a gradual recov-\nery of global industrial production. German goods imports\nalso increased strongly. However, as imports grew less over-\nall than exports, there was a positive trade balance in the first\nquarter. Private and public investments also supported eco-\nnomic output. The main reason for this was the mild weather,\nwhich boosted production in the construction industry and\nled to a significant increase in construction investment, par-\nticularly in residential construction. In contrast, equipment\ninvestment declined slightly.\n\nGross value added rose somewhat more strongly in the first\nquarter at 0.3 percent than GDP. Production in the manu-\nfacturing industry rose slightly. Energy-intensive sectors are\nshowing signs of a slow recovery and were able to expand\nproduction again for the first time following the prolonged",
+          "summarized_text": "The German economy saw a slow recovery in the first quarter of 2024, with a 0.2 percent increase in economic output driven by strong construction investment and goods exports. Despite political indecisiveness and high interest rates dampening consumer sentiment, there were signs of recovery in private consumption with increasing employment and rising wages."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1174,
+            "y1": 2181,
+            "x2": 2161,
+            "y2": 3402
+          },
+          "text": "weak period caused by the sharp rise in energy prices.\nNevertheless, they are not likely to recover all losses in the\nlong term. At least some of the energy-intensive companies\nhave relocated production abroad by now and cut jobs in\nGermany in light of the country’s comparatively high energy\ncosts. Together with the strong expansion in the construction\nindustry, industrial production was also able to increase over-\nall and contribute positively to gross value added with nearly\n0.1 percentage points. However, the overall increase was pri-\nmarily carried by services; both the consumer-related (around\n0.1 percentage points) as well as public (around 0.2 percent-\nage points) service sectors experienced a strong expansion.\n\nIn the current second quarter, the German economy is likely\nto increase again by 0.2 percent (Table 2). Private consumption\nin particular should improve on a sustained basis. Households\nare slowly gaining purchasing power due to continuously ris-\ning real wages. Following the one-time special payments that\nwere paid to employees in many sectors in 2023, the collec-\ntive wage increases are now in effect in many places, which\nresults in employees permanently earning more money. This\nis likely to strengthen income security. The strong growth in\nreal wages is a relief to low-income households in particular,",
+          "summarized_text": "The German economy experienced a weak period due to high energy prices, leading to some companies relocating production abroad. Despite this, industrial production and services saw positive growth, with private consumption set to improve in the second quarter of 2023 thanks to rising real wages."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1203,
+            "y1": 770,
+            "x2": 2294,
+            "y2": 973
+          },
+          "text": "Real GDP growth in Germany\nIn billions of euros (left axis) and quarter-on-quarter in percent\n(right axis)"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1202,
+            "y1": 960,
+            "x2": 2382,
+            "y2": 1823
+          },
+          "data": {
+            "data": [
+              {
+                "year": 2022,
+                "level": 825,
+                "annual_growth_rate_percent": 1.8,
+                "quarterly_growth_rates": []
+              },
+              {
+                "year": 2023,
+                "level": 820,
+                "annual_growth_rate_percent": -0.2,
+                "quarterly_growth_rates": []
+              },
+              {
+                "year": 2024,
+                "level": 810,
+                "annual_growth_rate_percent": 0.3,
+                "quarterly_growth_rates": []
+              },
+              {
+                "year": 2025,
+                "level": 800,
+                "annual_growth_rate_percent": 1.3,
+                "quarterly_growth_rates": []
+              }
+            ],
+            "axes": {
+              "level": {
+                "label": "Level (left axis)",
+                "min": 775,
+                "max": 850
+              },
+              "annual_growth_rate": {
+                "label": "Annual growth rate in percent",
+                "min": -0.6,
+                "max": 1.2
+              },
+              "quarterly_growth_rate": {
+                "label": "Quarterly growth rates (right axis)"
+              }
+            },
+            "table_0": [
+              [
+                "",
+                "GDP",
+                null,
+                null,
+                null,
+                "Consumer prices",
+                null,
+                null,
+                null,
+                "Unemployment rate in percent",
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "Year-on-year percentage change",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "2022",
+                "2023",
+                "2024",
+                "2025",
+                "2022",
+                "2023",
+                "2024",
+                "2025",
+                "2022",
+                "2023",
+                "2024",
+                "2025"
+              ],
+              [
+                "Europe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "European Union",
+                "3.5",
+                "0.6",
+                "1.1",
+                "1.9",
+                "9.2",
+                "6.4",
+                "2.8",
+                "2.5",
+                "6.2",
+                "6.0",
+                "6.1",
+                "5.9"
+              ],
+              [
+                "Euro area",
+                "3.5",
+                "0.6",
+                "0.8",
+                "1.5",
+                "8.4",
+                "5.4",
+                "2.4",
+                "2.0",
+                "6.8",
+                "6.6",
+                "6.5",
+                "6.3"
+              ],
+              [
+                "excluding Germany",
+                "4.0",
+                "1.2",
+                "1.2",
+                "1.5",
+                "8.0",
+                "5.0",
+                "2.3",
+                "2.1",
+                "8.6",
+                "8.3",
+                "8.1",
+                "7.8"
+              ],
+              [
+                "France",
+                "2.5",
+                "0.9",
+                "0.9",
+                "1.4",
+                "5.9",
+                "5.7",
+                "2.4",
+                "1.9",
+                "7.3",
+                "7.3",
+                "7.4",
+                "7.3"
+              ],
+              [
+                "Italy",
+                "4.1",
+                "1.0",
+                "0.9",
+                "1.0",
+                "8.7",
+                "5.9",
+                "1.6",
+                "2.1",
+                "8.1",
+                "7.7",
+                "7.3",
+                "7.2"
+              ],
+              [
+                "Spain",
+                "5.8",
+                "2.5",
+                "2.3",
+                "1.9",
+                "8.3",
+                "3.4",
+                "3.1",
+                "2.2",
+                "13.0",
+                "12.2",
+                "11.7",
+                "11.1"
+              ],
+              [
+                "Netherlands",
+                "4.4",
+                "0.2",
+                "0.6",
+                "1.9",
+                "11.6",
+                "4.1",
+                "2.6",
+                "2.1",
+                "3.5",
+                "3.6",
+                "3.7",
+                "3.7"
+              ],
+              [
+                "United Kingdom",
+                "4.3",
+                "0.1",
+                "0.8",
+                "1.1",
+                "9.1",
+                "7.3",
+                "2.3",
+                "2.2",
+                "3.9",
+                "4.0",
+                "4.3",
+                "4.6"
+              ],
+              [
+                "Switzerland",
+                "2.7",
+                "0.7",
+                "1.1",
+                "1.5",
+                "2.8",
+                "2.1",
+                "1.6",
+                "1.5",
+                "4.4",
+                "4.1",
+                "4.3",
+                "4.3"
+              ],
+              [
+                "Central and Eastern Europe",
+                "4.8",
+                "0.4",
+                "2.4",
+                "3.4",
+                "13.4",
+                "11.6",
+                "4.3",
+                "3.9",
+                "3.5",
+                "3.6",
+                "3.6",
+                "3.4"
+              ],
+              [
+                "Turkey",
+                "5.3",
+                "4.4",
+                "3.8",
+                "3.2",
+                "72.3",
+                "54.0",
+                "52.5",
+                "39.1",
+                "10.5",
+                "9.4",
+                "9.5",
+                "10.0"
+              ],
+              [
+                "Russia1",
+                "−0.6",
+                "3.0",
+                "3.4",
+                "1.8",
+                "13.8",
+                "5.9",
+                "6.5",
+                "5.0",
+                "4.0",
+                "3.2",
+                "2.8",
+                "2.7"
+              ],
+              [
+                "The Americas",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "USA",
+                "1.9",
+                "2.5",
+                "2.4",
+                "1.6",
+                "8.0",
+                "4.1",
+                "3.2",
+                "2.3",
+                "3.6",
+                "3.6",
+                "3.9",
+                "4.1"
+              ],
+              [
+                "Mexico",
+                "3.9",
+                "3.2",
+                "1.8",
+                "2.0",
+                "7.9",
+                "5.5",
+                "4.8",
+                "3.1",
+                "3.3",
+                "2.8",
+                "2.7",
+                "2.6"
+              ],
+              [
+                "Brazil",
+                "3.1",
+                "2.9",
+                "1.8",
+                "2.2",
+                "9.3",
+                "4.6",
+                "3.3",
+                "3.0",
+                "9.5",
+                "8.0",
+                "7.8",
+                "7.6"
+              ],
+              [
+                "Asia",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Japan",
+                "1.0",
+                "1.9",
+                "0.8",
+                "1.1",
+                "2.5",
+                "3.3",
+                "2.2",
+                "1.5",
+                "2.6",
+                "2.6",
+                "2.5",
+                "2.4"
+              ],
+              [
+                "South Korea",
+                "2.6",
+                "1.3",
+                "2.2",
+                "2.3",
+                "5.1",
+                "3.6",
+                "2.4",
+                "1.9",
+                "2.9",
+                "2.7",
+                "3.1",
+                "3.1"
+              ],
+              [
+                "China",
+                "3.0",
+                "5.2",
+                "4.8",
+                "4.6",
+                "1.0",
+                "−1.7",
+                "0.9",
+                "1.8",
+                "5.6",
+                "5.2",
+                "5.1",
+                "5.0"
+              ],
+              [
+                "India",
+                "6.6",
+                "7.7",
+                "6.6",
+                "6.2",
+                "6.7",
+                "5.8",
+                "4.7",
+                "4.0",
+                "7.6",
+                "7.6",
+                "7.2",
+                "7.0"
+              ],
+              [
+                "Total",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Advanced economies",
+                "2.5",
+                "1.7",
+                "1.7",
+                "1.5",
+                "7.7",
+                "4.6",
+                "3.0",
+                "2.3",
+                "4.4",
+                "4.3",
+                "4.5",
+                "4.5"
+              ],
+              [
+                "Emerging economies",
+                "3.9",
+                "5.5",
+                "4.9",
+                "4.7",
+                "9.4",
+                "7.3",
+                "9.4",
+                "9.2",
+                "6.3",
+                "5.9",
+                "5.8",
+                "5.6"
+              ],
+              [
+                "Global economy",
+                "3.3",
+                "4.0",
+                "3.7",
+                "3.6",
+                "8.2",
+                "5.5",
+                "5.6",
+                "5.3",
+                "5.9",
+                "5.6",
+                "5.5",
+                "5.4"
+              ],
+              [
+                "For reference:",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Export weighted2",
+                "2.9",
+                "2.9",
+                "2.8",
+                "2.6",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "GDP weighted in USD3",
+                "3.2",
+                "3.0",
+                "3.1",
+                "3.1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1064,
+            "y1": 195,
+            "x2": 1420,
+            "y2": 301
+          },
+          "text": "GERMAN ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 339,
+            "y1": 1818,
+            "x2": 1318,
+            "y2": 3442
+          },
+          "text": "who are henceforth likely to support consumption. Household\nsurveys also indicate a lower propensity to save and a greater\nwillingness to consume. The UEFA European Men’s Football\nChampionship, which is taking place in Germany in early\nsummer, will provide additional momentum for private con-\nsumption in the second and third quarters.\n\nThe global economy is boosting foreign demand. German\nforeign trade is likely to benefit in particular from the upturn\nexperienced by important euro area trade partners. Imports\nare likely to increase at a similar rate to exports, meaning that\nthe overall contribution of foreign trade to GDP in the sec-\nond quarter will probably be lower than in the first quarter.\n\nFollowing the strong start to the year, investments, however,\nare unlikely to provide any growth stimuli in the current sec-\nond quarter. A negative countermove to the strong increase\nin the first quarter is expected in construction investment,\nmainly due to a decline in residential construction, where\nthe situation remains extremely tense. Equipment invest-\nment is also likely to fall again slightly in light of the still\nfragile economic situation.\n\nIndustry is also likely to recover rather slowly. Companies\nare continuing to view their situation cautiously. The manu-\nfacturing industry has been recording fewer and fewer new\norders since 2022 and business expectations are improving\nonly slowly. The Global Composite Purchasing Managers’\nIndex has climbed over the expansion threshold of 50 in the\nsecond quarter of 2024, the first time since summer 2023.\n\nTRAE ALAA, Danart DALIUEC LIC SIMI",
+          "summarized_text": "Household surveys show a trend towards lower savings and increased consumption, supported by events like the UEFA European Men's Football Championship. Foreign demand is boosting the global economy, benefiting German trade, while investments and industry growth remain cautious."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1339,
+            "y1": 1823,
+            "x2": 2332,
+            "y2": 3415
+          },
+          "text": "However, this is primarily due to the services sector, where\nsentiment has recently brightened considerably; the recovery\nin private consumption and the positive momentum from\nthe UEFA European Men’s Football Championship should\nensure a rapid upturn. In addition to the hospitality sector,\nfurther consumer-related service providers and consumer\ngoods manufacturers are also likely to benefit and expand\nproduction. The flooding in southern Germany will however\nlikely not significantly disrupt production.\n\nThe recovery of the German economy is projected to gain\nsignificant momentum over the further course of the fore-\ncast. Private consumption will be the main driver and remain\nsupported by continued positive wage development, rising\nemployment, and declining unemployment. As the econo-\nmies of important trading partners are also likely to recover,\nforeign trade should also expand on a sustained basis from\nthe second half of 2024. In addition to this is the expected\nupturn in global industrial production, which will benefit\nfrom the expected interest rate turnaround by the major cen-\ntral banks and should boost German exports. This should\nalso somewhat revive the momentum of private equipment\ninvestment if companies expand their capacities again in\nview of rising demand, particularly in 2025. In addition,\nthere are strong investment stimuli from the public sec-\ntor. For example, more funds for military expenditure are\nlikely to be drawn from the special fund for the German\narmed forces (Bundeswehr). Only construction investment\nwill continue to stagnate in the second half of 2024 due to\nthe ongoing weak performance of residential construction",
+          "summarized_text": "The German economy is projected to gain significant momentum, driven by private consumption and positive wage development. Foreign trade is expected to expand, supported by the recovery of important trading partners, while investment from both public and private sectors is expected to increase."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1060,
+            "y1": 179,
+            "x2": 1425,
+            "y2": 300
+          },
+          "text": "GERMAN ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 170,
+            "y1": 389,
+            "x2": 1148,
+            "y2": 2707
+          },
+          "text": "and will first contribute to economic growth again in 2025,\ndriven primarily by investments in rail and energy networks.\nReconstruction and repair work following the flooding in\nsouthern Germany should not substantially alter this picture.\n\nIn addition to monetary policy, which is only gradually\nbecoming less restrictive, fiscal policy also displays a restric-\ntive orientation: A large number of fiscal policy measures\nthat were introduced in response to the energy price crisis\n(above all the electricity and gas price brakes, the stabiliza-\ntion of transmission grid fees, and aid for hospitals and care\nfacilities) have already ended or will end in 2024. In 2025,\nrestrictive stimuli such as the end of the tax-free inflation\ncompensation premium are also likely to outweigh expan-\nsionary stimuli from the Wachstumschancengesetz (Growth\nOpportunities Act) and the special fund for the Bundeswehr.\nIn line with this, government deficits are expected to decrease\nslightly, falling from 2.4 percent in relation to GDP in 2023\nto 1.9 percent in 2024 and further to 1.3 percent in 2025.\n\nAll in all, price-adjusted GDP will likely rise slightly by\n0.3 percent in 2024 (Table 3). Growth is projected to be\n1.3 percent in 2025. Thus, DIW Berlin is increasing its fore-\ncast for 2024 by 0.3 percentage points and for 2025 by 0.1 per-\ncentage points. The main factors for the improved forecasts\nare the unexpectedly strong first quarter of 2024 as well as\nslightly stronger momentum over the course of the year,\nwhich should benefit from the fact that the global economy\nand, in particular, important trading partners will recover\nsomewhat more quickly.\n\nPotential GDP will likely develop weakly until the end of 2028,\nprimarily due to the negative development of labor volume.\nIn light of the moderate expansion in 2024, the output gap\nin 2024 is likely to grow somewhat larger and amount to an\nannual average of -1.6 percent of potential GDP. In 2025, the\noutput gap is expected to fall to -0.6, and by 2028 it should\nclose completely.\n\nFollowing the significant rise of 5.9 percent in consumer\nprices last year, inflation is expected to average 2.3 percent\nin 2024 and 2.0 percent in 2025. Thus, DIW Berlin’s infla-\ntion forecast remains unchanged compared to the spring. In\nlight of the higher price increases for services, the core rate\nis likely to average 2.7 percent in 2024 and fall to 2.0 percent\nin 2025 as wage growth slows.",
+          "summarized_text": "Economic growth in Germany is expected to rebound in 2025, driven by investments in rail and energy networks. Fiscal policy remains restrictive, with government deficits projected to decrease, while inflation is expected to average 2.3 percent in 2024 and 2.0 percent in 2025."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1174,
+            "y1": 447,
+            "x2": 2109,
+            "y2": 537
+          },
+          "text": "Key economic indicators for the German economy"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1171,
+            "y1": 582,
+            "x2": 2413,
+            "y2": 1239
+          },
+          "data": {
+            "GDP": {
+              "2023": -0.2,
+              "2024": 0.3,
+              "2025": 1.3
+            },
+            "Employed (1,000 persons)": {
+              "2023": 45932,
+              "2024": 46072,
+              "2025": 46153
+            },
+            "Unemployed (1,000 persons)": {
+              "2023": 2609,
+              "2024": 2731,
+              "2025": 2608
+            },
+            "Unemployment rate (percent)": {
+              "2023": 5.7,
+              "2024": 5.9,
+              "2025": 5.6
+            },
+            "Consumer prices": {
+              "2023": 5.9,
+              "2024": 2.3,
+              "2025": 2.0
+            },
+            "Unit labor costs": {
+              "2023": 6.6,
+              "2024": 4.6,
+              "2025": 2.4
+            },
+            "Government budget balance (in billions of euros)": {
+              "2023": -99.1,
+              "2024": -82.8,
+              "2025": -56.5
+            },
+            "Government budget balance (percent of nominal GDP)": {
+              "2023": -2.4,
+              "2024": -1.9,
+              "2025": -1.3
+            },
+            "Current account balance (in billions of euros)": {
+              "2023": 243.1,
+              "2024": 321.9,
+              "2025": 351.9
+            },
+            "Current account balance (percent of nominal GDP)": {
+              "2023": 5.9,
+              "2024": 7.6,
+              "2025": 8.0
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1168,
+            "y1": 1714,
+            "x2": 2148,
+            "y2": 2743
+          },
+          "text": "In addition to the global risks, there are also domestic uncer-\ntainties for the German economy, such as the recent flood-\ning in the southern part of the country and the associated\ndamage. The consequences of the flooding in Bavaria and\nBaden-Wiirttemberg could be much greater than assumed\nin this forecast. For example, it is possible that production\ncapacity is disrupted more than initially expected, with the\ncorresponding consequences for industrial output. This is\na downside risk for the forecast. However, an upside risk\nis also conceivable: Lf damage to residential buildings and\npublic infrastructure is greater than expected, the resulting\nreconstruction work could boost economic output, espe-\ncially from 2025.\n\nAnother domestic risk for the German economy is the\nunclear economic policy framework, in particular the upcom-\ning budget for 2025. If a budget agreement is significantly\ndelayed, this could make private households and companies\nuneasy and thus lead to a reluctance to consume and invest.",
+          "summarized_text": "Domestic uncertainties for the German economy include recent flooding in the southern part of the country, which could disrupt production capacity and industrial output. Additionally, delays in budget agreements for 2025 could lead to consumer and investor unease, impacting economic growth. Upside risks from reconstruction work post-flooding may boost economic output from 2025 onwards."
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 1063,
+            "y1": 170,
+            "x2": 1415,
+            "y2": 349
+          },
+          "text": "GERMAN ECONOMY"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 341,
+            "y1": 389,
+            "x2": 1315,
+            "y2": 1333
+          },
+          "text": "Geraldine Dany-Knedlik is Head of the Forecasting and Business\nCycle Policy Group in the Macroeconomics Department at DIW Berlin |\ngdanyknedlik@diw.de\n\nGuido Baldi is a Research Associate in the Macroeconomics Department at\nDIW Berlin specializing in the USA | gbaldi@diw.de\n\nNina Maria Brehl is a Doctoral Student in the Macroeconomics Department\nat DIW Berlin | nbrehl@diw.de\n\nHella Engerer is a Research Associate in the Energy, Transportation,\nEnvironment Department at DIW Berlin specializing in Central and Eastern\nEurope | hengerer@diw.de\n\nAngelina Hackmannis a Research Associate in the Macroeconomics\nDepartment at DIW Berlin | ahackmann@diw.de\n\nPia Hiittl is Head of the global economic forecast and a Research Associate in\nthe Macroeconomics Department at DIW Berlin | phuettl@diw.de\n\nKonstantin Kholodilin is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in estimating potential output and\nproduction | kkholodilin@diw.de\n\nFrederik Kurcz is a Research Associate in the Macroeconomics Department\nat DIW Berlin specializing in the euro area | fkurcz@diw.de",
+          "summarized_text": "The team at DIW Berlin comprises experts in macroeconomics, forecasting, and specialization in various regions and economic indicators. The team includes Head of Forecasting Geraldine Dany-Knedlik, specialist in the USA Guido Baldi, and Head of Global Economic Forecast Pia Hiittl, among others."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1329,
+            "y1": 358,
+            "x2": 2344,
+            "y2": 1275
+          },
+          "text": "Laura Pagenhardt is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in investments | lpagenhardt@diw.de\n\nWerner Roeger is a Guest Researcher in the Macroeconomics Department\nat DIW Berlin specializing in estimating potential output and macroeconomics\nmodeling | wroeger@diw.de\n\nMarie Rulliére is a Research Associate in the Macroeconomics Department\nat DIW Berlin specializing in the euro area | mrulliere@diw.de\n\nJan-Christopher Scherer is Head of the German economic forecast and\nResearch Associate in the Macroeconomics Department | jscherer@diw.de\n\nTeresa Schildmann is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in the German labor market and German\nfiscal policy | tschildmann@diw.de\n\nRuben Staffa is a Research Associate in the Macroeconomics Department\nat DIW Berlin specializing in the USA, German fiscal policy, and German foreign\ntrade | rstaffa@diw.de\n\nKristin Trautmann is a Research Associate in the Macroeconomics\nDepartment at DIW Berlin specializing in the euro area and European monetary\npolicy | ktrautmann@diw.de",
+          "summarized_text": "The Macroeconomics Department at DIW Berlin employs a team of research associates specializing in various areas such as investments, estimating potential output, the euro area, German labor market, fiscal policy, and European monetary policy. Contact them via their individual email addresses for more information."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "2023",
+                null,
+                null,
+                null,
+                "2024",
+                null,
+                null,
+                null,
+                "2025",
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "I",
+                "II",
+                "III",
+                "IV",
+                "I",
+                "II",
+                "III",
+                "IV",
+                "I",
+                "II",
+                "III",
+                "IV"
+              ],
+              [
+                "Private consumption",
+                "−0.7",
+                "0.3",
+                "0.0",
+                "0.4",
+                "−0.4",
+                "0.3",
+                "0.4",
+                "0.4",
+                "0.4",
+                "0.3",
+                "0.3",
+                "0.2"
+              ],
+              [
+                "Public consumption expenditure",
+                "−1.3",
+                "0.1",
+                "1.4",
+                "0.6",
+                "−0.4",
+                "0.3",
+                "0.1",
+                "0.2",
+                "0.2",
+                "0.4",
+                "0.4",
+                "0.3"
+              ],
+              [
+                "Gross capital formation",
+                "1.0",
+                "−0.1",
+                "0.1",
+                "−2.1",
+                "1.2",
+                "−0.5",
+                "−0.1",
+                "0.2",
+                "0.6",
+                "0.7",
+                "0.8",
+                "0.8"
+              ],
+              [
+                "Construction",
+                "1.5",
+                "−0.5",
+                "−0.7",
+                "−1.9",
+                "2.7",
+                "−0.9",
+                "−0.4",
+                "−0.1",
+                "0.4",
+                "0.6",
+                "0.6",
+                "0.7"
+              ],
+              [
+                "Equipment",
+                "1.9",
+                "0.7",
+                "1.4",
+                "−4.0",
+                "−0.2",
+                "−0.2",
+                "0.4",
+                "0.7",
+                "0.9",
+                "1.0",
+                "1.1",
+                "1.1"
+              ],
+              [
+                "Other investment",
+                "−1.6",
+                "0.0",
+                "0.3",
+                "0.7",
+                "−1.1",
+                "0.1",
+                "0.1",
+                "0.1",
+                "0.6",
+                "0.8",
+                "0.8",
+                "0.8"
+              ],
+              [
+                "Change in inventories1",
+                "−0.1",
+                "0.2",
+                "−0.6",
+                "−0.7",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0"
+              ],
+              [
+                "Domestic consumption",
+                "−0.5",
+                "0.4",
+                "−0.3",
+                "−0.8",
+                "0.0",
+                "0.1",
+                "0.2",
+                "0.3",
+                "0.4",
+                "0.4",
+                "0.4",
+                "0.4"
+              ],
+              [
+                "Net exports",
+                "0.8",
+                "−0.4",
+                "0.4",
+                "0.3",
+                "0.3",
+                "0.1",
+                "0.1",
+                "0.1",
+                "0.0",
+                "0.0",
+                "0.0",
+                "0.0"
+              ],
+              [
+                "Exports",
+                "0.5",
+                "−0.7",
+                "−0.9",
+                "−0.9",
+                "1.1",
+                "0.6",
+                "1.0",
+                "1.0",
+                "0.9",
+                "0.7",
+                "0.7",
+                "0.7"
+              ],
+              [
+                "Imports",
+                "−1.1",
+                "0.2",
+                "−1.8",
+                "−1.6",
+                "0.6",
+                "0.5",
+                "0.8",
+                "0.9",
+                "0.9",
+                "0.9",
+                "0.9",
+                "0.9"
+              ],
+              [
+                "GDP",
+                "0.3",
+                "−0.1",
+                "0.1",
+                "−0.5",
+                "0.2",
+                "0.2",
+                "0.3",
+                "0.4",
+                "0.4",
+                "0.4",
+                "0.3",
+                "0.3"
+              ],
+              [
+                "Gross value added",
+                "0.4",
+                "−0.1",
+                "0.1",
+                "−0.5",
+                "0.3",
+                "0.2",
+                "0.3",
+                "0.4",
+                "0.4",
+                "0.4",
+                "0.3",
+                "0.3"
+              ],
+              [
+                "Manufacturing",
+                "0.7",
+                "0.0",
+                "−1.1",
+                "−1.7",
+                "0.2",
+                "0.1",
+                "0.4",
+                "0.5",
+                "0.5",
+                "0.5",
+                "0.4",
+                "0.4"
+              ],
+              [
+                "Construction",
+                "3.2",
+                "0.1",
+                "0.0",
+                "−2.0",
+                "2.5",
+                "−0.8",
+                "−0.3",
+                "0.1",
+                "0.4",
+                "0.5",
+                "0.6",
+                "0.6"
+              ],
+              [
+                "Trade, hospitality, transport",
+                "−0.8",
+                "0.0",
+                "1.3",
+                "−1.3",
+                "0.4",
+                "0.4",
+                "0.6",
+                "0.6",
+                "0.6",
+                "0.5",
+                "0.4",
+                "0.4"
+              ],
+              [
+                "Professional services providers",
+                "−0.1",
+                "0.4",
+                "0.3",
+                "0.5",
+                "−0.4",
+                "0.3",
+                "0.4",
+                "0.4",
+                "0.4",
+                "0.4",
+                "0.4",
+                "0.3"
+              ],
+              [
+                "Public services, education, health",
+                "1.2",
+                "−0.5",
+                "0.1",
+                "0.2",
+                "1.1",
+                "0.3",
+                "0.3",
+                "0.2",
+                "0.2",
+                "0.2",
+                "0.2",
+                "0.2"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "blocks": [
+        {
+          "label": "graph",
+          "box": {
+            "x1": 0,
+            "y1": 0,
+            "x2": 0,
+            "y2": 0
+          },
+          "data": {
+            "table_0": [
+              [
+                "",
+                "2023",
+                "2024",
+                "2025"
+              ],
+              [
+                "GDP1",
+                "−0.2",
+                "0.3",
+                "1.3"
+              ],
+              [
+                "Employed2 (1,000 persons)",
+                "45,932",
+                "46,072",
+                "46,153"
+              ],
+              [
+                "Unemployed (1,000 persons)",
+                "2.609",
+                "2.731",
+                "2.608"
+              ],
+              [
+                "Unemployment rate3 (Federal Employment Agency\nconcept, in percent)",
+                "5.7",
+                "5.9",
+                "5.6"
+              ],
+              [
+                "Consumer prices4",
+                "5.9",
+                "2.3",
+                "2.0"
+              ],
+              [
+                "Unit labor costs5",
+                "6.6",
+                "4.6",
+                "2.4"
+              ],
+              [
+                "Government budget balance6",
+                "",
+                "",
+                ""
+              ],
+              [
+                "in billions of euros",
+                "−99.1",
+                "−82.8",
+                "−56.5"
+              ],
+              [
+                "in percent of nominal GDP",
+                "−2.4",
+                "−1.9",
+                "−1.3"
+              ],
+              [
+                "Current account balance",
+                "",
+                "",
+                ""
+              ],
+              [
+                "in billions of euros",
+                "243.1",
+                "321.9",
+                "351.9"
+              ],
+              [
+                "in percent of nominal GDP",
+                "5.9",
+                "7.6",
+                "8.0"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

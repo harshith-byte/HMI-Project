@@ -1,0 +1,1354 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 127,
+            "y1": 2080,
+            "x2": 1518,
+            "y2": 2296
+          },
+          "text": "Expanding long-term care insurance could\nreduce the gender care gap in Germany"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 182,
+            "y1": 2300,
+            "x2": 1521,
+            "y2": 2744
+          },
+          "text": "Study analyzes the correlation between gender care gaps and the\ncare systems in European countries\n\nGender inequalities and differences in employment are associated\nwith the gender care gap\n\nTo improve long-term care quality and to relieve caregiving relatives,\nGermany should invest more in formal care",
+          "summarized_text": "The study suggests that investing more in formal care in Germany could help improve long-term care quality and alleviate the burden on caregiving relatives. Addressing gender care gaps in the care systems of European countries could also help reduce inequalities in employment."
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "blocks": []
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 155,
+            "y1": 511,
+            "x2": 2326,
+            "y2": 822
+          },
+          "text": "Expanding long-term care insurance could reduce\nthe gender care gap in Germany\n\nBy Johannes Geyer, Peter Haan, and Mia Teschner"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 208,
+            "y1": 888,
+            "x2": 2302,
+            "y2": 1611
+          },
+          "text": "Study analyzes the correlation between gender care gaps and individual European care systems\nas well as gender inequality and labor markets\n\nGender care gap varies within Europe and is associated with the percentage expenditure on\nformal long-term care\n\nGender inequalities and differences in employment are associated with a higher gender care gap\nTo improve care quality and to relieve caregiving relatives, Germany should invest more in\nlong-term care quality\n\nTax and family policy incentives can help reduce inequality between men and women on the\nlabor market",
+          "summarized_text": "The study found that gender care gaps in Europe are influenced by expenditure on formal long-term care and gender inequalities in employment. Investing in long-term care quality and implementing tax and family policy incentives can help reduce these gaps and improve care quality."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 192,
+            "y1": 1806,
+            "x2": 2288,
+            "y2": 1930
+          },
+          "text": "A well-financed care system relieves caregiving relatives, especially women, and significantly reduces the\ngender care gap"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 192,
+            "y1": 1951,
+            "x2": 1060,
+            "y2": 2840
+          },
+          "data": {
+            "GenderCareGap": {
+              "description": "The difference between the shares of women and men providing informal care compared to the share of male caregivers.",
+              "calculationBase": "The gender care gap is 100 when women perform twice as often care work as men.",
+              "sources": [
+                "SHAREv6",
+                "Eurostat",
+                "authors' calculations"
+              ],
+              "countries": [
+                {
+                  "country": "Switzerland",
+                  "gap": {
+                    "women": 80,
+                    "men": 1.9
+                  }
+                },
+                {
+                  "country": "Sweden",
+                  "gap": {
+                    "women": 88,
+                    "men": 1.8
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1129,
+            "y1": 1918,
+            "x2": 2280,
+            "y2": 2873
+          },
+          "data": {
+            "Long-term in-patient care expenditure": {
+              "Share of GDP in percent": {
+                "Germany": {
+                  "Total Expenditure (billions)": 133,
+                  "Share of GDP (%)": 1.0
+                },
+                "Croatia": {
+                  "Total Expenditure (billions)": 231,
+                  "Share of GDP (%)": 0.2
+                },
+                "Greece": {
+                  "Total Expenditure (billions)": 195,
+                  "Share of GDP (%)": 0.1
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 150,
+            "y1": 556,
+            "x2": 2320,
+            "y2": 913
+          },
+          "text": "Expanding long-term care insurance could\nreduce the gender care gap in Germany"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 140,
+            "y1": 1221,
+            "x2": 448,
+            "y2": 1308
+          },
+          "text": "ABSTRACT"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 145,
+            "y1": 1337,
+            "x2": 1295,
+            "y2": 2698
+          },
+          "text": "In many European countries, men and women differ signifi-\ncantly in the amount of informal care work they provide\n\nfor relatives, with women acting as caregivers far more\nfrequently than men. This difference, known as the gender\ncare gap, varies considerably between European countries,\nwith Germany somewhere in the middle of the distribution.\nThis Weekly Report analyzes the institutional, societal, and\nlabor market factors that are related to the gender care gap\nacross European countries. The results show that the gap\n\nis smaller in countries that spend more on the formal care\nsystem. In addition, they show that the gender care gap tends\nto be larger in countries that exhibit high gender inequality\nand high inequality in labor market participation between\nmen and women. Thus, the results emphasize that the gender\npay gap correlates with government investments in health\ncare, the care system, and the labor market structure.\n\nTo reduce the gender care gap, expenditure on formal care\nshould be increased to relieve informal caregivers and\nimprove the quality of care in professional facilities. At the\nsame time, policymakers should use tax and family policy\nincentives to increase women’s workforce participation so that\n\npaid work and care work are more evenly distributed.",
+          "summarized_text": "In European countries, women provide significantly more informal care work than men, known as the gender care gap. The gender care gap is smaller in countries with higher investment in formal care systems, and larger in countries with high gender and labor market inequalities. Policymakers should increase expenditure on formal care and incentivize women's workforce participation to reduce the gender care gap."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1345,
+            "y1": 1196,
+            "x2": 2367,
+            "y2": 2570
+          },
+          "text": "One of the key future social and health policy challenges is\nthe increasing amount of people requiring care as society\nages. Currently, around five million people receive benefits\nfrom long-term care insurance in Germany and according\no current estimates, this figure will increase over the com-\ning decades.' The majority of people requiring care receive\ncare at home (83 percent). Nearly 14 percent of this majority\nbelong to Pflegegrad I (long-term care level I, “minor restric-\nion of independence”) and only receive minimal additional\nbenefits from long-term care insurance. Around 60 percent\nof people receiving care at home only receive a care allow-\nance (Pflegegeld), meaning they organize informal care with-\nout professional assistance.’ The other 25 percent of people\nrequiring care in their own home organize their care with the\nhelp of outpatient nursing and care services, which usually\nalso includes informal care provided by relatives.\n\nInformal care, especially without professional help, is time\nconsuming and frequently results in the caretaking rela-\ntives reducing or giving up paid employment or ending their\nsearch for paid employment. Like childcare, it is mainly\nwomen who provide informal care, interrupting their careers\no do so. The difference between the amount of informal\ncare work performed by men and women is known as the\ngender care gap in long-term care.* In this Weekly Report,\nthe shortened term gender care gap is used.°",
+          "summarized_text": "One of the key future social and health policy challenges is the increasing number of people requiring care as society ages, with informal care primarily provided by women, resulting in a gender care gap. Care at home is common, with most recipients organizing care themselves or with the help of outpatient services."
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 145,
+            "y1": 378,
+            "x2": 1157,
+            "y2": 2142
+          },
+          "text": "The gender care gap is a significant factor contributing to\nemployment and income inequality between men and wom-\nen.° This does not only apply to current income possibilities,\nbut also to the amount of future pension entitlements, as they\ndirectly depend on how much remuneration subject to pen-\nsion insurance a person has earned.’ The differences in pen-\nsion entitlements between women and men are often linked\nto gender differences in employment histories.*\n\nThe above-average number of women caring for relatives is\noften explained by labor market differences between the gen-\nders: Women frequently earn less and work fewer hours than\ntheir partner, so reducing their hours or quitting their job\nto perform caretaking duties reduces the household income\nless than if their partner were to work fewer hours or quit.\nSocial norms that regard care work as women’s work also\ncontribute to the gap. Moreover, the underlying care system\nmay be reinforcing the differences in informal care provided\nby women and men. For example, a strong welfare state that\nspends a significant amount on formal care offers, such as\noutpatient care services, adult daycare, or in-patient nursing\nhomes, can mitigate gender differences in informal care, as\ngenerally less informal care is needed.\n\nThis Weekly Report investigates how the gender care gap in\nGermany differs from the gap in other European countries.’\nIt also shows how the gender care gap correlates with govern-\nment spending on care as well as with the societal and labor\nmarket inequality between men and women. The analysis\nuses data from the Survey of Health, Ageing and Retirement\nin Europe (SHARE), which includes people aged 50 or older\nin 17 European countries. In addition to key socio-demo-\ngraphic indicators, the data contains detailed information on\ninformal care provided (Box on data and sample).”",
+          "summarized_text": "The gender care gap contributes to employment and income inequality, impacting pension entitlements. Women often provide more informal care due to lower earnings and societal norms, with varying effects based on government spending and labor market differences across European countries."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 163,
+            "y1": 2155,
+            "x2": 1149,
+            "y2": 2296
+          },
+          "text": "Women perform more care work than men in all\ncountries analyzed"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 151,
+            "y1": 2308,
+            "x2": 1147,
+            "y2": 2748
+          },
+          "text": "This Weekly Report only considers informal care work per-\nformed for someone outside of one’s own household—such\nas help with getting dressed, bathing or showering, eating\nmeals, getting in or out of bed, or using the toile-—when cal-\nculating the gender care gap. Caretaking duties performed\nfor one’s partner in one’s own household are not considered\nhere. The absolute difference between the shares of men\nand women acting as informal caregivers is adjusted for age",
+          "summarized_text": "The weekly report focuses on informal care work provided to individuals outside of one's own household, excluding caretaking responsibilities for one's partner at home. The gender care gap is calculated by adjusting the difference in the shares of men and women engaged in informal caregiving, taking age into consideration."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1170,
+            "y1": 2063,
+            "x2": 2180,
+            "y2": 3209
+          },
+          "text": "and level of education to make the statistics more compara-\nble (Box).\" These adjusted absolute differences are divided\nby the country-specific share of men acting as caregivers in\norder to calculate the respective relative gender care gaps.\n\nAlthough the gender care gap differs between countries, a\nclear trend emerges: In all countries, women perform more\ninformal care work than men (Figure 1). The gap is small-\nestin Portugal, Switzerland, and Sweden, where it is around\n60 to 90 percent. This means that women are 60 to 90 per-\ncent more likely than men to provide care, i.e., slightly less\nthan twice as often. The adjusted relative gender care gap\nis 200 percent or higher in the countries with the highest\ngaps, Luxembourg, Greece, and Croatia. Here, the share of\nwomen caregivers is three times as high as the share of men\ncaregivers. The gender care gap is 133 percent in Germany,\nmeaning women are twice as likely to care for relatives as\nmen. Thus, Germany is in the middle of the distribution of\nthe countries observed here.\n\nMost countries also have distinct gender differences in\nregard to the regularity and frequency with which men and",
+          "summarized_text": "Across various countries, women consistently perform more informal care work than men, with the gender care gap ranging from 60 to 90 percent in countries like Portugal, Switzerland, and Sweden, to over 200 percent in Luxembourg, Greece, and Croatia. In Germany, women are twice as likely as men to care for relatives, placing the country in the middle of the distribution of countries studied."
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1181,
+            "y1": 378,
+            "x2": 2392,
+            "y2": 1582
+          },
+          "data": {
+            "Average": 136,
+            "Countries": {
+              "Portugal": 63,
+              "Switzerland": 80,
+              "Sweden": 88,
+              "Italy": 116,
+              "Belgium": 117,
+              "Poland": 120,
+              "Spain": 121,
+              "Czechia": 121,
+              "France": 122,
+              "Slovenia": 128,
+              "Germany": 133,
+              "Austria": 149,
+              "Denmark": 163,
+              "Estonia": 171,
+              "Luxembourg": 186,
+              "Greece": 195,
+              "Croatia": 231
+            }
+          }
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 82,
+            "y1": 399,
+            "x2": 1176,
+            "y2": 536
+          },
+          "text": "Figure 2\n\nFrequency of informal care work by country and gender"
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 277,
+            "y1": 606,
+            "x2": 673,
+            "y2": 768
+          },
+          "text": "Northern/Eastern Europe"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 106,
+            "y1": 1465,
+            "x2": 857,
+            "y2": 2943
+          },
+          "data": {
+            "Sweden": {
+              "Men": {
+                "Yellow": 3.5,
+                "Teal": 7
+              },
+              "Women": {
+                "Yellow": 2.5,
+                "Teal": 7.5
+              }
+            },
+            "Denmark": {
+              "Men": {
+                "Yellow": 4,
+                "Teal": 6.5
+              },
+              "Women": {
+                "Yellow": 3.5,
+                "Teal": 6.5
+              }
+            },
+            "Czechia": {
+              "Men": {
+                "Yellow": 1.5,
+                "Teal": 7
+              },
+              "Women": {
+                "Yellow": 2,
+                "Teal": 8
+              }
+            },
+            "Poland": {
+              "Men": {
+                "Yellow": 1.5,
+                "Teal": 8.5
+              },
+              "Women": {
+                "Yellow": 2,
+                "Teal": 8.5
+              }
+            },
+            "Estonia": {
+              "Men": {
+                "Yellow": 2,
+                "Teal": 4.5
+              },
+              "Women": {
+                "Yellow": 1,
+                "Teal": 5.5
+              }
+            }
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1112,
+            "y1": 635,
+            "x2": 1411,
+            "y2": 731
+          },
+          "text": "Southern Europe"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 883,
+            "y1": 1362,
+            "x2": 1617,
+            "y2": 2906
+          },
+          "data": {
+            "Spain": {
+              "Men": [
+                {
+                  "color": "teal",
+                  "value": 7.5
+                },
+                {
+                  "color": "yellow",
+                  "value": 1.5
+                }
+              ],
+              "Women": [
+                {
+                  "color": "teal",
+                  "value": 5
+                },
+                {
+                  "color": "yellow",
+                  "value": 2
+                }
+              ]
+            },
+            "Italy": {
+              "Men": [
+                {
+                  "color": "teal",
+                  "value": 4.5
+                },
+                {
+                  "color": "yellow",
+                  "value": 4
+                }
+              ],
+              "Women": [
+                {
+                  "color": "teal",
+                  "value": 7
+                },
+                {
+                  "color": "yellow",
+                  "value": 2
+                }
+              ]
+            },
+            "Greece": {
+              "Men": [
+                {
+                  "color": "teal",
+                  "value": 1.5
+                },
+                {
+                  "color": "yellow",
+                  "value": 1
+                }
+              ],
+              "Women": [
+                {
+                  "color": "teal",
+                  "value": 3
+                },
+                {
+                  "color": "yellow",
+                  "value": 1
+                }
+              ]
+            },
+            "Portugal": {
+              "Men": [
+                {
+                  "color": "teal",
+                  "value": 4
+                },
+                {
+                  "color": "yellow",
+                  "value": 1.5
+                }
+              ],
+              "Women": [
+                {
+                  "color": "teal",
+                  "value": 5
+                },
+                {
+                  "color": "yellow",
+                  "value": 2
+                }
+              ]
+            },
+            "Slovenia": {
+              "Men": [
+                {
+                  "color": "teal",
+                  "value": 2
+                },
+                {
+                  "color": "yellow",
+                  "value": 1
+                }
+              ],
+              "Women": [
+                {
+                  "color": "teal",
+                  "value": 4
+                },
+                {
+                  "color": "yellow",
+                  "value": 2
+                }
+              ]
+            },
+            "Croatia": {
+              "Men": [
+                {
+                  "color": "teal",
+                  "value": 2
+                },
+                {
+                  "color": "yellow",
+                  "value": 1
+                }
+              ],
+              "Women": [
+                {
+                  "color": "teal",
+                  "value": 5.5
+                },
+                {
+                  "color": "yellow",
+                  "value": 1.5
+                }
+              ]
+            }
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1851,
+            "y1": 598,
+            "x2": 2143,
+            "y2": 764
+          },
+          "text": "Western Europe"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1634,
+            "y1": 1374,
+            "x2": 2383,
+            "y2": 2985
+          },
+          "data": {
+            "Austria": {
+              "Men": {
+                "Blue": 2,
+                "Yellow": 7
+              },
+              "Women": {
+                "Blue": 1,
+                "Yellow": 6
+              }
+            },
+            "Germany": {
+              "Men": {
+                "Blue": 4,
+                "Yellow": 5
+              },
+              "Women": {
+                "Blue": 3,
+                "Yellow": 4
+              }
+            },
+            "France": {
+              "Men": {
+                "Blue": 1,
+                "Yellow": 3
+              },
+              "Women": {
+                "Blue": 1,
+                "Yellow": 2
+              }
+            },
+            "Switzerland": {
+              "Men": {
+                "Blue": 3,
+                "Yellow": 1
+              },
+              "Women": {
+                "Blue": 1,
+                "Yellow": 1
+              }
+            },
+            "Belgium": {
+              "Men": {
+                "Blue": 2,
+                "Yellow": 6
+              },
+              "Women": {
+                "Blue": 1,
+                "Yellow": 4
+              }
+            },
+            "Luxembourg": {
+              "Men": {
+                "Blue": 1,
+                "Yellow": 3
+              },
+              "Women": {
+                "Blue": 1,
+                "Yellow": 2
+              }
+            }
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 101,
+            "y1": 3043,
+            "x2": 2259,
+            "y2": 3143
+          },
+          "text": "Women are considerably more likely to perform care work on a daily and weekly basis, although there are differences between the individual countries.",
+          "summarized_text": "Women are more likely to engage in daily and weekly care work compared to men, with variations seen across different countries."
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "label": "body",
+          "box": {
+            "x1": 166,
+            "y1": 374,
+            "x2": 1137,
+            "y2": 1142
+          },
+          "text": "women perform care work (Figure 2). In many countries,\nwomen are significantly more likely to provide daily care\nthan men. In Portugal, Greece, and Denmark, women are\naround three times as likely as men to provide care on a daily\nbasis. The considerable gender differences in these countries\nare often also evident in terms of weekly care. The share of\nwomen and men who provide care on a daily basis is about\nthe same in only a few countries, such as Sweden, France,\nor Poland. However, gender differences in weekly care are\noften significantly higher in these countries, resulting in a\npositive gender care gap (see Figure 1). In Germany, women\nare around twice as likely as men to provide care ona daily\nbasis and around three times as likely to provide care on a\nweekly basis.",
+          "summarized_text": "Women in many countries, including Portugal, Greece, and Denmark, are significantly more likely than men to provide daily care, with gender differences also evident in weekly care. Gender differences in care provision are less pronounced in countries like Sweden, France, and Poland, but still result in a positive gender care gap. In Germany, women are roughly twice as likely as men to provide daily care and three times as likely to provide care on a weekly basis."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 168,
+            "y1": 1162,
+            "x2": 1139,
+            "y2": 1270
+          },
+          "text": "The care system influences the gender care gap"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 166,
+            "y1": 1254,
+            "x2": 1139,
+            "y2": 2242
+          },
+          "text": "Taking a closer look, systematic regional differences are\nnoticeable: While informal care is performed less fre-\nquently overall in Northern and Eastern European coun-\ntries (Figure 2, left), itis performed more frequently overall in\nSouthern and Western European countries (Figure 2, center\nand right), where the gender care gap is often larger. In the\ncountries where a lot of informal care is provided, women\nare frequently performing the care work. This suggests that\nwomen perform a large share of private, informal care work.\nGermany is in the middle of the distribution here as well.\n\nTo capture country-specific differences in the care systems,\nthis Weekly Report considers the respective expenditure on\nlong-term care, both overall as well as on in-patient care in\nprofessional facilities (Table in Box). Higher proportional\nexpenditure on care is interpreted as an indicator of a bet-\nter care system. In particular, expenditure on inpatient care\nindicates a pronounced formal care sector that can relieve\ncaregiving relatives.",
+          "summarized_text": "Systematic regional differences in informal care are noticeable, with Northern and Eastern European countries performing less informal care compared to Southern and Western European countries. Women are often responsible for a large share of informal care work in countries where it is provided frequently. Countries with higher expenditure on long-term care, especially in professional facilities, are seen as having better care systems."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 164,
+            "y1": 2258,
+            "x2": 1144,
+            "y2": 2391
+          },
+          "text": "Countries with higher care expenditure have lower\ngender care gaps"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 163,
+            "y1": 2408,
+            "x2": 1141,
+            "y2": 3259
+          },
+          "text": "The results of the analysis (Figure 3) show that the gen-\nder care gap is smaller in countries that spend more over-\nall on formal long-term care, such as Sweden, Belgium,\nor Switzerland. In contrast, countries with comparatively\nlarger gender care gaps, such as Croatia or Greece, spend\nless on long-term care. Germany is again in the middle in\nboth dimensions. This correlation becomes even more clear\nwhen only viewing expenditure on long-term in-patient care\ninstead of total expenditure on long-term care. While nearly\ntwo percent of GDP is spent on in-patient care in Sweden and\nSwitzerland, Greece and Croatia spend only 0.07 and 0.15 per-\ncent each. Germany spends around one percent of its GDP\non long-term in-patient care, again landing it in the middle\nof the distribution compared to other European countries.\n\nWhen comparing the differences in in-patient care expend-\niture to the gender care gaps in the respective countries, a",
+          "summarized_text": "Countries that spend more on formal long-term in-patient care, like Sweden and Switzerland, tend to have smaller gender care gaps. Conversely, countries with lower expenditure on in-patient care, such as Croatia and Greece, have larger gender care gaps. Germany falls in the middle in terms of both expenditure and gender care gap."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1171,
+            "y1": 2105,
+            "x2": 2149,
+            "y2": 2549
+          },
+          "text": "informal care can be observed in countries with more expend-\niture on long-term in-patient care (Figure 4}. At the coun-\ntry level, this result reflects the fact that a stronger formal\ncare system relieves caregiving relatives, especially women.\nHowever, it is questionable if this contributes to general\ngender equality, as there is a large share of women working\nin the professional care sector, where careers are frequently\ncomparatively low paid.”",
+          "summarized_text": "Countries with higher expenditure on long-term in-patient care tend to have more informal caregiving arrangements, which can help relieve caregiving burdens on women. However, this may not necessarily lead to gender equality given the low pay in the professional care sector dominated by women."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1166,
+            "y1": 2553,
+            "x2": 2159,
+            "y2": 2678
+          },
+          "text": "Gender care cap is lower when gender inequality\nis low"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1163,
+            "y1": 2723,
+            "x2": 2157,
+            "y2": 3163
+          },
+          "text": "The Gender Inequality Index (GED) 1s used to investigate the\ncorrelation between the gender care cap and general gender\ninequality in the countries analyzed (Table in Box). The GEI\nincludes different domains of inequality that are summarized\ninto a single index between 1 (total inequality) and 100 (total\nequality). The results show that the gender care gap is smaller\nin countries with higher gender equality across the different\ndomains (Figure 5).” This correlation is clear in countries",
+          "summarized_text": "Countries with higher gender equality across various domains tend to have smaller gender care gaps. This suggests a correlation between gender equality and the level of care responsibilities that individuals from different genders are expected to take on. This highlights the importance of addressing gender inequality in order to reduce disparities in caregiving responsibilities."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1163,
+            "y1": 415,
+            "x2": 2225,
+            "y2": 693
+          },
+          "text": "Figure 3\n\nAdjusted gender care gap and relative long-term\ncare expenditure\nGender Care Gap in percent, expenditure in percent of GDP"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1165,
+            "y1": 697,
+            "x2": 2344,
+            "y2": 1499
+          },
+          "data": {
+            "data": [
+              {
+                "country": "Croatia",
+                "long_term_care_expenditure": 0.0,
+                "gender_care_gap": 250
+              },
+              {
+                "country": "Greece",
+                "long_term_care_expenditure": 0.25,
+                "gender_care_gap": 200
+              },
+              {
+                "country": "Estonia",
+                "long_term_care_expenditure": 0.5,
+                "gender_care_gap": 175
+              },
+              {
+                "country": "Luxembourg",
+                "long_term_care_expenditure": 0.75,
+                "gender_care_gap": 200
+              },
+              {
+                "country": "Poland",
+                "long_term_care_expenditure": 0.25,
+                "gender_care_gap": 175
+              },
+              {
+                "country": "Slovenia",
+                "long_term_care_expenditure": 0.75,
+                "gender_care_gap": 150
+              },
+              {
+                "country": "Spain",
+                "long_term_care_expenditure": 0.75,
+                "gender_care_gap": 150
+              },
+              {
+                "country": "Czechia",
+                "long_term_care_expenditure": 0.75,
+                "gender_care_gap": 150
+              },
+              {
+                "country": "Italy",
+                "long_term_care_expenditure": 0.75,
+                "gender_care_gap": 150
+              },
+              {
+                "country": "Austria",
+                "long_term_care_expenditure": 1.5,
+                "gender_care_gap": 150
+              },
+              {
+                "country": "Germany",
+                "long_term_care_expenditure": 2.0,
+                "gender_care_gap": 125
+              },
+              {
+                "country": "France",
+                "long_term_care_expenditure": 1.75,
+                "gender_care_gap": 125
+              },
+              {
+                "country": "Belgium",
+                "long_term_care_expenditure": 2.25,
+                "gender_care_gap": 100
+              },
+              {
+                "country": "Denmark",
+                "long_term_care_expenditure": 2.75,
+                "gender_care_gap": 100
+              },
+              {
+                "country": "Sweden",
+                "long_term_care_expenditure": 2.75,
+                "gender_care_gap": 75
+              },
+              {
+                "country": "Switzerland",
+                "long_term_care_expenditure": 1.75,
+                "gender_care_gap": 50
+              },
+              {
+                "country": "Portugal",
+                "long_term_care_expenditure": 0.0,
+                "gender_care_gap": 50
+              }
+            ]
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1163,
+            "y1": 1524,
+            "x2": 2354,
+            "y2": 1781
+          },
+          "text": "Note: The line shown indicates the correlation between the adjusted gender care gap and relative expenditure on\nlong-term care (measured as a percentage of GDP) based on a regression analysis. The correlation is significant at\nthe ten percent level.\n\nLegend: There are significant gender differences in private informal care in countries in which the relative amount\nspent on long-term care is low, such as Croatia or Greece.\n\nCrurroc CUADEvS: Coractat ositharc raleiudatianc",
+          "summarized_text": "There is a significant correlation between the adjusted gender care gap and relative expenditure on long-term care in countries. Gender differences in private informal care are more pronounced in countries with lower relative amounts spent on long-term care such as Croatia and Greece."
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 90,
+            "y1": 403,
+            "x2": 1278,
+            "y2": 681
+          },
+          "text": "Figure 4\n\nAdjusted gender care gap and relative long-term in-patient\ncare expenditure\nGender Care Gap in percent, expenditure in percent of GDP"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 98,
+            "y1": 685,
+            "x2": 1287,
+            "y2": 1528
+          },
+          "data": {
+            "countries": [
+              {
+                "name": "Portugal",
+                "in_patient_care_expenditure": 0,
+                "gender_care_gap": 50
+              },
+              {
+                "name": "Croatia",
+                "in_patient_care_expenditure": 0,
+                "gender_care_gap": 240
+              },
+              {
+                "name": "Greece",
+                "in_patient_care_expenditure": 0.25,
+                "gender_care_gap": 220
+              },
+              {
+                "name": "Luxembourg",
+                "in_patient_care_expenditure": 0.65,
+                "gender_care_gap": 200
+              },
+              {
+                "name": "Estonia",
+                "in_patient_care_expenditure": 0.5,
+                "gender_care_gap": 200
+              },
+              {
+                "name": "Denmark",
+                "in_patient_care_expenditure": 0.75,
+                "gender_care_gap": 185
+              },
+              {
+                "name": "Austria",
+                "in_patient_care_expenditure": 0.35,
+                "gender_care_gap": 160
+              },
+              {
+                "name": "Poland",
+                "in_patient_care_expenditure": 0.3,
+                "gender_care_gap": 130
+              },
+              {
+                "name": "Slovenia",
+                "in_patient_care_expenditure": 0.35,
+                "gender_care_gap": 130
+              },
+              {
+                "name": "Italy",
+                "in_patient_care_expenditure": 0.35,
+                "gender_care_gap": 130
+              },
+              {
+                "name": "Spain",
+                "in_patient_care_expenditure": 0.35,
+                "gender_care_gap": 120
+              },
+              {
+                "name": "Germany",
+                "in_patient_care_expenditure": 0.75,
+                "gender_care_gap": 150
+              },
+              {
+                "name": "Czechia",
+                "in_patient_care_expenditure": 0.5,
+                "gender_care_gap": 125
+              },
+              {
+                "name": "France",
+                "in_patient_care_expenditure": 1,
+                "gender_care_gap": 135
+              },
+              {
+                "name": "Belgium",
+                "in_patient_care_expenditure": 1,
+                "gender_care_gap": 130
+              },
+              {
+                "name": "Sweden",
+                "in_patient_care_expenditure": 2,
+                "gender_care_gap": 70
+              },
+              {
+                "name": "Switzerland",
+                "in_patient_care_expenditure": 2.5,
+                "gender_care_gap": 55
+              }
+            ]
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1369,
+            "y1": 407,
+            "x2": 2391,
+            "y2": 731
+          },
+          "text": "Figure 5\n\nAdjusted gender care gap and the Gender\n\nEquality Index\n\nGender care gap in percent, Gender Equality Index of 1\n(complete inequality) to 100 (complete equality)"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1371,
+            "y1": 747,
+            "x2": 2384,
+            "y2": 1561
+          },
+          "data": {
+            "countries": [
+              {
+                "name": "Croatia",
+                "Gender Equality Index": 60,
+                "Gender Care Gap": 220
+              },
+              {
+                "name": "Greece",
+                "Gender Equality Index": 52,
+                "Gender Care Gap": 210
+              },
+              {
+                "name": "Estonia",
+                "Gender Equality Index": 55,
+                "Gender Care Gap": 170
+              },
+              {
+                "name": "Austria",
+                "Gender Equality Index": 70,
+                "Gender Care Gap": 170
+              },
+              {
+                "name": "Czechia",
+                "Gender Equality Index": 55,
+                "Gender Care Gap": 150
+              },
+              {
+                "name": "Poland",
+                "Gender Equality Index": 60,
+                "Gender Care Gap": 140
+              },
+              {
+                "name": "Germany",
+                "Gender Equality Index": 75,
+                "Gender Care Gap": 145
+              },
+              {
+                "name": "Italy",
+                "Gender Equality Index": 65,
+                "Gender Care Gap": 138
+              },
+              {
+                "name": "Luxembourg",
+                "Gender Equality Index": 75,
+                "Gender Care Gap": 130
+              },
+              {
+                "name": "Denmark",
+                "Gender Equality Index": 80,
+                "Gender Care Gap": 125
+              },
+              {
+                "name": "Slovenia",
+                "Gender Equality Index": 75,
+                "Gender Care Gap": 123
+              },
+              {
+                "name": "Spain",
+                "Gender Equality Index": 75,
+                "Gender Care Gap": 120
+              },
+              {
+                "name": "Belgium",
+                "Gender Equality Index": 75,
+                "Gender Care Gap": 118
+              },
+              {
+                "name": "France",
+                "Gender Equality Index": 73,
+                "Gender Care Gap": 112
+              },
+              {
+                "name": "Sweden",
+                "Gender Equality Index": 83,
+                "Gender Care Gap": 75
+              },
+              {
+                "name": "Portugal",
+                "Gender Equality Index": 58,
+                "Gender Care Gap": 90
+              }
+            ]
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 330,
+            "y1": 2092,
+            "x2": 1342,
+            "y2": 3072
+          },
+          "text": "such as Croatia, Greece, and Estonia: Each country’s GEI\nis around 50, which indicates high gender inequality com-\npared to the other countries. In these three countries, the\ngender care gap is over 170 percent. The counterexample is\nSweden: It has the highest GEI (83) together with the third\nsmallest gender care gap (88 percent). Germany, again, is in\nthe middle of the distribution with a GEI of 66 and a gen-\nder care gap of around 133 percent. However, there are also\nexceptions to this correlation. For example, Portugal has a\nsmaller gender pay gap but a lower Gender Equality Index.\nSuch exceptions show that inequality in informal caretak-\ning duties between men and women can also be driven by\nother factors that are not included in the GEI (Table in Box).\n\nOne other important gender difference is employment rate\ninequality. The correlation between the gender care gap\nand differences in employment patterns between men and\nwomen are thus illustrated separately (Figure 6).",
+          "summarized_text": "Countries like Croatia, Greece, and Estonia have high gender inequality as indicated by their Gender Equality Index (GEI) of around 50 and a gender care gap over 170 percent. Sweden stands out with a high GEI of 83 and a smaller gender care gap of 88 percent, showing a different trend. Germany falls in the middle with a GEI of 66 and a gender care gap of around 133 percent, demonstrating variations in gender equality across countries."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 327,
+            "y1": 3064,
+            "x2": 1329,
+            "y2": 3197
+          },
+          "text": "Women’s labor market participation depends on\ninformal care work"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 329,
+            "y1": 3205,
+            "x2": 1345,
+            "y2": 3263
+          },
+          "text": "The lower the number of women employed in a country,",
+          "summarized_text": "Low employment rates of women in a country indicate gender inequality in the workforce. This can result in economic disadvantages for both women and the country as a whole. Increasing female employment can lead to greater economic growth and opportunities."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1352,
+            "y1": 2192,
+            "x2": 2344,
+            "y2": 3255
+          },
+          "text": "of men is proportionally higher than that of women (Table\nin Box). This fact correlates positively with care work: The\nlarger the relative difference in the employment rate between\nmen and women, the larger the gender care gap. This cor-\nrelation is especially clear when looking at Greece, Sweden,\nPortugal, and Switzerland. In Greece, the gender employ-\nment rate gap is 30 percent. At the same time, women in\nGreece are three times as likely as men to perform informal\ncare work, which is a gender care gap of nearly 200 percent.\nIn contrast, women are less than twice as likely to perform\ncare work as men—a gender care gap of less than 100 per-\ncent—in Sweden, Portugal, and Switzerland, where the dif-\nference in the employment rate is a maximum of 11 percent.\nAgain, Germany is in the middle of the distribution here:\nThe relative gender difference in the employment rate is\naround ten percent with a gender care gap of around 133 per-\ncent. These results confirm, as expected, that gender dif-\nferences in the labor market are reflected in gender differ-\nences in informal care work and that these two factors can\nbe mutually dependent.",
+          "summarized_text": "The higher the difference in employment rates between men and women, the larger the gender care gap, as seen in countries like Greece, Sweden, Portugal, and Switzerland. This correlation highlights how gender differences in the labor market are mirrored in informal care work, with women being more likely to perform care work when there is a significant gap in employment rates."
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 159,
+            "y1": 486,
+            "x2": 549,
+            "y2": 565
+          },
+          "text": "Data and sampling"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 159,
+            "y1": 594,
+            "x2": 1125,
+            "y2": 893
+          },
+          "text": "This Weekly Report is based on Wave 6 (survey year 2015) of the\nSurvey of Health, Ageing and Retirement in Europe (SHARE).'\nThe sample is limited to respondents of at least 50 years of age.’\n\nThis is done in order to investigate long-term care for adults and\nto distinguish it from childcare.",
+          "summarized_text": "The report is based on data from Wave 6 (2015) of SHARE and focuses on long-term care for adults aged 50 and above. The survey excludes respondents below 50 years of age in order to differentiate between long-term care and childcare."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 155,
+            "y1": 905,
+            "x2": 652,
+            "y2": 984
+          },
+          "text": "Definition of care work"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 153,
+            "y1": 1001,
+            "x2": 1150,
+            "y2": 2084
+          },
+          "text": "In this study, only personal care (e.g., help with getting dressed,\nbathing or showering, eating meals, getting in or out of bed, using\nthe toilet) provided outside a person's household and within the\nlast twelve months prior to the survey is considered care work.\nCare work provided within one’s own household is not considered\nas care work here, as both forms are captured differently in the\ndata and are thus not comparable.’ Care provided by partners liv-\ning in the household is therefore not included. Other types of help\nprovided for relatives or acquaintances, such as assistance with\ngardening or administrative matters, are not captured. On the one\nhand, this delineation clearly defines care as personal care support\nfor another person and, on the other, ensures comparability with\nformal care services, such as care provided by an outpatient care\nservice. The gender care gap is often calculated in the literature\nbased on the number of hours spent caring for relatives daily.* The\nunderlying database does not contain any information on the daily\nuse of time (hours) spent on providing personal care. This Weekly\nReport therefore measures whether the respondent states that\nthey provide personal care for relatives (outside their household).\nThe SHARE data also records whether personal care is provided\ndaily, weekly, or less frequently.",
+          "summarized_text": "Care work in this study is defined as personal care provided outside a person's household within the last twelve months, excluding care within one's own household. The study focuses on personal care support for others, such as getting dressed or eating, and aims to ensure comparability with formal care services. The gender care gap is often calculated based on daily hours spent on care, but the underlying database does not contain this information."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1162,
+            "y1": 569,
+            "x2": 1455,
+            "y2": 689
+          },
+          "text": "Methodology"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1166,
+            "y1": 702,
+            "x2": 2207,
+            "y2": 1540
+          },
+          "text": "The gender care gap describes the relative difference in the shares\nof women and of men providing informal care. In the first step,\ncountry-specific, cross-sectionally weighted regressions are used\nto calculate the absolute differences in the shares of men and\nwomen providing informal care, controlling for age and the level of\neducation. These are then divided by the country-specific, weight-\ned share of all men providing care in order to calculate the relative\ngender care gap. The larger this gender care gap, the greater the\ngender inequality in the provision of informal care.\n\nIn the second step, this relative gender care gap is regressed in-\ndividually on the various country characteristics to investigate\n\nthe respective statistical correlations between the gender care gap\nand various indicators of the national labor market and care sys-\ntem (Table in Box). As with the SHARE data, information from 2015\nis used for the indicators.",
+          "summarized_text": "The gender care gap is calculated by comparing the shares of men and women providing informal care in different countries. A larger gap indicates greater gender inequality in care provision. This data is then analyzed to determine correlations with national labor market and care system indicators."
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 1166,
+            "y1": 1536,
+            "x2": 2056,
+            "y2": 1681
+          },
+          "text": "Table\n\nCare system and gender inequality indicators"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 1168,
+            "y1": 1698,
+            "x2": 2392,
+            "y2": 2474
+          },
+          "data": {
+            "indicators": [
+              {
+                "name": "Relative expenditure on long-term care (2015)",
+                "description": [
+                  "Total expenditure on long-term care",
+                  "Percentage share of expenditure of GDP"
+                ]
+              },
+              {
+                "name": "Relative expenditure on in-patient long-term care (2015)",
+                "description": [
+                  "Total expenditure on long-term in-patient care (care in-patient facilities)",
+                  "Percentage share of expenditure of GDP"
+                ]
+              },
+              {
+                "name": "Gender Equality Index (2017)",
+                "description": [
+                  "Index measures gender inequalities in different domains (work, money, knowledge, time, power, and health) and summarizes these domains into one index",
+                  "Index value is between 1 (total inequality) and 100 (total equality)",
+                  "Low value = high gender inequality",
+                  "High value = low gender inequality",
+                  "Index from 2017 based on data from 2015"
+                ]
+              },
+              {
+                "name": "Relative gender differences in the employment rate (2015)",
+                "description": [
+                  "Absolute difference in employment rate between men and women compared to the employment rate of men",
+                  "Positive gap = average employment rate of men is higher than that of women",
+                  "Employment rate = share of employed persons in the entire population (from ages 15 to 64)"
+                ]
+              }
+            ],
+            "table_0": [
+              [
+                "Indicator (year used)",
+                "Description and notes"
+              ],
+              [
+                "Relative expenditure on\nlong-term care (2015)",
+                "• Total expenditure on long-term care\n• Percentage share of expenditure of GDP"
+              ],
+              [
+                "Relative expenditure on in-patient\nlong-term care (2015)",
+                "• Total expenditure on long-term in-patient care (care in-patient facilities)\n• Percentage share of expenditure of GDP"
+              ],
+              [
+                "Gender Equality Index (2017)",
+                "• Index measures gender inequalities in different domains (work, money,\nknowledge, time, power, and health) and summarizes these domains into\none index\n• Index value is between 1 (total inequality) and 100 (total equality)\n• Low value = high gender inequality\n• High value = low gender inequality\n• Index from 2017 based on data from 2015"
+              ],
+              [
+                "Relative gender differences in the\nemployment rate (2015)",
+                "• Absolute difference in employment rate between men and women\ncompared to the employment rate of men\n• Positive gap = average employment rate of men is higher than that\nof women\n• Employment rate = share of employed persons in the entire population\n(from ages 15 to 64)"
+              ]
+            ]
+          }
+        },
+        {
+          "label": "title",
+          "box": {
+            "x1": 159,
+            "y1": 2744,
+            "x2": 1154,
+            "y2": 2964
+          },
+          "text": "Conclusion: Investing more in the care\nsystem and more men performing care work\ncould reduce inequality"
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 155,
+            "y1": 2968,
+            "x2": 1154,
+            "y2": 3255
+          },
+          "text": "Women perform significantly more informal care work than\nmen in all European countries investigated in this Weekly\nReport using SHARE data. However, there are important\ndifferences between the countries that are related to both\nexpenditure on the formal care system and gender inequal-\nitv: The more spent on formal care, the smaller the gender",
+          "summarized_text": "Women in all European countries studied perform more informal care work than men, with differences in gender inequality and formal care expenditure affecting this trend. Countries with higher investments in formal care tend to have smaller gender disparities in informal caregiving responsibilities."
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1170,
+            "y1": 2711,
+            "x2": 2189,
+            "y2": 3267
+          },
+          "text": "Germany can learn from its neighbors with lower gender\ncare gaps: In an international comparison, it is in the mid-\ndle of the distribution when it comes to expenditure on for-\nmal care, gender inequality, and the gender care gap.\n\nGermany should invest more in formal care to increase\nthe number and quality of care offers as well as to reduce\nthe amount of informal care that relatives must provide.\nCurrently, baby boomers are providing most informal care.\nThis will change in the future and in the medium term when",
+          "summarized_text": "Germany should increase investment in formal care to reduce the gender care gap and gender inequality. Baby boomers currently provide most informal care, but this will change in the future as the need for care services grows."
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "blocks": [
+        {
+          "label": "title",
+          "box": {
+            "x1": 87,
+            "y1": 403,
+            "x2": 1295,
+            "y2": 623
+          },
+          "text": "Figure 6\n\nAdjusted gender care gap and relative gender employment gap\nIn percent"
+        },
+        {
+          "label": "graph",
+          "box": {
+            "x1": 89,
+            "y1": 627,
+            "x2": 1287,
+            "y2": 1461
+          },
+          "data": {
+            "data": [
+              {
+                "country": "Luxembourg",
+                "relative_gender_employment_gap": 35,
+                "gender_care_gap": 210
+              },
+              {
+                "country": "Greece",
+                "relative_gender_employment_gap": 35,
+                "gender_care_gap": 240
+              },
+              {
+                "country": "Estonia",
+                "relative_gender_employment_gap": 5,
+                "gender_care_gap": 190
+              },
+              {
+                "country": "Denmark",
+                "relative_gender_employment_gap": 7,
+                "gender_care_gap": 170
+              },
+              {
+                "country": "Austria",
+                "relative_gender_employment_gap": 15,
+                "gender_care_gap": 160
+              },
+              {
+                "country": "Germany",
+                "relative_gender_employment_gap": 10,
+                "gender_care_gap": 130
+              },
+              {
+                "country": "France",
+                "relative_gender_employment_gap": 11,
+                "gender_care_gap": 130
+              },
+              {
+                "country": "Slovenia",
+                "relative_gender_employment_gap": 13,
+                "gender_care_gap": 135
+              },
+              {
+                "country": "Belgium",
+                "relative_gender_employment_gap": 11,
+                "gender_care_gap": 130
+              },
+              {
+                "country": "Spain",
+                "relative_gender_employment_gap": 15,
+                "gender_care_gap": 140
+              },
+              {
+                "country": "Poland",
+                "relative_gender_employment_gap": 15,
+                "gender_care_gap": 145
+              },
+              {
+                "country": "Czechia",
+                "relative_gender_employment_gap": 20,
+                "gender_care_gap": 150
+              },
+              {
+                "country": "Italy",
+                "relative_gender_employment_gap": 30,
+                "gender_care_gap": 170
+              },
+              {
+                "country": "Sweden",
+                "relative_gender_employment_gap": 5,
+                "gender_care_gap": 100
+              },
+              {
+                "country": "Switzerland",
+                "relative_gender_employment_gap": 7,
+                "gender_care_gap": 110
+              },
+              {
+                "country": "Portugal",
+                "relative_gender_employment_gap": 5,
+                "gender_care_gap": 90
+              }
+            ]
+          }
+        },
+        {
+          "label": "body",
+          "box": {
+            "x1": 1339,
+            "y1": 378,
+            "x2": 2357,
+            "y2": 1669
+          },
+          "text": "performed, inequality could be reduced by further expand-\ning the care system. One current issue is the growing short-\nage of skilled workers in the formal care sector. According to\nFederal Statistical Office projections, the expected number\nof care workers in 2049 will be at least 280,000 fewer than\nthe expected demand. A shortage of skilled workers causes\nthe quality of care provided to suffer. Sufficient personnel at\ncare facilities is also a condition for relieving informal care-\ngivers and thus decreasing the gender care gap.\n\nIt is important to mobilize more men for informal care to\nreduce inequality in care work. However, this is likely a very\nlong-term goal, as can also be seen, for example, with paren-\ntal benefits (Elterngeld), where resounding success in increas-\ning parity in childcare has still not occurred. For more equal-\nity in long-term care, it is crucial to reduce labor market\ninequality between men and women. There are prominent\nproposals for achieving this goal, for example reforming\nEhegattensplitting (joint taxation of married couples with full\nincome splitting) or improving childcare so that both par-\nents can work full time. These instruments could be con-\nducive to the long-term goal of equal division of paid work\nand care work between men and women.",
+          "summarized_text": "Expanding the care system can reduce inequality by addressing the shortage of skilled care workers, improving the quality of care, and relieving informal caregivers. Mobilizing more men for informal care and reducing labor market inequality between men and women are crucial steps towards achieving equality in long-term care."
+        }
+      ]
+    }
+  ]
+}
