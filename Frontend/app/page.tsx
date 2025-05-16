@@ -1,17 +1,5 @@
 "use client";
 import { ArrowDown, ArrowUp, TrendingUp } from "lucide-react";
-import Link from "next/link";
-import { data } from "../test-data";
-import { useState } from "react";
-
-import { Button } from "@/components/ui/button";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
 import {
   Select,
   SelectContent,
@@ -19,13 +7,102 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import load from "../styles/load.gif";
 import { TrendCard } from "@/components/trend-card";
-import { QuickInsight } from "@/components/quick-insight";
-import { SearchBar } from "@/components/ui/search-bar";
+import { ChatBox } from "@/components/chat-box";
+import { useState } from "react";
 
 export default function Home() {
-  const [selectedIndicator, setSelectedIndicator] = useState("all");
+  const [loading, setLoading] = useState(false);
+  const [trendData, setTrendData] = useState<string | null>(null);
+  const [indicator, setIndicator] = useState("all");
+
+  type Trend = {
+    title: string;
+    value: string;
+    description: string;
+    trend: "up" | "down" | "flat";
+  };
+
+  const [trendList, setTrendList] = useState<Trend[]>([]);
+
+  const prompts: Record<string, string> = {
+    "gender equality": `List the top 3 gender equality indicators from the provided data. Return as a JSON array with \"title\", \"value\", \"description\", and \"trend\" (\"up\", \"down\", or \"flat\"). Respond only with valid JSON.`,
+    labour: `Identify the top 3 labor market indicators based on the PDF. Return them as a JSON array with keys: \"title\", \"value\", \"description\", and \"trend\" (\"up\", \"down\", or \"flat\"). Only return the JSON.`,
+    marcoeconomy: `From the macroeconomic data, extract the top 3 macroeconomic indicators for Germany. Provide them in JSON array format with keys: \"title\", \"value\", \"description\", and \"trend\" (\"up\", \"down\", or \"flat\"). Don't include markdown formatting.`,
+    health: `List the top 3 health indicators for Germany based on the PDF. Present them in a clean JSON array with \"title\", \"value\", \"description\", and \"trend\" (\"up\", \"down\", \"flat\"). Avoid any markdown.`,
+    finance: `Based on the financial data, extract the top 3 finance-related indicators. Format them in JSON with \"title\", \"value\", \"description\", and \"trend\" (\"up\", \"down\", or \"flat\"). No extra formatting.`,
+    "subjective wellbeing": `Identify the top 3 indicators of subjective wellbeing from the document. Return only a JSON array with \"title\", \"value\", \"description\", and \"trend\" (\"up\", \"down\", or \"flat\").`,
+    "emission trading": `List the 3 most important indicators or statistics related to emission trading. Provide a JSON array containing \"title\", \"value\", \"description\", and \"trend\" (\"up\", \"down\", or \"flat\"). JSON only.`,
+    transport: `From the transport-related data, extract 3 key transport indicators. Return them as a JSON array with fields: \"title\", \"value\", \"description\", and \"trend\" (\"up\", \"down\", or \"flat\"). Do not wrap in markdown.`,
+    "refugees & migration": `List the top 3 current indicators related to refugees and migration. Format as a JSON array with \"title\", \"value\", \"description\", and \"trend\" (\"up\", \"down\", or \"flat\"). Only return valid JSON.`,
+  };
+
+  const handleIndicatorChange = async (value: string) => {
+    setIndicator(value);
+    setLoading(true);
+    setTrendData(null);
+    setTrendList([]);
+
+    try {
+      const indicatorRes = await fetch("http://127.0.0.1:5000/indicator", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ indicator: value }),
+      });
+
+      const indicatorData = await indicatorRes.json();
+      if (indicatorData.error) {
+        console.error("Backend error:", indicatorData.error);
+        return;
+      }
+
+      const query =
+        prompts[value] ||
+        "List the top 3 economic indicators in JSON format with title, value, description, and trend as 'up', 'down', or 'flat'. Only return the JSON array.";
+
+      const searchRes = await fetch("http://127.0.0.1:5000/search_response", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          domain_type: value,
+          query,
+        }),
+      });
+
+      const searchData = await searchRes.json();
+      if (searchData.error) {
+        console.error("Search error:", searchData.error);
+        return;
+      }
+
+      setTrendData(searchData.response);
+
+      try {
+        const cleanedResponse = searchData.response
+          .replace(/^```json\n/, "")
+          .replace(/```$/, "")
+          .trim();
+
+        const parsed = JSON.parse(cleanedResponse);
+
+        // If the response is a wrapped object, extract the array
+        const extractedTrends = Array.isArray(parsed)
+          ? parsed
+          : Object.values(parsed).find((val) => Array.isArray(val)) || [];
+
+        setTrendList(extractedTrends);
+        console.log("Extracted trends:", extractedTrends);
+      } catch (jsonErr) {
+        console.error("Failed to parse trend data:", jsonErr);
+      }
+    } catch (err) {
+      console.error("Fetch failed:", err);
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <div className="container mx-auto px-4 py-6">
       {/* Hero Section */}
@@ -40,283 +117,111 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="grid gap-4 md:grid-cols-4">
-          <Select defaultValue="germany">
-            <SelectTrigger>
-              <SelectValue placeholder="Select Region" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="germany">Germany</SelectItem>
-              <SelectItem value="berlin">Berlin</SelectItem>
-              <SelectItem value="bavaria">Bavaria</SelectItem>
-              <SelectItem value="north-rhine-westphalia">
-                North Rhine-Westphalia
-              </SelectItem>
-            </SelectContent>
-          </Select>
-
-          <Select defaultValue="2023-q4">
-            <SelectTrigger>
-              <SelectValue placeholder="Select Time Range" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="2023-q4">Q4 2023</SelectItem>
-              <SelectItem value="2023-q3">Q3 2023</SelectItem>
-              <SelectItem value="2023-q2">Q2 2023</SelectItem>
-              <SelectItem value="2023-q1">Q1 2023</SelectItem>
-              <SelectItem value="2023">Year 2023</SelectItem>
-            </SelectContent>
-          </Select>
-
+        <div className="grid gap-4 md:grid-cols-3">
           <Select
-            value={selectedIndicator}
-            onValueChange={setSelectedIndicator}
+            defaultValue={indicator}
+            onValueChange={handleIndicatorChange}
           >
             <SelectTrigger>
               <SelectValue placeholder="Select Indicator" />
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="all">All Indicators</SelectItem>
-              <SelectItem value="gender">Gender Equality</SelectItem>
+              <SelectItem value="gender equality">Gender Equality</SelectItem>
               <SelectItem value="labour">Labour</SelectItem>
-              <SelectItem value="macro">MacroEconomy</SelectItem>
+              <SelectItem value="marcoeconomy">MacroEconomy</SelectItem>
               <SelectItem value="health">Health</SelectItem>
               <SelectItem value="finance">Finance</SelectItem>
-              <SelectItem value="wellBeing">Subjective WellBeing</SelectItem>
-              <SelectItem value="emission">Emission Trading</SelectItem>
+              <SelectItem value="subjective wellbeing">
+                Subjective WellBeing
+              </SelectItem>
+              <SelectItem value="emission trading">Emission Trading</SelectItem>
               <SelectItem value="transport">Transport</SelectItem>
-              <SelectItem value="migration">Refugees And Migration</SelectItem>
+              <SelectItem value="refugees & migration">
+                Refugees And Migration
+              </SelectItem>
             </SelectContent>
           </Select>
-
-          <div>
-            <SearchBar />
-          </div>
         </div>
       </section>
 
-      {/* Featured Cards */}
-      <section className="mb-8 grid gap-4 md:grid-cols-3">
-        {selectedIndicator === "gender" ? (
-          <>
-            <TrendCard
-              title="Women on Exec Boards"
-              value={`${data.data.summary.percent_of_executive_board_members_who_are_women.late_fall_2023}%`}
-              trend={
-                data.data.summary
-                  .percent_of_executive_board_members_who_are_women.trending as
-                  | "up"
-                  | "down"
-                  | "neutral"
-              }
-              icon={
-                data.data.summary
-                  .percent_of_executive_board_members_who_are_women.trending ===
-                "up" ? (
-                  <ArrowUp className="h-4 w-4 text-green-500" />
-                ) : (
-                  <ArrowDown className="h-4 w-4 text-red-500" />
-                )
-              }
-              description="Late Fall 2023 data"
+      {/* Trends Section */}
+      <section className="mb-8">
+        <h2 className="mb-4 text-2xl font-bold tracking-tight">
+          {indicator === "all" ? "Featured Trends" : "Quick Insight"}
+        </h2>
+
+        {loading ? (
+          <div className="p-4 rounded-xl shadow text-center text-sm text-muted-foreground">
+            <img
+              src={load.src}
+              alt="Loading..."
+              className="mx-auto w-20 h-20"
             />
+            <p className="mt-2">Fetching trends...</p>
+          </div>
+        ) : trendList.length > 0 ? (
+          <div className="grid gap-4 md:grid-cols-3">
+            {trendList.map((trend, index) => (
+              <TrendCard
+                key={index}
+                title={trend.title}
+                value={trend.value}
+                trend={trend.trend === "flat" ? "neutral" : trend.trend}
+                icon={
+                  trend.trend === "up" ? (
+                    <ArrowUp className="h-4 w-4 text-red-500" />
+                  ) : trend.trend === "down" ? (
+                    <ArrowDown className="h-4 w-4 text-green-500" />
+                  ) : (
+                    <TrendingUp className="h-4 w-4 text-gray-500" />
+                  )
+                }
+                description={trend.description}
+              />
+            ))}
+          </div>
+        ) : indicator === "all" ? (
+          <div className="grid gap-4 md:grid-cols-3">
             <TrendCard
-              title="Companies w/ ≥1 Woman"
-              value={data.data.summary.companies_with_at_least_one_woman_on_executive_board.count.toString()}
-              trend={
-                data.data.summary
-                  .companies_with_at_least_one_woman_on_executive_board
-                  .trending as "up" | "down" | "neutral"
-              }
-              icon={
-                data.data.summary
-                  .companies_with_at_least_one_woman_on_executive_board
-                  .trending === "up" ? (
-                  <ArrowUp className="h-4 w-4 text-green-500" />
-                ) : (
-                  <ArrowDown className="h-4 w-4 text-red-500" />
-                )
-              }
-              description="Companies with at least one woman on the board"
-            />
-            <TrendCard
-              title="Women CEOs"
-              value={data.data.summary.women_CEOs.count.toString()}
-              trend={
-                data.data.summary.women_CEOs.trending as
-                  | "up"
-                  | "down"
-                  | "neutral"
-              }
-              icon={
-                data.data.summary.women_CEOs.trending === "up" ? (
-                  <ArrowUp className="h-4 w-4 text-green-500" />
-                ) : (
-                  <ArrowDown className="h-4 w-4 text-red-500" />
-                )
-              }
-              description="Number of female CEOs"
-            />
-          </>
-        ) : (
-          <>
-            {/* Default fallback cards (like inflation/GDP/unemployment) */}
-            <TrendCard
-              title="Inflation Rate"
+              title="Current Inflation"
               value="4.2%"
               trend="up"
               icon={<ArrowUp className="h-4 w-4 text-red-500" />}
-              description="Q4 2023 rise"
-            />
-            <TrendCard
-              title="GDP Growth"
-              value="0.9%"
-              trend="up"
-              icon={<TrendingUp className="h-4 w-4 text-green-500" />}
-              description="Steady growth trend"
-            />
-            <TrendCard
-              title="Women Exec %"
-              value="18%"
-              trend="up"
-              icon={<ArrowUp className="h-4 w-4 text-green-500" />}
-              description="Gender equality improving"
+              description="Increased by 0.3% from previous quarter"
             />
             <TrendCard
               title="Unemployment Rate"
               value="6.1%"
               trend="down"
               icon={<ArrowDown className="h-4 w-4 text-green-500" />}
-              description="Decreased slightly"
+              description="Decreased by 0.2% from previous quarter"
             />
-          </>
+            <TrendCard
+              title="GDP Growth"
+              value="+0.9%"
+              trend="up"
+              icon={<TrendingUp className="h-4 w-4 text-green-500" />}
+              description="Increased by 0.4% from previous quarter"
+            />
+          </div>
+        ) : trendData ? (
+          <div className="bg-muted p-4 rounded-xl shadow">
+            <p className="text-sm text-muted-foreground whitespace-pre-wrap">
+              {trendData}
+            </p>
+          </div>
+        ) : (
+          <p className="text-muted-foreground text-sm">No trends found.</p>
         )}
       </section>
 
-      {/* Quick Insights */}
+      {/* Chat Section */}
       <section className="mb-8">
         <h2 className="mb-4 text-2xl font-bold tracking-tight">
-          Quick Insights
+          Ask About the Data
         </h2>
-        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
-          <QuickInsight
-            title="Manufacturing"
-            value="+2.1%"
-            description="Production increased in Q4"
-          />
-          <QuickInsight
-            title="Consumer Spending"
-            value="+0.8%"
-            description="Modest growth in retail sector"
-          />
-          <QuickInsight
-            title="Energy Prices"
-            value="-3.2%"
-            description="Decreasing trend since summer"
-          />
-          <QuickInsight
-            title="Export Volume"
-            value="+1.7%"
-            description="Strong performance in automotive"
-          />
-        </div>
-      </section>
-
-      {/* Recent Reports */}
-      <section className="mb-8">
-        <div className="flex items-center justify-between mb-4">
-          <h2 className="text-2xl font-bold tracking-tight">Recent Reports</h2>
-          <Button variant="outline" asChild>
-            <Link href="/audio-reports">View All Reports</Link>
-          </Button>
-        </div>
-
-        <Tabs defaultValue="audio" className="w-full">
-          <TabsList className="mb-4">
-            <TabsTrigger value="audio">Audio Reports</TabsTrigger>
-            <TabsTrigger value="data">Data Reports</TabsTrigger>
-          </TabsList>
-
-          <TabsContent value="audio" className="space-y-4">
-            <Card>
-              <CardHeader className="pb-2">
-                <CardTitle>Germany's Economic Outlook – Q1 2024</CardTitle>
-                <CardDescription>
-                  2 min • Published March 15, 2024
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm text-muted-foreground mb-4">
-                  Overview of Germany's economic performance in the first
-                  quarter with projections for the rest of the year.
-                </p>
-                <div className="flex space-x-2">
-                  <Button size="sm">
-                    <span className="mr-1">▶</span> Play
-                  </Button>
-                  <Button size="sm" variant="outline">
-                    Download
-                  </Button>
-                </div>
-              </CardContent>
-            </Card>
-
-            <Card>
-              <CardHeader className="pb-2">
-                <CardTitle>Regional Economic Disparities in Germany</CardTitle>
-                <CardDescription>
-                  3 min • Published February 28, 2024
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm text-muted-foreground mb-4">
-                  Analysis of economic performance across different German
-                  regions and states.
-                </p>
-                <div className="flex space-x-2">
-                  <Button size="sm">
-                    <span className="mr-1">▶</span> Play
-                  </Button>
-                  <Button size="sm" variant="outline">
-                    Download
-                  </Button>
-                </div>
-              </CardContent>
-            </Card>
-          </TabsContent>
-
-          <TabsContent value="data" className="space-y-4">
-            <Card>
-              <CardHeader className="pb-2">
-                <CardTitle>Quarterly Economic Indicators</CardTitle>
-                <CardDescription>Updated March 10, 2024</CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm text-muted-foreground mb-4">
-                  Comprehensive dataset of key economic indicators for Q1 2024.
-                </p>
-                <Button size="sm" variant="outline">
-                  Download CSV
-                </Button>
-              </CardContent>
-            </Card>
-
-            <Card>
-              <CardHeader className="pb-2">
-                <CardTitle>Labor Market Analysis</CardTitle>
-                <CardDescription>Updated February 20, 2024</CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm text-muted-foreground mb-4">
-                  Detailed breakdown of employment statistics across sectors.
-                </p>
-                <Button size="sm" variant="outline">
-                  Download CSV
-                </Button>
-              </CardContent>
-            </Card>
-          </TabsContent>
-        </Tabs>
+        <ChatBox indicator={indicator} />
       </section>
     </div>
   );

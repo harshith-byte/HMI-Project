@@ -1,9 +1,16 @@
-from flask.cli import FlaskGroup
 from flask import Flask
+from flask_cors import CORS
+from src.core.routes.views import core_bp  
 
-from src import app
+app = Flask(__name__)
+CORS(app)
 
-cli = FlaskGroup(app)
+# Register the blueprint
+app.register_blueprint(core_bp)
 
-if __name__ == '__main__':
-    cli()
+@app.route("/")
+def home():
+    return "Flask backend is running!"
+
+if __name__ == "__main__":
+    app.run(debug=True)
