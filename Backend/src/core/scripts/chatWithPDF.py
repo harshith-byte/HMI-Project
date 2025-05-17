@@ -16,7 +16,7 @@ PDF_SOURCE_IDS = {
 }
 
 def get_source_id(file_path):
-    """Uploads the PDF and returns a source ID from ChatPDF."""
+    
     url = "https://api.chatpdf.com/v1/sources/add-file"
     try:
         with open(file_path, 'rb') as f:
@@ -39,7 +39,7 @@ def get_source_id(file_path):
         raise Exception(f"File not found: {file_path}")
 
 def get_chatwithpdf_by_topic(topic, query):
-    """Fetches ChatPDF response for a given topic and query."""
+   
     topic_lower = topic.strip().lower()
     source_id = PDF_SOURCE_IDS.get(topic_lower)
 
@@ -49,7 +49,7 @@ def get_chatwithpdf_by_topic(topic, query):
     return get_chatwithpdf(source_id, query)
 
 def get_chatwithpdf(source_id, query):
-    """Sends a chat message (query) to ChatPDF using the source ID."""
+  
     url = "https://api.chatpdf.com/v1/chats/message"
     headers = {
         'x-api-key': CHATWITHPDF_API_KEY,

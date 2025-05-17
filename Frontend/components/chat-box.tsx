@@ -3,7 +3,7 @@
 import type React from "react";
 import { useState, useRef, useEffect } from "react";
 import { Send, Bot, User, Sparkles } from "lucide-react";
-
+import Markdown from "react-markdown";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -56,6 +56,20 @@ export function ChatBox({ indicator }: ChatBoxProps) {
       scrollAreaRef.current.scrollTop = scrollAreaRef.current.scrollHeight;
     }
   }, [messages]);
+  // Add this useEffect to reset messages when indicator changes
+  useEffect(() => {
+    // Reset messages when indicator changes
+    setMessages([
+      {
+        id: "welcome",
+        content: `Hello! I'm your economic data assistant. Ask me anything about ${
+          indicator === "all" ? "German economic indicators" : indicator
+        } data.`,
+        role: "assistant",
+        timestamp: new Date(),
+      },
+    ]);
+  }, [indicator]);
 
   useEffect(() => {
     inputRef.current?.focus();
@@ -83,7 +97,7 @@ export function ChatBox({ indicator }: ChatBoxProps) {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          domain_type: indicator.toLowerCase(), // matches what backend expects
+          domain_type: indicator.toLowerCase(),
           query: input,
         }),
       });
@@ -152,7 +166,9 @@ export function ChatBox({ indicator }: ChatBoxProps) {
                           : "bg-muted text-foreground"
                       }`}
                     >
-                      <p className="text-sm">{message.content}</p>
+                      <div className="text-sm">
+                        <Markdown>{message.content}</Markdown>
+                      </div>
                       <p className="text-xs opacity-70 mt-1">
                         {message.timestamp.toLocaleTimeString([], {
                           hour: "2-digit",

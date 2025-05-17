@@ -86,7 +86,6 @@ export default function Home() {
 
         const parsed = JSON.parse(cleanedResponse);
 
-        // If the response is a wrapped object, extract the array
         const extractedTrends = Array.isArray(parsed)
           ? parsed
           : Object.values(parsed).find((val) => Array.isArray(val)) || [];

@@ -70,7 +70,7 @@ def handle_indicator():
 @core_bp.route("/query", methods=['POST', 'OPTIONS'])
 def query():
     if request.method == 'OPTIONS':
-        return '', 200  # Handles CORS preflight
+        return '', 200  
 
     data = request.get_json()
     if not data:
@@ -105,3 +105,10 @@ def query():
     except Exception as e:
         print(f"Error: {e}")
         return jsonify({"error": str(e)}), 500
+    
+
+@app.route('/summary', methods=['POST'])
+def summary():
+    domain_type = request.json['domain_type']
+    summary_text = get_summary(domain_type) 
+    return jsonify({"summary": summary}) 
