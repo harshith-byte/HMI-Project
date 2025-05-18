@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_cors import CORS
-from src.core.routes.views import core_bp  
+from src.core.routes.views import core_bp
 
 app = Flask(__name__)
 CORS(app)
