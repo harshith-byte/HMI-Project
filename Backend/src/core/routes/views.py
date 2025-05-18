@@ -5,6 +5,7 @@ import uuid
 from gtts import gTTS
 import requests
 import re
+import json
 
 # Create the Flask app
 app = Flask(__name__, static_url_path='', static_folder='static')
@@ -126,12 +127,47 @@ def query():
 
 @core_bp.route('/summary', methods=['POST'])
 def summary():
-    domain_type = request.json['domain_type']
-    return jsonify({"summary": get_summary(domain_type)})
+    data = request.get_json()
+    domain_type = data.get('domain_type', '')
+    
+    if domain_type not in PDF_SOURCE_IDS:
+        return jsonify({"error": "Invalid domain"}), 400
+    
+    try:
+        summary_text = get_summary(domain_type)
+        recommended_questions = get_recommended_questions(domain_type)
+        return jsonify({
+            "summary": summary_text,
+            "recommended_questions": recommended_questions
+        })
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 def get_summary(domain_type):
-    prompt = f"Provide a concise summary of the key points about {domain_type} in Germany."
+    prompt = f"Provide a concise summary (3-4 sentences) of the key points about {domain_type} in Germany."
     return get_chatwithpdf_by_topic(domain_type, prompt)
+
+def get_recommended_questions(domain_type):
+    prompt = f"Based on the {domain_type} data for Germany, suggest 3 specific questions that would be insightful for users to ask. Format as a JSON array of strings with just the questions. Only provide the JSON array without any other text."
+    
+    response = get_chatwithpdf_by_topic(domain_type, prompt)
+    
+    # Try to extract JSON array from the response
+    try:
+        # Clean the response to extract just the JSON part
+        clean_response = response.replace("```json", "").replace("```", "").strip()
+        questions = json.loads(clean_response)
+        if isinstance(questions, list):
+            return questions
+    except Exception as e:
+        print(f"Failed to parse questions: {e}")
+    
+    # Fallback questions if parsing fails
+    return [
+        f"What are the current trends in {domain_type} in Germany?",
+        f"What are the main challenges related to {domain_type} in Germany?",
+        f"How does Germany compare to other EU countries regarding {domain_type}?"
+    ]
 
 def clean_text(text):
     # Remove bracketed instructions e.g. [Pause for Effect]

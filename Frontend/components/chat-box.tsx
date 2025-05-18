@@ -2,11 +2,12 @@
 
 import type React from "react";
 import { useState, useRef, useEffect } from "react";
-import { Send, Bot, User, Sparkles } from "lucide-react";
+import { Send, Bot, User, Sparkles, HelpCircle } from "lucide-react";
 import Markdown from "react-markdown";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
+import { Alert, AlertTitle, AlertDescription } from "@/components/ui/alert";
 
 interface Message {
   id: string;
@@ -31,6 +32,11 @@ export function ChatBox({ indicator }: ChatBoxProps) {
   ]);
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
+  const [summary, setSummary] = useState<string | null>(null);
+  const [recommendedQuestions, setRecommendedQuestions] = useState<string[]>(
+    []
+  );
+  const [loadingSummary, setLoadingSummary] = useState(false);
   const scrollAreaRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -56,7 +62,8 @@ export function ChatBox({ indicator }: ChatBoxProps) {
       scrollAreaRef.current.scrollTop = scrollAreaRef.current.scrollHeight;
     }
   }, [messages]);
-  // Add this useEffect to reset messages when indicator changes
+
+  // Fetch summary and recommended questions when indicator changes
   useEffect(() => {
     // Reset messages when indicator changes
     setMessages([
@@ -69,11 +76,49 @@ export function ChatBox({ indicator }: ChatBoxProps) {
         timestamp: new Date(),
       },
     ]);
+
+    // Don't fetch for "all" indicators
+    if (indicator !== "all") {
+      fetchSummaryAndQuestions(indicator);
+    } else {
+      // Clear summary and questions for "all"
+      setSummary(null);
+      setRecommendedQuestions([]);
+    }
   }, [indicator]);
 
   useEffect(() => {
     inputRef.current?.focus();
   }, []);
+
+  const fetchSummaryAndQuestions = async (indicatorType: string) => {
+    setLoadingSummary(true);
+    try {
+      const response = await fetch("http://localhost:5000/summary", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          domain_type: indicatorType.toLowerCase(),
+        }),
+      });
+
+      if (!response.ok) {
+        throw new Error("Failed to fetch summary");
+      }
+
+      const data = await response.json();
+      setSummary(data.summary);
+      setRecommendedQuestions(data.recommended_questions || []);
+    } catch (error) {
+      console.error("Error fetching summary:", error);
+      setSummary("Sorry, couldn't fetch the summary for this indicator.");
+      setRecommendedQuestions([]);
+    } finally {
+      setLoadingSummary(false);
+    }
+  };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -92,7 +137,6 @@ export function ChatBox({ indicator }: ChatBoxProps) {
     try {
       const response = await fetch("http://localhost:5000/query", {
         method: "POST",
-
         headers: {
           "Content-Type": "application/json",
         },
@@ -124,10 +168,74 @@ export function ChatBox({ indicator }: ChatBoxProps) {
     }
   };
 
+  const askRecommendedQuestion = (question: string) => {
+    if (!question.trim()) return;
+
+    // Set the input to the question
+    setInput(question);
+
+    // Submit the form programmatically
+    const event = {
+      preventDefault: () => {},
+    } as React.FormEvent;
+
+    handleSubmit(event);
+  };
+
   return (
     <Card className="border shadow-sm">
       <CardContent className="p-0">
-        <div className="flex flex-col h-[400px]">
+        <div className="flex flex-col h-[600px]">
+          {/* Summary section */}
+          {indicator !== "all" && (
+            <div className="bg-blue-50 p-4 border-b border-blue-100">
+              {loadingSummary ? (
+                <div className="flex items-center justify-center p-4">
+                  <div className="h-4 w-4 rounded-full bg-blue-600 animate-pulse mr-2"></div>
+                  <p className="text-sm text-blue-600">Loading summary...</p>
+                </div>
+              ) : summary ? (
+                <div className="space-y-4">
+                  <div className="space-y-2">
+                    <h3 className="text-sm font-medium text-blue-800">
+                      Summary
+                    </h3>
+                    <div className="text-sm text-gray-700">
+                      <Markdown>{summary}</Markdown>
+                    </div>
+                  </div>
+
+                  {recommendedQuestions.length > 0 && (
+                    <div className="space-y-2">
+                      <h3 className="text-sm font-medium text-blue-800 flex items-center">
+                        <HelpCircle className="h-3 w-3 mr-1" />
+                        Suggested Questions
+                      </h3>
+                      <div className="flex flex-wrap gap-2">
+                        {recommendedQuestions.map((question, index) => (
+                          <Button
+                            key={index}
+                            variant="outline"
+                            size="sm"
+                            className="text-xs bg-white border-blue-200 text-blue-700 hover:bg-blue-50"
+                            onClick={() => askRecommendedQuestion(question)}
+                          >
+                            {question}
+                          </Button>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              ) : (
+                <p className="text-sm text-gray-500">
+                  No summary available for this indicator.
+                </p>
+              )}
+            </div>
+          )}
+
+          {/* Chat messages area */}
           <div
             ref={scrollAreaRef}
             className="flex-1 p-4 overflow-y-auto"
@@ -198,6 +306,7 @@ export function ChatBox({ indicator }: ChatBoxProps) {
             </div>
           </div>
 
+          {/* Input area */}
           <div className="border-t p-4 bg-background">
             <form onSubmit={handleSubmit} className="flex space-x-2">
               <div className="relative flex-1">

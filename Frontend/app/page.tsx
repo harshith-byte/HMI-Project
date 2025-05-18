@@ -1,4 +1,5 @@
 "use client";
+// You'll need to install recharts: npm install recharts
 import {
   ArrowDown,
   ArrowUp,
@@ -10,6 +11,9 @@ import {
   Loader2,
   FileText,
   X,
+  BarChart3,
+  MessageSquare,
+  Headphones,
 } from "lucide-react";
 import {
   Select,
@@ -25,6 +29,8 @@ import { useState, useRef, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Slider } from "@/components/ui/slider";
 import { Card, CardContent } from "@/components/ui/card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { D3Visualization } from "@/components/d3-visualization";
 
 export default function Home() {
   const [loading, setLoading] = useState(false);
@@ -215,251 +221,341 @@ export default function Home() {
   };
 
   return (
-    <div className="container mx-auto px-4 py-6">
+    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
       {/* Hero Section */}
-      <section className="mb-8 space-y-4">
-        <div className="flex flex-col space-y-2">
-          <h1 className="text-3xl font-bold tracking-tight">
-            Latest trends in German Economy
-          </h1>
-          <p className="text-muted-foreground">
-            Explore key economic indicators and trends across Germany and its
-            regions.
-          </p>
-        </div>
-
-        <div className="grid gap-4 md:grid-cols-3">
-          <Select
-            defaultValue={indicator}
-            onValueChange={handleIndicatorChange}
-          >
-            <SelectTrigger>
-              <SelectValue placeholder="Select Indicator" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="all">All Indicators</SelectItem>
-              <SelectItem value="gender equality">Gender Equality</SelectItem>
-              <SelectItem value="labour">Labour</SelectItem>
-              <SelectItem value="marcoeconomy">MacroEconomy</SelectItem>
-              <SelectItem value="health">Health</SelectItem>
-              <SelectItem value="finance">Finance</SelectItem>
-              <SelectItem value="subjective wellbeing">
-                Subjective WellBeing
-              </SelectItem>
-              <SelectItem value="emission trading">Emission Trading</SelectItem>
-              <SelectItem value="transport">Transport</SelectItem>
-              <SelectItem value="refugees & migration">
-                Refugees And Migration
-              </SelectItem>
-            </SelectContent>
-          </Select>
-        </div>
-      </section>
-
-      {/* Trends Section */}
-      <section className="mb-8">
-        <h2 className="mb-4 text-2xl font-bold tracking-tight">
-          {indicator === "all" ? "Featured Trends" : "Quick Insight"}
-        </h2>
-
-        {loading ? (
-          <div className="p-4 rounded-xl shadow text-center text-sm text-muted-foreground">
-            <img
-              src={load.src || "/placeholder.svg"}
-              alt="Loading..."
-              className="mx-auto w-20 h-20"
-            />
-            <p className="mt-2">Fetching trends...</p>
-          </div>
-        ) : trendList.length > 0 ? (
-          <div className="grid gap-4 md:grid-cols-3">
-            {trendList.map((trend, index) => (
-              <TrendCard
-                key={index}
-                title={trend.title}
-                value={trend.value}
-                trend={trend.trend === "flat" ? "neutral" : trend.trend}
-                icon={
-                  trend.trend === "up" ? (
-                    <ArrowUp className="h-4 w-4 text-red-500" />
-                  ) : trend.trend === "down" ? (
-                    <ArrowDown className="h-4 w-4 text-green-500" />
-                  ) : (
-                    <TrendingUp className="h-4 w-4 text-gray-500" />
-                  )
-                }
-                description={trend.description}
-              />
-            ))}
-          </div>
-        ) : indicator === "all" ? (
-          <div className="grid gap-4 md:grid-cols-3">
-            <TrendCard
-              title="Current Inflation"
-              value="4.2%"
-              trend="up"
-              icon={<ArrowUp className="h-4 w-4 text-red-500" />}
-              description="Increased by 0.3% from previous quarter"
-            />
-            <TrendCard
-              title="Unemployment Rate"
-              value="6.1%"
-              trend="down"
-              icon={<ArrowDown className="h-4 w-4 text-green-500" />}
-              description="Decreased by 0.2% from previous quarter"
-            />
-            <TrendCard
-              title="GDP Growth"
-              value="+0.9%"
-              trend="up"
-              icon={<TrendingUp className="h-4 w-4 text-green-500" />}
-              description="Increased by 0.4% from previous quarter"
-            />
-          </div>
-        ) : trendData ? (
-          <div className="bg-muted p-4 rounded-xl shadow">
-            <p className="text-sm text-muted-foreground whitespace-pre-wrap">
-              {trendData}
+      <div className="bg-gradient-to-r from-blue-600 to-purple-700 text-white">
+        <div className="container mx-auto px-4 py-16">
+          <div className="max-w-3xl">
+            <h1 className="text-4xl md:text-5xl font-bold mb-4">
+              German Economic Insights
+            </h1>
+            <p className="text-xl opacity-90 mb-8">
+              Explore key economic indicators and trends across Germany's
+              regions through interactive data, AI-powered chat, and audio
+              summaries.
             </p>
-          </div>
-        ) : (
-          <p className="text-muted-foreground text-sm">No trends found.</p>
-        )}
-      </section>
 
-      {/* Podcast Section */}
-      <section className="mb-8">
-        <div className="flex justify-between items-center mb-4">
-          <h2 className="text-2xl font-bold tracking-tight">
-            Listen to Podcast
-          </h2>
-          {!isPodcastGenerating && !podcastAudio && indicator !== "all" && (
-            <Button
-              onClick={generatePodcast}
-              className="bg-purple-600 hover:bg-purple-700 text-white"
+            <div className="flex flex-col sm:flex-row gap-4">
+              <Select
+                defaultValue={indicator}
+                onValueChange={handleIndicatorChange}
+              >
+                <SelectTrigger className="w-full sm:w-64 bg-white/10 border-white/20 text-white">
+                  <SelectValue placeholder="Select Indicator" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="all">All Indicators</SelectItem>
+                  <SelectItem value="gender equality">
+                    Gender Equality
+                  </SelectItem>
+                  <SelectItem value="labour">Labour</SelectItem>
+                  <SelectItem value="marcoeconomy">MacroEconomy</SelectItem>
+                  <SelectItem value="health">Health</SelectItem>
+                  <SelectItem value="finance">Finance</SelectItem>
+                  <SelectItem value="subjective wellbeing">
+                    Subjective WellBeing
+                  </SelectItem>
+                  <SelectItem value="emission trading">
+                    Emission Trading
+                  </SelectItem>
+                  <SelectItem value="transport">Transport</SelectItem>
+                  <SelectItem value="refugees & migration">
+                    Refugees And Migration
+                  </SelectItem>
+                </SelectContent>
+              </Select>
+
+              {indicator !== "all" && !isPodcastGenerating && !podcastAudio && (
+                <Button
+                  onClick={generatePodcast}
+                  className="bg-white text-purple-700 hover:bg-white/90"
+                >
+                  <Headphones className="h-4 w-4 mr-2" />
+                  Generate Podcast
+                </Button>
+              )}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="container mx-auto px-4 py-8">
+        <Tabs defaultValue="trends" className="mb-8">
+          <TabsList className="grid w-full grid-cols-2 mb-8">
+            <TabsTrigger
+              value="trends"
+              className="flex items-center justify-center"
             >
-              Generate Podcast
-            </Button>
-          )}
-        </div>
+              <BarChart3 className="h-4 w-4 mr-2" />
+              Data Trends
+            </TabsTrigger>
+            <TabsTrigger
+              value="chat"
+              className="flex items-center justify-center"
+            >
+              <MessageSquare className="h-4 w-4 mr-2" />
+              Ask AI Assistant
+            </TabsTrigger>
+          </TabsList>
 
-        {isPodcastGenerating ? (
-          <div className="bg-muted p-6 rounded-xl shadow flex flex-col items-center justify-center">
-            <Loader2 className="h-8 w-8 animate-spin text-purple-600 mb-2" />
-            <p className="text-muted-foreground">
-              Generating podcast from data...
-            </p>
-          </div>
-        ) : podcastAudio ? (
-          <div className="space-y-4">
-            <div className="bg-gradient-to-r from-purple-50 to-indigo-50 p-6 rounded-xl shadow">
-              <audio ref={audioRef} src={podcastAudio} className="hidden" />
-
-              <div className="flex items-center justify-between mb-4">
-                <div className="flex items-center">
-                  <Button
-                    onClick={togglePlayPause}
-                    size="icon"
-                    variant="ghost"
-                    className="h-12 w-12 rounded-full bg-purple-600 text-white hover:bg-purple-700 mr-4"
-                  >
-                    {isPlaying ? (
-                      <Pause className="h-6 w-6" />
-                    ) : (
-                      <Play className="h-6 w-6" />
-                    )}
-                  </Button>
-                  <div>
-                    <h3 className="font-medium">
-                      {getIndicatorTitle(indicator)} Insights
-                    </h3>
-                    <p className="text-sm text-muted-foreground">
-                      Economic trends podcast
-                    </p>
+          <TabsContent value="trends" className="space-y-8">
+            {/* Trends Section */}
+            <section>
+              <div className="flex justify-between items-center mb-6">
+                <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+                  {indicator === "all"
+                    ? "Featured Economic Trends"
+                    : `${getIndicatorTitle(indicator)} Insights`}
+                </h2>
+                {indicator !== "all" && (
+                  <div className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded-full">
+                    Selected: {getIndicatorTitle(indicator)}
                   </div>
-                </div>
-                <div className="flex gap-2">
-                  <Button
-                    variant="outline"
-                    size="sm"
-                    onClick={toggleTranscript}
-                    title="View transcript"
-                    className="flex items-center gap-1"
-                  >
-                    <FileText className="h-4 w-4" />
-                    <span>{showTranscript ? "Hide" : "Show"} Transcript</span>
-                  </Button>
-                  <Button
-                    variant="outline"
-                    size="icon"
-                    onClick={() => window.open(podcastAudio, "_blank")}
-                    title="Download podcast"
-                  >
-                    <Download className="h-4 w-4" />
-                  </Button>
-                </div>
+                )}
               </div>
 
-              <div className="space-y-2">
-                <div className="flex items-center gap-2">
-                  <Volume2 className="h-4 w-4 text-muted-foreground" />
-                  <Slider
-                    value={[currentTime]}
-                    max={duration || 100}
-                    step={0.1}
-                    onValueChange={handleSliderChange}
-                    className="flex-1"
+              {loading ? (
+                <div className="p-8 rounded-xl shadow bg-white text-center">
+                  <img
+                    src={load.src || "/placeholder.svg"}
+                    alt="Loading..."
+                    className="mx-auto w-20 h-20"
+                  />
+                  <p className="mt-4 text-gray-600">
+                    Analyzing economic data...
+                  </p>
+                </div>
+              ) : trendList.length > 0 ? (
+                <div className="grid gap-6 md:grid-cols-3">
+                  {trendList.map((trend, index) => (
+                    <TrendCard
+                      key={index}
+                      title={trend.title}
+                      value={trend.value}
+                      trend={trend.trend === "flat" ? "neutral" : trend.trend}
+                      icon={
+                        trend.trend === "up" ? (
+                          <ArrowUp className="h-4 w-4 text-red-500" />
+                        ) : trend.trend === "down" ? (
+                          <ArrowDown className="h-4 w-4 text-green-500" />
+                        ) : (
+                          <TrendingUp className="h-4 w-4 text-gray-500" />
+                        )
+                      }
+                      description={trend.description}
+                    />
+                  ))}
+                </div>
+              ) : indicator === "all" ? (
+                <div className="grid gap-6 md:grid-cols-3">
+                  <TrendCard
+                    title="Current Inflation"
+                    value="4.2%"
+                    trend="up"
+                    icon={<ArrowUp className="h-4 w-4 text-red-500" />}
+                    description="Increased by 0.3% from previous quarter"
+                  />
+                  <TrendCard
+                    title="Unemployment Rate"
+                    value="6.1%"
+                    trend="down"
+                    icon={<ArrowDown className="h-4 w-4 text-green-500" />}
+                    description="Decreased by 0.2% from previous quarter"
+                  />
+                  <TrendCard
+                    title="GDP Growth"
+                    value="+0.9%"
+                    trend="up"
+                    icon={<TrendingUp className="h-4 w-4 text-green-500" />}
+                    description="Increased by 0.4% from previous quarter"
                   />
                 </div>
-                <div className="flex justify-between text-xs text-muted-foreground">
-                  <span>{formatTime(currentTime)}</span>
-                  <span>{formatTime(duration)}</span>
+              ) : trendData ? (
+                <div className="bg-white p-6 rounded-xl shadow border border-gray-100">
+                  <p className="text-gray-700 whitespace-pre-wrap">
+                    {trendData}
+                  </p>
                 </div>
-              </div>
-            </div>
+              ) : (
+                <div className="bg-white p-8 rounded-xl shadow text-center border border-gray-100">
+                  <p className="text-gray-600">
+                    Select an indicator to view economic trends.
+                  </p>
+                </div>
+              )}
+            </section>
+          </TabsContent>
 
-            {showTranscript && podcastTranscript && (
-              <Card className="bg-white border border-gray-200">
-                <CardContent className="p-4">
-                  <div className="flex justify-between items-center mb-2">
-                    <h3 className="font-medium text-gray-900">Transcript</h3>
+          <TabsContent value="chat" className="space-y-8">
+            {/* Chat Section */}
+            <section>
+              <div className="flex justify-between items-center mb-6">
+                <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+                  Ask About the Data
+                </h2>
+                {indicator !== "all" && (
+                  <div className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded-full">
+                    Context: {getIndicatorTitle(indicator)}
+                  </div>
+                )}
+              </div>
+              <div className="bg-white rounded-xl shadow border border-gray-100 overflow-hidden">
+                <ChatBox indicator={indicator} />
+              </div>
+            </section>
+          </TabsContent>
+        </Tabs>
+
+        {/* Podcast Section - Now below the chat box */}
+        <section className="mt-12 pt-8 border-t border-gray-200">
+          <div className="flex justify-between items-center mb-6">
+            <div className="flex items-center">
+              <Headphones className="h-6 w-6 text-purple-600 mr-3" />
+              <h2 className="text-2xl font-bold tracking-tight text-gray-900">
+                Audio Insights
+              </h2>
+            </div>
+          </div>
+
+          {isPodcastGenerating ? (
+            <div className="bg-white p-8 rounded-xl shadow border border-gray-100 flex flex-col items-center justify-center">
+              <Loader2 className="h-10 w-10 animate-spin text-purple-600 mb-4" />
+              <p className="text-gray-600">
+                Generating audio insights for {getIndicatorTitle(indicator)}...
+              </p>
+            </div>
+          ) : podcastAudio ? (
+            <div className="space-y-6">
+              <div className="bg-gradient-to-r from-purple-50 via-indigo-50 to-blue-50 p-6 rounded-xl shadow border border-purple-100">
+                <audio ref={audioRef} src={podcastAudio} className="hidden" />
+
+                <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-6">
+                  <div className="flex items-center">
                     <Button
-                      variant="ghost"
+                      onClick={togglePlayPause}
                       size="icon"
-                      onClick={() => setShowTranscript(false)}
-                      className="h-6 w-6"
+                      variant="ghost"
+                      className="h-14 w-14 rounded-full bg-purple-600 text-white hover:bg-purple-700 mr-4 shadow-md"
                     >
-                      <X className="h-4 w-4" />
+                      {isPlaying ? (
+                        <Pause className="h-6 w-6" />
+                      ) : (
+                        <Play className="h-6 w-6 ml-1" />
+                      )}
+                    </Button>
+                    <div>
+                      <h3 className="font-medium text-lg text-gray-900">
+                        {getIndicatorTitle(indicator)} Audio Summary
+                      </h3>
+                      <p className="text-sm text-gray-600">
+                        Economic insights podcast • {formatTime(duration)}
+                      </p>
+                    </div>
+                  </div>
+                  <div className="flex gap-3">
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={toggleTranscript}
+                      title="View transcript"
+                      className="flex items-center gap-1 border-purple-200 text-purple-700 hover:bg-purple-50"
+                    >
+                      <FileText className="h-4 w-4" />
+                      <span>{showTranscript ? "Hide" : "Show"} Transcript</span>
+                    </Button>
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={() => window.open(podcastAudio, "_blank")}
+                      title="Download podcast"
+                      className="flex items-center gap-1 border-purple-200 text-purple-700 hover:bg-purple-50"
+                    >
+                      <Download className="h-4 w-4" />
+                      <span>Download</span>
                     </Button>
                   </div>
-                  <div className="prose prose-sm max-w-none">
-                    <p className="whitespace-pre-line text-gray-700">
-                      {podcastTranscript}
-                    </p>
+                </div>
+
+                <div className="space-y-3">
+                  <div className="flex items-center gap-3">
+                    <Volume2 className="h-4 w-4 text-purple-600 flex-shrink-0" />
+                    <Slider
+                      value={[currentTime]}
+                      max={duration || 100}
+                      step={0.1}
+                      onValueChange={handleSliderChange}
+                      className="flex-1"
+                    />
                   </div>
-                </CardContent>
-              </Card>
-            )}
-          </div>
-        ) : (
-          <div className="bg-muted p-6 rounded-xl shadow text-center">
-            <Volume2 className="h-8 w-8 text-muted-foreground mx-auto mb-2" />
-            <p className="text-muted-foreground">
-              {indicator !== "all"
-                ? "Select 'Generate Podcast' to create an audio summary of the current data."
-                : "Select a specific indicator to generate a podcast."}
+                  <div className="flex justify-between text-xs text-gray-500">
+                    <span>{formatTime(currentTime)}</span>
+                    <span>{formatTime(duration)}</span>
+                  </div>
+                </div>
+              </div>
+
+              {showTranscript && podcastTranscript && (
+                <Card className="bg-white border border-gray-200">
+                  <CardContent className="p-6">
+                    <div className="flex justify-between items-center mb-4">
+                      <h3 className="font-medium text-gray-900 flex items-center">
+                        <FileText className="h-4 w-4 mr-2 text-purple-600" />
+                        Transcript
+                      </h3>
+                      <Button
+                        variant="ghost"
+                        size="icon"
+                        onClick={() => setShowTranscript(false)}
+                        className="h-6 w-6 text-gray-500 hover:text-gray-700"
+                      >
+                        <X className="h-4 w-4" />
+                      </Button>
+                    </div>
+                    <div className="prose prose-sm max-w-none">
+                      <p className="whitespace-pre-line text-gray-700 leading-relaxed">
+                        {podcastTranscript}
+                      </p>
+                    </div>
+                  </CardContent>
+                </Card>
+              )}
+            </div>
+          ) : (
+            <div className="bg-white p-8 rounded-xl shadow border border-gray-100 text-center">
+              <Volume2 className="h-12 w-12 text-gray-300 mx-auto mb-4" />
+              <h3 className="text-lg font-medium text-gray-900 mb-2">
+                No Audio Available
+              </h3>
+              <p className="text-gray-600 max-w-md mx-auto mb-6">
+                {indicator !== "all"
+                  ? "Generate an audio summary to hear insights about the selected economic indicator."
+                  : "Select a specific indicator and generate an audio summary to hear insights."}
+              </p>
+              {indicator !== "all" && (
+                <Button
+                  onClick={generatePodcast}
+                  className="bg-purple-600 hover:bg-purple-700 text-white"
+                >
+                  <Headphones className="h-4 w-4 mr-2" />
+                  Generate Audio Summary
+                </Button>
+              )}
+            </div>
+          )}
+        </section>
+      </div>
+      <D3Visualization indicator={indicator} />
+      {/* Footer */}
+      <footer className="bg-gray-50 border-t border-gray-200 mt-16 py-8">
+        <div className="container mx-auto px-4">
+          <div className="text-center text-gray-500 text-sm">
+            <p>
+              © 2025 German Economic Insights. All data is for demonstration
+              purposes.
             </p>
           </div>
-        )}
-      </section>
-
-      {/* Chat Section */}
-      <section className="mb-8">
-        <h2 className="mb-4 text-2xl font-bold tracking-tight">
-          Ask About the Data
-        </h2>
-        <ChatBox indicator={indicator} />
-      </section>
+        </div>
+      </footer>
     </div>
   );
 }
