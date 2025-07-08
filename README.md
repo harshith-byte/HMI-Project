@@ -1,56 +1,74 @@
-# HMI-Project
+# DIW Data Narrator
 
-An HMI (Human–Machine Interface) prototype built in [programming language/framework here] for [brief description: e.g. machine control, monitoring, etc.].
+Explore key economic indicators and trends across Germany's regions through interactive data, AI-powered chat, and audio summaries.
 
----
+## 🔍 Features
+- **Indicator Dashboard**: Select from domains like Labour, Gender Equality, Macroeconomy, etc.
+- **AI Assistant**: Get contextual summaries and ask questions.
+- **Podcast Generator**: Convert economic data into voice/audio summaries.
+- **Story Templates**: Generate structured data narratives (Trend, Impact, Problem-Solution, etc.).
+- **Data Explorer**: Filter indicators, visualize trends using interactive charts and tables.
+- **Research Stories**: Read domain-specific or cross-domain stories with stakeholders and timeline breakdowns.
 
-## 🔧 Features
+## 📊 Domains Covered
+- Labour
+- Gender Equality
+- Macroeconomy
+- Energy
+- Many mores
 
-- Real-time dashboard displaying machine status (e.g. temperature, pressure, RPMs)
-- User interaction: buttons, forms, dynamic visual alarms/status indicators
-- Supports [communication protocol: e.g. Modbus/TCP, OPC UA]
-- [Add any other features your project includes]
+## 🛠️ Tech Stack
+- **Frontend**: React + TailwindCSS
+- **Backend**: Flask (Python)
+- **Database**: PostgreSQL
+- **Visualization**: Chart.js, Plotly
+- **Audio**: Text-to-Speech (TTS)
 
----
-
-## 🛠 Technologies
-
-- **Frontend/UI**: [e.g. React, Qt, Angular, Python‑Tkinter]
-- **Backend**: [e.g. Node.js, Flask, .NET Core]
-- **Communication**: [e.g. Modbus/TCP, OPC UA client/server + reference links]
-- **Data handling**: [e.g. MQTT, WebSockets, REST APIs]
-- **Additional libs**: [e.g. charting libraries, CSS frameworks, state management]
-
----
+## 📁 Directory Structure
+── Frontend/
+│   ├── components/
+│   ├── pages/
+│   └── assets/
+├── Backend/
+│   ├── app.py
+│   ├── routes/       # All API routes
+│   ├── services/     # DB access and logic
+│   ├── lib/
+│   │   └── data_loader.py  # Load data to PostgreSQL
+│   └── src/
+│       └── core/
+├── Data/
+│   ├── PDFs/         # Original DIW Berlin PDF reports
+│   └── CSVs/         # Processed indicators, observations
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- [Windows/Linux/macOS] with [language runtime version]
-- [PLC/HW emulator] or real device supporting [protocol]
-- Tools: `git`, [Node.js >= x.y], Python >= x.y, etc.
-
-### Setup
-
+### 🗂️ Backend Setup
 ```bash
-git clone https://github.com/harshith-byte/HMI-Project.git
-cd HMI-Project
+# Step 1: Navigate to Backend folder
+cd Backend
 
-# Install frontend dependencies
-cd frontend && npm install
+# Step 2: Install dependencies
+pip install -r requirements.txt
 
-# Install backend dependencies
-cd ../backend && pip install -r requirements.txt
-```
-## steps for creating database
-
-###1. Create database in PGAdmin
-
-###2. run the flask app
-```
+# Step 3: Set environment and run Flask
+set FLASK_APP=manage.py
 flask run
-```
 
-###2. For uploading data to the database
-open the url http://127.0.0.1:5000/api/load-data
+Visit: http://127.0.0.1:5000/api/load-data✅ Output: "Enhanced Flask backend with comprehensive data visualization APIs! 🚀📊"
+Load Data into PostgreSQL
+
+Use lib/data_loader.py to load all CSVs into PostgreSQL (via pgAdmin or CLI).
+
+Required tables: indicators, visual_entities, observations, documents.
+
+💻 Frontend Setup
+
+# Step 1: Navigate to Frontend folder
+cd Frontend
+
+# Step 2: Install dependencies
+npm install
+
+# Step 3: Start development server
+npm run dev
