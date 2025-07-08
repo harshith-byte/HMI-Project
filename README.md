@@ -9,6 +9,15 @@ Explore key economic indicators and trends across Germany's regions through inte
 - **Story Templates**: Generate structured data narratives (Trend, Impact, Problem-Solution, etc.).
 - **Data Explorer**: Filter indicators, visualize trends using interactive charts and tables.
 - **Research Stories**: Read domain-specific or cross-domain stories with stakeholders and timeline breakdowns.
+- Podcast Generator
+
+On the home page, users can click the "Generate Podcast" button after selecting a domain.
+
+The app uses a Text-to-Speech engine to generate a brief audio summary of key indicators.
+
+The generated podcast (.mp3) can be downloaded or played directly in the browser.
+
+This is useful for passive listening and accessibility.
 
 ## 📊 Domains Covered
 - Labour
